@@ -1,0 +1,494 @@
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Datenschutzerklärung
+    
+
+Letzte Aktualisierung:  19.04.2021Nachfolgend möchten wir dir als Besucher unserer Webseiten erklären, welche Arten von personenbezogenen Daten wir erheben, warum wir diese Daten erheben, wie wir diese Daten verwenden und wie du jederzeit über den Umgang mit deinen persönlichen Daten bestimmen kannst.  Unsere Webseite richtet sich nicht an Personen unter 16 Jahren und wir bitten darum, dass Personen unter 16 Jahren uns keinerlei personenbezogene Daten bereitstellen. Die Bereitstellung der Daten hat ausschließlich von den Erziehungsberechtigten oder mit deren Zustimmung zu erfolgen. Wenn wir erfahren, dass wir personenbezogene Daten von einem Kind unter 16 Jahren unrechtmäßig erfasst haben, werden wir Schritte zur schnellstmöglichen Löschung dieser Daten einleiten.
+
+
+
+
+    I. Wer ist verantwortlich für die Datenverarbeitung auf dieser Website?
+    
+
+Verantwortlicher im Sinne des Art. 4 Abs. 7 Datenschutz-Grundverordnung (DSGVO) ist:JAKO-O - eine Marke derHABA Sales GmbH & Co. KG August-Grosch-Str. 28-38, 96476 Bad Rodach (nachfolgend JAKO-O)  Tel.: +49 9564 92960315  Fax: +49 9564 929662500 E-Mail: service@jako-o.de  Internet: www.jako-o.comRegistergericht Coburg, HRA 5220USt-IdNr.: DE 815831282Persönlich haftender Gesellschafter ist die HABA Administration GmbH, August-Grosch-Str. 28-38, 96476 Bad Rodach, Deutschland, Registergericht Coburg, HRB 4746, die ihrerseits durch die Geschäftsführer Tim Steffens (CEO) und Sabine Habermaass vertreten wird. Bei Fragen zum Datenschutz erreichst du unseren Datenschutzbeauftragten postalisch: HABA Sales GmbH & Co. KG, Datenschutz, August-Grosch-Str. 28-38, 96476 Bad Rodach oder per E-Mail:  und dem Betreff: Datenschutz.
+
+
+
+
+    II. Welche Daten werden für welchen Zweck gespeichert?
+    
+
+
+
+
+    1. Zur Abwicklung der Bestellung:
+    
+
+Wir werden deine persönlichen Daten mit Pflichtfeldern im Onlineshop oder bei telefonischen Bestellungen erfragen und verwenden. Pflichtangaben sind:Geschlecht, Vor- und Nachname, Geburtsdatum, Anschrift und E-Mail-Adresse. Alle weiteren Angaben sind freiwillig. Um deine Bestellung auszuliefern, geben wir deine Lieferanschrift an den jeweils mit der Auslieferung beauftragten Lieferdienst weiter. Daneben können wir deine Zahlungsdaten an unsere Hausbank weitergeben. Bei der Verarbeitung von personenbezogenen Daten, die zur Erfüllung eines Vertrages oder zur Durchführung einer vorvertraglichen Maßnahme mit dir erforderlich sind, dient Art. 6 Abs. 1 lit. b DSGVO als Rechtsgrundlage.  Kundenkonto: Du kannst bei uns als Gast einkaufen oder aber freiwillig ein Kundenkonto anlegen, durch das wir deine Daten für spätere weitere Einkäufe speichern können. Bei der Registrierung des Kundenkontos werden die von dir angegebenen Daten widerruflich gespeichert. Rechtsgrundlage ist deine Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO. Unsere Kontaktdaten findest du unter Ziffer I.
+
+
+
+
+    2. Zahlungsabwicklung
+    
+
+Im Rahmen der Bezahlung in unserem Online-Shop erheben wir bestimmte personenbezogene Daten von dir, um den Vertrag mit dir zu erfüllen. Rechtsgrundlage hierfür ist Art. 6 Abs. 1 lit. b DSGVO.
+
+
+
+
+    a. Kauf auf Rechnung und Vorauskasse
+    
+
+Bei den Bezahlmethoden Kauf auf Rechnung und Vorauskasse erhalten wir die von dir getätigten Angaben wie Kontoinhaber, IBAN, Bankinstitut und Verwendungszweck. Rechtsgrundlage für die hiermit verbundene Datenverarbeitung ist Art. 6 Abs. 1 lit. b DSGVO.
+
+
+
+
+    b.PayPal
+    
+
+Bei Zahlung mit PayPal werden deine Zahlungsdaten im Rahmen der Zahlungsabwicklung an die PayPal (Europe) S.à r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg (nachfolgend „PayPal") weitergeleitet. Wenn du deine Bestellung in den Onlineshops mit PayPal bezahlen möchtest, wird der von dir zu zahlende Betrag nebst Vor- und Nachname, Lieferanschrift, E-Mail-Adresse, Telefonnummer und IP-Adresse an PayPal übermittelt, damit du die Zahlung an uns gegenüber PayPal autorisieren kannst. Rechtsgrundlage für die hiermit verbundene Datenverarbeitung ist Art. 6 Abs. 1 lit. b DSGVO, d.h., die Verarbeitung deiner Daten ist für die Erfüllung der Vereinbarung über eine Bezahlung deines Einkaufs per PayPal erforderlich. Die an PayPal übermittelten Daten werden von PayPal unter Umständen an Wirtschaftsauskunfteien zur Identitäts- und Bonitätsprüfung übermittelt. Weitere datenschutzrechtliche Informationen kannst du der Datenschutzerklärung von PayPal https://www.paypal.com/de/webapps/mpp/ua/privacy-full entnehmen.
+
+
+
+
+    c. Bankeinzug
+    
+
+Bei der Bezahlmethode Bankeinzug werden von uns der Kontoinhaber, die IBAN und BIC verarbeitet. Rechtsgrundlage für die hiermit verbundene Datenverarbeitung ist Art. 6 Abs. 1 lit. b DSGVO.
+
+
+
+
+    d. Zahlung per Kreditkarte
+    
+
+Weiterhin bieten wir dir auch an, deine Zahlungen per Kreditkarte zu tätigen. Rechtsgrundlage für die hiermit verbundene Datenverarbeitung ist Art. 6 Abs. 1 lit. b DSGVO, d.h., die Verarbeitung deiner Daten ist für die Erfüllung der Vereinbarung über eine Bezahlung deines Einkaufs per Kreditkarte erforderlich. Bei Zahlung per Kreditkarte werden die folgenden Daten verarbeitet:• Kartenart (American Express, Mastercard oder VISA),• Name des Karteninhabers,• Kartennummer,• Prüfziffer,• Gültigkeitsdauer.Die Angaben zur Kreditkarte werden überprüft sowie eine Autorisierung durch die Concardis GmbH, Helfmann-Park 7, 65760 Echborn, durchgeführt.
+
+
+
+
+    Hinweis zur Bonitätsprüfung:
+    
+
+Zum Zwecke der Bonitätsprüfung können wir deine zur Adress- und Bonitätsprüfung erforderlichen Daten gegen die von der CRIF Bürgel GmbH, Radlkoferstraße 2, 81373 München gespeicherten Daten abgleichen, sofern wir unser berechtigtes Interesse glaubhaft dargelegt haben. Die dort gespeicherten Daten beziehen auch Erkenntnisse aus mathematisch-statistischen Verfahren ein. Diese Erkenntnisse können Einfluss auf die für dich angebotene Zahlungsart haben. Die Daten werden auf Grundlage des Art. 6 Abs. 1 lit. b, f DSGVO erhoben und verarbeitet. Nähere Angaben zur Art und Umfang über die erhobenen personenbezogenen Daten kannst du unter:  abrufen.
+
+
+
+
+    3. Web-Push-Benachrichtigungen:
+    
+
+Wir bieten Neuigkeiten und Updates auf unseren Websites über Web-Push-Benachrichtigungen an. Um von diesem kostenlosen Service zu profitieren, der mit unserem Push-Anbieter WonderPush, 18 passage Foubert, 75013 Paris, Frankreich (www.wonderpush.com/) betrieben wird, musst du dich anmelden, indem du beim Besuch unserer Website auf eine Autorisierungsanfrage klickst, die von deinem Browser und dein Gerät gesteuert wird. Die Navigationsdaten, die wir speichern und verarbeiten konnten, um diesen Dienst zu betreiben und dir relevante Nachrichten zu senden, werden anonymisiert und maximal 90 Tage lang auf WonderPush-Servern gespeichert und nie an Dritte weitergegeben. Wir speichern keine erkennbaren Daten, weder die IP-Adresse noch über dich in Verbindung mit dem Push-Benachrichtigungsdienst. Rechtsgrundlage für die Verarbeitung deiner Daten ist Art. 6 Abs. 1 lit. a DSGVO. Du kannst den Empfang unserer Web-Push-Benachrichtigungen jederzeit durch Abbestellen beenden. Weitere Informationen zur Beendigung von Web-Push-Benachrichtigungen: .
+
+
+
+
+    4. Produktbewertungen, Kommentare und Blogeinträge:  
+    
+
+Auf unser Webseite kannst du öffentliche Kommentare abgeben. Dein Beitrag wird mit deinem angegebenen Nutzernamen veröffentlicht. Wir empfehlen, ein Pseudonym statt deines Klarnamens zu verwenden. Die Angabe von Nutzernamen und E-Mail-Adresse ist erforderlich, alle weiteren Informationen sind freiwillig. Wenn du einen Kommentar abgibst, speichern wir weiterhin deine IP-Adresse, die wir nach einer Woche löschen. Die Speicherung ist für uns erforderlich, um uns in Fällen einer möglichen Veröffentlichung widerrechtlicher Inhalte gegen Haftungsansprüche verteidigen zu können. Deine E-Mail-Adresse benötigen wir, um mit dir in Kontakt zu treten, falls ein Dritter deinen Kommentar als rechtswidrig beanstanden sollte, worin unserer berechtigtes Interesse liegt. Wir behalten uns vor, Kommentare zu löschen, wenn sie von Dritten als rechtswidrig beanstandet werden. Rechtsgrundlagen hierfür sind Art. 6 Abs. 1 lit. a, b und f DSGVO.
+
+
+
+
+    5. Kontaktaufnahme per Post, E-Mail oder Kontaktformular:
+    
+
+Nimmst du über diesem Wege mit uns Kontakt auf, werden die mit der Post, E-Mail oder Kontaktformular übermittelten personenbezogenen Daten verarbeitet. Diese Daten werden ausschließlich für die Verarbeitung der Konversation verwendet. Die Rechtsgrundlage für die Verarbeitung deiner Daten erfolgt auf Grund deiner Einwilligung im Sinne des Art. 6 Abs. 1 lit. a DSGVO. Zielt deine Nachricht auf den Abschluss eines Vertrages ab, so ist zusätzliche Rechtsgrundlage für die Verarbeitung Art. 6 Abs. 1 lit. b DSGVO. Deine in diesem Zusammenhang verarbeiteten Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung (Konversation, Vertragserfüllung) nicht mehr erforderlich sind. Darüber hinaus hast du die Möglichkeit, der Verarbeitung der personenbezogenen Daten gegenüber uns über die unter Ziffer I. genannten Kontaktwege zu widersprechen.
+
+
+
+
+    6. Informationen zu Produkten:
+    
+
+JAKO-O kann zudem die von dir angegebenen Daten verarbeiten, um dich über weitere interessante Produkte aus unserem gesamten Portfolio postalisch zu informieren oder dir E-Mails mit technischen Informationen rund um unseren Webshop zukommen zu lassen. Rechtsgrundlage hierfür ist unser berechtigtes Interesse nach Art. 6 Abs. 1 lit. f DSGVO. Als Kunde wirst du darüber hinaus gelegentlich per E-Mail über ähnliche Angebote / Waren deines Kaufes aus dem Bereich der HABA Sales GmbH & Co. KG informiert, die für dich sein könnten. Diese Informationen erhältst du aufgrund von § 7 Abs. 3 UWG, worin unser berechtigtes Interesse liegt. Du kannst dem weiteren Erhalt solcher Nachrichten natürlich jederzeit für die Zukunft widersprechen, ohne dass hierfür andere als die Übermittlungskosten nach den Basistarifen entstehen. Ein Widerspruch ist möglich an die unter Ziffer I. aufgeführten Kontaktdaten.
+
+
+
+
+    7. Terminbuchungen Filialen (Click & Meet):
+    
+
+Auf unserer Website habt ihr die Möglichkeit online einen persönlichen Shopping-Termin in unserem FamilienOutlet Coburger Straße 53, 96476 Bad Rodach beziehungsweise in unserer Jako-o Filiale Bochum, Ruhr Park, Am Einkaufszentrum, 44791 Bochum zu buchen.   Im Rahmen der Terminbuchung werden folgende personenbezogene Daten verarbeitet: Vorname (Pflichtfeld), Nachname (Pflichtfeld), E-Mail-Adresse (Pflichtfeld), Telefonnummer (freiwillige Angabe, SMS-Erinnerung), Bemerkung (freiwillig). Die Verarbeitung des Vor- und Nachnamens sowie der E-Mail-Adresse erfolgt auf Grundlage von § 28a Abs. 4 Infektionsschutzgesetz und der entsprechenden Infektionsschutzmaßnahmenverordnung zum Zwecke der Kontaktpersonenermittlung im Fall einer festgestellten Infektion mit dem Coronavirus SARS-CoV-2. Die Verarbeitung dieser Daten ist folglich zur Erfüllung einer rechtlichen Verpflichtung im Sinne des Art. 6 Abs. 1 lit. c DSGVO erforderlich, der wir unterliegen.  Die Angabe einer Telefonnummer oder einer Bemerkung ist freiwillig und wird infolge deiner Einwilligung im Sinne des Art. 6 Abs. 1 lit. a DSGVO verarbeitet.  Deine in diesem Zusammenhang erhobenen personenbezogenen Daten werden für die Dauer der gesetzlichen Aufbewahrungsfrist (4 Wochen) gespeichert und danach gelöscht.Im Rahmen der Terminvereinbarung nutzen wir die Dienste von Appointmind, Johann-Adolf-Hasse-Straße 8 G, 21493 Schwerzenbek. Eine Datenübermittlung in ein Drittland erfolgt nicht.
+
+
+
+
+    8. Weitere Leistungen:
+    
+
+JAKO-O bietet darüber hinaus weitere Leistungen an, die du bei Interesse nutzen kannst. Die Angaben erfolgen von dir freiwillig und infolge deiner Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO bzw. zur Abwicklung einer daraus resultierenden vertraglichen Beziehung nach Art. 6 Abs. 1 lit. b DSGVO. Deine Daten müssen zur Leistungserbringung mitunter an unsere sorgfältig ausgewählten Dienstleister weitergegeben werden. JAKO-O bietet derzeit folgende Leistungen an:
+
+
+
+
+    III. Welche Daten werden von mir bei Anmeldung zum Newsletter verarbeitet?
+    
+
+Mit deiner Einwilligung kannst du unseren Newsletter abonnieren, mit dem wir dich über unsere aktuellen Angebote informieren. Es können dabei in dem von JAKO-O, HABA, HABA Education versandten Newsletter teilweise auch Waren und Dienstleistungen unserer gesamten Firmengruppe beworben werden, wenn sich diese mit deinen Interessen an unseren Produkten decken. Zu unserer Firmengruppe zählen: Heldbergs GmbH & Co. KG, HABA Project GmbH, HABA Sales GmbH & Co. KG sowie deren Marken JAKO-O, FIT-Z, Qiéro! und Wehrfritz. Wir setzen zur Unterstützung des E-Mail-Versandes die Dienste von Emarsys – emarsys eMarketing Systems AG, Märzstraße 1, 1150 Wien, Österreich ein.Für die Anmeldung zu unserem Newsletter verwenden wir das sog. Double-opt-in-Verfahren. Das heißt, dass wir dir nach deiner Anmeldung eine E-Mail an die angegebene E-Mail-Adresse senden, in welcher wir dich um Bestätigung bitten, dass du den Versand des Newsletters wünschst. Wir speichern jeweils deine eingesetzten IP-Adresse und Zeitpunkte der Anmeldung und Bestätigung. Zweck des Verfahrens ist, deine Anmeldung nachzuweisen und ggf. einen möglichen Missbrauch deiner persönlichen Daten aufklären zu können.Pflichtangabe für die Übersendung des Newsletters ist allein deine E-Mail-Adresse. Die Angabe weiterer, gesondert markierter Daten ist freiwillig und wird verwendet, um dich persönlich ansprechen zu können. Rechtsgrundlage für die Zusendung des Newsletters ist deine Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO.Deine Einwilligung in die Übersendung des Newsletters kannst du jederzeit widerrufen und den Newsletter abbestellen. Den Widerruf kannst du durch Klick, auf den in jedem Newsletter bereitgestellten Link, oder gegenüber den unter Ziffer I. aufgeführten Kontaktadressen erklären.Wir weisen dich daraufhin, dass wir bei Versand des Newsletters dein Nutzerverhalten auswerten. Für diese Auswertung beinhalten die versendeten E-Mails sogenannte Web-Beacons bzw. Tracking-Pixel unseres Email-Versanddienstleisters Emarsys, sowie unserer Web Analytics Technologie Exactag. Diese Technologie erlaubt es uns, dein Öffnungs- und Klickverhalten zu erfassen. Darüber hinaus können diese Daten mit dem Verhalten dieses pseudonymen Profils auf unserer Webseite zusammengeführt werden. Mit den so gewonnenen Daten erstellen wir ein Nutzerprofil, um dir den Newsletter auf deine individuellen Interessen zuzuschneiden. Dabei erfassen wir, wann du unseren Newsletter liest, welche Links du in diesem anklickst und folgern daraus deine persönlichen Interessen. Diese Daten verknüpfen wir mit von dir auf unserer Webseite getätigten Handlungen.
+
+
+
+
+    VI. Was geschieht bei einem Besuch der Webseite?
+    
+
+Rufst du unsere Website auf, werden automatisiert Daten vom System des aufrufenden Rechners / Endgerätes erhoben. Dies sind folgende Daten:  Ebenso werden diese Daten in den Logfiles unseres Systems auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO protokolliert und gespeichert. Unser berechtigtes Interesse zur Verarbeitung dieser Daten liegt darin, dass eine Verarbeitung dieser Daten überhaupt erst eine Auslieferung der Website an deinen Rechner ermöglicht und die Funktionstüchtigkeit der Website garantiert. Daneben sind diese Daten notwendig, um die Sicherheit unserer IT-Systeme zu gewährleisten.Die Daten werden gelöscht, sobald der Zweck der Erhebung entfällt, das heißt, im Falle der Erhebung der Daten zur Websitebereitstellung, wenn die jeweilige Sitzung beendet ist und im Falle der Datenspeicherung in Logfiles nach spätestens sieben Tagen. Eine Speicherung dieser Daten zusammen mit anderen von dir erhobenen personenbezogenen Daten findet nicht statt. 
+
+
+
+
+    V. Werden Cookies verarbeitet?
+    
+
+Unser Webseite verwendet an mehreren Stellen so genannte Cookies. Sie dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen.
+
+
+
+
+    1. Was sind Cookies?
+    
+
+Ein Cookie ist eine kleine Datendatei, die von uns auf deinem Browser übertragen wird, wenn du auf unserer Seite surfst. Wir verwenden Cookies für folgende Zwecke:Auftragsverarbeitung: Wir haben mit den Drittanbietern (Third Party Cookies) einen Vertrag zur Auftragsverarbeitung abgeschlossen.Unsere Website nutzt die Cookie-Consent-Technologie von OneTrust, 82 St John St Farringdon, London EC1M 4JN, Vereinigtes Königreich, um deine Einwilligung zur Speicherung bestimmter Cookies in deinem Browser einzuholen und diese datenschutzkonform zu dokumentieren.Der Einsatz der Cookie-Consent-Technologie erfolgt, um die gesetzlich vorgeschriebenen Einwilligungen für den Einsatz von Cookies einzuholen. Rechtsgrundlage hierfür ist Art. 6 Abs. 1 lit. c DSGVO.
+
+
+
+
+    2. Wie kannst du die Nutzung von Cookies widerrufen?
+    
+
+Du kannst deine Einwilligung in die Nutzung von Cookies, soweit es sich nicht um unbedingt erforderliche Cookies handelt, jederzeit mit Wirkung für die Zukunft unter den  widerrufen. Dieses Recht steht dir nach Art. 7 Abs. 3 S. 1 DSGVO zu.
+Du hast zudem jederzeit die Möglichkeit, Cookies auch in deinem Browser zu deaktivieren. Wenn du Cookies deaktivierst, stehen dir unter Umständen bestimmte Features auf unserer Seite nicht zur Verfügung und einige Webseiten werden möglicherweise nicht richtig angezeigt.
+
+
+
+
+    3. Welche Cookies nutzen wir?
+    
+
+Auf unserer Website werden verschiedene Cookies gesetzt. Diese lassen sich entsprechend ihres Zwecks und ihrer Funktion in 3 Kategorien unterteilen:
+
+
+
+
+    a. Unbedingt erforderliche Cookies
+    
+
+Unbedingt erforderliche Cookies gewährleisten Funktionen, damit du überhaupt unsere Website nutzen kannst. In der Regel werden diese Cookies nur als Reaktion auf von dir getätigte Aktionen gesetzt, die einer Dienstanforderung entsprechen, wie etwa dem Festlegen der Datenschutzeinstellungen, dem Anmelden oder dem Ausfüllen von Formularen. Du kannst deinen Browser so einstellen, dass du diese Cookies blockierst oder entsprechend benachrichtigt wirst. Nimmst du diese Einstellungen vor, kann es dazu kommen, dass einige Bereiche der Website dann nicht funktionieren. Rechtsgrundlagen für die Nutzung der unbedingt erforderlichen Cookies ist Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung) bzw. Art 6 Abs. 1 lit. f DSGVO (Interessenabwägung, basierend auf unserem berechtigten und überwiegenden Interesse an der technisch reibungslosen Bereitstellung unserer Webseite).
+
+
+
+
+    b. Funktionale Cookies bzw. Leistungs-Cookies
+    
+
+Unbedingt erforderliche Cookies gewährleisten Funktionen, damit du überhaupt unsere Website nutzen kannst. In der Regel werden diese Cookies nur als Reaktion auf von dir getätigte Aktionen gesetzt, die einer Dienstanforderung entsprechen, wie etwa dem Festlegen der Datenschutzeinstellungen, dem Anmelden oder dem Ausfüllen von Formularen. Du kannst deinen Browser so einstellen, dass du diese Cookies blockierst oder entsprechend benachrichtigt wirst. Nimmst du diese Einstellungen vor, kann es dazu kommen, dass einige Bereiche der Website dann nicht funktionieren. Rechtsgrundlagen für die Nutzung der unbedingt erforderlichen Cookies ist Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung) bzw. Art 6 Abs. 1 lit. f DSGVO (Interessenabwägung, basierend auf unserem berechtigten und überwiegenden Interesse an der technisch reibungslosen BMit diesen Cookies ist die Website in der Lage, erweiterte Funktionalität und Personalisierung bereitzustellen. Sie können von uns oder von Drittanbietern gesetzt werden, deren Dienste wir auf unseren Seiten verwenden. Diese Cookies ermöglichen es uns zudem, Besuche und Verkehrsquellen zu zählen, damit wir die Leistung unserer Website messen und verbessern können. Wenn du diese Cookies nicht zulässt, funktionieren einige oder alle dieser Dienste möglicherweise nicht einwandfrei. Alle von diesen Cookies erfassten Informationen werden aggregiert und sind deshalb anonym. Rechtsgrundlage für die Nutzung der funktionalen Cookies ist Art. 6 Abs. 1 lit. a DSGVO in Verbindung mit deiner Einwilligung. Widerruf:  Du hast die Möglichkeit, deine Einwilligung in die Nutzung von funktionalen Cookies jederzeit mit Wirkung für die Zukunft unter den  zu widerrufen. Rechtsgrundlage hierfür ist Art. 7 Abs. 3 S. 1 DSGVO.  Ausgewählte funktionale Cookies möchten wir dir im Folgenden etwas näher vorstellen.ereitstellung unserer Webseite).
+
+
+
+
+    aa. Google 360 Analytics, Google Tag Manager und Google Signals
+    
+
+Unsere Webseite benutzt Google Analytics, Google Tag Manager und Google Signals als Webanalysedienste der Google LLC. („Google“) mit Sitz in den USA. Google Analytics, Google Tag Manager und Google Signals verwenden Cookies, die auf deinem Computer gespeichert werden und die eine Analyse der Benutzung der Webseite durch dich ermöglichen. Dies erlaubt uns, unsere Webseite regelmäßig zu verbessern und interessanter zu gestalten. Die durch den Cookie erzeugten Informationen über deine Benutzung unserer Webseite (einschließlich deiner IP-Adresse in anonymisierter Form) werden an einen Server von Google in den USA übertragen und dort gespeichert. Google wird diese Informationen benutzen, um die Nutzung der Webseite auszuwerten, um Reports über die Webseitenaktivitäten für uns als Webseitenbetreiber zusammenzustellen und um weitere mit der Webseitennutzung und der Internetnutzung verbundene Dienstleistungen zu erbringen. Google stellt mit Google Signals zudem Berichte über die geräteübergreifende Nutzung der Webseite. Dazu nutzt Google die Daten der Nutzer, die in ihren Google-Konto-Einstellungen die Option „personalisierte Werbung" aktiviert haben. Auch wird Google diese Informationen gegebenenfalls an Dritte übertragen, sofern dies gesetzlich vorgeschrieben ist oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Rechtsgrundlage für die Nutzung von Google Analytics ist Art. 6 Abs. 1 lit. a DSGVO. Neben einem Widerruf der funktionalen Cookies in den  hast du darüber hinaus auch die Möglichkeit, die Erfassung der durch das Cookie erzeugten und auf deiner Nutzung der Webseite bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem du das unter dem folgenden Link verfügbare Browser-Plug-in herunterlädst und installierst: . Übersicht zum Datenschutz: , Datenschutzerklärung: .
+
+
+
+
+    bb. Userlike – Live-Chat-Tool
+    
+
+In unserem Online-Shop verwenden wir ein Kommunikations-Tool von Userlike UG (haftungsbeschränkt), Probsteigasse 44-46, 50670 Köln, Deutschland (https://www.userlike.com/de/). Durch dieses Kommunikations-Tool wird es uns ermöglicht, einen Live-Chat zwischen unseren Kunden und unserem Kundeservice bereitzustellen. Hierdurch kann unser Kundenservice gezielt und direkt angesprochen werden, sodass dein Anliegen, Fragen und Probleme zielgerichtet bearbeitet werden können.
+Die Bereitstellung des Live-Chats erfolgt über Cookies, die auf deinem Computer oder mobilen Endgerät gespeichert werden und die eine persönliche Unterhaltung in Form eines Echtzeit-Chats auf der Webseite zwischen dir und unserem Kundenservice ermöglichen. Hierbei werden personenbezogene Daten im Sinne des Art. 4 Nr. 1 DSGVO verarbeitet.
+Um die Funktionalität der Software von Userlike zu gewährleisten, werden in deinem Browser Cookies für den Applikationsstatus (Session Cookies) gesetzt. Diese enthalten den Persisted State, Machine State, die Session-ID sowie Chat-Statistiken. Diese Cookies werden nach Ende deines Besuchs automatisch gelöscht. Damit du bei der Rückkehr auf unsere Webseite erkannt werden kannst, werden in deinem Browser Cookies mit User-Informationen gespeichert (Expire Cookies). Sie können jeweils eine individuelle User-ID, den Namen des Endnutzers, die E-Mail-Adresse und die Anzahl der Besuche speichern. Diese Cookies werden für ein Jahr gespeichert.
+Rechtsgrundlage für die Verarbeitung deiner Daten ist Art. 6 Abs. 1 lit. a DSGVO.
+Neben einem Widerruf der funktionalen Cookies in den  hast du darüber hinaus auch die Möglichkeit, deinen Browser so einzustellen, dass du über das Setzen von Cookies informiert wirst und Cookies nur im Einzelfall zugelassen oder generell nicht erlaubt werden.
+
+
+
+
+    c. Marketing- und Analysecookies
+    
+
+Diese Cookies können über unsere Website von unseren Marketing- und Analysepartnern gesetzt werden. Sie können von diesen Unternehmen verwendet werden, um ein Profil deiner Interessen zu erstellen und dir relevante Anzeigen auf anderen Websites zu zeigen. Wenn du diese Cookies nicht zulässt, wirst du weniger gezielte Werbung erleben.
+Rechtsgrundlage für die Nutzung der Marketing- und Analysecookies ist Art. 6 Abs. 1 lit. a DSGVO in Verbindung mit deiner Einwilligung.
+Widerruf:
+
+Du hast die Möglichkeit, deine Einwilligung in die Nutzung Marketing- und Analysecookies jederzeit mit Wirkung für die Zukunft unter den  zu widerrufen. Rechtsgrundlage hierfür ist Art. 7 Abs. 3 S. 1 DSGVO.
+
+
+
+
+    aa. Marketing- und Optimierungstechnologie der Exactag GmbH
+    
+
+Auf dieser Webseite werden mit Technologien der Exactag GmbH, Philosophenweg 17, 47051 Duisburg (www.exactag.com) Daten zu Marketing- und Optimierungszwecken gesammelt und gespeichert. Aus diesen Daten werden unter einem Pseudonym Nutzungsprofile erstellt. Hierzu können Cookies eingesetzt werden. Nutzungsprofile werden jedoch ohne ausdrückliche Zustimmung des Besuchers nicht mit Daten über den Träger des Pseudonyms zusammengeführt. In Verbindung mit deinem Zugriff werden auf Servern von JAKO-O sowie von uns beauftragter technischer Dienstleister ggf. Daten gespeichert, die in Einzelfällen möglicherweise eine Identifizierung zulassen (Browser-Typ/-version, verwendetes Betriebssystem, zuvor besuchte Seite, IP-Adresse des anfragenden Rechners, Uhrzeit und Datum der Serveranfrage etc.). Die Erhebung, Verarbeitung und Nutzung dieser Daten erfolgt zum Zweck der Ermöglichung der Nutzung der Webseite (Verbindungsaufbau), der Systemsicherheit sowie der technischen Administration der Netzinfrastruktur. Rechtsgrundlage für die Verarbeitung deiner Daten ist Art. 6 Abs. 1 lit. a DSGVO. Neben der Möglichkeit in den  die Verarbeitung zu Marketing- und Analysezwecken abzuwählen, kann zudem die Opt-Out Funktion der Exactag GmbH genutzt werden: 
+
+
+
+
+    bb. Cross Device Tracking der Exactag GmbH
+    
+
+Diese Webseite benutzt die Cross Device Tracking Technologie der Exactag GmbH, Philosophenweg 17, 47051 Duisburg (www.exactag.com). Die Exactag GmbH wird zunächst auf jedem von deinen benutzten Geräten, mit dem du unsere Webseite besuchst, einen Cookie setzen, welcher einen eindeutigen, aber zufälligen Code enthält. Nachdem du dich auf deinem Gerät eingeloggt hast, geben wir der Exactag GmbH einen auf deine Person bezogenen und von uns erzeugten pseudonymen Code, den sog. User Identifier, weiter. Der User Identifier enthält keine Informationen, die es der Exactag GmbH ermöglichen würden, dich konkret zu identifizieren. Der von uns erzeugte User Identifier ist auf allen deiner genutzten Geräten gleich. Wenn du dich auf verschiedenen Geräten bei uns einloggst, entsteht somit auf diesen Geräten der gleiche User Identifier bei der Exactag GmbH. Damit ist es möglich, dir auf verschiedenen von dir genutzten Geräten auf deine Interessen angepasste Werbung anzeigen zu lassen. Wenn du zum Beispiel auf deinem Notebook bei uns gestöbert hast, können wir dir beim nächsten Surfen mit deinen Tablet auf eigenen und Drittseiten Werbung anzeigen lassen, die zu den von dir auf dem Notebook angezeigten Artikeln passt. Die Exactag GmbH speichert die anfallenden Daten nur in gruppenmäßig zusammengefasster Form. Wir erhalten von der Exactag GmbH eine statistische Auswertung, zu deren Erstellung von der Exactag GmbH Informationen der Gruppendaten zusammengefasst werden. Wir können somit nicht auf erkennen, wie du mit verschiedenen Geräten unseren Shop und Drittseiten genutzt hast. Aus der Statistik können wir ableiten, wie wir unser Angebot bei der Nutzung verschiedener Geräte oder für verschiedene Gruppen von Kunden verbessern können. Rechtsgrundlage für die Verarbeitung deiner Daten ist Art. 6 Abs. 1 lit. a DSGVO. Neben der Möglichkeit in den  die Verarbeitung zu Marketing- und Analysezwecken abzuwählen, kann zudem die Opt-Out Funktion der Exactag GmbH genutzt werden: 
+
+
+
+
+    cc.Erstellung pseudonymer Nutzungsprofile zur Webanalyse – Episerver Inc.
+    
+
+Auf dieser Webseite werden mit Technologien der Episerver Inc., 542 Amherst Ave, Nashua, New Hampshire 03063, USA (https://www.episerver.de) Daten zu Marketingzwecken gespeichert. Diese Daten ermöglichen es uns, unsere Internetseiten gezielt auf deine Interessen abzustimmen und für dich personalisierten Service anzubieten. Dies erfolgt durch eine Analyse deines Nutzerverhaltens anhand der Produkte, für die du dich bereits in unserem Shop interessiert hast. Die Analyse erfolgt mit Hilfe von Cookies. Diese Cookies ermöglichen es uns, deinen Browser bei einem erneuten Besuch unserer Webseite wieder zu erkennen. Nutzungsprofile werden ausschließlich unter Pseudonymen erstellt und nicht mit deinen personenbezogenen Daten zusammengeführt. Rechtsgrundlage für die Verarbeitung deiner Daten ist Art. 6 Abs. 1 lit. a DSGVO. Neben der Möglichkeit in den  die Verarbeitung zu Marketing- und Analysezwecken abzuwählen, kannst du auch nach Besuch unserer Webseite, die bei dir gespeicherten Cookies löschen oder den Internetbrowser so einstellen, dass keine dieser Cookies auf deinen Computer abgelegt werden können.
+
+
+
+
+    dd. Erstellung pseudonymer Nutzungsprofile zur Webanalyse –GroupM ([m]Insights
+    
+
+Daneben werden auf dieser Webseite Technologien der GroupM - WPP Deutschland Holding GmbH & Co. KG, Darmstädter Landstraße 112, 60598 Frankfurt am Main (https://campus.groupm.de/) zum Zwecke der Verarbeitung zu Marketingzwecken genutzt, insbesondere um pseudonyme Nutzungsprofile zu erstellen. Diese Nutzungsprofile werden mittels [m]Insights dafür verwendet, Werbungen auszuspielen und die Ausspielung dieser Werbungen zu bewerten, um nachzuvollziehen, welche Faktoren Werbung für Werbekunden erfolgreich oder erfolglos machen. Durch [m]Insights werden die folgenden Datenkategorien erfasst: a) die IP-Adresse, welche über den technisch zwingenden Zeitraum hinaus (d.h. für das Setzen bzw. Auslesen des Cookies) nicht verarbeitet wird (die IP-Adresse wird von einem Drittanbieter gefiltert und gelangt nicht ungekürzt in die Systeme von GroupM); b) Cookie-IDs und IDs für mobile Werbung (z. B. IDFAs und Google Advertising IDs) und die [m]Insights -Proxy-ID für solche IDs; und c) Datum und Zeitpunkt der Online-Aktivität.
+ 
+GroupM speichert die durch [m]Insights erhobenen Daten in nicht aggregierter (d.h. in pseudonymisierter) Form in Nutzungsprofilen.
+ 
+Rechtsgrundlage für die Verarbeitung deiner Daten ist Art. 6 Abs. 1 lit. a DSGVO.
+ 
+Neben der Möglichkeit in den  die Verarbeitung zu Marketing- und Analysezwecken abzuwählen, kannst du gegen die Verarbeitung von personenbezogenen Daten durch [m]Insights unter dem folgenden Link widersprechen: t
+
+
+
+
+    ee. Optimierung der Anzeige von Werbeangeboten mittels Dynamic Yield
+    
+
+Diese Webseite nutzt die Dienste der Dynamic Yield Ltd., Highlands House, Basingstoke Road, Spencers Wood, Reading, Berkshire, England, RG7 1NT (https://www.dynamicyield.com). Mit dem Empfehlungstool Dynamic Yield wird unser Webangebot optimiert, um deinen Webseitenbesuch durch passgenaue Empfehlungen und Inhalte zu einem persönlichen Erlebnis zu machen. Dabei nutzen wir die von dir aufgerufenen Seiteninhalte, um dir gleichwertige oder thematisch verwandte Produkte oder andere für dich relevante Inhalte zu empfehlen.
+ 
+Dynamic Yield erfasst dafür pseudonymisierte Informationen über deine Nutzungsaktivitäten auf unserer Seite. Dabei werden Cookies verwendet, über die ausschließlich pseudonymisierte Informationen unter einer zufällig generierten ID (Pseudonym) gespeichert werden. Ein direkter Personenbezug ist damit nicht möglich.
+ 
+Rechtsgrundlage für die Verarbeitung deiner Daten ist Art. 6 Abs. 1 lit. a DSGVO.
+ 
+Neben der Möglichkeit in den  die Verarbeitung zu Marketing- und Analysezwecken abzuwählen, kannst du auch nach Besuch unserer Webseite die bei dir gespeicherten Cookies löschen oder den Internetbrowser so einstellen, dass keine dieser Cookies auf deinen Computer abgelegt werden können.
+
+
+
+
+    ff. Facebook Website Custom Audiences
+    
+
+ Nutzer des sozialen Netzwerks Facebook, 1601 South California Avenue, Palo Alto, CA 94304, USA sollten beachten, dass auf dieser Webseite das Kommunikationstool Website Custom Audiences bzw. Facebook Custom Audience mit dem Facebook Pixel von Facebook eingesetzt wird.   Dazu sind auf unseren Webseiten sogenannte Facebook-Pixel integriert, die dich, ohne dich als Person zu identifizieren, als Besucher unserer Webseite markieren. Bist du später bei Facebook eingeloggt, wird eine nicht-reversible und damit nicht-personenbezogene Prüfsumme (Profil) aus deinen Nutzungsdaten an Facebook zu Analyse- und Marketingzwecken übermittelt. Jeder Facebook-Nutzer verfügt über eine eindeutige und geräteunabhängige Facebook-ID, womit es uns möglich ist, die Nutzer über mehrere Geräte hinweg auf dem sozialen Netzwerk Facebook anzusprechen. Es werden JAKO-O keine persönlichen Informationen über die einzelnen Webseitenbesucher bekannt. Hierdurch ist es für JAKO-O unmöglich, einzelne Identitäten von Besuchern aufzudecken. Weitere Informationen über Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch Facebook sowie deine Einstellungsmöglichkeiten zum Schutz der Privatsphäre kannst du den Datenschutzrichtlinien von Facebook, welche u. a. auf ,  zu finden sind.   Rechtsgrundlage für die Verarbeitung deiner Daten ist Art. 6 Abs. 1 lit. a DSGVO.   Neben der Möglichkeit in den  die Verarbeitung zu Marketing- und Analysezwecken abzuwählen, kannst du gegen die Verarbeitung von personenbezogenen Daten durch Facebook Custom Audiences unter dem Link  widersprechen.
+
+
+
+
+    gg. Google Ads und Customer Match
+    
+
+Wir nutzen Google Ads der Google LLC., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Durch Google Ads können wir auf Google Suchergebnisseiten, weiteren externen Seiten und innerhalb des Google Display Netzwerkes auf unsere attraktiven Angebote aufmerksam machen. Wir verfolgen damit das Interesse, dir Werbung anzuzeigen, die für dich von Interesse sein könnte. Zudem nutzen wir die Retargeting Funktion, um den Besuchern unserer Seite zielgerichtete Angebote aufzuzeigen. Diese Werbemittel werden durch Google über sogenannte „Ad Server“ ausgeliefert. Dazu nutzen wir Ad Server Cookies, durch die bestimmte Parameter zur Erfolgsmessung, wie Einblendung der Anzeigen oder Klicks durch die Nutzer, gemessen werden können. Sofern du über eine Google-Anzeige auf unsere Webseite gelangst, wird von Google Ads ein Cookie in deinem Gerät gespeichert. Zu diesem Cookie werden in der Regel als Analyse-Werte die Unique Cookie-ID, Anzahl Ad Impressions pro Platzierung (Frequency), letzte Impression (relevant für Post-View-Conversions) sowie Opt-out-Informationen (Markierung, dass der Nutzer nicht mehr angesprochen werden möchte) gespeichert. Diese Cookies ermöglichen Google, deinen Internetbrowser wiederzuerkennen. Sofern ein Nutzer bestimmte Seiten der Webseite eines Ads-Kunden besucht und das auf seinem Computer gespeicherte Cookie noch nicht abgelaufen ist, können Google und der AdWords-Kunde erkennen, dass der Nutzer auf die Anzeige geklickt hat und zu dieser Seite weitergeleitet wurde. Jedem Ads-Kunden wird ein anderes Cookie zugeordnet. Cookies können somit nicht über die Webseiten von Ads-Kunden nachverfolgt werden. Google stellt uns statistische Auswertungen zur Verfügung gestellt. Anhand dieser Auswertungen können wir erkennen, welche der eingesetzten Werbemaßnahmen besonders effektiv sind. Weitergehende Daten aus dem Einsatz der Werbemittel erhalten wir nicht, insbesondere können wir die Nutzer nicht anhand dieser Informationen identifizieren.Wir nutzen Google Customer Match im Rahmen unserer Google Ads Werbeaktivitäten insbesondere für das Remarketing. Dies ermöglicht uns dir über das Google Displaynetzwerk, in der Google-Suche und in YouTube gezielt Werbeinhalte einzublenden. Hierzu wird deine als Hashwert verschlüsselte E-Mail-Adresse mit der beim Google-Konto hinterlegten E-Mail-Adresse abgeglichen. Google erhält infolge der Einwegverschlüsselung keinen Zugriff auf die eigentlichen E-Mail-Adressen. Google teilt die Informationen nicht mit Dritten, auch nicht mit anderen Werbetreibenden. Rechtsgrundlage für die Verarbeitung deiner Daten ist Art. 6 Abs. 1 lit. a DSGVO. Neben der Möglichkeit in den  die Verarbeitung zu Marketing- und Analysezwecken abzuwählen, kannst du dieses Tracking-Verfahren auf verschiedene Weise verhindern: a) durch eine entsprechende Einstellung deiner Browser-Software, insbesondere führt die Unterdrückung von Drittcookies dazu, dass Sie keine Anzeigen von Drittanbietern erhalten; b) durch Deaktivierung der Cookies für Conversion-Tracking, indem du deinen Browser so einstellst, dass Cookies blockiert werden, , wobei diese Einstellung gelöscht wird, wenn du deine Cookies löschst; c) durch dauerhafte Deaktivierung in Ihren Browsern Firefox, Internetexplorer oder Google Chrome unter dem Link  Weitere Informationen zum Datenschutz bei Google finden Sie hier:  und 
+
+
+
+
+    hh. Nano Interactive
+    
+
+Diese Website verwendet eine Cookie-basierte Technologie von Nano Interactive Lindwurmstr. 27, 80337 München, Deutschland mit welcher wir durch eingebaute Pixels mehr über deine Nutzungsgewohnheiten erfahren. Damit können wir sowohl unseren Service für dich als auch Werbung, welche wir auf Partner-Seiten schalten besser an deine Bedürfnisse anpassen. Selbstverständlich werden hierbei keine persönlichen Daten wie Namen oder Adressen gespeichert. Wir nutzen lediglich anonymisierte Cookies und beachten somit die geltenden gesetzlichen Datenschutzbestimmungen. Rechtsgrundlage für die Verarbeitung deiner Daten ist Art. 6 Abs. 1 lit. a DSGVO. Du hast jederzeit die Möglichkeit, in den  die Verarbeitung zu Marketing- und Analysezwecken abzuwählen. Hier erfährst du mehr über Datenschutz von Nano Interactive: .
+
+
+
+
+    ii. Bing Universal Event Tracking
+    
+
+Auf dieser Website setzten wir das sogenannte Universal Event Tracking (universelle Ereignisnachverfolgung, UET) der Microsoft Ireland Operations Limited (Microsoft), One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irland ein.  Falls du über Anzeigen von Bing Ads auf unsere Website gelangst, wird auf deinen Endgerät ein Cookie gesetzt. UET ist auf dieser Website über das Tag-Verwaltungssystem Exactag eingebunden. Die Schlüsselkomponente ist das sogenannte UET-Tag, das Aktionen der Besucher dieser Website aufzeichnet und diese Informationen an Microsoft Advertising sendet. Dies ermöglicht uns eine Auswertung und Optimierung von SEA-Kampagnen im Microsoft Suchnetzwerk.  Dabei werden solche Daten gesammelt, mit den Konversationsziele und Zielgruppen durch Remarketing nachverfolgt werden können. Dazu gehören unter anderem die Verweildauer auf der Website, welche Bereiche der Website abgerufen wurden und über welche Anzeige die Nutzer auf die Website gelangt sind. UET erfasst die IP-Adresse und das Microsoft-Cookie (mit einem Ablaufdatum von 13 Monaten). UET erfasst darüber hinaus eine eindeutige, anonymisierte Besucher-ID, die von UET zugewiesen wird und einen eindeutigen Besucher repräsentiert, die 390 Tage lang von Microsoft Advertising gespeichert wird.  Microsoft Advertising verkauft diese Daten nicht an Dritte und gibt diese auch nicht an andere Inserenten weitergegeben.  Rechtsgrundlage für die Verarbeitung deiner Daten ist Art. 6 Abs. 1 lit. a DSGVO. Du hast jederzeit die Möglichkeit, in den   die Verarbeitung zu Marketing- und Analysezwecken abzuwählen.  Weitere Informationen zu den Microsoft-Datenschutzbestimmungen findest du unter folgenden Link: 
+
+
+
+
+    jj. Criteo – Retargeting
+    
+
+Auf dieser Website verwenden wir die Technologie von Criteo SA, 32 Rue Blanche, 75009 Paris, Frankreich (Criteo). Wir agieren zusammen mit Criteo als gemeinsame Verantwortliche i.S.d. Art. 26 DSGVO. Dies liegt darin begründet, dass die Erhebung personenbezogener Daten sowie die Einholung deiner Zustimmung in den Fällen, in denen die geltenden Vorschriften dies vorsehen, auf den jeweiligen Websites bzw. in den jeweiligen mobilen Apps erfolgt. Criteo sammelt mittels Cookies Informationen über das Surfverhalten deines Websitebesuches in pseudonymisierter Form, speichert und wertet dieses aus. Anhand dessen ist es möglich, dir Produktempfehlungen als personalisierte Werbebanner auf anderen Websites anzuzeigen, die du besuchst. Die so gewonnen Daten werden nicht dazu gewonnen, um dich in irgendeiner Weise persönlich zu identifizieren. Criteo verarbeitet zu diesem Zwecke deine IP-Adresse, den Identifikator eines Criteo-Cookies, der im Webbrowser platziert wurde, sowie ggfs. die Werbe-ID. Ausführliche Informationen hierzu findest du unter folgenden Link:  Die Daten werden maximal bis zu 13 Monate ab dem Tag der Erfassung gespeichert und anschließend automatisch gelöscht. Die Datacenter von Criteo befinden sich in Paris und Amsterdam. Die Services von Criteo erfordern möglicherweise einen grenzüberschreitenden Datenaustausch mit ihren Tochtergesellschaften oder Partnern in Ländern außerhalb der EU. Sollte dies der Fall sein, ergreift Criteo Maßnahmen zum angemessenen und DSGVO-konformen Schutz der in diese Länder übertragenen personenbezogenen Daten wie zum Beispiel die Unterzeichnung von EU-Standardvertragsklauseln. Darüber hinaus setzen wir das sogenannte Universal Match von Criteo ein. Dies ermöglicht ein geräteübergreifende, einheitliche Sicht (Cross-Device-Tracking). Hierfür wird dir eine anonyme Criteo-ID zugewiesen. Dein Verhalten im Web, auf mobilen Seiten und innerhalb von Apps wird mithilfe von Browser-Cookies und App-Event-Tags mit der Criteo-ID verknüpft und ermöglicht so ein Ausspielen von auf dich zugeschnittenen Produktempfehlungen und Bannerinhalten. Rechtsgrundlage für die Verarbeitung deiner Daten ist Art. 6 Abs. 1 lit. a DSGVO. Du hast jederzeit die Möglichkeit, in den  die Verarbeitung zu Marketing- und Analysezwecken abzuwählen. Darüber hinaus hast du auch die Möglichkeit, über folgenden Link die Verarbeitung zu widerrufen:. Um das geräteüberreifende Anzeigen von Bannern zu deaktivieren, kannst du auch über das AdChoice-Icon am ausgestrahlten Banner das weitere Anzeigen von Criteo-Ads jederzeit geräteübergreifend deaktivieren. Weitere Informationen zu der Datenverarbeitung von Criteo findest du unter folgenden Link: .
+
+
+
+
+    kk. Outbrain
+    
+
+Unsere Website nutzt die Dienste der Outbrain Inc. (Outbrain), 39 W 13th Street New York, NY 10011 USA. Outbrain weist jedem User, der mit dem Outbrain-Widget (der Bereich, der die Empfehlungen enthält) interagiert, eine eindeutige Nutzerkennung (Unique User ID, UUID) zu, um dieser speziellen UUID relevanten Content zu empfehlen. Ob du mit dem Outbrain-Widget verbunden bist, erkennst du an einem Verweis an einer Empfehlung wie z. B. „Empfohlen von Outbrain“. Outbrain setzt zur Erzeugung der UUID ein Cookie auf deinem Gerät. Da Outbrain für dich relevante Informationen bereitstellt und über die Zwecke und Mittel entscheidet, ist diesbezüglich Outbrain Datenverantwortlicher. Auf dieser Website ist zudem ein Pixel von Outbrain implementiert. Dieses ermöglicht eine Verbindung des Pixels mit einer bestehenden Outbrain-UUID. Durch die Zuordnung der Outbrain UUID zu dem Pixel ist Outbrain in der Lage, uns darüber zu informieren, welche Bereiche dieser Webseite du besuchst hast. Das Pixel erfasst, welche Outbrain-UUID auf den Seiten aktiv war, auf denen die Pixel installiert sind, sowie den entsprechenden Zeitstempel, die Verweisquelle und den Umstand, dass eine Aktion erfolgt ist. Das Pixel verfolgt Aktivitäten anonymisiert. Zusätzliche identifizierbare personenbezogenen Daten werden nicht erfasst. Die einzige personenbezogene Information, über die Outbrain verfügt, ist Outbrains eigene UUID. Da wir hier über die Zwecke und Mittel entscheiden, sind wir hinsichtlich des Pixels Datenverantwortlicher. Rechtsgrundlage für die Verarbeitung deiner Daten ist Art. 6 Abs. 1 lit. a DSGVO. Du hast jederzeit die Möglichkeit, in den  die Verarbeitung zu Marketing- und Analysezwecken abzuwählen. Weitere Informationen zu der Datenverarbeitung von Outbrain findest du unter folgenden Link: . Zu den von Outbrain gesetzten Cookies unter folgenden Link: .
+
+
+
+
+    ll. Einbindung von YouTube-Videos
+    
+
+Wir haben YouTube-Videos in unser Online-Angebot eingebunden, die auf http://www.YouTube.com gespeichert sind und von unserer Webseite aus direkt abspielbar sind. Dabei handelt es sich um ein Angebot von YouTube eine Tochtergesellschaft der Google LLC.,1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Diese sind alle im „erweiterten Datenschutz-Modus“ eingebunden, d.h., dass keine Daten über dich als Nutzer an YouTube übertragen werden, wenn du die Videos nicht abspielst. Erst, wenn du die Videos abspielst, werden die nachfolgend genannten Daten übertragen. Auf diese Datenübertragung haben wir keinen Einfluss. Durch den Besuch auf der Webseite erhält YouTube die Information, dass du die entsprechende Unterseite unserer Webseite aufgerufen hast. Dies erfolgt unabhängig davon, ob YouTube ein Nutzerkonto bereitstellt, über das du eingeloggt bist, oder ob kein Nutzerkonto besteht. Wenn du bei Google eingeloggt bist, werden deine Daten direkt deinem Konto zugeordnet. Wenn du die Zuordnung mit deinem Profil bei YouTube nicht wünschst, musst du dich vor Aktivierung des Buttons ausloggen. YouTube speichert deine Daten als Nutzungsprofile und nutzt sie für Zwecke der Werbung, Marktforschung und/oder bedarfsgerechten Gestaltung seiner Webseite. Eine solche Auswertung erfolgt insbesondere zur Erbringung von bedarfsgerechter Werbung und um andere Nutzer des sozialen Netzwerks über deine Aktivitäten auf unserer Webseite zu informieren. Rechtsgrundlage für die Verarbeitung deiner Daten ist Art. 6 Abs. 1 lit. a DSGVO. Du hast jederzeit die Möglichkeit, in den  die Verarbeitung zu Marketing- und Analysezwecken abzuwählen. Weitere Informationen zum Umgang von Nutzerdaten findest du in der Datenschutzerklärung von YouTube (als Google-Tochtergesellschaft) unter: 
+
+
+
+
+    VI.Werden Social Plug-ins eingesetzt?
+    
+
+Wir setzen auf unserer Website auf Grundlage des Art. 6 Abs. 1 lit. f DSGVO Social Plugins zu Werbezwecken der sozialen Netzwerke Facebook, Pinterest, Instagram und YouTube ein. Plugins sind kleine Programme bzw. Erweiterungen, um diese zusätzliche Funktionen zu verwenden.Um den Schutz deiner Daten beim Besuch unserer Website zu erhöhen, sind die Plugins mittels sogenannter „2-Klick-Lösung“ in die Seite eingebunden. Diese Einbindung gewährleistet, dass beim Aufruf einer Seite unseres Webauftritts, die solche Plugins enthält, noch keine Verbindung mit den Servern von Facebook, Google und Pinterest hergestellt wird. Erst wenn du die Plugins aktivierst und damit deine Zustimmung zur Datenübermittlung erteilst, stellt dein Browser eine direkte Verbindung zu den Servern von Google, Facebook oder Pinterest her. Der Inhalt des jeweiligen Plugins wird dann vom zugehörigen Anbieter direkt an dein Browser übermittelt und in die Seite eingebunden. Durch die Einbindung der Plugins erhalten die Anbieter die Information, dass dein Browser die entsprechende Seite unseres Webauftritts aufgerufen hat, auch wenn du kein Profil bei dem entsprechenden Anbieter besitzt oder gerade nicht eingeloggt sind. Diese Information (einschließlich deiner IP-Adresse) wird von Ihrem Browser direkt an einen Server des jeweiligen Anbieters übermittelt und dort gespeichert.Wenn du nicht möchtest, dass soziale Netzwerke über unseren Internetauftritt Daten über dich sammeln, musst du dich vor deinem Besuch unseres Internetauftritts bei den sozialen Netzwerken ausloggen.
+
+
+
+
+    1. Facebook
+    
+
+Unser Internetauftritt verwendet das Plug-in des Dienstes Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA. Den Anbieter des Plug-ins erkennst du über dessen Logo. Wir eröffnen dir die Möglichkeit, über den Button direkt mit dem Anbieter des Plug-ins zu kommunizieren. Nur wenn du auf das markierte Feld klickst und es dadurch aktivierst, erhält der Plug-in-Anbieter die Information, dass du die entsprechende Webseite unseres Online-Angebotes aufgerufen hast. Weitere Informationen zur Datenerhebung von Facebook:  sowie .
+
+
+
+
+    2. Pinterest
+    
+
+Auf dieser Website sind Plugins des sozialen Netzwerks Pinterest Europe Ltd, WeWork, 2 Dublin Landings, N Wall Quay, Dublin 1, D01 V4A3 („Pinterest“) integriert. Das Pinterest Plugin erkennst du an dem “Pin it-Button” auf unserer Seite.Wenn du den Pinterest-Plugin anklickst, während du in deinem Pinterest-Account eingeloggt bist, ist es möglich dich mit deinem Pinterest-Account zu verlinken und uns zu folgen. Dadurch kann Pinterest den Besuch unserer Seiten deinem Benutzerkonto zuordnen. Weitere Informationen kannst du der Datenschutzerklärung von Pinterest entnehmen: 
+
+
+
+
+    3. Instagram
+    
+
+Auf dieser Website ist das Plugin von Instagram Inc., Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland („Instagram“) integriert. Das Instagram Plugin erkennst du an dem “Instagram - Button” auf unserer Seite.Wenn du den "Instagram - Button" anklickst, während du in deinem Instagram - Account eingeloggt bist, kannst du Inhalte unserer Seite auf deinen Instagram-Account verlinken und uns folgen. Dadurch kann Instagram den Besuch unserer Seiten deinem Benutzerkonto zuordnen. Weitere Informationen kannst du der Datenschutzerklärung von Instagram entnehmen: 
+
+
+
+
+    4. YouTube
+    
+
+Auf dieser Website verwenden wir das YouTube-Plugin (Google). Es handelt sich dabei um ein Angebot der Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.Wenn du den YouTube-Button anklickst, während du deinem YouTube- Account eingeloggt bist, kannst du uns abonnieren und teilen. Datenschutzhinweise von YouTube (Google-Tochtergesellschaft): .
+
+
+
+
+    VII. An welche Empfängerkategorien geben wir deine Daten ggf. weiter?
+    
+
+Die von uns erhobenen Daten werden nicht verkauft. Wir geben die Informationen, die wir erhalten, ausschließlich zu folgenden Zwecke an Dritte weiter:In allen anderen Fällen werden wir dich darüber informieren, wenn persönliche Informationen an Dritte weitergegeben werden.
+
+
+
+
+    VIII. Erfolgt eine Übermittlung der personenbezogenen Daten an eine internationale Organisation oder ein Drittland?
+    
+
+Wir geben grundsätzlich deine Daten nicht an eine internationale Organisation weiter.Bei einer Datenübermittlung an Empfänger mit Sitz außerhalb der Europäischen Union oder des Europäischen Wirtschaftsraumes (sogenanntes Drittland) erfolgen dies auf Grundlage sogenannter Standardvertragsklauseln der EU-Kommission als geeignete Garantie zur Sicherstellung des Schutzniveaus deiner personenbezogenen Daten.
+
+
+
+
+    IX.Welches Profiling nehmen wir vor?
+    
+
+Zur Begründung und Durchführung der Geschäftsbeziehung nutzen wir grundsätzlich keine vollautomatisierte Entscheidungsfindung gemäß Artikel 22 DSGVO.Wir verarbeiten deine Daten teilweise automatisiert mit dem Ziel, bestimmte persönliche Aspekte zu bewerten (Profiling). Wir setzen Profiling in folgenden Fällen ein:
+
+
+
+
+    X. Welche Maßnahmen werden zur Sicherheit meiner Daten ergriffen?
+    
+
+Um einen Verlust oder Missbrauch der bei uns gespeicherten Daten zu vermeiden, treffen wir umfangreiche technische und organisatorische Sicherheitsvorkehrungen, die regelmäßig überprüft und dem technologischen Fortschritt angepasst werden. Unter anderem benutzen wir SSL (RSA 1024 Bit) als Verschlüsselungs- und Sicherungs-Software, d.h., gesamten persönlichen Daten (Name, Anschrift, Kreditkarten-Nr., Bankleitzahl, Konto-Nr. usw.) werden dadurch verschlüsselt und sicher im Internet übertragen. Dieses Verfahren wird im gesamten World Wide Web erfolgreich eingesetzt. Du erkennst es an einem Symbol (geschlossenes Vorhängeschloss) in der unteren Fensterleiste deines Browsers, dass du dich in dem gesicherten Bereich befindest. Einsatz von reCAPTCHA Zum Schutz deiner Anfragen per Internetformular verwenden wir den Dienst invisible reCAPTCHA von Google LLC., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.Diese Abfrage hat zum Ziel, zu erkennen, ob du ein Mensch bist oder Eingaben missbräuchlich durch automatisierte, maschinelle Verarbeitung erfolgt. Dies dient zur Sicherung unserer berechtigten Interessen i.S.d. Art. 6 Abs. 1 lit. f DSGVO zur Sicherheit unserer Netzwerkinfrastruktur. Bei der Abfrage wird deine IP-Adresse an Google übermittelt. Deine IP-Adresse wird von Google innerhalb von Mitgliedstaaten der Europäischen Union oder des EWR gekürzt. Nur in Ausnahmefällen kann es sein, dass deine volle IP-Adresse an einen Server von Google in den USA übertragen wird und dort gekürzt wird. Die von reCAPTCHA von deinen Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Die Datenschutz- und Nutzungsbedingen von Google findest du unter folgenden Link: . Informationen zu reCAPTCHA unter  Rechtsgrundlage für die Verarbeitung deiner Daten ist Art. 6 Abs. 1 lit. f DSGVO.
+
+
+
+
+    XI. Wie lange speichern wir deine Daten?
+    
+
+                Grundsätzlich anonymisieren und / oder löschen wir deine personenbezogenen Daten, sobald sie für die oben genannten Zwecke nicht mehr erforderlich sind und soweit uns keine gesetzliche Nachweis- und Aufbewahrungspflichten (z. B. nach dem Handelsgesetzbuch, Abgabenordnung) zu einer weiteren Speicherung verpflichten.
+
+
+
+
+    XII. Welche Rechte stehen dir zu?
+    
+
+Die DSGVO regelt deine Rechte als Betroffener vorrangig in den Artikeln 15 bis 22 DSGVO. Demnach hast du jederzeit das Recht auf Auskunft über die bezüglich deiner Person gespeicherten Daten, deren Herkunft und Empfänger sowie den Zweck der Speicherung. Darüber hinaus steht dir das Recht zu, die Löschung deiner Daten sowie eine Einschränkung der Verarbeitung, die Berichtigung deiner Daten und die Übertragung deiner Daten in einem gängigen maschinenlesbaren Format zu verlangen.Hinzu kommt die Auskunft über das Bestehen einer automatisierten Entscheidungsfindung einschließlich dem Profiling gemäß Art. 22 Abs. 1 und 4 DSGVO und – zumindest in diesen Fällen – aussagekräftige Informationen über die involvierte Logik sowie die Tragweite und die angestrebten Auswirkungen einer derartigen Verarbeitung bezüglich deiner Person. Widerspruch oder Widerruf gegen die Verarbeitung deiner Daten: Falls du eine Einwilligung zur Verarbeitung deiner Daten erteilt hast, kannst du diese jederzeit mit Wirkung für die Zukunft gegenüber der unter Ziffer I. aufgeführten Post- oder E-Mail Adresse widerrufen.Einzelfallbezogenes Widerspruchsrecht: Soweit wir die Verarbeitung deiner personenbezogenen Daten auf die Interessenabwägung nach Art. 6 Abs. 1 lit. f DSGVO stützen, können Sie Widerspruch gegen die Verarbeitung einlegen. Dies gilt auch für ein auf diese Bestimmung gestütztes Profiling im Sinne von Art. 4 Abs. 4 DSGVO. Bei Ausübung eines solchen Widerspruchs bitten wir um Darlegung der Gründe, weshalb wir deine personenbezogenen Daten nicht wie von uns durchgeführt verarbeiten sollten. Im Falle eines begründeten Widerspruchs prüfen wir die Sachlage und werden entweder die Datenverarbeitung einstellen bzw. anpassen oder dir unsere zwingenden schutzwürdigen Gründe aufzeigen, aufgrund derer wir die Verarbeitung fortführen. Selbstverständlich kannst du der Verarbeitung deiner personenbezogenen Daten für Zwecke der Werbung und Datenanalyse jederzeit widersprechen; dies gilt auch für das Profiling, soweit es mit solcher Direktwerbung in Verbindung steht. Bitte richten deinen Werbewiderspruch an die unter Ziffer I. aufgeführte Post- oder E-Mail-Adresse.
+
+
+
+
+    XIII. An welche Beschwerdestelle kannst du dich wenden?
+    
+
+Du hast die Möglichkeit, dich an die Adresse des oben genannten Datenschutzbeauftragten zu wenden. Unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs steht dir das Recht auf Beschwerde bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat deines Aufenthaltsorts, deines Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes, zu, wenn du der Ansicht bist, dass die Verarbeitung der dich betreffenden personenbezogenen Daten gegen datenschutzrechtliche Bestimmungen verstößt.Die für uns zuständige Aufsichtsbehörde ist: Bayerisches Landesamt für DatenschutzaufsichtPostfach 60691511 AnsbachDeutschlandTelefon: +49 (0) 981 53 1300Telefax: +49 (0) 981 53 98 1300E-Mail:  Falls du eine Beschwerde einreichen möchtest, kannst du das Online-Beschwerdeformular der Aufsichtsbehörde () nutzen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

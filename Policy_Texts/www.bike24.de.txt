@@ -1,0 +1,318 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Der Schutz Ihrer personenbezogenen Daten ist uns ein wichtiges Anliegen. BIKE24 beachtet bei der Verarbeitung dieser Daten streng die geltenden Bestimmungen des Datenschutzrechts der Europäischen Union sowie des Datenschutzrechts der Bundesrepublik Deutschland.
+Wir informieren Sie mit dieser Datenschutzerklärung, welche Daten wir auf unseren Webseiten erheben, zu welchen Zwecken wir diese Daten verarbeiten, an welche Empfänger wir ggf. Daten übertragen, zu den rechtlichen Grundlagen der Datenverarbeitung, zur Dauer der Datenspeicherung, zu den Verantwortlichen für die Datenverarbeitung sowie zu Ihren Rechten.1. Verantwortlicher für die DatenverarbeitungVerantwortlicher für die Datenverarbeitung im Sinne von Art. 13 Absatz 1 a) Datenschutz-Grundverordnung (DS-GVO) ist die
+Bike24 GmbHBreitscheidstr. 4001237 DresdenTel.: 0351/417497-0Fax.: 0351/417497-79E-Mail: datenschutz at bike24.net
+Wenn Sie unseren Datenschutzbeauftragten kontaktieren möchten, verwenden Sie bitte die folgenden Kontaktdaten:Breitscheidstr. 4001237 DresdenE-Mail: datenschutz at bike24.net2. Konkrete Angaben zu den Datenverarbeitungen2.1. personenbezogene DatenArt. 4 Nr. 1 DS-GVO definiert personenbezogene Daten als alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen. Personenbezogene Daten sind z.B. Name, Anschrift, Telefonnummer, E-Mail-Adresse, Bankverbindung, Kreditkartennummer.2.2. Datenverarbeitung zur Erfüllung eines VertragesWenn Sie bei BIKE24 bestellen, benötigen wir personenbezogene Daten für die Abwicklung des Kaufs inkl. dem Versand Ihrer bestellten Ware, der Bearbeitung von Retouren oder Reklamationen. Konkret benötigen wir Angaben zu: Name, Anschrift, E-Mail-Adresse sowie ggf. notwendige Bezahldaten. Die Angabe Ihrer E-Mail-Adresse ist erforderlich, um Ihnen den Eingang der Bestellung zu bestätigen, Sie über den Versand Ihrer Ware zu benachrichtigen bzw. mit Ihnen in Kontakt treten zu können. Die Datenverarbeitung erfolgt somit zum Zweck der Erfüllung des Vertrages.
+Auch vor dem Vertragsschluss können Sie bereits mit BIKE24 in Kontakt treten und uns z.B. eine Anfrage per E-Mail senden, um sich von uns beraten zu lassen. In diesem Fall verarbeiten wir die von Ihnen erhaltenen Daten wie E-Mail-Adresse und ggf. Name mit dem Zweck der Durchführung einer vorvertraglichen Maßnahme.
+Die rechtliche Grundlage für die Datenverarbeitung zum Zweck der Vertragserfüllung oder zur Durchführung einer vorvertraglichen Maßnahme in Folge einer Anfrage des Betroffenen ist Art. 6 Absatz 1 b) DS-GVO.
+Zur Abwicklung Ihrer Bestellung gibt BIKE24 personenbezogene Daten an Dienstleistungspartner wie Zahlungsdienstleister (u.a. Banken, PayPal, Amazon Pay, Kreditkartenunternehmen) und Versanddienstleister (u.a. DHL, DPD, Hermes, Speditionen) weiter, soweit dies zur Erfüllung Ihres Vertrages erforderlich ist. Möglich ist auch eine Weitergabe an einen Lieferanten, der Ihnen die Ware direkt zustellt. Die übermittelten Daten dürfen vom Empfänger nur zur Erfüllung seiner Aufgabe verwendet werden. Eine darüberhinausgehende Nutzung ist nicht gestattet.
+Die zur Vertragsabwicklung erforderlichen Daten speichern wir bis zum Ablauf der gesetzlichen Gewährleistungsfristen.
+Die im Sinne des Handelsrechts bzw. Steuerrechts erforderlichen Daten speichern wir entsprechend der gesetzlich vorgeschriebenen Aufbewahrungsfristen gemäß § 257 HGB sowie § 147 AO, grundsätzlich für den Zeitraum von 10 Jahren.
+Zur Durchführung von vorvertraglichen Maßnahmen verarbeitete personenbezogene Daten werden innerhalb von 12 Monaten gelöscht, sofern es zu keinem Vertragsschluss kam.2.3. ParcelLabBIKE24 nutzt den Dienstleister parcelLab GmbH, Kapellenweg 6, 81371 München, um Kunden über den Versand Ihrer bestellten Waren zu informieren und darüber hinaus Informationen zum Versandstatus zu senden. Um dies zu ermöglichen, übermittelt BIKE24 an parcelLab Daten zur Bestellung, darunter auch personenbezogene Daten, die für die Erbringung der Leistung durch parcelLab erforderlich sind. Dazu gehören u.a. Name, Anrede, Anschrift, E-Mail-Adresse, Bestellnummer. ParcelLab ist im Rahmen der Auftragsdatenverarbeitung im Sinne von Art. 28 DS-GVO für BIKE24 tätig. ParcelLab ist vertraglich verpflichtet, durch geeignete technische und organisatorische Maßnahmen den Schutz Ihrer Daten zu gewährleisten. Rechtsgrundlage für diese Datenverarbeitung ist Art. 6 Abs. 1b) DS-GVO sowie Art. 28 DS-GVO. Zusätzliche Informationen finden Sie in der Datenschutzerklärung von parcelLab: 2.4. NewsletterSie können den BIKE24 Newsletter im Rahmen des Bestellprozesses oder separat über unsere Shop-Seite abonnieren. Zur Bestätigung Ihrer Anfrage verwenden wir das Double Opt-In-Verfahren. D.h. Sie erhalten von uns eine E-Mail mit einem Link, über den Sie als Inhaber der E-Mail-Adresse die Anmeldung zum Newsletter bestätigen können. Erst nach dieser Bestätigung ist die Anmeldung zum Newsletter erfolgt.
+Wir verwenden die von Ihnen übermittelten Daten nach erfolgter Anmeldung zum BIKE24 Newsletter zu Werbezwecken. Wir speichern Ihre E-Mailadresse sowie die Sprache, in der Sie den BIKE24 Webshop nutzen.
+Sofern Sie in die personalisierte Werbung eingewilligt haben, verarbeiten wir darüber hinaus für Zwecke der Personalisierung unseres Newsletters und unserer Werbe-Mails Tracking-Daten zu ihrem Nutzerverhalten beim Besuch unseres Webs-Shops einschließlich der Daten aus getätigten oder abgebrochenen Käufen und bei der Nutzung unseres Newsletters. Darüber hinaus können wir über die verwendete E-Mail-Adresse eine Zuordnung zu Ihrer Bestellhistorie und den zu einzelnen Bestellungen Ihrer Person gespeicherten Daten (z.B. Ihrer Anschrift, zu Ihren Warenkörben oder Ihrem Kaufverhalten) vornehmen. Weiterhin speichern wir Daten zu Ihren Interessen, Ihre Anrede, Ihren Namen und Ihr Geburtsdatum, sofern und soweit Sie diese optionalen Angaben im Rahmen der Anmeldung zum Newsletter gemacht haben.
+Rechtsgrundlage für diese Datenverarbeitung ist Art. 6 Abs. 1 a) DS-GVO. Die Datenverarbeitung erfolgt nur nach Ihrer ausdrücklichen Einwilligung.
+Der Versand des Newsletters sowie die Speicherung und Verwaltung der genannten Daten werden durch die Anbieter CleverReach GmbH & Co. KG, Mühlenstr. 43, 26180 Rastede, Deutschland sowie Emarsys eMarketing Systems GmbH, Märzstrasse 1, 1150 Wien, Österreich durchgeführt. Diese Anbieter sind im Rahmen der Auftragsdatenverarbeitung im Sinne von Art. 28 DS-GVO für BIKE24 tätig. Sie sind vertraglich verpflichtet, durch geeignete technische und organisatorische Maßnahmen den Schutz Ihrer Daten zu gewährleisten. Darüber hinaus erfolgt keine Weitergabe der genannten Daten an Dritte.
+Ihre Einwilligung können Sie jederzeit mit Wirkung für die Zukunft widerrufen. Jeder Newsletter enthält hierfür einen Abmelde-Link. Wenn Sie den Abmelde-Link verwenden, wird der Newsletter für Ihre E-Mail-Adresse direkt abbestellt. Darüber hinaus können Sie Ihre Einwilligung jederzeit per E-Mail an  widerrufen. Der zu Ihrer E-Mail-Adresse gehörende Datensatz kann nach erfolgter Abmeldung aus Nachweisgründen sowie zur Verteidigung gegen Rechtsansprüche bis zu drei Jahre gespeichert werden. Der betreffende Datensatz wird in der Folge automatisch gelöscht. Rechtsgrundlage für diese Datenverarbeitung ist Art. 6 Abs. 1 f) DS-GVO.
+Sie können Ihre Einwilligung ganz oder teilweise widerrufen. Insbesondere haben Sie die Möglichkeit, per E-Mail an  nur Ihre Einwilligung in die Personalisierung unseres Newsletters zu widerrufen. Beschränken Sie Ihren Widerruf auf die Personalisierung, dürfen wir Ihnen unsere allgemeinen Newsletter zusenden.
+Darüber hinaus speichern wir die Daten der Anmeldung im Rahmen des Double Opt-In-Verfahrens. Rechtsgrundlage für die Erhebung und Speicherung dieser Daten ist Art. 6 Abs. 1 f) DS-GVO. Die Datenverarbeitung erfolgt zum Zwecke des Nachweises einer bestehenden Einwilligung. Hierin besteht das erforderliche berechtigte Interesse.2.5. KundenkontoSie haben die Möglichkeit, ein BIKE24 Kundenkonto anzulegen. Dieser mit Passwort geschützte, persönliche Zugang bietet Ihnen eine Reihe von nützlichen Funktionen, u.a. Einsicht in ihre Bestellungen der letzten 2 Jahre, Anzeige und Herunterladen ihrer Rechnungen, Verwaltung persönlicher Kundendaten, Hinzufügen und Bearbeiten unterschiedlicher Lieferadressen, die Hinterlegung einer Standardzahlweise sowie Erstellung eines persönlichen Merk- bzw. Wunschzettels.
+Rechtsgrundlage für diese Datenverarbeitung ist Art. 6 Abs. 1 a) DS-GVO. Die Datenverarbeitung erfolgt nur nach ausdrücklicher Einwilligung. Die im Kundenkonto hinterlegten Daten werden gespeichert, solange Ihre Einwilligung besteht. Sie können diese Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen. Eine formlose Mitteilung an die unter Ziffer 1 genannten Kontaktdaten genügt hierfür. Im Fall des Widerrufs der Einwilligung wird Ihr Kundenkonto inkl. der dort hinterlegten Daten gelöscht.2.6. eTermin Online TerminbuchungBIKE24 bietet seinen Nutzern den Dienst des Anbieters eTermin GmbH, im Wiesengrund 8, CH-8304 Wallisellen, Schweiz, an, um Kunden und Besuchern des Ladengeschäfts „BIKE24 Store Dresden“ eine Online-Terminbuchung zu ermöglichen. Bei der Nutzung dieses Buchungs-Tools werden folgende personenbezogene Daten als Pflichtangaben erhoben und von uns verarbeitet: Anrede, Name, Telefonnummer und E-Mailadresse sowie der eingetragene Terminwunsch. Diese Angaben sind für eine Koordination der Terminanfragen erforderlich. Darüber hinaus werden diejenigen personenbezogenen Daten von uns verarbeitet, die Sie in das Freitextfeld eingeben. Ihre personenbezogenen Daten werden nach Erledigung Ihrer Terminanfrage von uns gelöscht. Ihre Terminanfrage erledigt sich regelmäßig mit dem Besuch unseres Ladengeschäfts oder der Absage eines gebuchten Termins durch Sie selbst.
+Rechtsgrundlage für die Verarbeitung Ihrer personenbezogenen Daten ist insoweit Art. 6 Abs. 1 Satz 1 f) DS-GVO verbundenen mit unserem berechtigten Interesse, Ihnen die Möglichkeit einer Terminbuchung zu bieten und Terminanfragen für Zwecke einer verbesserten Vorbereitung von Kundenbesuchen in unserem Ladengeschäft koordinieren zu können.
+Soweit der Anbieter eTermin GmbH Zugriff auf Ihre personenbezogenen Daten nehmen kann, ist dieser für uns als Auftragsverarbeiter gemäß Art. 28 DS-GVO tätig. Er darf Ihre Daten nur gemäß unseren Anweisungen und nicht für eigene Zwecke verarbeiten. Der Anbieter hat seinen Sitz in der Schweiz, für die die Europäische Kommission mit Beschluss vom 26.07.2000 das Vorliegen eines angemessenen Schutzes personenbezogener Daten festgestellt hat. Dieser Beschluss hat auch nach Inkrafttreten der DS-GVO Bestand. Eine Kopie können Sie bei unserem Datenschutzbeauftragten erfragen.2.7. SMARTFiT Online SizingDamit wir Sie in unserem Onlineshop optimal beraten und Ihnen für Ihre Maße passende Fahrräder anbieten können, haben Sie die Möglichkeit, über das Online-Sizing-Tool SMARTFiT (Klick auf „Größe berechnen“ bei den Größeneinstellungen auf jeder Fahrrad-Produktdetailseite) Ihre Körpergröße und Ihr Geschlecht sowie Ihre Arm- und Beinlänge anzugeben. SMARTFiT berechnet sodann die für Sie passende Fahrradgröße und prüft, ob das gewünschte Fahrrad in dieser Größe (oder eine passende Alternative) in unserem Onlineshop verfügbar ist.
+Damit Sie Ihre Daten nicht innerhalb eines kurzen Zeitraums erneut eingeben müssen, speichert SMARTFiT Ihre Daten zusammen mit einer Session ID kurzzeitig im lokalen Speicher Ihres Browsers (Local Storage). Die Daten werden nach einer Inaktivität von vier Stunden gelöscht.
+Wir können über SMARTFiT die Häufigkeit der Nutzung des Tools auswerten, aus der Auswertung lassen sich jedoch keine Rückschlüsse auf natürliche Personen ziehen.
+SMARTFiT ist ein Dienst der Radlabor GmbH, Heinrich-von-Stephan-Str. 5c, 79100 Freiburg, Deutschland. Die personenbezogenen Daten werden ausschließlich auf Servern in Deutschland verarbeitet. Weitere Informationen zur Datenverarbeitung im Rahmen der Nutzung des Tools finden Sie auch in dem  des Anbieters.
+Rechtsgrundlage der Speicherung im und des Auslesens der Daten aus dem Local Storage ist § 25 Abs. 2 Nr. 2 TTDSG. Rechtsgrundlage der Verarbeitung Ihrer personenbezogenen Daten ist unser überwiegendes berechtigtes Interesse gemäß Art. 6 Abs. 1 Satz 1 f) DS-GVO, Ihnen für Sie passende Fahrräder vorschlagen und ein optimiertes Einkaufserlebnis in unserem Onlineshop ermöglichen zu können. Unser berechtigtes Interesse überwiegt dabei Ihre etwaig entgegenstehenden Interessen, insbesondere weil die Datenverarbeitung nur dann erfolgt, wenn Sie das Tool aktiv nutzen.
+ 3. Cookies3.1. Was sind Cookies?„Cookies“ sind kleine Textdateien, die auf Ihrem Datenträger gespeichert werden und die bestimmte Einstellungen und Daten enthalten. Wir verwenden auf unseren Webseiten Cookies, um für Sie ein optimales Nutzererlebnis zu gewährleisten, um Statistiken über die Nutzung unserer Webseiten zu erstellen und Marketing-Aktivitäten zu ermöglichen.3.2. Persönliche Cookie EinstellungenWenn Sie den BIKE24 Shop zum ersten Mal aufsuchen oder wenn Sie Ihre Browserdaten gelöscht haben, fragen wir Sie mit unserem Cookie Consent Tool, ob wir Cookies und ggf. welche Cookies wir verwenden dürfen.
+Technisch notwendige Cookies sind immer aktiviert. Diese können nicht deaktiviert werden. Ob Sie Komfort Cookies oder Marketing- und Statistik Cookies zulassen möchten, können Sie frei entscheiden. Die Verwendung dieser Cookie Arten ist nur mit Ihrer ausdrücklichen Einwilligung zulässig. Wir bieten Ihnen eine Übersicht, in der Sie für jedes Tool Ihre persönliche Auswahl treffen können. Die Einwilligung in die Verwendung dieser Cookie Arten müssen Sie aktiv vornehmen, um diese Cookies zu aktiveren. Es gibt auch die Möglichkeit, mit einem Klick der Verwendung von allen Cookies zuzustimmen.
+Das Cookie Consent Tool für Ihre persönlichen Cookie Einstellungen ist jederzeit über den Footer des Shops erreichbar. Sie können jederzeit eine individuelle Auswahl treffen und eine erteilte Einwilligung mit Wirkung für die Zukunft widerrufen.
+Ihre persönliche Auswahl wird mit einem Cookie auf Ihrem Datenträger gespeichert. Sofern Sie die Cookies nicht löschen, werden Sie bei Ihren nächsten Besuchen unseres Shops nicht erneut gefragt.3.3. Technisch notwendige CookiesTechnisch notwendige Cookies sind solche Cookies, die für die Nutzung der Webseite zwingend erforderlich sind oder für deren Verwendung ein berechtigtes Interesse vorliegt. Wir verwenden folgende technisch notwendige Cookies:
+ 
+
+
+
+Name des Cookies
+Zweck bzw. Funktion
+Gültigkeitsdauer
+
+
+ID
+Das Cookie enthält die Session ID. Diese ist notwendig, um Aktionen eines Nutzers über mehrere Seitenaufrufe zuordnen zu können. Dies ist unter anderem erforderlich, um z.B. den aktuellen Warenkorb oder ein aktuelles Login über mehrere Seitenaufrufe einem konkreten Nutzer zuordnen zu können.
+Solange der Browser geöffnet ist.
+
+
+CookieConsent
+Das Cookie enthält Ihre persönlichen Cookie Einstellungen, die Sie in unserem Cookie Consent Tool festgelegt und gespeichert haben. 
+1 Jahr ab der letzten Speicherung der Cookie-Einstellungen
+
+
+domainSwitchSuggestion
+Dieses Cookie speichert die Information, dass dem Nutzer bereits der Wechsel der Sprache und damit der Domain mit einem Pop-Up vorgeschlagen wurde. Mit diesem Cookie wird verhindert, dass der Nutzer dauerhaft durch dieses Pop-Up belästigt wird.
+1 Jahr ab Einblendung des Pop-up Fensters
+
+
+__cf_bm
+Das Cookie ist für die Cloudflare-Sicherheitsfunktionen unbedingt erforderlich und kann nicht deaktiviert werden. Mehr Informationen zu Cloudflare finden Sie unter Nr. 8.
+maximal 24 Stunden nach dem letzten Besuch der Website
+
+
+CountryTax
+Das Cookie enthält die länderspezifischen Mehrwertsteuersätze entsprechend der getroffenen Länderauswahl. 
+24 Stunden ab Ihrer Aktion
+
+
+deliveryLocation
+Das Cookie enthält das vom Nutzer angegebene Lieferland sowie die Postleitzahl zur Berechnung von Verfügbarkeit und Paketlaufzeit von Express Dienstleistungen.
+24 Stunden ab Ihrer Aktion
+
+
+3.4. Komfort CookiesBei Komfort Cookies handelt es sich um Cookies, die die Nutzung des Shops angenehmer und komfortabler machen, z.B. durch zusätzliche Funktionen im Shop. Komfort Cookies verwenden wir nur dann, wenn Sie Ihre Einwilligung erteilt haben. Der Webshop kann auch ohne diese Komfort Cookies genutzt werden. Das Nutzererlebnis kann aber deutlich schlechter sein.
+ 
+
+
+
+
+Name des Cookies
+
+
+Zweck bzw. Funktion
+
+
+Gültigkeitsdauer
+
+
+
+
+BasketStore
+
+
+Dieses Cookie beinhaltet die aktuelle Warenkorb-ID sowie ggf. die Zuordnung dieser ID zu einem Login. Die Warenkorb-ID ermöglicht die Funktion des Erhaltens des Warenkorbs über die eigentliche Nutzersession hinaus. Der Warenkorb Inhalt kann damit auch Wochen oder Monate nach dem letzten Besuch der Seite wiederhergestellt werden.
+
+
+1 Jahr ab der letzten Veränderung des Warenkorbes
+
+
+
+
+ 
+Der Warenkorb Cookie sorgt dafür, dass der Warenkorb und dessen Inhalt auch nach Ende einer Session erhalten bleibt. Wenn Sie das Browser Fenster schließen und z.B. am nächsten Tag weiter einkaufen wollen, ist der Inhalt des Warenkorbes noch vorhanden.
+Wenn Sie das Setzen dieses Cookies nicht erlauben, ist Ihr Warenkorb nach dem Schließen des Browser Fensters leer. Der komplette Inhalt des Warenkorbs geht verloren.3.5. Marketing- und Statistik CookiesWir verwenden Webanalyse Tools, um Daten über die Nutzung unserer Webseiten zu generieren, um unseren Shop damit zielgerichtet verbessern zu können und letztlich ein besseres Nutzererlebnis zu erzielen. Wir verwenden die Webanalyse Tools Google Analytics und Google Tag Manager der Google Ireland Limited („Google“) mit Sitz in Gordon House, Barrow Street, Dublin 4, Irland. Im Zusammenhang mit diesen Tools verwenden wir auch Tracking-Tools der trbo GmbH, Römerstr. 6, 80801 München. Die genannten Tools setzen ebenfalls Cookies, sofern Sie Ihre ausdrückliche Einwilligung dafür erteilt haben.
+Mehr zur Verarbeitung Ihrer personenbezogenen Daten durch Google Analytics, Google Tag Manager und Trbo finden Sie unter Nr. 4 dieser Datenschutzerklärung.3.6. Technisch notwendige Cookies von DrittanbieternWenn Sie bestimmte Zahlungsarten wie Amazon Pay oder PayPal auswählen, werden Cookies gesetzt, um die Bezahlung mit der jeweiligen Zahlungsart zu ermöglichen.
+Wenn wir Elemente von "Facelift Cloud" wie Gewinnspiele oder einen Adventskalender in unsere Webseite einbinden und Sie diese betreffende Seite mit Ihrem Browser aufrufen, wird durch "Facelift Cloud" ein Cookie zur Identifizierung sowie zur Verhinderung von Angriffen gegen die Server-Infrastruktur von "Facelift Cloud" gesetzt. Mehr zu "Facelift Cloud" finden Sie unter Nr. 9.
+Wenn Sie bei BIKE24 eingebundene YouTube Videos abspielen möchten, werden ebenfalls Cookies gesetzt.
+In all diesen Fällen werden Cookies nicht initial beim Aufruf der jeweiligen Seite gesetzt. Cookies werden erst als Folge einer Aktion von Ihnen gesetzt, so z. B., wenn Sie die Zahlungsart PayPal aktiv auswählen oder wenn Sie ein eingebundenes YouTube Video abspielen.3.7. Rechtsgrundlage für die Verwendung von CookiesRechtsgrundlage für die Verwendung technisch notwendiger Cookies ist Art. 6 Abs. 1 f) DS-GVO. Die Verwendung dieser Cookies erfolgt im berechtigten Interesse, um eine reibungslose Funktion des BIKE24 Shops zu gewährleisten.
+Rechtsgrundlage für die Verwendung von Komfort Cookies (3.4.) sowie von Marketing- und Statistik Cookies (3.5.) ist Art. 6 Abs. 1 a) DS-GVO. Die Einwilligung haben Sie in unserem Cookie Consent Tool durch ausdrückliche Zustimmung erklärt. Mehr zum Cookie Consent Tool und persönlichen Cookie Einstellungen finden Sie unter 3.2.3.8. Widerruf der Einwilligung und Löschen von CookiesIhre Einwilligung in die Verwendung von Cookies können sie jederzeit mit Wirkung für die Zukunft widerrufen.
+Sie können hierfür das Cookie Consent Tool nutzen. Ihre persönlichen Cookie Einstellungen sind jederzeit über den Footer des Shops erreichbar. Sie können eine Auswahl ohne Komfort Cookies sowie Marketing- und Statistik Cookies speichern.
+Sie können ebenso in den Einstellungen Ihres Browsers alle bestehenden Cookies löschen. Dann werden Sie beim nächsten Aufrufen der BIKE24 Webseite aufgefordert, mit unserem Cookie Consent Tool eine neue Entscheidung über Ihre persönlichen Cookie Einstellungen zu treffen.4. Marketing- und Analyse-ToolsUnter der Voraussetzung des Vorliegens Ihrer ausdrücklichen Einwilligung setzt BIKE24 Marketing- und Analyse-Tools ein. Diese helfen uns dabei, besser zu verstehen, wie Sie unsere Webseite nutzen, die für Sie passenden Inhalte zur Verfügung zu stellen und unseren Shop insgesamt zu verbessern. Ferner dienen diese Analysetools dazu, Marketing-Maßnahmen besser auf Ihre Interessen zuzuschneiden und den Erfolg unserer Marketing-Maßnahmen zu messen. Hierfür werden Cookies und andere Technologie wie Local Storage und Skripte eingesetzt, die Informationen auf Ihrem Endgerät speichern oder auslesen. 
+Üblicherweise werden von Marketing- und Analyse-Tools folgende Daten verarbeitet:
+
+
+
+
+
+
+
+
+
+
+
+Diese Einwilligung kann über unser Cookie Consent Tool erteilt werden. Im Fall von Analyse- und Marketing Tools umfasst diese Einwilligung auch die Übermittlung von Daten in Drittländer, die kein mit der EU vergleichbares Datenschutzniveau aufweisen, insbesondere die USA. Wir weisen darauf hin, dass in den USA ein mit der Rechtslage in Deutschland oder der Europäischen Union vergleichbares Datenschutzniveau aufgrund des in den USA geltenden Rechts nicht gewährleistet werden kann. Hierbei bestehen u.a. folgende Risiken: die USA bietet keine oder schlechter durchsetzbare Rechte und keine unabhängige Datenschutzbehörde, die Ihnen beim Durchsetzen dieser Rechte Hilfe leisten kann. Weiterhin ist es möglich, dass in den USA ansässige Sicherheitsdienste auf Ihre Daten zugreifen. Hierfür sind keine Einschränkungen bezüglich der Verhältnismäßigkeit des Zugriffs und auch keine Garantien zum Schutz Ihrer Daten vorgesehen. Zudem besteht kein effektiver gerichtlicher Rechtsschutz gegen solche Zugriffe auf Ihre Daten.
+Sie können Ihre Einwilligung jederzeit widerrufen oder Ihre Auswahl ändern, indem Sie das Cookie Consent Tool über den Link „Cookie Einstellungen“ unter „Über BIKE24“ im Footer der Website wieder aufrufen.4.1. Google Analytics und Google Tag ManagerWenn Sie in die Verwendung eingewilligt haben, nutzt BIKE24 Google Analytics, einen Webanalysedienst, der für Personen aus Europa, dem Nahen Osten und Afrika (EMEA) von der Google Ireland Limited („Google“) mit Sitz in Gordon House, Barrow Street, Dublin 4, Irland, und für alle übrigen Personen von der Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, angeboten wird. Google Analytics verwendet Tracking Cookies, Local Storage und Skripte, die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die mit deren Hilfe erfassten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. BIKE24 nutzt Google Analytics mit der Einstellung „anonymizeIP“. Dadurch werden IP-Adressen durch Google Analytics nur gekürzt weiterverarbeitet, um eine direkte Individualisierbarkeit von Personen auszuschließen.
+Folgende Daten werden von Google Analytics verarbeitet:
+
+
+
+
+
+
+
+
+
+
+Die Speicherdauer der Cookies beträgt mindestens 14 Monate und längstens 26 Monate.
+Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen.
+Neben dem Widerruf Ihrer Einwilligung können Sie die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Darüber hinaus können Sie – neben dem Widerruf Ihrer Einwilligung – die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: .
+Um Google Analytics einzubinden, verwenden wir den Google Tag Manager, der für Personen aus dem Europäischen Wirtschaftsraum und der Schweiz von der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland und für alle übrigen Personen von Google LLC, 1600 Amphitheatre Parkway Mountain View, CA 94043, USA („Google“) angeboten wird. Dieser übernimmt mittels eines Skripts die Aktivierung von Google Analytics und stellt die ordnungsgemäße Einbindung des Tools sicher. Der Google Tag Manager verarbeitet lediglich temporär die durch den Verbindungsaufbau zwangsläufig anfallenden Verbindungsdaten. Eine Nutzungsanalyse durch den Google Tag Manager selbst findet nicht statt.
+Wir haben mit Google Ireland Limited einen Auftragsverarbeitungsvertrag abgeschlossen. Für den Fall, dass personenbezogene Daten in die USA übertragen werden, haben Google Ireland Limited und Google LLC Standardvertragsklauseln (Modul 3) abgeschlossen. Wir holen im Rahmen der Einwilligungserteilung auch Ihre ausdrückliche Einwilligung für die Datenübermittlung in die USA ein.
+Nähere Informationen finden Sie in der Datenschutzerklärung von Google.4.2. TrboWenn Sie in die Verwendung eingewilligt haben, nutzen wir für Marketingzwecke zudem Tracking-Tools der trbo GmbH, Römerstr. 6, 80801 München („Trbo“).
+Diese helfen uns zu verstehen, welche Seiten für die Nutzer unserer Dienste besonders attraktiv sind, welche Produkte unsere Kunden am meisten interessieren und welche individuellen Angebote wir unseren Website-Nutzern jeweils machen sollten. Die in diesem Rahmen erhobenen und verwendeten Daten werden stets nur unter einem Pseudonym (z.B. einer zufälligen Identifikationsnummer) gespeichert und werden nicht mit weiteren personenbezogenen Daten über Sie (z.B. Name, Adresse etc.) zusammengeführt. Hierzu werden Cookies, Local Storage, Session Storage und Skripte verwendet.
+Insbesondere folgende Daten werden verarbeitet:
+
+
+
+
+
+
+
+Die Speicherdauer der Cookies, Local Storage und Session Storage Elemente beträgt mindestens 30 Minuten und längstens 36 Monate.
+Wir haben mit Trbo einen Auftragsverarbeitungsvertrag abgeschlossen.
+Um Trbo einzubinden, verwenden wir den Google Tag Manager, der für Personen aus dem Europäischen Wirtschaftsraum und der Schweiz von der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland und für alle übrigen Personen von Google LLC, 1600 Amphitheatre Parkway Mountain View, CA 94043, USA („Google“) angeboten wird. Dieser übernimmt mittels eines Skripts die Aktivierung von Trbo und stellt die ordnungsgemäße Einbindung des Tools sicher. Der Google Tag Manager verarbeitet lediglich temporär die durch den Verbindungsaufbau zwangsläufig anfallenden Verbindungsdaten. Eine Nutzungsanalyse durch den Google Tag Manager selbst findet nicht statt.
+Wir haben mit Google Ireland Limited einen Auftragsverarbeitungsvertrag abgeschlossen. Für den Fall, dass personenbezogene Daten in die USA übertragen werden, haben Google Ireland Limited und Google LLC Standardvertragsklauseln (Modul 3) abgeschlossen. Wir holen im Rahmen der Einwilligungserteilung auch Ihre ausdrückliche Einwilligung für die Datenübermittlung in die USA ein.4.3. EmarsysWenn Sie in die Verwendung eingewilligt haben, nutzen wir für Marketingzwecke zudem Tracking- Tools der Emarsys eMarkting Systems GmbH, Märzstrasse 1, 1150 Wien, Österreich („Emarsys“). Mit ihrer Hilfe können wir aufgrund der Beobachtung Ihres Nutzerverhaltens auf unserer Website und aufgrund Ihrer Bestell- und Kaufentscheidungen besser nachvollziehen, für welche Inhalte oder Produkte unseres Shops Sie sich besonders interessiert haben und welche unserer Marketing-Aktionen Sie angesprochen haben.
+Im Einzelnen speichern diese Tools:
+
+
+
+
+
+
+
+Mit Hilfe dieser Daten können wir ein Kundenprofil erstellen, um Ihnen ein individuelles Kundenerlebnis bieten und auf Sie zugeschnittene Werbung sowie Inhalte in unserem Internetauftritt anzeigen zu können. Sofern Sie in die Zusendung personalisierter Newsletter eingewilligt haben, werden diese Daten auch für die individuelle Ausgestaltung dieser personalisierten Newsletter verwendet.
+Die Speicherdauer der Cookies beträgt maximal 12 Monate.
+Wir haben mit Emarsys einen Auftragsverarbeitungsvertrag abgeschlossen. Die Speicherung Ihrer Daten findet grundsätzlich in der Europäischen Union statt. Soweit Emarsys Dienstleister einbindet, die ihren Sitz außerhalb der Europäischen Union haben, liegen für die damit verbundene mögliche Drittlandübermittlung entweder Angemessenheitsbeschlüsse vor oder wurden Standardvertragsklauseln abgeschlossen. Zudem holen wir im Rahmen der Einwilligungserteilung auch Ihre ausdrückliche Einwilligung für eine etwaige Datenübermittlung in die USA ein.5. Google reCAPTCHABIKE24 verwendet auf dieser Webseite den Dienst „Google reCAPTCHA“. Anbieter ist die Google Ireland Limited („Google“) mit Sitz in Gordon House, Barrow Street, Dublin 4, Irland. Google reCAPTCHA setzen wir zur Verhinderung von Missbrauch durch automatisierte, maschinelle Dateneingabe ein. Dies betrifft insbesondere Seiten, auf denen Nutzer bestimmte Formulardaten eingeben und an unsere Server übermitteln. Google reCAPTCHA ermöglicht hier die Unterscheidung von Dateneingabe durch einen Menschen von einer maschinellen bzw. automatisierten Dateneingabe.
+Der Dienst analysiert im Hintergrund das Verhalten des Nutzers auf der Webseite. Google reCAPTCHA ermittelt anhand bestimmter Merkmale, ob eine natürliche Bedienung der Webseite vorliegt. Es werden durch Google reCAPTCHA Ihre IP-Adresse und ggf. auch weitere Daten (z.B. über Ihr verwendetes Gerät) an Google übertragen.
+Rechtsgrundlage für diese Datenverarbeitung ist Art. 6 Abs. 1 f) DS-GVO. Das Berechtigte Interesse besteht in der Verhinderung von Missbrauch bzw. Ausspähen unserer Webseite sowie in der Verhinderung von SPAM.
+Weitere Informationen zu Google reCAPTCHA sowie die Datenschutzerklärung von Google erreichen Sie unter: 6. Log DateienWenn Sie die BIKE24 Webseite besuchen, werden durch Ihren Internetbrowser Nutzungsdaten an unsere Server übermittelt. Unsere Server protokollieren Nutzungsdaten in sogenannten Logfiles. Dabei werden gespeichert: Datum und Uhrzeit, Art der Anforderung, Protokolltyp und Status des Zugriffs, Größe und Name der Datei, IP-Adresse, von der die Anforderung ausgeht, Referrer-URL (Informationen über die Webseite, von der aus Sie auf unsere Webseite gekommen sind), Informationen zum verwendeten Internetbrowser (z. B. welcher Browser wird verwendet, die Versionsnummer dieses Browsers sowie die Art der Verschlüsselung).
+Wir verwenden Logfiles, um die Funktion und Performance unseres Shops zu überwachen und den BIKE24 Shop weiterzuentwickeln und zu verbessern. So werden z. B. Fehler in der Funktion des Shops aufgezeichnet, die in der Folge durch uns behoben werden. Die Speicherung von Daten in Logfiles erfolgt darüber hinaus aus Sicherheitsgründen, um einen sicheren Betrieb unseres Systems zu gewährleisten.
+Rechtsgrundlage für diese Datenverarbeitung ist Art. 6 Abs. 1 f) DS-GVO. Das erforderliche berechtigte Interesse besteht in der Sicherung der Funktion des Shops sowie der Gewährleistung eines sicheren Betriebes unserer Shop-Server. IP-Adressen der Nutzer werden nach maximal 10 Tagen gelöscht oder anonymisiert.7. Content Delivery Network (CDN)BIKE24 verwendet den Dienstleister CDN77, DataCamp Ltd, London, der bestimmte Inhalte der BIKE24 Shop Seite für uns an Sie bzw. Ihren Browser ausliefert. Das betrifft u.a. Produktbilder. Der Dienstleister ermöglicht durch seine Infrastruktur einerseits eine schnelle Auslieferung dieser Daten an Sie. Parallel wird der Dienstleister die Daten von einem räumlich möglichst in Ihrer Nähe befindlichen Server ausliefern. Beides minimiert Ladezeiten und verbessert für Sie das Nutzererlebnis.
+Der CDN Dienstleister erhält dabei immer Ihre IP-Adresse.
+Grundsätzlich zeichnet der CDN Anbieter keine Log-Daten auf. Log-Daten werden nur im Falle von Fehlern zur Fehleranalyse aufgezeichnet. Dabei wird die IP-Adresse nur anonymisiert gespeichert, das Logfile nach maximal 10 Tagen gelöscht.
+Rechtsgrundlage für diese Datenverarbeitung ist Art. 6 Abs. 1 f) DS-GVO.8. CloudflareWir verwenden auf dieser Webseite die Anwendung Cloudflare des Anbieters Cloudflare Inc., 101 Townsend St., San Francisco, CA 94107 USA, um unsere Webseite schneller und sicherer zu machen. Cloudflare bietet ein weltweit verteiltes Content Delivery Network mit DNS an. Cloudflare legt hierbei Kopien unserer Webseite an und platziert sie auf eigenen Servern. So wird gewährleistet, dass bei Aufrufen unserer Webseite, diese von dem Server ausgeliefert wird, der Ihnen unsere Webseite am schnellsten anzeigen kann. Cloudflare blockiert gleichzeitig Bedrohungen und begrenzt missbräuchliche Bots und Crawler, die unsere Bandbreite und Serverressourcen verschwenden oder versuchen, unsere Systeme auf andere Art und Weise anzugreifen. 
+Zur Erbringung dieses Service fließt der gesamte Datentransfer zwischen Ihrem Browser und unseren Webseiten über die Infrastruktur von Cloudflare. Cloudflare liefert hierbei Inhalte unserer Webseite aus und analysiert den Datenverkehr, um Angriffe abzuwehren. 
+Zu diesem Zweck erhält Cloudflare Informationen zu IP-Adressen und DNS-Protokolldaten. Die IP-Adressen stellen dabei lediglich pseudonymisierte Daten dar, die allenfalls theoretisch und nicht ohne erheblichen Aufwand und Kosten einer natürlichen Person zugeordnet werden könnten. Aus Sicherheitsgründen verwendet Cloudflare zudem ein Cookie. Das Cookie ist für die Cloudflare-Sicherheitsfunktionen unbedingt erforderlich und kann nicht deaktiviert werden. 
+Die beim Aufruf unserer Website erhobenen Daten werden ausschließlich in der europäischen Union gespeichert und verarbeitet („Data Localization Suite“). Dies umfasst auch die daraus entwickelten Logfiles und insbesondere Datenverarbeitungen, um den sicheren Aufruf der Seite zu beschleunigen, Bedrohungen wie Bots und DDoS-Attacken zu erkennen sowie die Stabilität des Verbindungsaufbaus zu gewährleisten. Hierfür haben wir mit Cloudflare die Nutzung regionaler, europäischer Infrastruktur und Dienste vereinbart. Dies umfasst insbesondere die Option „Customer Metadata Boundary“. Diese Funktion stellt sicher, dass auch sämtliche Traffic-Metadaten, die die IP-Adresse enthalten können, ausschließlich auf Servern in der Europäischen Union (insbesondere in Luxemburg) verarbeitet werden. 
+Weitere Informationen zu diesen Sicherheitsmaßnahmen finden Sie unter: 
+Die Gewährleistung der Sicherheit und Abrufbarkeit unserer Webseite stellen ein berechtigtes Interesse unsererseits gemäß Art. 6 Abs. 1 S. 1 f) DS-GVO dar. Bezüglich der Weitergabe der Daten haben wir mit Cloudflare eine entsprechende Vereinbarung zur Auftragsverarbeitung gemäß Art. 28 DS-GVO abgeschlossen. 
+Im Regelfall speichert Cloudflare Ihre Daten für bis zu sieben Tage. Wenn allerdings Ihre IP-Adresse bei Cloudflare eine Sicherheitswarnung auslöst, kann es zu Ausnahmen von der oben ausgeführten Speicherdauer kommen.
+Cloudflare speichert und verarbeitet personenbezogene Daten grundsätzlich auf Servern in der Europäischen Union. Da es sich bei Cloudflare Inc. jedoch um einen US-Anbieter handelt, haben wir mit Cloudflare zudem EU-Standardvertragsklauseln (Durchführungsbeschluss (EU) 2021/914 der Kommission, Modul 2) bezüglich der nicht vollkommen auszuschließenden Übermittlung personenbezogener Daten in die USA abgeschlossen. Danach verpflichtet sich Cloudflare insbesondere, jede Anfrage von US-Sicherheitsbehörden anzufechten und über diese zu informieren, soweit dies gesetzlich nicht untersagt ist. Es bestehen zudem umfangreiche zusätzliche Schutzmaßnahmen, um die Datenverarbeitung auf die Europäische Union zu begrenzen, wie oben aufgeführt. Ein Beschluss der Europäischen Kommission zur Angemessenheit des Datenschutzniveaus in den USA liegt derzeit nicht vor. Eine Kopie der EU-Standardvertragsklauseln können Sie bei uns abfragen.9. Algolia - nur für die Domain bike24.atWir verwenden auf unserer Domain bike24.at die Suchmaschine der Algolia SAS, 55 Rue d’Amsterdam, 75008 Paris, France („Algolia“) zur Bereitstellung einer Such- und Filterfunktion über das Suchfeld in unserem Webshop sowie zur Verbesserung der Suchergebnisse.
+Zu diesem Zweck erfasst und verarbeitet Algolia die folgenden Daten: 
+
+
+
+
+
+
+
+Für die Suchfunktion wird die Suchanfrage an Algolia gesendet und mit den von BIKE24 bereitgestellten Produkten abgeglichen, um passende Suchergebnisse zurückzuspielen. Mit der Filterfunktion können beispielsweise die Produktkategorie oder andere Filter eingestellt werden, mit deren Hilfe die Suchergebnisse eingegrenzt werden. Zur Verbesserung der Suchergebnisse wird eine anonymisierte Analyse der Suchanfragen und der angeklickten Suchergebnisse vorgenommen. Hierfür findet keine Zuordnung zu einer IP-Adresse oder einem Token statt.
+Die bei der Verwendung der Such- und Filterfunktion übermittelte IP-Adresse wird nach kurzer Zeit anonymisiert und für 7 Tage aufbewahrt. Suchanfragen und -ergebnisse ohne Zuordnung zu einer IP-Adresse oder Token werden für 90 Tage gespeichert. 
+Wir haben mit Algolia einen Vertrag zur Auftragsverarbeitung gemäß Art. 28 DS-GVO abgeschlossen. Die Daten werden auf Servern in Deutschland gespeichert. Die Verarbeitung der Daten erfolgt grundsätzlich im Europäischen Wirtschaftsraum. Soweit Algolia Dienstleister einbindet, die ihren Sitz außerhalb der Europäischen Union haben, liegen für die damit verbundene mögliche Drittlandübermittlung entweder Angemessenheitsbeschlüsse vor oder wurden Standardvertragsklauseln abgeschlossen. Es wurden Maßnahmen getroffen, um die Personenbeziehbarkeit auf die erforderliche Dauer zu beschränken und die IP-Adresse so schnell wie möglich zu anonymisieren.
+Mehr Informationen zum Datenschutz von Algolia finden Sie unter: 
+Sofern hierbei personenbezogene Daten verarbeitet werden, erfolgt die Verarbeitung gemäß Art. 6 Abs. 1 f) DS-GVO auf Basis unseres berechtigten Interesses an der Zurverfügungstellung einer fehlertoleranten Suche nach Artikeln sowie dem leichteren Auffinden unserer Produkte im Webshop und mithin an einer kundenfreundlichen Vermarktung unseres Angebots.10. Social Media PlattformenAuf der Website von BIKE24 finden Sie Links zu Social Media Plattformen von Facebook, YouTube, Instagram und Twitter bei denen BIKE24 vertreten ist und Inhalte anbietet. Es handelt sich dabei um statische Links. BIKE24 verwendet keine Social Media Plugins. 
+BIKE24 ist in sozialen Medien vertreten, um mit unseren Kunden, mit Interessenten und mit anderen Nutzern in Kontakt zu treten und über Produkte, Veranstaltungen oder Gewinnspiele zu informieren. Wir weisen Sie darauf hin, dass bei dem Besuch der entsprechenden Seiten personenbezogene Daten vom jeweiligen Anbieter erhoben und verarbeitet werden. Rechtsgrundlage für die Verarbeitung der personenbezogenen Daten der Nutzer ist Art. 6 Abs. 1 f) DS-GVO. Das berechtigte Interesse von BIKE24 besteht in der optimalen Gestaltung und Verbesserung der Unternehmensdarstellung. 
+Wenn Sie unsere Angebote im jeweiligen sozialen Netzwerk als eingeloggtes Mitglied nutzen, liegt Ihrerseits eine Einwilligung in die Datenverarbeitung gemäß Art. 6 Abs. 1 a) DS-GVO gegenüber der Social Media Plattform vor. Um unsere Aktivitäten zu verstehen und zu verbessern, nutzen wir entsprechende Auswertungen in Form von Statistiken, die uns der jeweilige Anbieter zur Verfügung stellt.10.1. FacebookBIKE24 verwendet für den genannten Informationsdienst die technische Plattform der Facebook Ireland Ltd., 4 Grand Canal Square Grand Canal Harbour, Dublin 2, Ireland.
+Bitte beachten Sie, dass Sie diese Facebook-Seite inklusive ihrer Funktionen eigenverantwortlich nutzen. Dies gilt vor allem für die Benutzung von interaktiven Funktionen (z.B. Kommentieren, Teilen, Bewerten).
+Wenn Sie unsere Facebook-Seite besuchen, erfasst Facebook u.a. Ihre IP-Adresse. Diese und weitere Informationen werden verwendet, um uns als Betreiber der Facebook-Seiten statistische Daten über die Inanspruchnahme unserer Facebook-Seite zur Verfügung zu stellen. Nähere Informationen dazu stellt Facebook unter folgendem Link zur Verfügung:
+
+Die dabei über Sie erhobenen Daten werden von der Facebook Ltd. gegebenenfalls außerhalb der Europäischen Union gespeichert und verarbeitet. Darüber ob und wie Facebook Daten von Besuchern unser Facebook-Seite zusätzlich für eigene Zwecke verwendet, können wir keine Auskunft geben. Ebenfalls verfügen wir über keine Angaben, ob Ihre Daten an Dritte weitergegeben werden, mit Daten aus anderen Angeboten von Facebook zusammengefügt werden, wie lange Facebook Daten speichert und ob Seitenbesuche einzelnen Nutzern zugeordnet werden. Welche Informationen Facebook tatsächlich erhält und in welcher Form Facebook diese nutzt, können Sie in den Datenverwendungsrichtlinien von Facebook nachlesen. In den Datenverwendungsrichtlinien finden Sie auch weiterführende Kontaktmöglichkeiten zu Facebook sowie zu den Einstellmöglichkeiten für Werbeanzeigen. Die Datenverwendungsrichtlinien finden Sie hier:
+
+Die vollständigen Datenrichtlinien von Facebook finden Sie hier:
+
+BIKE24 selbst erhebt und verarbeitet grundsätzlich keine weiteren Daten aus Ihrer direkten Nutzung von Facebook. Lediglich bei Verlosungen oder Gewinnspielen ist eine Datenverarbeitung möglich. In diesen Fällen nutzen wir z.B. Kontaktdaten, um mit Gewinnern unserer Verlosungen in Kontakt zu treten. BIKE24 verwendet für eine allgemeine Auswertung der Facebook-Seite die Software Facebook Insights. Hier werden uns anonymisierte Daten von Facebook zur Verfügung gestellt, die keine Rückschlüsse auf einzelne Nutzer zulassen. Wie bereits erwähnt, nutzen wir diese statistischen Daten aus Facebook Insights, um unser Angebot auf Facebook entsprechend zu gestalten und zu verbessern.
+Entsprechend der Angaben von Facebook speichert Facebook Ihre IP-Adresse, wenn Sie unsere Facebook-Seite besuchen. Laut Facebook wird diese anonymisiert und nach einer Speicherdauer von 90 Tagen gelöscht (deutsche IP-Adressen). Darüber hinaus speichert Facebook Informationen der Endgeräte, die Sie für den Besuch nutzen. Durch die Zuordnung von IP-Adressen kann es hier womöglich zu einer Identifizierung einzelner Nutzer kommen.
+Facebook speichert Cookies mit Ihrer Facebook-Kennung auf Ihrem Endgerät, wenn Sie bei Facebook angemeldet sind. Durch dieses Cookie kann Facebook Ihre Seitenaufrufe innerhalb von Facebook nachvollziehen. Dies gilt für die Facebookseite von BIKE24 und auch für Facebook-Seiten anderer Anbieter. Wenn Sie einen Facebook-Button nutzen, der in einer Website eingebettet ist, kann Facebook diese Nutzung mit Ihrem Profil in Verbindung bringen. Dadurch ist es Facebook möglich, Ihnen Werbung anzubieten, die aus Ihrem Nutzerverhalten resultiert.
+Sie können dies vermeiden, indem sie sich bei Facebook abmelden, bevor Sie die Facebook-Seite von BIKE24 besuchen und die Funktion „angemeldet bleiben“ deaktivieren. Zusätzlich müssen Sie alle Cookies von Ihrem Endgerät löschen und Ihren Browser neu starten. Anschließend können Sie unsere Facebook-Seite nutzen, ohne dass Ihre Facebook-Kennung verarbeitet wird.
+Wollen Sie Funktionen auf Facebook nutzen, um mit uns zu interagieren (Gefällt mir, Kommentieren, Teilen, Nachrichten etc.) wird Ihnen eine Anmeldemaske angezeigt. Diese Form der Interaktion ist nur angemeldeten Mitgliedern von Facebook möglich. Sobald Sie jedoch wieder angemeldet sind, sind Sie für Facebook wieder als Nutzer erkennbar. Weiterführende Informationen zur Facebook Datenrichtlinie finden Sie unter folgendem Link:
+10.2. TwitterBIKE24 greift für den hier angebotenen Kurznachrichtendienst auf die technische Plattform und die Dienste der Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA zurück.
+Bitte beachten Sie, dass Sie Twitter inklusive seiner Funktionen eigenverantwortlich nutzen. Dies gilt vor allem für die Benutzung von interaktiven Funktionen (z.B. Kommentieren, Teilen, Bewerten).
+Wenn Sie Twitter nutzen, werden Daten von Ihnen außerhalb der Europäischen Union gespeichert und verarbeitet. Zu den Daten, die dabei möglicherweise übertragen werden, gehören Ihre IP-Adresse, die genutzte Applikation und Informationen zu dem von Ihnen verwendeten Endgerät. Auch Daten bezüglich ihres Standortes und zu aufgerufenen Webseiten können davon betroffen sein.
+Twitter verknüpft diese gesammelten Daten mit Ihrem Twitter-Konto und kann so möglicherweise ein Verhaltensprofil erstellen. BIKE24 kann die Art und den Umfang der gesammelten Daten durch Twitter nicht beeinflussen. Auch haben wir keinen Einfluss darauf, ob Twitter Ihre Daten an Dritte weitergibt oder für welche Zwecke Twitter die gespeicherten Daten darüber hinaus nutzt.
+Unter folgendem Link finden Sie entsprechende Informationen darüber, welche Daten Twitter laut eigener Aussage erhebt und verarbeitet:
+
+Wenn Sie ein Twitter-Konto besitzen und Informationen zu den von Ihnen gespeicherten Daten bei Twitter einsehen wollen, können Sie dies unter folgendem Link tun:
+
+Weiterhin haben Sie die Möglichkeit, über das Twitter Datenschutzformular Ihre Fragen zum Datenschutz direkt an Twitter zu richten. Darüber hinaus besteht für Sie die Möglichkeit, Ihr Twitter Archiv herunterzuladen:
+
+
+BIKE24 selbst erhebt und verarbeitet keine weiteren personenbezogenen Daten aus Ihrer direkten Nutzung bei Twitter. Für eine statistische Auswertung unserer Aktivitäten bei Twitter nutzen wir Twitter Analytics. Diese Funktion ermöglicht es uns, unsere Präsenz bei Twitter optimal zu gestalten und lässt dabei keine Rückschlüsse auf die Daten einzelner Nutzer zu.
+In den Einstellungen Ihres Twitter-Kontos haben Sie die Option, die Verarbeitung Ihrer Daten durch Twitter zu beschränken („Datenschutz und Sicherheit“). Hier haben Sie auch die Möglichkeit, den Zugriff von Twitter auf Ihre Kontakt- und Kalenderdaten, Fotos und Standortdaten auf Ihrem Endgerät einzuschränken. Informationen diesbezüglich finden Sie auf Twitter unter folgenden Links:
+
+10.3. InstagramBIKE24 nutzt für den genannten Dienst die technische Plattform von Instagram (Facebook Ireland Ltd., 4 Grand Canal Square, Dublin 2, Ireland bzw. Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA). Instagram speichert personenbezogene Daten von Ihnen, wenn Sie diese Seite besuchen.
+BIKE24 als Verantwortlicher hat mit Facebook eine Vereinbarung getroffen, in der auch die Bedingungen für eine Nutzung der Instagram-Seite geregelt sind. Grundlegend sind die Nutzungsbedingungen von Instagram unter  sowie die dort am Ende aufgeführten sonstigen Bedingungen und Richtlinien.
+Durch die Verarbeitung von Informationen ist es Facebook möglich, Werbung für seine Nutzer über das eigene Netzwerk zu verbreiten. Die Datenverarbeitung durch Facebook ermöglicht BIKE24 gleichzeitig die Nutzung von Statistiken, die Facebook zur Verfügung stellt. So kann BIKE24 die eigenen Inhalte optimal gestalten und die Nutzer besser erreichen. Teile dieser Statistik beinhalten demografische und geografische Angaben. Auf die zugrundeliegenden Daten hat BIKE24 jedoch keinen Einfluss. Diese Daten sind uns in vollem Umfang nicht bekannt.
+Es ist wahrscheinlich, dass die von der Facebook Ltd. über Sie erhobenen Daten außerhalb der Europäischen Union gespeichert und verarbeitet werden.
+Sie als Nutzer von Instagram können durch entsprechende Einstellungen das Speichern von Daten und das Erfassen von Nutzerverhalten durch Instagram in Ihren Profileinstellungen beeinflussen.
+Nutzer von Instagram können unter den Einstellungen für Werbepräferenzen beeinflussen, inwieweit ihr Nutzerverhalten bei dem Besuch auf unserer Instagram-Seite erfasst werden darf. 
+Weiterführende Informationen finden Sie in den Facebook- und Instagram-Einstellungen:
+
+
+
+oder das Formular zum Widerspruchsrecht unter:
+
+Wenn Sie ein Ablegen von Cookies durch Facebook vermeiden und die damit verbundene Verarbeitung Ihrer Daten unterbinden möchten, stellen Sie Ihren Browser so ein, dass keine Cookies von Drittanbietern oder von Facebook zugelassen werden.
+Weitere Informationen zum Umgang mit personenbezogenen Daten durch Facebook auf Instagram finden sich in deren Datenschutzrichtlinie unter  bzw. unter .10.4. YouTubeAuf der Webseite von BIKE24 werden z.B. zu ausgewählten Artikeln und Markenshops Videos der entsprechenden Marken angezeigt. Die Videos werden auf dem Videoportal der YouTube LLC., 901 Cherry Ave., 94066 San Bruno, CA, USA, (YouTube) durch die Marken zur Verfügung gestellt. Zusätzlich unterhält BIKE24 einen eigenen YouTube Kanal.
+YouTube ist ein Tochterunternehmen der Google LLC., Gordon House, Barrow Street, Dublin 4, Irland, nachfolgend nur „Google“ genannt.
+Videos werden von BIKE24 ausschließlich im Rahmen des „Erweiterten Datenschutzmodus“ verwendet. Durch diese Funktion werden laut Aussage von YouTube nur dann Nutzerdaten an YouTube übermittelt, wenn ein Video auch tatsächlich gestartet wird. 
+Wenn Sie als eingeloggtes YouTube Mitglied ein Video starten, wird der Aufruf des Videos mit Ihrem YouTube-Konto in Verbindung gebracht. Die Verknüpfung dieser Informationen können Sie verhindern, wenn Sie sich vor dem Besuch unserer Internetseite bei YouTube aus Ihrem Kundenkonto abmelden. Alternativ können Sie auch die dafür nötigen Einstellungen in Ihrem YouTube-Benutzerkonto vornehmen.
+YouTube legt dauerhafte Cookies auf Ihrem Endgerät ab, um nach eigener Aussage die Funktionalität zu gewährleisten und um Nutzerverhalten zu analysieren. Sie können die Speicherung von Cookies auf Ihrem Endgerät durch entsprechende Einstellungen in Ihrem Browser unterbinden.
+Unter folgendem Link erhalten Sie weitere Informationen zur Datenerhebung durch Google und über Ihre Rechte gegenüber Google:
+ abrufbaren Datenschutzhinweisen bereit.10.5. Weitere HinweiseWenn Sie Ihre Betroffenenrechte gegenüber den genannten Social Media Plattformen geltend machen wollen, bietet es sich an, dass Sie sich mit Ihrem Auskunftsersuchen direkt an die jeweilige Plattform wenden. Auch wenn eine gemeinsame Verantwortung durch die Zusammenarbeit von BIKE24 und den einzelnen Plattformen entsteht, so haben die Plattformen allein die Möglichkeit, Ihnen vollumfänglich Auskunft über die von Ihnen dort gespeicherten Daten zu erteilen. Sollte jedoch unsere Unterstützung erforderlich sein, können Sie uns jederzeit kontaktieren.
+Bei Fragen zum Thema Datenschutz kontaktieren Sie unseren Datenschutzbeauftragten unter datenschutz at bike24.net.
+Sollten Sie Fragen zu einer laufenden Bestellung haben oder eine Beratung zu einem Produkt benötigen, wenden Sie sich bitte ausschließlich an unser kompetentes Service Team. Informationen für eine Kontaktaufnahme finden Sie hier: 
+Aus Datenschutzgründen stellen wir unseren Kundenservice nicht über „Social Media Plattformen“ zur Verfügung.11. Ihre Rechte als NutzerNachfolgend möchten wir Ihnen Ihre Rechte nach der Datenschutzgrundverordnung zusammenfassen.11.1. Recht auf Widerruf der datenschutzrechtlichen Einwilligungserklärung (Art. 7 Abs. 3 DS-GVO)Sie haben das Recht, Ihre Einwilligungen jederzeit zu widerrufen. Durch den Widerruf der Einwilligung wird die Rechtmäßigkeit, der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht berührt. Sie werden vor Abgabe der Einwilligung hiervon in Kenntnis gesetzt.11.2. Auskunftsrecht (Art. 15 DS-GVO)Gem. Art. 15 DS-GVO haben Sie das Recht, von uns eine Bestätigung darüber zu verlangen, ob wir personenbezogene Daten verarbeiten, die Sie betreffen. Ist dies der Fall, so haben Sie ein Recht auf Auskunft über diese personenbezogenen Daten und auf folgende Informationen:
+
+
+
+
+
+
+
+
+
+
+11.3. Recht auf Berichtigung (Art. 16 DS-GVO)Sie können von uns die unverzügliche Berichtigung unrichtiger Daten verlangen, die Sie betreffen. Unter Berücksichtigung der Zwecke der Verarbeitung haben Sie zudem das Recht, die Vervollständigung unvollständiger personenbezogener Daten – auch mittels einer ergänzenden Erklärung – zu verlangen.11.4. Recht auf Löschung bzw. „Recht auf Vergessenwerden“ (Art. 17 DS-GVO)Sie haben das Recht, dass wir Daten unverzüglich löschen, sofern einer der folgenden Gründe zutrifft:
+
+
+
+
+
+
+
+
+
+Wenn wir Ihre Daten öffentlich gemacht haben und zur Löschung verpflichtet sind, treffen wir unter Berücksichtigung der verfügbaren Technologie und der Implementierungskosten angemessene Maßnahmen, die Verantwortlichen darüber zu informieren, dass Sie die Löschung verlangt haben.11.5. Recht auf Einschränkung der Verarbeitung (Art. 18 DS-GVO)Gemäß Art. 18 DS-GVO dürfen wir in folgenden Fällen Daten nur eingeschränkt verarbeiten. Die ist der Fall, wenn:
+
+
+
+
+
+
+Wurde die Verarbeitung eingeschränkt, so dürfen wir diese Daten lediglich speichern. Eine darüberhinausgehende Verarbeitung ist dann nur mit Ihrer Einwilligung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Union oder eines Mitgliedstaats zulässig.
+Ihre in diesem Zusammenhang erteilte Einwilligung können Sie jederzeit widerrufen.
+Sie werden von uns benachrichtigt, bevor die Einschränkung aufgehoben wird.11.6. Mitteilungspflicht (Art. 19 DS-GVO)Wir sind verpflichtet, alle Empfänger, denen Ihre Daten offengelegt wurden, über eine Berichtigung oder Löschung Ihrer Daten oder eine Einschränkung der Verarbeitung zu informieren. Das gilt nur dann nicht, sofern sich dies sich als unmöglich erweist oder mit einem unverhältnismäßigen Aufwand verbunden ist. Wir unterrichten Sie über diese Empfänger, wenn Sie dies verlangen.11.7. Recht auf Datenübertragbarkeit (Art. 20 DS-GVO)Sie haben das Recht, die Sie betreffenden Daten, die sie uns bereitgestellt haben, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten. Sie haben außerdem das Recht, dass wir diese Daten einem Dritten übermitteln, sofern
+
+
+
+
+Hierbei können Sie verlangen, dass wir Ihre Daten direkt an den Dritten übermitteln, soweit dies technisch machbar ist. Dieses Recht darf die Rechte und Freiheiten anderer Personen nicht beeinträchtigen.11.8. Automatisierte Entscheidung im Einzelfall einschließlich Profiling (Art. 22 DS-GVO)Sie haben das Recht, nicht einer ausschließlich auf einer automatisierten Verarbeitung – einschließlich Profiling – beruhenden Entscheidung unterworfen zu werden, wenn diese Ihnen gegenüber rechtliche Wirkung entfaltet oder Sie in ähnlicher Weise beeinträchtigt. Dies gilt nicht, wenn:
+
+
+
+
+
+In beiden ersten Fällen treffen wir angemessene Maßnahmen, um Ihre Rechte und Freiheiten sowie Ihre berechtigten Interessen zu wahren. Hierzu gehört, dass Sie Ihren eigenen Standpunkt erläutern, die automatische Entscheidung anfechten und die Einwirkung einer unserer Personen verlangen können.11.9. Widerspruchsrecht (Art. 21 DS-GVO)Wenn wir Ihre Daten aufgrund eines berechtigten Interesses verarbeiten (Art. 6 Abs. 1 lit. f DS-GVO), haben Sie das Recht, hiergegen Widerspruch einzulegen, wenn sich die Gründe hierfür aus ihrer besonderen Situation ergeben. Dies gilt auch für ein auf diese Bestimmungen gestütztes Profiling. In diesem Fall verarbeiten wir Ihre Daten nicht mehr, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen. Dies müssen Ihre Interessen, Rechte und Freiheiten überwiegen, oder aber die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
+Sofern wir Ihre Daten verarbeiten, um Direktwerbung zu betreiben, können Sie Widerspruch gegen die Verarbeitung der Daten einlegen. Dies gilt auch für das Profiling, soweit es mit solcher Direktwerbung in Verbindung steht.
+Nach Ihrem Widerspruch werden Ihre Daten nicht mehr für diese Zwecke verarbeitet.
+Für einen Widerspruch richten Sie lediglich formlos eine entsprechende Nachricht an die in Ziffer 1 genannten Kontaktdaten.11.10. Recht auf Beschwerde bei einer Aufsichtsbehörde (Art. 77 DS-GVO)Sie haben das Recht, sich bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat Ihres Aufenthaltsorts, Ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes, zu beschweren, wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden Daten gegen die Datenschutz-Grundverordnung verstößt. Weitere verwaltungsrechtliche oder gerichtliche Rechtsbehelfe, die Ihnen möglicherweise zustehen, bleiben hiervon unberührt. 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

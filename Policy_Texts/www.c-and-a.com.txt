@@ -1,0 +1,424 @@
+
+
+
+
+
+
+
+
+
+global.usp.1
+
+
+
+shop.global.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Daten­schutz­erklärung
+Datenschutz ist Vertrauenssache und wir möchten Ihnen die Gewissheit geben, dass Ihre Daten bei uns in guten Händen sind. Der Schutz und die gesetzeskonforme Erhebung, Verarbeitung und Nutzung Ihrer Daten ist für uns ein wichtiges Anliegen, damit Ihre Privat- und Persönlichkeitssphäre gewahrt bleibt.
+Damit Sie sich bei Ihrem Besuch des C&A Online Shops sicher fühlen können, erfahren Sie in dieser Datenschutzerklärung:
+
+
+
+
+
+Bitte beachten Sie, dass diese Datenschutzerklärung auch für unsere App (Applikation) für Mobilgeräte gilt, mit denen Sie den C&A Online Shop nutzen können. Besonderheiten bei der Nutzung der App wie auch weitere, ergänzende Informationen zu unseren Apps finden Sie im Abschnitt „13. Spezielle Datenschutzhinweise für mobile Apps“.
+1. Welches Unternehmen ist für den C&A Online Shop verantwortlich?
+Verantwortliches Unternehmen im Sinne der Europäischen Datenschutz-Grundverordnung (DSGVO) für die Datenverarbeitung im Zusammenhang mit Ihrer Nutzung des C&A Online Shops ist die
+C&A Mode GmbH & Co. KG
+Wanheimer Straße 70
+40468 Düsseldorf
+Mit „wir“, „uns“ oder „C&A“ ist im Folgenden daher die C&A Mode GmbH & Co. KG als Betreiberin des C&A Online-Shops gemeint. Weitere Details über unser Unternehmen und unsere Kontaktdaten finden Sie im .
+Unseren Datenschutzbeauftragten erreichen Sie unter  oder unserer oben genannten Postadresse mit dem Zusatz „z. Hd. des Datenschutzbeauftragten“.
+2. Welche Daten erfasst C&A?
+2.1 Wenn Sie unsere Website oder App nutzen
+Bei jedem Besuch des C&A Online Shops erfassen wir die technischen Zugriffsdaten, die Ihr Browser automatisch im Rahmen von Seitenabrufen an unseren Server übermittelt. Die Zugriffsdaten umfassen insbesondere die folgenden Angaben:
+
+
+
+
+
+
+
+
+
+
+Ihre Zugriffsdaten werden während Ihres Besuchs automatisch in den Server-Logfiles unseres Servers gespeichert und anschließend durch Kürzung oder Löschung Ihrer IP-Adresse anonymisiert. Ein unmittelbarer Rückschluss auf Ihre Person anhand der Server-Logfiles ist dann nicht mehr möglich.
+Darüber hinaus erfassen wir während Ihres Besuchs des C&A Online Shops solche Angaben, die Sie uns durch die Benutzung der bereitgestellten Funktionen aktiv mitteilen. Beispielsweise erfahren wir für welche Produkte Sie sich interessieren, wenn Sie einen Artikel in der Wunschliste speichern oder die Suchfunktion verwenden.
+2.2 Cookies
+Wir verwenden im C&A Online Shop Cookies. Dabei kann es sich um von uns gesetzte Cookies („C&A-Cookies“) und Cookies von Drittanbietern handeln. Ein Cookie ist eine standardisierte Textdatei, die von Ihrem Browser für eine vorab vom jeweiligen Anbieter festgelegte Gültigkeitsdauer gespeichert wird. Cookies ermöglichen die lokale Speicherung von Informationen wie beispielsweise Spracheinstellungen, Warenkorbinhalten und temporären Identifikationsmerkmalen, die bei nachfolgenden Webseiten-Aufrufen abfragt werden können, um die entsprechenden Einstellungen erneut zu laden. In den Sicherheitseinstellungen Ihres Browsers können Sie die verwendeten Cookies einsehen und löschen. Sie können Ihre Browser-Einstellung entsprechend Ihren Wünschen konfigurieren und so z. B. die Annahme von Cookes von Drittanbietern oder alle Cookies ablehnen. Wir weisen Sie darauf hin, dass Sie in diesem Fall möglicherweise nicht alle Funktionen unserer Website nutzen können.
+Unsere eigenen C&A-Cookies dienen dazu, Ihren Besuch auf unserer Website nutzerfreundlicher, sicherer zu machen, sowie Ihr Shopping-Erlebnis zu personalisieren und auf Ihre Bedürfnisse anzupassen.
+Darüber hinaus verwenden wir für die Webanalyse und Werbezwecke Cookies von Drittanbietern. Nähere Informationen dazu finden Sie unter den Ziffern 5 und 6 dieser Datenschutzerklärung.
+2.3 Wenn Sie sich für ein C&A Kundenkonto registrieren
+ Um in unserem C&A Online Shop einzukaufen, benötigen Sie ein persönliches C&A Kundenkonto.
+Wenn Sie sich für ein C&A Kundenkonto registrieren, richten wir Ihnen einen passwortgeschützten direkten Zugang zu Ihren bei uns gespeicherten Stammdaten (z. B. C&A Kundennummer, Name, Anschrift, Geburtsdatum, Telefonnummer, E-Mail-Adresse, Zahlungsdaten), Bestelldaten (bestellte Produkte, Artikelnummern, Größenangaben) und sonstigen Angaben (z. B. Wunschlistenprodukte) ein. Die für die Registrierung notwendigen Pflichtangaben sind in der Regel gesondert gekennzeichnet, z. B. mit einem Sternchen („*“). Bei freiwilligen Angaben weisen wir darauf hin, warum wir diese abfragen. Zusätzlich speichern wir aus Sicherheitsgründen kurzfristig die von Ihnen bei der Registrierung genutzte IP-Adresse.
+Die Registrierung in unserem C&A Online Shop erleichtert Ihnen das zukünftige Einkaufen bei uns und ermöglicht Ihnen ein individuelles und einfaches Einkaufserlebnis. So werden bei Ihrer nächsten Bestellung beispielsweise die Adressdaten, Zahlungsarten sowie der Versanddienstleister vorausgewählt sein. Mit dem Kundenkonto können wir auch Ihre Daten (z. B Bestelldaten und Wunschlisteninhalte sowie die von Ihnen angesehenen Produkte) zusammenhängend in unserer Kundendatenbank speichern und Ihnen auf dieser Grundlage personalisierte Produktempfehlungen und relevantere Suchergebnisse anzeigen, die sich an Ihren bisherigen Einkaufsinteressen ausrichten.
+Sie können Ihr C&A Kundenkonto und die darin gespeicherten Daten jederzeit löschen. Senden Sie uns hierzu einfach eine formlose Mitteilung, z. B. per E-Mail an  oder nutzen Sie unser Kontaktformular. Bitte beachten Sie: Die Löschung Ihres Kundenkontos erstreckt sich nicht automatisch auf die Bestellvorgänge und die dazu gespeicherten personenbezogenen Daten (siehe hierzu Ziffer 8: Wie lange werden meine Daten gespeichert?).
+2.4 Wenn Sie im C&A Online Shop etwas bestellen
+Wir erfassen, welche Produkte Sie bestellen oder in Ihrem Wunschzettel speichern. Außerdem speichern wir Daten, die im unmittelbaren Zusammenhang mit der Durchführung Ihrer Bestellungen anfallen. Bestelldaten umfassen insbesondere:
+
+
+
+
+
+
+
+
+
+
+2.5 Wenn Sie an Umfragen, Gewinnspielen und Werbeaktionen teilnehmen
+Wir erfassen Ihre Angaben, die Sie im Rahmen der Teilnahme an Umfragen, Gewinnspielen und Werbeaktionen machen.
+Beispielsweise führen wir gelegentlich Umfragen durch, um zu erfahren, wie unsere Angebote von unseren Kunden genutzt werden und wie zufrieden unsere Kunden mit der Abwicklung von Retouren oder dem Kontakt zum Kundenservice sind.
+Bei Gewinnspielen verwenden wir Ihre Kontaktdaten zum Zweck der Gewinnbenachrichtigung und gegebenenfalls um mehrfache Teilnahmen zu verhindern.
+Detaillierte Hinweise finden Sie gegebenenfalls in gesonderten Datenschutzhinweisen zur jeweiligen Umfrage, Gewinnspiel oder Werbeaktion.
+2.6 Wenn Sie uns kontaktieren
+Wenn Sie über das Kontaktformular auf unserer Webseite, per E-Mail, telefonisch oder auf anderem Wege Kontakt mit uns aufnehmen, werden wir die dabei anfallenden Kommunikationsdaten erfassen. Je nachdem, über welchen Kanal Sie uns kontaktieren, umfasst dies beispielsweise Ihre Kontaktdaten (etwa Ihre E--Mail-Adresse oder Telefonnummer) und den Inhalt Ihrer Mitteilung an uns. Telefongespräche mit dem C&A-Kundenservice zeichnen wir nur auf, wenn Sie ausdrücklich darin eingewilligt haben (z. B. zu Schulungs- oder Qualitätszwecken).
+Wir nutzten auch die Angebote von sozialen Netzwerken wie beispielsweise Facebook, Instagram und Twitter, um uns mit unseren Kunden auszutauschen. Bitte beachten Sie dabei, dass C&A keinen Einfluss auf die Nutzungsbedingungen der sozialen Netzwerke und ihre Datenverarbeitungspraktiken haben. Bitte prüfen Sie daher genau, welche persönlichen Daten Sie uns über die sozialen Netzwerke mitteilen.
+2.7 Wenn Sie den C&A Newsletter bestellen
+Soweit Sie sich für den C&A Newsletter angemeldet haben, speichern wir Ihre zu diesem Zweck mitgeteilten Daten zum Zwecke der Zusammenstellung und Versendung der Newsletter.
+Nähere Informationen erhalten Sie in den 
+3. Zu welchen Zwecken nutzt C&A meine Daten?
+3.1 Bereitstellung des C&A Online Shops
+Wenn Sie den C&A Online Shop besuchen, verarbeiten wir die dabei anfallenden Zugriffsdaten, Server-Logfiles und Cookies, um Ihnen die von Ihnen aufgerufenen Inhalte und Funktionen bereitzustellen und um die Stabilität und Sicherheit unserer IT-Systeme und Datenbanken zu gewährleisten.
+Rechtsgrundlagen:
+Wenn Sie den C&A Online Shop mit Ihrem C&A Kundenkonto nutzen, ist die Rechtsgrundlage Artikel 6 Absatz 1 Buchstabe b DSGVO (Vertragserfüllung und vorvertragliche Maßnahmen).
+Wenn Sie den C&A Online Shop ohne Anmeldung nutzen, ist die Rechtsgrundlage Artikel 6 Absatz 1 Buchstabe f DSGVO (Interessensabwägung auf Grundlage unserer oben genannten berechtigten Interessen).
+3.2 Vertragserfüllung, insbesondere Einkaufsabwicklung
+Wir verarbeiten Ihre Daten zur Durchführung der mit Ihnen geschlossenen Verträge und zur Erbringung von Leistungen, die auf Ihren Wunsch hin erfolgen. Die Zwecke richten sich vorrangig nach dem konkreten Vertragsinhalt bzw. dem Zweck der von Ihnen angefragten Leistungen. Einzelheiten zu den Verarbeitungszwecken können Sie ggf. den jeweiligen Vertragsunterlagen und Geschäftsbedingungen entnehmen, beispielsweise unseren . Beispiele sind:
+
+
+
+
+
+
+Rechtsgrundlagen:
+Rechtsgrundlage dieser Datenverarbeitung ist Artikel 6 Absatz 1 Buchstabe b DSGVO (Vertragserfüllung und vorvertragliche Maßnahmen).
+3.3 Personalisierung des C&A Online Shops
+Informationen, die wir von Ihnen erhalten, helfen uns, Ihr Einkaufserlebnis und unseren Service permanent zu verbessern und für Sie kundenfreundlicher und persönlicher zu gestalten. Die von Ihnen übermittelten und automatisch generierten Informationen (z. B. Zugriffs-, Stamm- und Bestelldaten sowie Sucheingaben und Wunschlistenprodukte) werden daher dazu genutzt, die Inhalte im C&A Online Shop auf Grundlage Ihrer daraus abgeleiteten Interessen und Bedürfnisse zu personalisieren. So können wir es Ihnen beispielsweise erleichtern, schneller die für Sie relevanten Produkte zu finden (z. B. können wir Ihnen bei einer Sucheingabe zuerst solche Produkte im Suchergebnis anzeigen, die zu den in Ihrer Wunschliste gespeicherten Produkten oder den von Ihnen besonders häufig aufgerufenen Rubriken passen).
+Wir nutzen diese Informationen auch für individuelle Produktempfehlungen, soweit diese Bestandteile unserer personalisierten Serviceangebote sind (z. B. C&A Kundenkonto, C&A Newsletter und die Beratungsservices etwa im Rahmen der C&A Styleguides und unseres Click&Collect) oder diese Gegenstand unserer direkt an Sie adressierten Werbung sind.
+Beispielsweise senden wir unseren Bestandskunden im vom Gesetzgeber erlaubten Rahmen regelmäßig per E-Mail-Werbung mit personalisierten Angeboten zu, die wir auf Grundlage Ihrer bisherigen Bestellungen auswählen (sofern dem nicht widersprochen wurde).
+Rechtsgrundlagen:
+Wenn Sie den C&A Online Shop oder einen anderen personalisierten Service mit Ihrem C&A Kundenkonto nutzen, ist die Rechtsgrundlage Artikel 6 Absatz 1 Buchstabe b DSGVO (Vertragserfüllung und vorvertragliche Maßnahmen).
+Wenn Sie den C&A Online Shop ohne Anmeldung in Ihrem C&A Kundenkonto nutzen, ist die Rechtsgrundlage für die Personalisierung Artikel 6 Absatz 1 Buchstabe f DSGVO. Unseren Service und unsere Angebote bedarfsgerecht zu gestalten und zu optimieren und an die Interessen und Gewohnheiten unserer Nutzer anzupassen, betrachten wir dabei als berechtigtes Interesse im Sinne der Vorschrift. Unsere Nutzer erwarten, dass wir Ihnen personalisierte Inhalte und Produktempfehlungen bereitzustellen).möglichst relevante Angebote anzeigen, die Ihnen auch einen tatsächlichen Mehrwert für ihren Einkauf bringen.
+Soweit die Personalisierung auf Ihrer Einwilligung beruht, ist Ihre Einwilligung die vorrangige Rechtsgrundlage (Absatz 6 Absatz 1 Buchstabe a DSGVO).
+
+Sie wünschen keine Personalisierung?
+Wenn Sie nicht möchten, dass wir Ihre Stamm- und Bestelldaten für die Personalisierung während Ihres Besuchs im C&A Online Shop verwenden, können Sie die Personalisierung auf Grundlage Ihrer Zugriffsdaten jederzeit deaktivieren, indem Sie die unter Ziffer 5 genannten Webanalyse-Dienste deaktivieren.
+Ausführliche Hinweise zu Ihren Datenschutzrechten und Wahlmöglichkeiten finden Sie auch unter Ziffer 9 (Ihre Datenschutzrechte) und Ziffer 10 (Widerrufs- und Widerspruchsrechte).
+
+
+3.4 Kundenservice und Kommunikation im Rahmen von bestehenden Kundenverhältnissen
+Wir verarbeiten Ihre Daten zur Durchführung unseres Kundenservice. Dies umfasst beispielsweise:
+
+
+
+
+Rechtsgrundlage:
+Rechtsgrundlage dieser Datenverarbeitung ist Artikel 6 Absatz 1 Buchstabe b DSGVO (Vertragserfüllung und vorvertragliche Maßnahmen).
+3.5 Zahlungsabwicklung
+Je nachdem, welche Zahlungsart vereinbart wurde, geben wir die zur Zahlungsabwicklung notwendigen Daten (z. B. Lastschrift- oder Kreditkartendaten) an den mit der Zahlung beauftragten Zahlungsdienstleister weiter. Zum Teil erheben die Zahlungsdienstleister diese Daten auch selbst in eigener Verantwortung. Es gelten insoweit die Datenschutzhinweise des jeweiligen Zahlungsdienstleisters.
+Die Übermittlung Ihrer Daten an die externen Zahlungsdienstleister erfolgt auf Grundlage von Artikel 6 Absatz 1 Buchstabe b DSGVO (Vertragserfüllung).
+
+
+
+
+Damit Sie bei Ihrem nächsten Einkauf mit Kreditkarte nicht jedes Mal erneut die Kartendaten eingeben müssen, werden Ihre Karten für 36 Monate in unserem Auftrag von Computop verschlüsselt gespeichert. Die Rechtsgrundlage hierfür ist Artikel 6 Absatz 1 Buchstabe f DSGVO auf Grundlage unseres berechtigten Interesses, Ihnen zukünftige Einkäufe zu erleichtern. Computop stellt uns zu diesem Zweck für jede von Ihnen verwendete Kreditkarte eine individuelle Pseudokartennummer für Ihre hinterlegte Kreditkarte zur Verfügung, die nur die letzten 3 Ziffern Ihrer echten Kreditkartennummer übernimmt. Dadurch können wir Ihnen beim nächsten Bezahlvorgang die Bezahlung mit Ihrer letzten genutzten Kreditkarte unter Angabe der letzten 3 Ziffern Ihrer tatsächlichen Kartennummer anbieten, ohne dass bei uns eine Speicherung Ihrer echten Kreditkartendaten erfolgt oder diese an uns von Computop im Rahmen des Bezahlvorgangs erneut übertragen werden müssen. Eingegeben wird von Ihnen dann nur noch die Prüfziffer, die an Computop übermittelt wird. Diese Vorgehensweise erhöht den Schutz Ihrer Kreditkartendaten, die während des ganzen Vorgangs bei Computop unter Verschluss bleiben können. Dies erfüllt die Anforderungen der branchenübergreifenden Regelungsstandards im Zahlungsverkehr (PCI-DSS Bestimmungen). Wählen Sie die Kreditkarte dann anschließend für die Bezahlung aus, übermitteln wir nur die Pseudokartennummer und die Prüfziffer in verschlüsselter Form an Computop und Computop erkennt dann anhand der Pseudokartennummer, welche im System hinterlegte Kreditkartennummer belastet werden soll.
+
+
+Sie möchten der Speicherung Ihrer Kreditkartendaten widersprechen?
+
+Wenn Sie dies nicht wünschen, können Sie der Speicherung Ihrer Kreditkartendaten jederzeit widersprechen, indem Sie uns an die oben unter Ziffer 1 genannte Anschrift oder E-Mail-Adresse eine formlose Erklärung zukommen lassen. In diesem Falle müssen Sie bei jedem Einkauf die Kreditkartendaten wieder manuell eingeben.
+
+
+
+
+
+
+
+3.6 Bonitätsprüfung
+Sofern wir in Vorleistung treten, z. B. bei einem Kauf auf Rechnung, führen wir vor unserer Entscheidung über die Annahme des Vertrags eine Bonitätsprüfung anhand von Score-Werten durch, die wir von externen Auskunfteien beziehen. Die Bonitätsprüfung ist in diesem Fall erforderlich, um unser Ausfallrisiko bzw. Insolvenzrisiko zu reduzieren. Score-Werte sind statistisch begründete Prognosewerte über das künftige Risiko eines Zahlungsausfalls bei einer Person oder einem Unternehmen und werden als Zahlenwert, etwa einer Prozentangabe oder Note, dargestellt. Hierzu übermitteln wir Ihre Daten (Name, Adressen, Geburtsdatum) zum Zweck der Bonitätsprüfung an unsere Bonitätsdienstleister.
+Für Deutschland ist dies die infoscore Consumer Data GmbH, Rheinstr. 99, 76532 Baden-Baden (im Folgenden „ICD“).
+Rechtsgrundlagen dieser Übermittlungen sind Artikel 6 Absatz 1 Buchstabe b und Artikel 6 Absatz 1 Buchstabe f der DSGVO. Übermittlungen auf der Grundlage dieser Bestimmungen dürfen nur erfolgen, soweit dies zur Wahrnehmung von berechtigten Interessen von C&A oder Dritten erforderlich ist und nicht die Grundrechte und Grundfreiheiten der betroffenen Person, die den Schutz personenbezogener Daten erfordern, überwiegen. Detaillierte Informationen zu ICD im Sinne des Artikels 14 DSGVO, d. h. Informationen zum Geschäftszweck, zu den Zwecken der Datenspeicherung, zu den Datenempfängern, zum Selbstauskunftsrecht, zum Anspruch auf Löschung oder Berichtigung etc. finden Sie unter:
+ICD: .
+Die von unseren Dienstleistern übermittelten Score-Werte verarbeiten wir im Wege einer automatisierten Bonitätsprüfung unter Berücksichtigung weiterer Umstände (z. B. Höhe des Rechnungsbetrags), um unser Zahlungsausfallrisiko zu bewerten. Wenn Ihre Bonitätsprüfung positiv ausfällt, werden wir den Vertragsschluss mit Ihnen annehmen. Andernfalls werden wir den Vertragsschluss mit Ihnen zu diesen Zahlungsbedingungen ablehnen. Sofern Sie mit unserer Entscheidung im konkreten Fall einer entsprechenden Risikobewertung nicht einverstanden sind, können Sie uns das schriftlich oder per E-Mail an  mitteilen. Unsere Mitarbeiter werden dann diese automatisierte Entscheidung unseres Systems unter Berücksichtigung Ihres Standpunktes überprüfen.
+3.7 Interne Marktforschung, Optimierung und Weiterentwicklung unseres Angebots
+Wir verwenden Ihre Zugriffsdaten sowie die von Ihnen mitgeteilten Daten (z. B. Stammdaten, Bestelldaten, Retourendaten) für interne statistische Zwecke und Marktforschungszwecke. Zuvor pseudonymisieren oder anonymisieren wir Ihre Daten, z. B. indem wir Ihren Namen und weitere zur Identifizierung geeignete Daten durch Zufallsangaben austauschen.
+So können wir beispielsweise feststellen, welche Seiten und Produkte unseres Shops besonders beliebt sind, welche Geräte unsere Kunden im Allgemeinen verwenden oder aus welchen Regionen auf unsere Website zugegriffen wird. Diese Informationen helfen uns dabei, unser bestehendes Angebot laufend zu optimieren und neue Funktionen und Services zu entwickeln.
+Rechtsgrundlage:
+Rechtsgrundlage dieser Datenverarbeitungen ist Artikel 6 Absatz 1 Buchstabe f DSGVO (Interessensabwägung auf Grundlage unserer oben genannten berechtigten Interessen).
+3.8 Verarbeitung zu eingewilligten Zwecken
+Soweit Sie uns gegenüber in die Verarbeitung Ihrer Daten zu bestimmten Zwecken eingewilligt haben, ist die Rechtsgrundlage der Datenverarbeitungen zu diesen Zwecken vorrangig Ihre Einwilligung (Artikel 6 Absatz 1 Buchstabe a DSGVO).
+
+Widerruf von Einwilligungen
+Sie haben gemäß Artikel 7 Absatz 2 DSGVO das Recht, eine einmal erteilte Einwilligung jederzeit uns gegenüber zu widerrufen. Dies hat zur Folge, dass wir die Datenverarbeitung, die auf dieser Einwilligung beruhte, für die Zukunft nicht mehr fortführen. Durch den Widerruf Ihrer Einwilligung wird die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht berührt.
+
+
+4. C&A Filialsuche (Google Maps)
+Unsere Website verwendet für die Funktion „Store Finder“ den Kartendienst Google Maps der Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA („Google“). Damit das von uns benutzte Google-Kartenmaterial eingebunden und in Ihrem Webbrowser angezeigt werden kann, muss Ihr Webbrowser beim Aufruf der Kontaktseite eine Verbindung zu einem Server von Google, der sich auch in den USA befinden kann, aufnehmen. Für den Fall, dass personenbezogene Daten in die USA übertragen werden, hat sich Google dem  unterworfen. Google erhält hierdurch die Information, dass von der IP-Adresse Ihres Gerätes die Kontaktseite unserer Website aufgerufen wurde.
+Im Store Finder können Sie auch anhand von Standortdaten nach C&A-Filialen in der Nähe suchen und diese in Google Maps anzeigen lassen. Sie können hierzu beliebige Adressdaten im Suchfeld eingeben (Land, PLZ, Ort und/oder Straßenname). Wenn Sie nur nach Filialen in Ihrer aktuellen Umgebung suchen möchten, können Sie auch die automatische Ortungsfunktion des Store Finders verwenden, indem Sie auf den Button „Filialen in der Nähe“ klicken. Dadurch aktivieren Sie die HTML5-Funktion „Geolocation“ für die automatische Standortermittlung, die von allen gängigen Browsern unterstützt wird. Bevor Ihr Browser die Standortermittlung durchführt, müssen Sie dies aus Datenschutzgründen durch einen weiteren Klick nochmals ausdrücklich erlauben. Je nachdem, welchen Browser und welches Gerät Sie verwenden, werden zur anschließenden Standortermittlung Ihre IP-Adresse, empfangene Signale von WLAN-Netzwerken und – insbesondere, wenn Sie ein mobiles Gerät nutzen, auch GPS- und Mobilfunksignale – verwendet. Die von Ihnen im Suchfeld der Filialsuche eingegebenen Adressdaten oder der von Ihrem Browser automatisch ermittelte Standort werden über eine Schnittstelle an Google übermittelt, damit die in der Umgebung gefundenen C&A-Filialen auf der Karte von Google Maps angezeigt werden können.
+Rechtsgrundlage dieser Datenverarbeitung ist Artikel 6 Absatz 1 Buchstabe f DSGVO auf Grundlage unseres berechtigten Interesses an der Bereitstellung der oben beschriebenen Filialsuche.
+Wenn Sie den Google-Kartendienst auf unserer Website aufrufen, während Sie in Ihrem Google-Profil eingeloggt sind, kann Google dieses Ereignis zudem mit Ihrem Google-Profil verknüpfen. Wenn Sie die Zuordnung zu Ihrem Google-Profil nicht wünschen, ist es erforderlich, dass Sie sich vor der Nutzung unserer Filialsuche bei Google ausloggen. Google speichert Ihre Daten und nutzt sie für Zwecke der Werbung, Marktforschung und personalisierten Darstellung von Google Maps. Sie können dieser Datenerhebung gegenüber Google widersprechen.
+Nähere Informationen hierzu finden Sie in der  von Google und den  für Google Maps.
+
+5. Webanalyse
+5.1 Google Analytics
+Unsere Website verwendet den Webanalysedienst Google Analytics, der von der Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA („Google“) angeboten wird. Google Analytics verwendet Cookies mit einer Gültigkeit von 14 Monaten, um Ihre Zugriffsdaten beim Besuch unserer Website zu erfassen. Die Zugriffsdaten werden von Google in unserem Auftrag zu pseudonymen Nutzungsprofilen zusammengefasst und an einen Google-Server in den USA übertragen. Zuvor wird Ihre IP-Adresse anonymisiert. Wir können daher nicht feststellen, welche Nutzungsprofile zu einem bestimmten Nutzer gehören. Anhand der von Google erfassten Daten können wir Sie somit weder identifizieren noch feststellen, wie Sie unsere Website nutzen. Für den Fall, dass dabei ausnahmsweise personenbezogene Daten in die USA übertragen werden, hat sich Google zudem dem  unterworfen. Google hat sich damit verpflichtet die europäischen Datenschutzgrundsätze und das hiesige Datenschutzniveau auch im Rahmen der in den USA stattfindenden Datenverarbeitung zu gewährleisten.
+Google wird die durch die Cookies gewonnenen Informationen in unserem Auftrag verwenden, um die Nutzung unserer Website auszuwerten, Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen für uns zu erbringen. Weitere Informationen hierzu finden Sie auch in der  von Google Analytics.
+Sie können der Webanalyse durch Google jederzeit widersprechen. Hierzu haben Sie mehrere Möglichkeiten:
+
+
+
+
+
+
+Rechtsgrundlage dieser Datenverarbeitung ist Artikel 6 Absatz 1 Buchstabe f DSGVO (Interessensabwägung auf Grundlage unseres berechtigten Interesses an der Auswertung des allgemeinen Nutzungsverhaltens).
+5.2 Adobe Analytics
+Wir nutzen auch den Webanalysedienst Adobe Analytics (Omniture) der Adobe Systems Software Ireland Limited, Ireland, 4–6 Riverwalk, Citywest Business Campus, Dublin 24, Irland („Adobe“). Adobe setzt hierzu in unserem Auftrag Cookies mit einer Gültigkeit von 14 Monaten zur Erfassung von pseudonymen Zugriffsdaten, damit wir auf dieser Grundlage der von Adobe erstellten Reports die Nutzung unserer Website analysieren und regelmäßig verbessern können. Vor der Auswertung wird Ihre IP-Adresse anonymisiert. Eine Personenbeziehbarkeit der IP-Adressen ist damit auszuschließen. Für die Ausnahmefälle, in denen personenbezogene Daten in die USA übertragen werden, hat sich Adobe dem  unterworfen.
+Sie können der Webanalyse durch Adobe jederzeit widersprechen, indem Sie die Buttons „Abmelden“ unter  anklicken.
+Rechtsgrundlage dieser Datenverarbeitung ist Artikel 6 Absatz 1 Buchstabe f DSGVO (Interessensabwägung auf Grundlage unseres berechtigten Interesses an der Auswertung des allgemeinen Nutzungsverhaltens).
+5.3 Exactag
+Wir nutzen den Analysedienst der Exactag GmbH, Philosophenweg 17, 47051 Duisburg („Exactag“). Exactag setzt hierzu in unserem Auftrag Cookies mit einer Gültigkeit von 6 Monaten zur Erfassung von pseudonymen Zugriffsdaten, damit wir auf Grundlage der von Exactag erstellten Reports die Nutzung unserer Website analysieren und regelmäßig verbessern können. Vor der Auswertung wird Ihre IP-Adresse anonymisiert. Eine Personenbeziehbarkeit der IP-Adressen ist damit auszuschließen.
+Sie können der Webanalyse durch Exactag jederzeit widersprechen, indem Sie unter  auf den Link „widersprechen“ klicken.
+Rechtsgrundlage dieser Datenverarbeitung ist Artikel 6 Absatz 1 Buchstabe f DSGVO (Interessensabwägung auf Grundlage unseres berechtigten Interesses an der Auswertung des allgemeinen Nutzungsverhaltens).
+5.4 Prudsys
+Für persönliche Produktempfehlungen wird Ihre Shoppinghistorie herangezogen. Hierunter fallen insbesondere Artikel und Produktkategorien, die Sie schon einmal angeschaut, gesucht oder gekauft haben. Diese Daten werden in pseudonymer Form gespeichert und durch die prudsys AG verarbeitet. Wir verwenden diese Daten um Ihnen persönliche Produktempfehlungen zukommen zu lassen und damit das Finden relevanter Produkte zu erleichtern. Sie können dieser Analyse des Surfverhaltens durch die prudsys AG jederzeit widersprechen. Bitte beachten Sie, dass wir Ihnen dann in diesem Browser auch keine auf Sie zugeschnittenen Empfehlungen mehr anbieten können.
+Sie können dieser Analyse des Surfverhaltens jederzeit widersprechen
+ 
+
+Sie haben die personalisierten Empfehlungen erfolgreich deaktiviert.
+
+
+
+Für den Ausschluss der Analyse des Surfverhaltens wird ein Cookie mit dem Namen "ca_NoPersonalization" von der Domain c-and-a.com gesetzt. Dieser Widerspruch gilt, so lange Sie das Cookie nicht löschen. Das Cookie ist pro Browser und Rechner gesetzt. Bitte beachten Sie, dass wir Ihnen dann in diesem Browser auch keine auf Sie zugeschnittenen Empfehlungen mehr anbieten können.
+
+6. Online-Werbung
+Wir nutzen in Verbindung mit dem C&A Online Shop verschiedene Partner-Werbenetzwerke, um Ihnen interessenbezogene Werbung auch auf externen Websites anzeigen lassen zu können. Hierfür haben wir verschiedene Technologien in unseren C&A Online Shop integriert, die eine Wiedererkennung ermöglicht (z. B. über einen beim Besuch des Shops gesetzten und später wiedererkannten Cookie). Dabei geben wir zu keinem Zeitpunkt Daten an unsere Partner weiter, mit denen diese Sie unmittelbar identifizieren können. Die Partner erhalten also keine Namen oder Kontaktdaten, sondern lediglich bestimmte Kennungen, die die Wiederansprache ermöglichen. Dies ermöglicht uns und unseren Partnern dann die Ausspielung von Werbung, die auf unserer Einschätzung ihrer Interessen basiert. Ihnen wird daher auch auf Websites aus unserem Partnernetzwerk Werbung für Produkte oder Produktkategorien angezeigt, für die Sie sich zuvor in unserem Shop interessiert haben oder von denen wir denken, dass sie für Sie interessant sein könnten.
+Rechtsgrundlage der nachfolgend beschriebenen Datenverarbeitung ist Artikel 6 Absatz 1 Buchstabe f DSGVO (Interessensabwägung auf Grundlage unseres berechtigten Interesses an der interessenbezogenen Bewerbung unserer Produkte).
+Sie haben die Möglichkeit der Speicherung von Cookies von Drittanbietern, die genutzt werden, um die nachfolgend beschriebenen Datenverarbeitungen umzusetzen, durch eine entsprechende Einstellung Ihres Browsers (wie unter Ziffer 2.2 erläutert) zu verhindern. Die nachfolgenden Beschreibungen enthalten zudem weitere Widerspruchsmöglichkeiten.
+6.1 Affiliate-Netzwerke
+Unsere Website nimmt an Partnerprogrammen sogenannter Affiliate-Netzwerke teil.
+Affiliate-Netzwerke sind Dienste zum Einbinden von Werbeanzeigen in Form von Textlinks, Bildlinks, Werbebannern oder Eingabemasken. Im Rahmen der Affiliate-Netzwerke speichern unsere Partner zur Dokumentation von Transaktionen (z. B. von Leads und Sales) Cookies und sogenannte Web-Beacons auf Endgeräten von Nutzern, die Webseiten oder andere Onlineangebote der im Affiliate-Netzwerk angebundenen Kunden besuchen oder nutzen (z. B. für einen Produkttest bzw. einen Download registrieren oder eine Bestellung in einem Onlineshop aufgeben). Diese Cookies dienen allein dem Zweck einer korrekten Zuordnung des Erfolgs eines Werbemittels und der entsprechenden Abrechnung im Rahmen des Netzwerks. Direkt personenbezogene Daten werden hierbei nicht erhoben, verarbeitet oder genutzt. In einem Cookie wird lediglich die Information darüber platziert, wann von einem Endgerät ein bestimmtes Werbemittel angeklickt wurde. Im Fall eines erfolgten Kaufs auf unserer Website aufgrund eines von dem Affiliate-Netzwerk generierten Leads werden die Ordernummer und der Bestellwert zu Abrechnungszwecken übergeben. 
+Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihres Browsers (wie unter Ziffer 2.2 beschrieben) verhindern.
+Wir arbeiten mit folgenden Affilate-Netzwerken zusammen:
+
+
+
+
+
+
+6.2 Bing Ads
+Unsere Website verwendet Bing Ads, einen Dienst der Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA („Microsoft“). Microsoft verwendet Cookies und ähnliche Technologien, um Ihnen für Sie relevante Werbeanzeigen zu präsentieren. Die Verwendung dieser Technologien ermöglicht Microsoft und seinen Partner-Websites die Schaltung von Anzeigen auf Basis vorheriger Besuche auf unserer oder anderen Websites im Internet. Die in diesem Zusammenhang anfallenden Zugriffsdaten können von Microsoft zur Auswertung an einen Server in den USA übertragen und dort gespeichert werden. Für den Fall, dass personenbezogene Daten in die USA übertragen werden, hat sich Microsoft dem  unterworfen.
+Wenn Sie nicht möchten, dass Microsoft Ihre Zugriffsdaten auf diese Weise verarbeitet, können Sie das hierfür erforderliche Setzen von Drittanbieter-Cookies ablehnen. Sie können darüber hinaus die Erfassung und Verarbeitung dieser Daten durch Microsoft verhindern, indem sie das unter dem folgenden Link:  Ihren Widerspruch erklären. Weitere Informationen zum Datenschutz und zu den eingesetzten Cookies bei Microsoft und Bing Ads finden Sie auf der Website von Microsoft unter .
+6.3 Criteo
+Unsere Website verwendet Criteo, einen Dienst der Criteo CIL, 32 Rue Blanche, 75009 Paris, Frankreich („Criteo“). Criteo nutzt Cookies zu Werbezwecken. Mit Hilfe von Criteo können wir unsere Werbung Besuchern, die sich für unsere Produkte interessieren, auf Partner-Webseiten, Apps und E-Mails zeigen. Retargeting-Technologien verwenden Cookies oder Werbe-IDs und zeigen Werbung ausgehend von Ihrem bisherigen Browsing-Verhalten an. Um diese interessenbasierte Werbung abzulehnen, besuchen Sie bitte die folgenden Webseiten:
+
+
+Wir können Informationen wie technische Kennungen aus Ihrer Anmeldungsinformation auf unserer Webseite oder unserem CRM-System mit zuverlässigen Werbepartnern austauschen. Dadurch können Ihre Geräte und/oder Umgebungen verknüpft und Ihnen eine nahtlose Nutzungserfahrung mit den von Ihnen verwendeten Geräten und Umgebungen angeboten werden. Nähere Einzelheiten zu diesen Verknüpfungsfähigkeiten entnehmen Sie bitte der Datenschutzrichtlinie, die Sie   in den vorgenannten Plattformen finden oder den nachstehenden Erläuterungen.
+Datenschutzrichtlinie von Criteo: 
+6.4 Facebook
+Unsere Websites verwenden zu Marketingzwecken sog. Conversion und Retargeting-Tags (auch „Facebook-Pixel“) des sozialen Netzwerks Facebook, einem Dienst der Facebook Inc., 1601 Willow Road, Menlo Park, California 94025, USA („Facebook“). Wir nutzen Facebook-Pixel, um die allgemeine Nutzung unserer Websites zu analysieren und die Wirksamkeit von Facebook-Werbung nachzuvollziehen („Conversion“). Zudem nutzen wir die Facebook-Pixel um Ihnen anhand Ihres Interesses für unsere Produkte individualisierte Werbebotschaften auszuspielen („Retargeting“). Facebook verarbeitet dafür Daten, die der Dienst über Cookies und ähnliche Technologien auf unseren Websites erhebt.
+Die in diesem Zusammenhang anfallenden Daten können von Facebook zur Auswertung an einen Server in den USA übertragen und dort gespeichert werden. Für den Fall, dass personenbezogene Daten in die USA übertragen werden, hat sich Facebook dem  unterworfen.
+Falls Sie Mitglied bei Facebook sind und es Facebook über die Privatsphären-Einstellungen Ihres Kontos erlaubt haben, kann Facebook die über Ihren Besuch bei uns erfassten Information zudem mit Ihrem Mitgliedskonto verknüpfen und für die zielgerichtete Schaltung von Facebook-Ads benutzen. Die  Ihres Facebook-Profils können Sie jederzeit einsehen und ändern. Wenn Sie kein Facebook-Mitglied sind, können Sie die Datenverarbeitung durch Facebook unterbinden, indem Sie auf der externen  den Deaktivierungs-Schalter für den Anbieter „Facebook“ betätigen. Die Datenverarbeitung können Sie weiterhin unterbinden, indem Sie die folgende Schaltfläche betätigen.
+Wenn Sie die Datenverarbeitung durch Facebook deaktivieren, wird Facebook nur noch generelle Facebook-Ads anzeigen, die nicht anhand der über Sie erfassten Informationen ausgewählt werden.
+Nähere Informationen hierzu finden Sie in der  von Facebook.
+6.5 Google Adwords und Adwords Remarketing
+Unsere Website nutzt die Dienste „AdWords Conversion-Tracking“ und „AdWords Remarketing“ der Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA („Google“). Mittels „AdWords Conversion-Tracking“ werden von uns definierte Kundenaktionen erfasst (wie beispielweise das Klicken auf eine Anzeige, Seitenaufrufe, Downloads) und analysiert. „AdWords Remarketing“ nutzen wir, um Ihnen individualisierte Werbebotschaften für unsere Produkte auf Partnerwebsites von Google anzuzeigen. Beide Dienste setzten dafür Cookies und ähnliche Technologien ein. Die in diesem Zusammenhang anfallenden Daten können von Google zur Auswertung an einen Server in den USA übertragen und dort gespeichert werden. Für den Fall, dass personenbezogene Daten in die USA übertragen werden, hat sich Google dem  unterworfen.
+Falls Sie ein Google-Konto verwenden, kann Google je nach den im Google-Konto hinterlegten Einstellungen Ihren Web- und App-Browserverlauf mit Ihrem Google-Konto verknüpfen und Informationen aus Ihrem Google-Konto zum Personalisieren von Anzeigen verwenden. Wenn Sie diese Zuordnung zu Ihrem Google-Konto nicht wünschen, ist es erforderlich, dass Sie sich vor dem Aufruf unserer Website bei Google ausloggen. 
+Die Verarbeitung Ihrer Daten für personalisierte Online-Werbung im Rahmen des Google-Werbenetzwerks können Sie jederzeit deaktivieren. Hierzu gibt es mehrere Möglichkeiten:
+
+
+
+
+
+Bitte beachten Sie, dass Google Ihnen im Fall der Deaktivierung von personalisierter Werbung nur noch generelle Werbung anzeigen wird, die nicht anhand der über Sie erfassten Zugriffsdaten ausgewählt wurde.
+6.6 Google DoubleClick
+Wir verwenden auf unserer Website den DoubleClick-Dienst der Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA („Google”). DoubleClick verwendet Cookies und pseudonyme Identifizierungsmerkmale, um Ihre Zugriffsdaten beim Besuch unserer und anderer am Google-Werbenetzwerk teilnehmenden Websites zu erfassen und daraus Ihre Interessen abzuleiten. Auf Grundlage dieser pseudonymen Nutzungsprofile kann Google Ihnen auf den an das Google-Werbenetzwerk angeschlossenen Werbeplätzen personalisierte Werbeanzeigen präsentieren. Jede Website, die am Google-Werbenetzwerk teilnimmt, wird von Google ein anderes Cookie zugewiesen, d. h. diese Cookies können nicht von anderen Websites nachverfolgt werden. Die über DoubleClick erfassten Zugriffsdaten Daten können von Google zur Auswertung auch an einen Server in den USA übertragen werden. Google hat sich für diesen Fall dem  unterworfen. Damit unterliegt die Datenverarbeitung durch Google einer Angemessenheitsentscheidung der EU-Kommission, d. h. das Datenschutzniveau ist als angemessen anerkannt, auch die Verarbeitung in den USA erfolgt.
+Die Verarbeitung Ihrer Daten für personalisierte Online-Werbung im Rahmen des Google-Werbenetzwerks können Sie jederzeit deaktivieren. Hierzu gibt es mehrere Möglichkeiten:
+
+
+
+
+
+Bitte beachten Sie, dass Google Ihnen im Fall der Deaktivierung von personalisierter Werbung nur noch generelle Werbung anzeigen wird, die nicht anhand der über Sie erfassten Zugriffsdaten ausgewählt wurde.
+6.7 Semasio
+Unsere Website verwendet semasio, einen Dienst der Semasio GmbH, Rödingsmarkt 9, 20459 Hamburg (“semasio”).  Semasio verwendet Cookies und pseudonyme Identifizierungsmerkmale, um Ihre Zugriffsdaten beim Besuch unserer und anderer am semasio-Werbenetzwerk teilnehmenden Websites zu erfassen und daraus Ihre Interessen abzuleiten. Semasio sammelt hierzu so genannte Online-Identifikatoren (“Cookie-IDs") und die URL-Adressen von Websites, wenn ein Internetnutzer Seiten von am Netzwerk teilnehmenden Websites besucht. Semasio speichert keine personenbezogenen Daten (PII") wie Namen, Postanschriften, E-Mail-Adressen oder Telefonnummern. Insbesondere speichert semasio keine IP-Adressen von Geräten, mit denen Internetnutzer auf das Internet zugreifen.
+Semasio nutzt die gesammelten Informationen, um Kunden zu ermöglichen, gezielte Online-Marketing-Kampagnen ausschließlich über Echtzeit-Bieterplattformen durchzuführen. Listen mit Cookie-IDs werden hierzu über semasio Rechenzentren an Echtzeit-Bieterplattformen gesendet, um den relevanten Nutzern Werbekampagnen zu liefern. Hierbei kann es auch zu einer Datenübermittlung an Partner außerhalb der EU kommen. semasio hat hierfür spezielle vertragliche Maßnahmen getroffen, um einen angemessenen Schutz Ihrer Daten zu gewährleisten. Nähere Informationen finden Sie in der Datenschutzerklärung von semasio: .
+Der Datenverarbeitung durch semasio können Sie hier wiedersprechen: 
+6.8 Hotjar
+Wir nutzen den Analysedienst der Hotjar Limited, Level 2, St Julian’s Business Centre, 3, Elia Zammit Street, St Julian’s STJ 1000, Malta („Hotjar“). Hotjar setzt hierzu in unserem Auftrag Cookies mit einer Gültigkeit von 6 Monaten zur Erfassung von pseudonymen Zugriffsdaten, damit wir auf Grundlage der von Hotjar erstellten Reports die Nutzung unserer Website analysieren und regelmäßig verbessern können. Vor der Auswertung wird Ihre IP-Adresse anonymisiert. Eine Personenbeziehbarkeit der IP-Adressen ist damit auszuschließen. Sie können der Webanalyse durch Hotjar jederzeit widersprechen, indem Sie unter  auf den Link „widersprechen“ klicken. Rechtsgrundlage dieser Datenverarbeitung ist Artikel 6 Absatz 1 Buchstabe f DSGVO (Interessensabwägung auf Grundlage unseres berechtigten Interesses an der Auswertung des allgemeinen Nutzungsverhaltens).
+7. An wen werden meine Daten weitergegeben?
+Wir geben Ihre Daten grundsätzlich nur weiter, wenn:
+
+
+
+
+
+
+Ein Teil der in dieser Datenschutzerklärung beschriebenen Datenverarbeitung kann in unserem Auftrag durch externe Dienstleister erfolgen. Neben den in dieser Datenschutzerklärung genannten Dienstleistern können hierzu insbesondere Rechenzentren, die unsere Website und Datenbanken speichern und betreuen, IT-Dienstleister, die unsere Systeme warten, sowie Beratungsunternehmen gehören.
+Sofern wir Daten an unsere Dienstleister weitergeben, dürfen diese die Daten ausschließlich zur Erfüllung ihrer Aufgaben verwenden. Eine Verarbeitung Ihrer Daten durch die beauftragten Dienstleister erfolgt im Rahmen der Auftragsverarbeitung gemäß Artikel 28 DSGVO. Die Dienstleister wurden von uns sorgfältig ausgewählt und beauftragt. Sie sind vertraglich an unsere Weisungen gebunden, verfügen über geeignete technische und organisatorische Maßnahmen zum Schutz der Rechte der betroffenen Personen und werden von uns regelmäßig kontrolliert.
+Falls wir Ihre Daten über diese Datenschutzerklärung hinaus an einen Dienstleister mit Sitz in einem Staat außerhalb des Europäischen Wirtschaftsraumen (EWR) weitergeben, informieren wir Sie ggf. gesondert über diesen Umstand und auf welche konkreten Garantien der Datentransfer gestützt wird. Sofern Sie Kopien von Garantien zum Nachweis eines angemessenen Datenschutzniveaus erhalten möchten, wenden Sie sich bitte an unseren Datenschutzbeauftragten (siehe Ziffer 1).
+8. Wie lange werden meine Daten gespeichert?
+Soweit in dieser Datenschutzerklärung keine anderen Angaben gemacht werden, speichern wir Ihre Daten nur solange, wie dies zur Erfüllung unserer vertraglichen oder gesetzlichen Pflichten oder die Zwecke, zu denen die Daten ursprünglich erhoben wurden, erforderlich ist bzw. wir ein berechtigtes Interesse an der weiteren Speicherung haben.
+In allen anderen Fällen löschen wir Ihre personenbezogenen Daten mit Ausnahme solcher Daten, die wir zur Erfüllung gesetzlicher Aufbewahrungsfristen weiter vorhalten müssen. Allerdings nehmen wir in diesen Fällen eine Einschränkung der Verarbeitung vor, d. h. Ihre Daten werden nur noch zur Einhaltung der gesetzlichen Verpflichtungen eingesetzt.
+Wenn Sie Ihr C&A-Kundenkonto kündigen bzw. löschen, werden wir alle dort über Sie gespeicherten Daten löschen. Sofern eine vollständige Löschung Ihrer Daten aus gesetzlichen Gründen nicht möglich oder nicht notwendig ist, werden die betreffenden Daten für die weitere Verarbeitung eingeschränkt. In der Regel unterliegen Ihre Bestell- und Zahlungsdaten und ggf. weitere Daten gesetzlichen Aufbewahrungspflichten, etwa aus dem Handelsgesetzbuch und der Abgabenordnung. Wir sind daher verpflichtet, diese Daten bis zu zehn Jahre aufzubewahren.
+Auch wenn Ihre Daten keiner gesetzlichen Aufbewahrungspflicht unterliegen, können wir in den gesetzlich erlaubten Fällen von einer Löschung absehen und stattdessen eine Sperrung vornehmen. Dies gilt insbesondere in Fällen, bei denen wir die betreffenden Daten möglicherweise noch für die weitere Vertragsabwicklung oder die Rechtsverfolgung oder Rechtsverteidigung benötigen. Maßgeblich für die Dauer der Sperrung sind insoweit die gesetzlichen Verjährungsfristen.
+9. Ihre Datenschutzrechte
+Um Ihre im Folgenden beschriebenen gesetzlichen Datenschutzrechte geltend zu machen, können Sie sich jederzeit an unseren Datenschutzbeauftragten (siehe Ziffer 1) wenden:
+Ihnen steht jederzeit das Recht zu, Auskunft über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu verlangen. Wir werden Ihnen im Rahmen der Auskunftserteilung die Datenverarbeitung erläutern und eine Übersicht der über Ihre Person gespeicherten Daten zur Verfügung stellen.
+Falls bei uns gespeicherte Daten falsch oder nicht mehr aktuell sein sollten, haben Sie das Recht, diese Daten berichtigen zu lassen.
+Sie können außerdem die Löschung Ihrer Daten verlangen. Sollte die Löschung aufgrund anderer Rechtsvorschriften ausnahmsweise nicht möglich sein, werden die Daten gesperrt, so dass Sie nur noch für diesen gesetzlichen Zweck verfügbar sind.
+Sie können die Verarbeitung Ihrer Daten außerdem einschränken lassen, z. B. wenn Sie der Auffassung sind, dass die von uns gespeicherten Daten nicht korrekt sind.
+Ihnen steht das Recht auf Datenübertragbarkeit zu, d. h. dass wir Ihnen auf Wunsch eine digitale Kopie der von Ihnen bereitgestellten personenbezogenen Daten zukommen lassen.
+Sie haben außerdem das Recht sich bei einer Datenschutzaufsichtsbehörde zu beschweren. Die für die uns zuständige Aufsichtsbehörde ist die Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen, Kavalleriestraße 2-4, 40213 Düsseldorf.
+10. Widerrufs- und Widerspruchsrecht
+Möchten Sie von Ihren nachfolgenden Widerrufs- oder Widerspruchsrechten Gebrauch machen, genügt eine formlose Mitteilung an die an die oben unter Ziffer 1 genannten Kontaktdaten.
+
+Widerruf von Einwilligungen
+Sie haben gemäß Artikel 7 Absatz 2 DSGVO das Recht, eine einmal erteilte Einwilligung jederzeit uns gegenüber zu widerrufen. Dies hat zur Folge, dass wir die Datenverarbeitung, die auf dieser Einwilligung beruhte, für die Zukunft nicht mehr fortführen. Durch den Widerruf Ihrer Einwilligung wird die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht berührt.
+
+
+
+Widerspruch gegen die Verarbeitung Ihrer Daten
+Soweit wir Ihre Daten auf Grundlage von berechtigten Interessen gemäß Artikel 6 Absatz 1 Buchstabe f DSGVO verarbeiten, haben Sie gemäß Artikel 21 DSGVO das Recht, Widerspruch gegen die Verarbeitung Ihrer Daten einzulegen, soweit dafür Gründe vorliegen, die sich aus Ihrer besonderen Situation ergeben oder sich der Widerspruch gegen Direktwerbung richtet. Im letzteren Fall haben Sie ein generelles Widerspruchsrecht, das auch ohne die Angabe von Gründen von uns umgesetzt wird.
+
+
+11. Datensicherheit
+Wir unterhalten angemessene technische Maßnahmen zur Gewährleistung der Datensicherheit, insbesondere zum Schutz Ihrer Daten vor Gefahren bei Datenübertragungen sowie vor der unbefugten Kenntniserlangung durch Dritte. Diese werden dem aktuellen Stand der Technik entsprechend jeweils angepasst. Zur Sicherung der von Ihnen auf unserer Website angegebenen persönlichen Daten verwenden wir den Transport Layer Security (TLS), der die von Ihnen eingegebenen Informationen verschlüsselt.
+12. Login und Registrierung mit netID
+Wenn Sie beim C&A Login einfach den netID Button nutzen, können Sie sich mit Ihrem netID Account bei uns registrieren oder anmelden. Sie werden im Anschluss zur netID Webseite weitergeleitet. Für den Login wird Ihre E-Mail-Adresse benötigt, die bei netID hinterlegt ist. Diese ist zur Identifizierung nötig, um ein sicheres C&A Profil für Sie anzulegen und wird bei uns gespeichert. Über die Mail-Adresse werden Ihr netID Profil und Ihr C&A Profil dauerhaft verknüpft. Diese Verknüpfung können Sie jederzeit auf der netID Webseite aufheben. Die C&A Webseite merkt sicht, dass Sie sich über netID angemeldet haben. Sie werden bei uns immer angemeldet sein, sobald Sie auch auf netID angemeldet sind. Es werden keinerlei Daten an netID weitergeben.
+Wichtig: Wir erfahren an keiner Stelle Ihre netID-Zugangsdaten. Wie netID mit Privatsphäre-Einstellungen umgeht, lesen Sie in den netID-Datenschutzhinweisen; das sind auch die gültigen Bestimmungen für diese Möglichkeit, sich bei uns anzumelden und zu registrieren.
+13. Spezielle Datenschutzhinweise für mobile Apps
+13.1 App Stores / Installation
+Die C&A App wird über von Dritten betriebene App-Plattformen angeboten, dem Google Play Store für Android Mobilgeräte und dem Apple App Store für Apple (iOS) Mobilgeräte. Der Download setzt daher gegebenenfalls eine vorherige Registrierung beim jeweiligen App-Store voraus. C&A hat demnach keinen Einfluss auf die Datenverarbeitung im Zusammenhang mit Ihrer Registrierung und Nutzung dieser App-Stores. Verantwortlich ist insoweit allein der Betreiber des jeweiligen App-Stores. Bei Fragen wenden Sie sich bitte direkt bei dem jeweiligen App-Store-Betreiber.
+13.2 System-Berechtigungen
+Für die Nutzung gewisser Funktionen müssen unsere Apps auf bestimmte Funktionen, Schnittstellen und Daten Ihres Geräts zugreifen können. Je nach Betriebssystem wird dazu teilweise Ihre ausdrückliche Erlaubnis benötigt. Im Folgenden ist beschrieben, welche Berechtigungen (sofern diese für die Verarbeitung Ihrer Daten relevant sind) die App abfragen und für welche Art von Funktionen diese Berechtigungen notwendig sind. Sie können die Berechtigungseinstellungen in den Systemeinstellungen Ihres Geräts jederzeit anpassen.
+
+
+
+
+
+
+13.3 Push-Mitteilungen
+Sie haben bei der Nutzung unserer App die Möglichkeit, Push-Mitteilungen zu aktivieren. Dabei handelt es sich um Mitteilungen über aktuelle Angebote, Rabatte, Trends und Aktionen, die Ihnen auch dann auf Ihr Mobilgerät gesendet werden, wenn Sie unsere App gerade nicht benutzen. Wenn Sie der App den Zugriff auf Ihren Standort erlauben, erhalten Sie auch standortbasierte Push-Mitteilungen zu Aktionen in Ihrer nächsten C&A-Filiale.
+    Beim Starten der App werden Sie gefragt, ob Sie Push-Mitteilungen aktivieren möchten. Wird das bejaht, wird eine eindeutige Kennnummer Ihres Mobilgeräts (Geräte-ID) an den Push-Dienst kommuniziert, der bei Ihrem Betriebssystemanbieter die Push-Funktionalität bereitstellt. 
+    Bei Android-Betriebssystemen ist dies der „Google Cloud Messaging“ Service, bei iOS Betriebssystemen der „Apple Push Notification Service“. Dieser Service liefert uns eine Push ID („Push Notification Identifier“) zurück, der keine Rückschlüsse mehr auf die Geräte-ID und somit auf Sie als Nutzer zulässt. Sollten Sie sich in der App in Ihrem C&A Kundenkonto anmelden, wird die Push-ID mit Ihrem C&A Kundenkonto verknüpft, damit wir Ihnen auch personalisierte Push-Mitteilungen zusenden können.
+Sollten Sie sich in der App in Ihrem C&A Kundenkonto anmelden, wird die Push-ID mit Ihrem C&A Kundenkonto verknüpft, damit wir Ihnen auch personalisierte Push-Mitteilungen zusenden können.
+Für den Versand der Push-Nachrichten nutzen wir Technologien der Firma Emarsys eMarketing Systems AG, Märzstraße 1, 1150 Wien, Österreich.
+Die Speicherung Ihrer Push-ID erfolgt für die Dauer der Inanspruchnahme des Push-Dienstes, also bis sie ihn wieder deaktivieren.
+Sie haben die Möglichkeit, Push-Mitteilungen in den App-Einstellungen Ihres Mobilgeräts jederzeit aus- und auch einzuschalten.
+
+
+
+
+Wenn Sie keine standortbezogene Personalisierung Ihrer Push-Mitteilungen wünschen, können Sie in den App-Einstellungen Ihres Mobilgeräts die Ortungsdienste für unsere App jederzeit aus- und auch einschalten:
+
+
+
+
+Datenverarbeitung
+Artikel 6 Absatz 1 DSGVO (Einwilligung)
+13.4 Fotosuche
+In unserer App können Sie zur Suche in unserem C&A Online Shop eigene Fotos mit Produktabbildungen verwenden. Hierfür benötigt unsere App Zugriff auf Ihre Kamera und/oder die auf Ihrem Gerät gespeicherten Fotos. Ihre Fotos werden automatisiert nach den darin abgebildeten Produkten abgesucht und mit den Angeboten Ihres C&A Online Shops abgeglichen. So können wir Ihnen ähnliche Produkte in den Sucherergebnissen anzeigen.
+Um Ihnen die Fotosuche anbieten zu können, nutzen wir die Technologien unseres Dienstleisters Syte – Visual Conception Ltd., 105 Allenby Street, Tel Aviv 6513445, Israel („Syte“).
+Syte betreibt die technische Infrastruktur für die Fotosuche. Bei der Nutzung der visuellen Produktsuche werden Ihre Fotos von uns an Syte übermittelt und dort in unserem Auftrag ausgewertet. Damit der für Sie relevante Webshop bestimmt werden kann, nutzt Syte in unserem Auftrag zudem Ihre anonymisierte IP-Adresse, um das Land, in dem Sie sich gerade aufhalten, zu bestimmen (Geolokalisierung). Die übermittelten Fotos werden nach spätestens 24 Stunden gelöscht.
+Die Datenverarbeitung durch Syte in Israel unterliegt einer Angemessenheitsentscheidung der EU-Kommission, d. h. das Datenschutzniveau ist als angemessen anerkannt, auch wenn Verarbeitung in Israel erfolgen sollte.
+Rechtsgrundlage der Datenverarbeitung für die Fotosuche ist Artikel 6 Absatz 1 Buchstabe b DSGVO (Vertragserfüllung und vorvertragliche Maßnahmen).
+13.5 Absturz-Benachrichtigungen
+Um die Stabilität und Zuverlässigkeit unserer Apps kontinuierlich optimieren zu können, nutzen wir anonymisierte Absturzberichte.
+Sollten Sie im Falle eines Absturzes freiwillig und ausdrücklich der Übermittlung eines Absturzberichts zugestimmt haben, werden anonyme Informationen zum Absturz an die Server unseres Dienstleisters Visual Studio AppCenter (ein Unternehmen der Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA) übertragen und dort zur Auswertung durch uns gespeichert. Diese Absturzberichte enthalten keinerlei persönliche Informationen. Die Datenschutzbestimmungen von Microsoft können Sie unter https://privacy.microsoft.com/de-de/privacystatement abrufen.
+13.6 Web-Analyse
+Möchten sie der Web-Analyse (Abschnitt 5. und 6. der Datenschutzerklärung) widersprechen, bietet Ihnen die App hierzu eine gesonderte Möglichkeit unter „Einstellungen“. Rufen Sie dazu bitte die Einstellungen der App auf und deaktivieren Sie das Tracking.
+14. Änderungen dieser Datenschutzerklärung
+Gelegentlich aktualisieren wir diese Datenschutzerklärung, beispielsweise wenn wir unsere Website anpassen oder sich die gesetzlichen oder behördlichen Vorgaben ändern. Wesentliche Änderungen werden wir in dieser Datenschutzerklärung dokumentieren und erforderlichenfalls die Zustimmung unserer Kunden einholen.
+
+Stand 25.05.2018
+
+Datenschutzhinweise für den C&A Newsletter
+Stand: 05/2018
+1. Anmeldung
+Wenn Sie sich für den C&A Newsletter anmelden, bitten wir Sie um folgende Pflichtangaben:
+
+
+
+
+Diese Angaben benötigen wir zum Versand und zur Personalisierung des C&A Newsletters. Wenn Sie uns diese Informationen bereits bei der Registrierung für das C&A Kundenkonto mitgeteilt haben, verzichten wir ggf. auf die erneute Abfrage.
+Ihre freiwilligen Angaben verwenden wir ebenfalls für die Personalisierung des C&A Newsletters. Falls Sie uns bei der Anmeldung für den Newsletter oder das C&A Kundenkonto Ihr Geburtsdatum mitteilen, erhalten Sie außerdem eine kleine Geburtstagsüberraschung.
+
+Im Rahmen von gemeinsamen Aktionen können Sie sich möglicherweise auch über einen Aktionspartner zum C&A Newsletter anmelden. In diesem Fall erhalten wir Ihre Angaben von dem Aktionspartner, über den Sie sich für den C&A Newsletter anmelden.
+
+
+Um den Missbrauch von E-Mail-Adressen zu verhindern bitten wir Sie in der Regel in einem automatisierten Prozess per E-Mail um Bestätigung Ihrer Anmeldung (Double-Opt-in-Verfahren. Ihre Anmeldung und ggf. Bestätigung werden protokolliert, wobei zu Nachweiszwecken auch die dabei verwendete IP-Adresse dokumentiert wird.
+2. Abmelden
+Sie können Sie sich jederzeit vom C&A Newsletter abmelden. Für die Abmeldung können Sie z. B. den Abmeldelink in jedem C&A Newsletter und das  verwenden.
+3. Personalisierung
+Jeder C&A Newsletter enthält eine nach dem Zufallsprinzip vergebene Kennung. Anhand dieser Kennung können wir erfassen, ob und wann ein Newsletter geöffnet wurde und auf welche Links geklickt wurde, und bilden auf dieser Grundlage pseudonyme Nutzungsprofile. Wenn Sie auf einen Link im Newsletter klicken, führen wir dieses Nutzungsprofil auf Basis einer Cookie-Technologie auch mit den pseudonymen Nutzungsprofilen, die bei der Nutzung des C&A Online Shops anfallen (z. B. Surf- und Einkaufsverhalten), zusammen. Wir nutzen diese Informationen in pseudonymer Form für die einheitliche Personalisierung unseres Newsletters und des C&A Online Shops, so dass wir Ihnen beispielsweise im Newsletter Angebote unterbreiten können, die zu den von Ihnen im C&A Online Shop gesuchten Produkten passen.
+Wenn Sie ein C&A-Kundenkonto oder bei uns unter Verwendung der gleichen E-Mail-Adresse eingekauft haben, können wir zur Steigerung der Personalisierungsqualität auch direkt die zu Ihrem C&A Kundenkonto oder der verwendeten E-Mail-Adresse gespeicherten Daten (z. B. Bestelldaten, Wunschlisteninhalte, Warenkorb) verwenden.
+
+Sie möchten nicht, dass wir Ihnen personalisierte Angebote zusenden?
+Wenn Sie nicht möchten, dass wir Ihre Daten auf die oben beschriebene Weise zur Personalisierung nutzen, können Sie sich jederzeit vom C&A Newsletter abmelden. Wir werden dann die erzeugten Nutzungsprofile löschen. Für die Abmeldung können Sie z. B. den Abmeldelink in jedem C&A Newsletter oder das Kontaktformular verwenden.
+
+
+4. Einsatz von Newsletter-Dienstleistern
+Für die in diesen Datenschutzhinweisen beschriebenen Datenverarbeitungen setzen wir technische Dienstleister ein. Falls wir dafür Ihre von Daten an einen Dienstleister weitergeben müssen, erfolgt dies im Rahmen einer Auftragsverarbeitung nach unseren Anweisungen.
+5. Rechtsgrundlagen und weitere wichtige Datenschutzhinweise
+Die Rechtsgrundlage für die oben beschriebene Datenverarbeitung ist Artikel 6 Absatz 1 Buchstabe a DSGVO (Einwilligung).
+Informationen zu Ihren Datenschutzrechten und weitere wichtige Hinweise finden Sie in der allgemeinen , die ergänzend gilt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Passwort vergessen?
+Bitte gebe Deine E-Mail-Adresse ein, damit wir Dir umgehend ein neues Passwort zusenden können.
+
+
+
+
+[Error msg]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

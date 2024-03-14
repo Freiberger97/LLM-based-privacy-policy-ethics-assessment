@@ -1,0 +1,297 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Datenschutz
+
+
+
+
+Datenschutz
+Datenschutzinformationen der SportScheck GmbH, Neuhauser Straße 21, 80331 München. Stand: 22.04.2020Seit dem 25. Mai 2018 gelten im Bereich Datenschutz europaweit die einheitlichen Vorgaben der EU-Datenschutz-Grundverordnung (). In den nachfolgenden Datenschutzinformationen informieren wir Sie über die durch die SportScheck GmbH, Neuhauser Straße 21, 80331 München („SportScheck“ und/oder „wir“ und/oder „Verantwortlicher“) durchgeführte Verarbeitung personenbezogener Daten nach Maßgabe der DSGVO und des Bundesdatenschutzgesetzes (BDSG 2018).
+ 
+Bitte lesen Sie sich unsere Datenschutzinformationen aufmerksam durch. Sollten Sie Fragen oder Anmerkungen zu unseren Datenschutzinformationen haben, kontaktieren Sie uns gern unter: .
+Inhalt1. Name und Kontaktdaten des für die Verarbeitung Verantwortlichen2. Kontaktdaten des Datenschutzbeauftragten3. Zwecke der Datenverarbeitung, Rechtsgrundlagen und berechtigte Interessen, die von dem Verantwortlichen oder einem Dritten verfolgt werden sowie Kategorien von Empfängern3.1. Aufrufen unserer Websites/Applikationen3.1.1. Log-Files3.1.2. Cookies, Tracking, Social-Media-Plugins3.1.3. Geo-Lokalisation3.1.4. Friendly Captcha (Bot/Spam-Schutz)3.2. Begründung, Durchführung und/oder Beendigung eines Vertrages3.2.1. Datenverarbeitung bei Vertragsabschluss3.2.2. Identitätsprüfung3.2.3. Bonität und Übermittlung an Auskunfteien3.2.4. Nutzung von Daten zu Zwecken der Betrugsprävention3.2.5. Übermittlung von Daten an Transportdienstleister3.2.6. Übermittlung von Daten über offene Forderungen an Inkassodienstleister3.2.7. Probeabonnements der Sovendus GmbH3.2.8. Gutscheinangebote der Sovendus GmbH3.3. Datenverarbeitung zu Werbezwecken3.3.1. Postalische Werbung3.3.2. Newsletter3.3.3. Produktempfehlungen per E-Mail3.3.4. Gewinnspiele3.4. Onlineauftritt und Webseitenoptimierung3.4.1. Zweck der Verarbeitung 3.4.2. Rechtliche Grundlage 3.4.3. Präferenzen ändern 3.4.4. Weitere Möglichkeiten, Cookies einzustellen 3.4.4.1. Browser-Einstellungen 3.4.4.2. Opt-Out über  3.4.5. Push-Nachrichten SportScheck App
+3.5. Kundenkonto3.6. Kontaktaufnahme3.6.1. SportScheck Club-Bonusprogramm3.6.2. Kontaktformular3.7. Nutzerinhalte/ Kundenbewertungen/ Kommentare3.7.1. BazaarVoice3.8. Zahlungen3.8.1. Paypal3.8.2. Paydirect3.8.3. Amazon Pay3.9. Auftragsverarbeiter4. Empfänger außerhalb der EU5. Veranstaltungen von SportScheck 5.1 SportScheck RUN5.1.1. Umtausch und Rückerstattung von gezahlten Tickets5.2. Women PWR Days 6. Informationen für Lieferanten7. Ihre Rechte7.1. Überblick7.2. Widerspruchsrecht7.3. Widerrufsrecht8. Datensicherheit8.1. Wichtige Hinweise zum Schutz Ihrer Daten
+1. Name und Kontaktdaten des für die Verarbeitung Verantwortlichen
+Diese Datenschutzinformationen gelten für die Datenverarbeitung durch die
+SportScheck GmbH
+Neuhauser Straße 21
+80331 München
+Telefon: 089 61101616
+Email-Adresse: 
+vertreten durch:
+
+Thomas Wanke (Vors.), Dr. Robert Polland, Dr. Christian Marzinzik, Anna Rusche, Christine Wurm
+
+Website: 
+für die folgenden Internetseiten: 
+2. Kontaktdaten des Datenschutzbeauftragten
+Den/ die betriebliche(n) Datenschutzbeauftragte(n) des Verantwortlichen können Sie unter
+SportScheck GmbH
+Biberger Str. 37
+82008 Unterhaching
+Email: 
+erreichen.
+3. Zwecke der Datenverarbeitung, Rechtsgrundlagen und berechtigte Interessen, die von dem Verantwortlichen oder einem Dritten verfolgt werden sowie Kategorien von Empfängern
+3.1. Aufrufen unserer Websites/Applikationen
+3.1.1. Log-Files
+Bei jedem Zugriff auf Websites/Applikationen werden Informationen durch den jeweiligen Internetbrowser Ihres jeweiligen Endgerätes an den Server unserer Website/Applikation gesendet und temporär in Protokolldateien, den sogenannten Logfiles, gespeichert. Die dabei gespeicherten Datensätze enthalten die folgenden Daten, die bis zur automatischen Löschung gespeichert werden: Datum und Uhrzeit des Abrufs, Name der aufgerufenen Seite, IP-Adresse des anfragenden Gerätes, Referrer-URL (Herkunfts-URL, von der aus Sie auf unsere Webseiten gekommen sind), Query-String, die übertragene Datenmenge, Ladezeit, sowie Produkt und Versions-Informationen des jeweils verwendeten Browsers sowie der Name ihres Access-Providers.
+Rechtsgrundlage für die Verarbeitung der IP-Adresse ist Artikel 6 Absatz 1 Buchstabe f) DSGVO. Unser berechtigtes Interesse ergibt sich aus der
+ 
+
+
+
+
+
+
+
+ 
+Ein unmittelbarer Rückschluss auf Ihre Identität ist anhand der Informationen nicht möglich und wird durch uns auch nicht gezogen werden.
+Die Daten werden gespeichert und nach Erreichung der vorgenannten Zwecke automatisch gelöscht. Die Regelfristen zur Löschung richten sich nach dem Kriterium der Erforderlichkeit.
+3.1.2. Cookies, Tracking, Social-Media-Plugins
+Wir verwenden für unsere Website/Applikation sog. Cookies, Tracking-Tools, Targeting-Verfahren sowie Social-Media-Plug-ins. Um welche Verfahren es sich dabei genau handelt und wie ihre Daten dafür verwendet werden, wird nachfolgend im Einzelnen erläutert.
+3.1.3. Geo-Lokalisation
+Sofern Sie in Ihrem Browser bzw. in dem Betriebssystem oder andere Einstellungen Ihres jeweiligen Endgerätes der sogenannten Geolokalisation zugestimmt haben, nutzen wir diese Funktion, um Ihnen auf Ihren aktuellen Standort bezogene, individuelle Services anbieten zu können. Ihre so verarbeiteten Standortdaten verarbeiten wir ausschließlich für diese Funktion. Beenden Sie die Nutzung, so werden die Daten gelöscht.
+3.1.4. Friendly Captcha (Bot/Spam-Schutz)Unsere Webseite nutzt den Dienst „Friendly Captcha“ (www.friendlycaptcha.com). Dieser Dienst ist ein Angebot der Friendly Captcha GmbH, Am Anger 3-5, 82237 Wörthsee, Deutschland.Friendly Captcha ist eine neuartige, datenschutzfreundliche Schutzlösung, um die Nutzung unserer Webseite durch automatisierte Programme und Skripte (sogenannte „Bots“) zu erschweren.Wir haben hierzu in unsere Webseite (z.B. für Kontaktformulare) einen Programmcode von Friendly Captcha integriert, damit das Endgerät des Besuchers eine Verbindung zu den Servern von Friendly Captcha aufbauen kann, um von Friendly Captcha eine Rechenaufgabe zu erhalten. Das Endgerät des Besuchers löst die Rechenaufgabe, wodurch gewisse Systemressourcen in Anspruch genommen werden, und schickt das Rechenergebnis an unseren Webserver. Dieser nimmt über eine Schnittstelle Kontakt zum Server von Friendly Captcha auf und erhält als Antwort, ob das Puzzle vom Endgerät richtig gelöst wurde. Abhängig vom Ergebnis können wir Anfragen über unsere Webseite mit Sicherheitsregeln versehen und sie so beispielsweise weiterbearbeiten oder ablehnen.Die Daten werden ausschließlich zum oben beschriebenen Schutz vor Spam und Bots verwendet. Rechtsgrundlage für die Verarbeitung sind unsere berechtigten Interessen am Schutz unserer Webseite vor missbräuchlichen Zugriff durch Bots, mithin dem Spam-Schutz und dem Schutz vor Angriffen (z.B. Massenanfragen), Art. 6 Abs. 1 lit. f DSGVO.Durch Friendly Captcha werden keine Cookies auf dem Endgerät des Besuchers gesetzt oder ausgelesen. IP-Adressen werden nur in gehashter (einwegverschlüsselter) Form gespeichert und erlauben uns und Friendly Captcha keinen Rückschluss auf eine Einzelperson.Weitere Informationen zum Datenschutz beim Einsatz von Friendly Captcha finden Sie unter https://friendlycaptcha.com/legal/privacy-end-users/.3.2. Begründung, Durchführung und/oder Beendigung eines Vertrages
+
+3.2.1. Datenverarbeitung bei Vertragsabschluss
+Wenn Sie sich bei einer unserer Websites/Applikationen registrieren und/oder mit uns einen weiteren Vertrag abschließen, verarbeiten wir die für den Abschluss, die Durchführung oder die Beendigung des Vertrages mit Ihnen erforderlichen Daten. Hierzu zählen:
+
+
+
+
+
+
+
+
+
+
+Rechtsgrundlage hierfür ist Artikel 6 Absatz 1 Buchstabe a) und b) DSGVO, d.h. Sie stellen uns die Daten auf Grundlage des jeweiligen Vertragsverhältnisses (z.B. Führung Ihres Kunden-/ Nutzerkontos, Abwicklung eines Kaufvertrages) zwischen Ihnen und uns zur Verfügung. Zur Verarbeitung Ihrer E-Mail-Adresse im Falle eines Kaufs über unsere Websites/Applikationen sind wir zudem aufgrund gesetzlicher Vorgaben im Bürgerlichen Gesetzbuch (BGB), eine elektronische Bestellbestätigung versenden zu müssen, verpflichtet (Artikel 6 Absatz 1 Buchstabe c) DSGVO).
+Soweit wir Ihre Daten nicht für werbliche Zwecke nutzen (siehe unten 3.3.) speichern wir die für die Vertragsabwicklung erhobenen Daten für die Dauer des Vertrages sowie bis zum Ablauf der gesetzlichen bzw. möglicher vertraglicher Gewährleistungs- und Garantierechte. Nach Ablauf dieser Frist bewahren wir die nach Handels- und Steuerrecht erforderlichen Informationen des Vertragsverhältnisses für die gesetzlich bestimmten Zeiträume auf. Für diesen Zeitraum werden die Daten allein für den Fall einer Überprüfung durch die Finanzverwaltung erneut verarbeitet.
+Zur Abwicklung eines Kaufvertrages über unsere Websites/ Applikationen sind des Weiteren folgende Datenverarbeitungen erforderlich:
+Ihre Bezahldaten werden an von uns beauftragten Bezahldienstleister weitergegeben, die die Zahlung(en) abwickeln. Angaben zu Ihrer Lieferanschrift geben wir an von uns beauftragte Logistikunternehmen und Versandpartner weiter. Um sicherzustellen, dass die Warenzustellung Ihren Wünschen entsprechend erfolgt, übermitteln wir ggf. die Telefonnummer an das von uns beauftragte Logistikunternehmen und/oder Versandpartner, die die Zustellung übernehmen. Diese werden ggf. im Vorfeld der Zustellung mit Ihnen Kontakt aufnehmen, um Einzelheiten der Zustellung mit Ihnen abzustimmen. Die jeweiligen Daten werden allein zu den jeweiligen Zwecken übermittelt und nach erfolgter Zustellung wieder gelöscht.3.2.2. IdentitätsprüfungBei jedem Kauf überprüfen wir unter Hinzuziehung von Informationen von CRIF Bürgel GmbH, Leopoldstr. 244, 80807 München Ihre Identität. Rechtsgrundlage hierfür ist Artikel 6 Absatz 1 Buchstabe b) sowie Buchstabe f) DSGVO. Die Berechtigung hierzu ergibt sich dabei aus dem Schutz Ihrer Identität und der Vermeidung von Betrugsversuchen zu unseren Lasten. Der Umstand und das Ergebnis unserer Anfrage wird Ihrem Kundenkonto für die Dauer des Vertragsverhältnisses hinzugespeichert.3.2.3. Bonität und Übermittlung an AuskunfteienWenn Sie im Rahmen einer Bestellung eine sog. unsichere Zahlungsart (Rechnungs- oder Ratenkauf) ausgewählt haben, gilt das Folgende:SportScheck räumt ihren Kunden grundsätzlich die Möglichkeit ein, Waren unter Inanspruchnahme unsicherer Zahlungsarten (z.B. Rechnungskauf, Finanzierungskauf) zu erwerben.Unternehmen, die ihren Kunden grundsätzlich unsichere Zahlungsarten einräumen, haben ein berechtigtes Interesse daran, sich so gut wie möglich vor dem Entstehen von Zahlungsausfällen zu schützen. Dies geschieht unter anderem dadurch, dass vor der Einräumung der Möglichkeit der Inanspruchnahme unsicherer Zahlungsarten die Bonität des Kunden geprüft wird. Für die Bonitätsprüfung wird vor jedem Einkauf eine gesonderte Einwilligung der Kunden eingeholt. Sollte der Kunde die Einwilligung für die Bonitätsprüfung nicht erteilen, kann er nur per sicherer Zahlart bezahlen. Bei den Bonitätsinformationen handelt es sich um Informationen über offene Entgeltforderungen und um solche Informationen, aus denen sich unmittelbar die Gefahr eines Zahlungsausfalls ergibt (z.B. Insolvenz, Schuldnerberatung, Stundung aufgrund von Zahlungsunfähigkeit). Bei einer Nichtbegleichung der offenen Forderung besteht die Möglichkeit, die Information über die offenen Entgeltforderungen an Auskunfteien zu übermitteln.Wir sind in den Fällen, in denen ein Kunde auf eine unsichere Zahlungsart bestellen möchte, dazu berechtigt, im Rahmen der Bestellung erhaltene Informationen zur Berechnung einer Ausfallwahrscheinlichkeit zu nutzen (internes Scoring). Die Berechnung der Ausfallwahrscheinlichkeit mittels des internen Scoring basiert auf einem anerkannten mathematisch statistischen Verfahren. Die im Rahmen des internen Scoring genutzten Daten resultieren insbesondere aus einer Kombination der folgenden Datenkategorien (nicht abschließend): Adressdaten, Alter, gewünschte Zahlungskonditionen, Bestellweg und Sortimentsgruppen. Im Rahmen des internen Scoring werden nur solche Daten genutzt, die der Kunde uns gegenüber selbst angegeben hat. Anhand der benannten Datenkategorien können auf Grund des eingesetzten mathematisch statistischen Verfahrens Rückschlüsse auf die Zahlungsausfallwahrscheinlichkeit getroffen werden. So kann beispielsweise ein bestimmter Wohnort des Bestellenden kombiniert mit einer bestimmten Warenkategorie zu einer erhöhten Zahlungsausfallwahrscheinlichkeit und somit zu einer Zahlarteneinschränkung führen. Es erfolgt keine Zahlungsarteneinschränkung alleinig auf Basis des Wohnorts des Bestellenden. Darüber hinaus ist es z.B. statistisch nachgewiesen, dass bei der Nutzung eines kostenpflichtigen E-Mail-Providers ein geringeres Zahlungsausfallrisiko besteht, als dies bei der Nutzung eines kostenlosen Anbieters der Fall ist. Im Rahmen der Prüfung, ob eine unsichere Zahlungsart (Raten- / Rechnungskauf) eingeräumt werden kann, erfragen wir bei Ihnen eine Einwilligung, um Bonitätsinformation über Sie bei einer externen Auskunftei einzuholen. Wir arbeiten mit der folgenden Auskunftei zusammen: CRIF Bürgel GmbH, Leopoldstr. 244, 80807 München.Zum Zweck des Abrufs von Bonitätsinformationen werden die folgenden Daten an die externe Auskunftei übermittelt: Vorname, Nachname, Postadresse, Geburtsdatum. Die genannten Daten können des Weiteren zum Zweck der Personen- und Adressvalidierung an die Bürgel Wirtschaftsinformationen GmbH & Co. KG übermittelt werden.Wir können im Rahmen der Bonitätsprüfung mittels des Einsatzes eines automatisierten Prozesses entscheiden, ob Ihnen die gewünschte unsichere Zahlungsart (Raten-/ Rechnungskauf) eingeräumt wird. So kann z.B. bei der Übermittlung einer negativen Bonitätsauskunft durch eine Auskunftei oder bei der Berechnung eines nicht ausreichenden Scorewerts im Rahmen des internen Scoring automatisiert eine Ablehnung der gewünschten Zahlungsart erfolgen. Sie können uns gegenüber das Recht geltend machen, dass wir eine manuelle Überprüfung der automatisierten Entscheidung vornehmen. Darüber hinaus haben Sie das Recht auf Darlegung des eigenen Standpunkts sowie das Recht zur Anfechtung der Entscheidung.Die Verarbeitung Ihrer Daten im Rahmen der Bonitätsprüfung erfolgt auf Basis von Art. 6 Abs. 1 Buchstabe a) DSGVO. Die Einwilligung wird vor jedem Kauf von den Kunden eingeholt. Sollte der Kunde die Einwilligung für die Bonitätsprüfung nicht erteilen, kann er nur per sicherer Zahlart bezahlen. Die erteilte Einwilligung für die Bonitätsprüfung können Sie jederzeit per E-Mail an  mit Wirkung für die Zukunft widerrufen.Wir übermitteln im Rahmen dieses Vertragsverhältnisses erhobene personenbezogene Daten über die Beantragung, die Durchführung und Beendigung dieser Geschäftsbeziehung sowie Daten über nicht vertragsgemäßes oder betrügerisches Verhalten an die CRIF Bürgel GmbH, Leopoldstr. 244, 80807 München.Rechtsgrundlagen dieser Übermittlungen sind Artikel 6 Absatz 1 Satz 1 Buchstabe a, b und Buchstabe f der Datenschutzgrundverordnung (DSGVO). Der Datenaustausch mit der CRIF Bürgel GmbH dient auch der Erfüllung gesetzlicher Pflichten zur Durchführung von Kreditwürdigkeitsprüfungen (§§ 505a und 506 des Bürgerlichen Gesetzbuches).Die CRIF Bürgel GmbH verarbeitet die erhaltenen Daten und verwendet sie auch zum Zwecke der Profilbildung (Scoring), um ihren Vertragspartnern im Europäischen Wirtschaftsraum und in der Schweiz sowie ggf. weiteren Drittländern (sofern zu diesen ein Angemessenheitsbeschluss der Europäischen Kommission besteht) Informationen unter anderem zur Beurteilung der Kreditwürdigkeit von natürlichen Personen zu geben. Nähere Informationen zur Tätigkeit der CRIF Bürgel GmbH können deren Informationsblatt entnommen ( abrufbar) oder online unter  eingesehen werden.3.2.4. Nutzung von Daten zu Zwecken der Betrugsprävention
+ 
+Die von Ihnen im Rahmen einer Bestellung angegebenen Daten können dazu genutzt werden, um zu überprüfen, ob ein atypischer Bestellvorgang vorliegt (z.B. zeitgleiche Bestellung einer Vielzahl von Waren an dieselbe Adresse unter Nutzung verschiedener Kundenkonten). An der Vornahme einer solchen Überprüfung besteht für uns grundsätzlich ein berechtigtes Interesse.Zur Vermeidung von Betrugsfällen greifen wir beim Betrieb unserer Website auf die Dienste der Risk.Ident GmbH, Am Sandtorkai 50, 20457 Hamburg, zurück.Risk.Ident erhebt und verarbeitet mit Hilfe von Cookies und anderen Tracking-Technologien Daten zur Ermittlung des vom Nutzer verwendeten Endgeräts und weitere Daten über die Nutzung der Website. Eine Zuordnung zu einem bestimmten Nutzer erfolgt dabei nicht. Soweit durch Risk.Ident IP-Adressen erhoben werden, erfolgt eine sofortige Chiffrierung.Die Daten werden von Risk.Ident in einer Datenbank zur Betrugsprävention hinterlegt. In der Datenbank werden auch von uns an Risk.Ident übermittelte Daten zu Endgeräten gespeichert, unter deren Verwendung es bereits zu (versuchten) Betrugstaten gekommen ist. Auch insoweit erfolgt keine Zuordnung zu bestimmten Nutzern.Im Rahmen eines Bestellprozesses auf unserer Website rufen wir aus der Datenbank von Risk.Ident eine Risikobewertung zum Endgerät des Nutzers ab. Diese Risikobewertung zur Wahrscheinlichkeit eines Betrugsversuchs berücksichtigt u.a., ob das Endgerät sich über verschiedene Service-Provider eingewählt hat, ob das Endgerät eine häufig wechselnde Geo-Referenz aufweist, wie viele Transaktionen über das Endgerät getätigt wurden und ob eine Proxy-Verbindung genutzt wird.Rechtsgrundlage der Verarbeitung ist Art. 6 Absatz 1 Buchstabe f) DSGVO.
+3.2.5. Übermittlung von Daten an Transportdienstleister oder Direktversandpartner
+Zum Zweck der Zustellung bestellter Waren arbeiten wir mit Logistikdienstleistern/Transportunternehmen und/oder Direktversandpartnern zusammen: An diese können die folgenden Daten zum Zweck der Zustellung der bestellten Waren bzw. zu deren Ankündigung übermittelt werden: Vorname, Nachname, Postadresse, ggf. Telefonnummer (z.B. für Speditionsankündigungen). Rechtsgrundlage der Verarbeitung ist Art. 6 Absatz 1 Buchstabe b) DSGVO.
+3.2.6. Übermittlung von Daten über offene Forderungen an Inkassodienstleister
+Sollten Sie offene Rechnungen / Raten trotz wiederholter Mahnung nicht begleichen, können wir die für die Durchführung eines Inkasso erforderlichen Daten an einen Inkassodienstleister zum Zweck des Treuhandinkasso übermitteln. Alternativ können wir die offenen Forderungen an einen Inkassodienstleister veräußern. Dieser wird dann Forderungsinhaber und macht die Forderungen im eigenen Namen geltend. Wir arbeiten mit dem folgenden Inkassodienstleister zusammen: EOS Deutscher Inkasso-Dienst GmbH, Steindamm 71, 20099 Hamburg. Rechtsgrundlage für die Übermittlung der Daten im Rahmen des Treuhandinkasso ist Art. 6 Absatz 1 Buchstabe b) DSGVO; die Übermittlung der Daten im Rahmen des Forderungsverkaufs erfolgt auf Basis von Art. 6 Absatz 1 Buchstabe f) DSGVO. Des Weiteren kann der Inkassodienstleister als Leistung uns gegenüber die Information darüber, dass eine offene Entgeltforderung besteht, an Auskunfteien übermitteln. Dies gilt auch für die Erfüllung einer Nachmeldeverpflichtung für den Fall, dass sich der Betrag verändert hat (z.B. Reduzierung der Forderung aufgrund einer Zahlung durch Sie). Durch diese Nachmeldung werden ihre berechtigten Interessen gewahrt indem sichergestellt wird, dass der Datenbestand bei der jeweiligen Auskunftei aktuell ist. Rechtsgrundlage für die Aktualisierung der Höhe der Forderungen gegenüber Auskunfteien ist die Regelung in Art. 6 (1) f) DSGVO. Im Hinblick auf die Verarbeitung von Daten durch Auskunfteien vgl. Sie bitte die Ausführungen unter der Überschrift "Bonität und Übermittlung an Auskunfteien".
+3.2.7. Probeabonnements der Sovendus GmbH 
+Für die Auswahl eines für Sie regional aktuell interessanten Vorteilsangebots werden Anrede, Geburtsjahr, Land, Postleitzahl, (anonymisierter) Hashwert der E-Mail-Adresse und Ihre IP-Adresse von uns pseudonymisiert und verschlüsselt an die Sovendus GmbH, Moltkestr. 11, 76133 Karlsruhe (Sovendus) übermittelt. Die IP-Adresse wird danach von Sovendus ausschließlich zu Zwecken der Datensicherheit verwendet und im Regelfall nach sieben Tagen anonymisiert. Beim Klick auf ein Vorteilsangebot von Sovendus auf sportscheck.com werden an Sovendus von uns außerdem Ihr Name, Ihre Adressdaten und Ihre E-Mail-Adresse zur Vorbereitung der personalisierten Anforderung des Vorteilsangebots beim Produktanbieter verschlüsselt übermittelt.
+Rechtsgrundlage für diese Datenverarbeitung ist Art. 6 Abatz.1 Buchstabe b), f) DSGVO.
+Weitere Informationen zur Verarbeitung Ihrer Daten durch Sovendus entnehmen Sie bitte den Online-Datenschutzhinweisen unter .
+3.2.8. Gutscheinangebote der Sovendus GmbH
+Für die Auswahl eines für Sie aktuell interessanten Gutscheinangebots werden von uns pseudonymisiert und verschlüsselt der Hashwert Ihrer EMail-Adresse und Ihre IP-Adresse an die Sovendus GmbH, Moltkestr. 11, 76133 Karlsruhe (Sovendus) übermittelt (Art. 6 Absatz 1 Buchstabe f) DSGVO). Der pseudonymisierte Hashwert der E-MailAdresse wird zur Berücksichtigung eines möglicherweise vorliegenden Widerspruchs gegen Werbung von Sovendus verwendet (Art. 21 Abs.3, Art. 6 Absatz 1 Buchstabe c) DSGVO). Die IP-Adresse wird von Sovendus ausschließlich zu Zwecken der Datensicherheit verwendet und im Regelfall nach sieben Tagen anonymisiert (Art. 6 Absatz 1 Buchstabe f) DSGVO). Außerdem übermitteln wir zu Abrechnungszwecken pseudonymisiert Bestellnummer, Bestellwert mit Währung, Session-ID, Couponcode und Zeitstempel an Sovendus (Art. 6 Absatz 1 Buchstabe f) DSGVO). Wenn Sie sich für ein Gutscheinangebot von Sovendus interessieren, zu Ihrer E-Mail-Adresse kein Werbewiderspruch vorliegt und auf das nur in diesem Fall angezeigte Gutschein-Banner klicken, werden von uns verschlüsselt Anrede, Name und Ihre E-Mail-Adresse an Sovendus zur Vorbereitung des Gutscheins übermittelt (Art. 6 Absatz1 Buchstabe b), f) DSGVO). Weitere Informationen zur Verarbeitung Ihrer Daten durch Sovendus entnehmen Sie bitte den Online-Datenschutzhinweisen unter .
+3.3. Datenverarbeitung zu Werbezwecken
+3.3.1. Postalische Werbung
+Wir haben grundsätzlich ein berechtigtes Interesse daran, Ihre Daten zu Marketingzwecken zu nutzen. Wir verarbeiten die folgenden Daten zu eigenen Marketingzwecken sowie zu Marketingzwecken Dritter: Vorname, Nachname, Postadresse, Geburtsjahr.
+Wir sind außerdem dazu berechtigt, den genannten Daten weitere über Sie unter Einhaltung der gesetzlichen Vorgaben erhobene personenbezogene Daten zu eigenen Marketingzwecken sowie zu Marketingzwecken Dritter hinzu zu speichern. Ziel ist es, Ihnen allein an Ihren tatsächlichen oder vermeintlichen Bedürfnissen orientierte Werbung zukommen zu lassen und Sie entsprechend nicht mit unnützer Werbung zu belästigen.
+Eine Übermittlung der hinzugespeicherten Daten an Dritte erfolgt nicht. Außerdem pseudonymisiert / anonymisiert SportScheck über Sie erhobene personenbezogene Daten zum Zweck der Nutzung der pseudonymisierten / anonymisierten Daten für eigene Marketingzwecke sowie für Marketingzwecke Dritter (Werbetreibende).
+Die pseudonymisierten / anonymisierten Daten können auch dazu genutzt werden, um Sie individualisiert online zu bewerben, wobei die Aussteuerung der Werbung durch Drittdienstleister und/oder Agenturen erfolgen kann. Rechtsgrundlage für die Nutzung personenbezogener Daten zu Marketingzwecken ist Art. 6 Absatz 1 Buchstabe f) DSGVO.
+Hinweis auf das Widerspruchsrecht
+Sie können der Nutzung Ihrer personenbezogenen Daten zu vorgenannten Marektingzwecken jederzeit kostenfrei mit Wirkung für die Zukunft unter  widersprechen.
+Soweit Sie Widerspruch einlegen werden Ihre Daten für die weitere werbliche Datenverarbeitung gesperrt. Wir weisen darauf hin, dass es in Ausnahmefällen auch noch nach Eingang Ihres Widerspruchs vorübergehend noch zu einem Versand von Werbematerial kommen kann. Dies ist technisch durch die nötige Vorlaufzeit im Rahmen der Selektion bedingt und bedeutet nicht, dass wir Ihren Widerspruch nicht umgesetzt haben.
+3.3.2. Newsletter
+Auf unseren Websites/ Applikationen bieten wir Ihnen die Möglichkeit, sich für unsere Newsletter anzumelden. Um sicher gehen zu können, dass bei der Eingabe der Emailadresse keine Fehler unterlaufen sind, setzen wir das sog. Double-Opt-In-Verfahren (DOI-Verfahren) ein: Nachdem Sie Ihre Email-Adresse in das Anmeldefeld eingegeben und Ihre Einwilligung zum Erhalt unserer Newsletter erteilt haben, übersenden wir Ihnen einen Bestätigungslink an die angegebene Adresse. Erst wenn Sie diesen Bestätigungslink anklicken, wird Ihre Email-Adresse in unseren Verteiler zum Versand unserer Newsletter aufgenommen. Rechtsgrundlage für diese Datenverarbeitung ist Artikel 6 Absatz 1 Buchstabe a) DSGVO.
+Hinweis Widerrufsrecht
+Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft durch eine Mitteilung an  oder die Abmeldemöglichkeit am Ende eines jeden Newsletters widerrufen.
+3.3.3. Produktempfehlungen per E-Mail
+Als Bestandskunde unseres Onlineshops erhalten Sie regelmäßig Produktempfehlungen von uns per E-Mail. Diese Produktempfehlungen erhalten Sie von uns unabhängig davon, ob Sie einen Newsletter abonniert haben. Hierbei verwenden wir die von Ihnen im Rahmen des Kaufs angegebene E-Mail-Adresse zur Bewerbung von eigenen Waren und / oder Dienstleistungen, die denjenigen ähneln, die Sie bei uns aufgrund einer bereits getätigten Bestellung erworben haben. Rechtsgrundlage für diese Datenverarbeitung ist Art. 6 Abs. 1 Buchstabe f) DSGVO. Hinweis Widerspruchsrecht
+Sie können unseren Produktempfehlungen jederzeit mit Wirkung für die Zukunft durch eine Mitteilung an E-Mail: service@sportscheck.com oder am Ende einer jeden Produktempfehlungs-E-Mail widersprechen, ohne dass hierfür andere als die Übermittlungskosten nach den Basistarifen entstehen.
+3.3.4. Gewinnspiele
+Wenn Sie sich bei von SportScheck veranstalteten Gewinnspielen registrieren, verwenden wir Ihre bei der jeweiligen Registrierung angegebenen Daten zum Zweck der Durchführung des Teilnahmevertrages, insbesondere zur Gewinnbenachrichtigung und ggf. der Werbung für unsere Angebote und/oder Angebote unserer Gewinnspielpartner. Detaillierte Hinweise finden Sie in den jeweiligen Teilnahmebedingungen zum jeweiligen Gewinnspiel. Rechtsgrundlage für diese Datenverarbeitung sind Artikel 6 Absatz 1 Buchstabe a) DSGVO, Artikel 6 Absatz 1 Buchstabe b) DSGVO sowie Artikel 6 Absatz 1 Buchstabe f) DSGVO.3.4. Onlineauftritt und Webseiteoptimierung
+
+3.4.1. Zweck der VerarbeitungWie praktisch jede Website setzen wir sog. Cookies und ähnliche Technologien ein. Cookies sind kleine Textdateien, die beim Aufruf von Webseiten erzeugt werden, im Speicher Ihres Endgerätes (Computer/Tablet/Smartphone) abgelegt werden und die Wiedererkennung ermöglichen. Wir nutzen technisch notwendige Cookies, die den Betrieb unserer Website und das Ausliefern der entsprechenden Inhalte an Sie ermöglichen.
+Neben den technisch notwendigen Cookies setzen wir unterschiedliche optionale Cookies ein: So dient der Einsatz von Cookies auch der Verbesserung der Benutzerfreundlichkeit. Wir setzen z.B. sog. Session-Cookies ein, um zu erkennen, dass Sie einzelne Seiten unserer Website bereits besucht haben oder Sie sich bereits in Ihrem Kundenkonto angemeldet haben. Diese werden nach Verlassen unserer Seite automatisch nach Ablauf einer gewissen Zeitspanne gelöscht.
+Darüber hinaus setzen wir ebenfalls zum Zweck der Benutzerfreundlichkeit temporäre Cookies ein, die für einen bestimmten festgelegten Zeitraum auf Ihrem Endgerät gespeichert werden. Besuchen Sie unsere Seite erneut, um unsere Dienste in Anspruch zu nehmen, wird automatisch erkannt, dass Sie bereits bei uns waren und welche Eingaben und Einstellungen sie getätigt haben, um diese nicht noch einmal eingeben zu müssen.
+Sollten Sie bei uns über ein Kundenkonto verfügen und eingeloggt sein bzw. die Funktion „eingeloggt bleiben“ aktivieren, werden die in Cookies gespeicherten Informationen Ihrem Kundenkonto hinzugespeichert.
+Außerdem nutzen wir Cookies zu anonymen statistischen Analysen oder zur Anzeige personalisierter Inhalte bzw. für personalisierte Werbung.
+Eine Liste der von uns genutzten Cookies, Beschreibungen der Zwecke der Cookies sowie weitere Informationen zu den jeweiligen Cookies finden Sie in unserer .3.4.2. Rechtliche GrundlageBei technisch notwendigen Cookies erfolgt die Verarbeitung Ihrer Daten auf Grundlage des Vertrages oder rechtlicher Verpflichtungen gemäß Art. 6 Abs. 1 lit. b oder c DSGVO. Diese Cookies sind notwendig, damit Sie durch die Seiten navigieren und wesentliche Funktionen nutzen können. Sie ermöglichen Grundfunktionen, wie die Bestellabwicklung im Online-Shop und den Zugriff auf gesicherte Bereiche der Webseite.
+Bei optionalen Cookies erfolgt die Verarbeitung Ihrer Daten auf Grundlage Ihrer jederzeit widerruflichen Einwilligung gem. Art. 6 Abs. 1 lit. a DSGVO oder auf Grundlage jederzeit widersprüchlichen berechtigten Interesses gem. Art. 6 Abs. 1 lit. f DSGVO. Die Einwilligung ist freiwillig, für die Nutzung diese Website nicht notwendig und kann jederzeit widerrufen werden, indem Sie die Einstellungen in unserer  anpassen. Die berechtigten Interessen können Sie jederzeit widersprechen, indem Sie die Einstellungen in unserer  anpassen.3.4.3. Präferenzen ändernWir bieten Ihnen die Möglichkeit, alle optionalen Cookies nach Ihren Präferenzen ein- oder auszuschalten. Dafür haben wir eine  eingerichtet.3.4.4. Weitere Möglichkeiten, Cookies einzustellenIm Folgenden finden Sie Informationen, wie Sie – ergänzend zu oder anstatt mit Hilfe unserer  – Cookies auf der Website auf allgemeinere Art und Weise einstellen können:3.4.4.1. Browser-EinstellungenSelbstverständlich können Sie Ihren Browser so einrichten, dass er unsere Cookies nicht auf Ihrem Endgerät ablegt. Die Hilfe-Funktion in der Menüleiste der meisten Webbrowser erklärt Ihnen, wie Sie Ihren Browser davon abhalten, neue Cookies zu akzeptieren, wie Sie Ihren Browser darauf hinweisen lassen, wenn Sie ein neues Cookie erhalten oder auch wie Sie sämtliche bereits erhaltenen Cookies löschen und für alle weiteren sperren können.
+Gehen Sie dafür bitte wie folgt vor:
+Im Internet Explorer
+Wählen Sie im Menü "Extras" den Punkt "Internet Optionen".
+Klicken Sie auf den Reiter "Datenschutz".
+Nun können Sie die Sicherheitseinstellungen für die Internetzone vornehmen. Hier stellen Sie ein, ob und welche Cookies angenommen oder abgelehnt werden sollen.
+Mit "OK" bestätigen Sie Ihre Einstellung.
+ 
+Im Firefox:
+Wählen Sie im Menü "Extras" den Punkt Einstellungen.
+Klicken Sie auf "Datenschutz".
+Wählen Sie in dem Drop-Down Menü den Eintrag "nach benutzerdefinierten Einstellungen anlegen" aus.
+Nun können Sie einstellen, ob Cookies akzeptiert werden sollen, wie lange Sie diese Cookies behalten wollen und Ausnahmen hinzufügen, welchen Websites Sie immer bzw. niemals erlauben möchten Cookies zu benutzen.
+Mit "OK" bestätigen Sie Ihre Einstellung.
+ 
+Im Google Chrome:
+Klicken Sie auf das Chrome-Menü in der Symbolleiste des Browsers.
+Wählen Sie nun "Einstellungen" aus.
+Klicken Sie auf "Erweiterte Einstellungen anzeigen".
+Klicken Sie unter "Datenschutz" auf "Inhaltseinstellungen".
+Unter "Cookies" können Sie die folgenden Einstellungen für Cookies vornehmen:
+Cookies löschen
+Cookies standardmäßig blockieren
+Cookies und Webseitendaten standardmäßig nach Beenden des Browsers löschen
+Ausnahmen für Cookies von bestimmten Webseiten oder Domains zulassen
+Wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können.3.4.4.2. Opt-Out über Sie können einigen Cookies, die auf der Website geladen werden, auch zentral unter  widersprechen. Das jeweilige Cookie sammelt dann keine Daten mehr über Ihre zukünftigen Besuche unserer Website. Außerdem wird ein erneutes Setzen des jeweiligen Cookies verhindert. Bitte beachten Sie, dass durch diesen Widerspruch jedoch ein Opt-out Cookie auf Ihrem Gerät gesetzt wird. Dieses dürfen Sie nicht löschen. Haben Sie alle Ihre Cookies im Internetbrowser gelöscht, nutzen Sie einen anderen Internetbrowser oder ein anderes Gerät, müssen Sie dem Cookie über den oben genannten Link erneut widersprechen.3.4.5. Push-Nachrichten SportScheck AppBei der Verwendung unserer App kontaktieren wir Sie ggf. mit Push-Nachrichten von Emarsys Interactive Services GmbH, Stralauer Allee 6, 10245 Berlin, Deutschland über neue Gutscheine, Trends, Sales, Store-Aktionen, Service-Infos und individualisierte Angebote von SportScheck.Zur Weiterentwicklung unseres Angebots und statistischen Zwecken, erfassen wir wann und wie häufig eine Push-Nachricht geöffnet wird. Diese Informationen erheben wir pseudonymisiert. Selbstverständlich können Sie sich jederzeit in den Einstellungen der App wieder von Push-Nachrichten abmelden.Das Versenden von Push-Benachrichtigungen erfolgt auf Basis Deiner Einwilligung gem. Art. 6 (1) a iVm Art. 7 DSGVO.Wenn Sie das Erhalten von Push-Nachrichten in der SportSchek App zukünftig unterbinden möchten, suchen Sie bitte die entsprechende Anleitung basierend auf ihrem Betriebssystem:ANDROID (AB ANDROID 6.0 AUFWÄRTS)BenachrichtigungenUm die Benachrichtigungen auf einem Android Device zu unterbinden, gehen Sie bitte in den folgenden Schritten vor:
+Einstellungen > Apps > SportScheck > Berechtigungen > Benachrichtigungen > Benachrichtigungen zulassen > Den Slider hier auf „Aus“ stellenLocation
+Um die Verwendung des Standorts für den Erhalt von Push-Nachrichten auf einem Android Device zu unterbinden:
+Einstellungen > Apps > SportScheck > Berechtigungen > Standort > Den Slider hier auf „Aus“ stellenIOSBenachrichtigungen
+um die Benachrichtigungen auf einem iOS Device zu unterbinden, gehen Sie bitte in den folgenden Schritten vor:
+Einstellungen > SportScheck > Mitteilungen > Mitteilungen erlauben > Den Slider hier auf „Aus“ stellenLocationUm die Verwendung des Standorts für den Erhalt von Push-Nachrichten auf einem iOS Device zu unterbinden:
+Einstellungen > Datenschutz > Ortungsdienste > SportScheck > Hier die gewünschte Einstellung auswählen3.5. Kundenkonto
+
+Um Ihnen den größtmöglichen Komfort zu ermöglichen, bieten wir Ihnen die dauerhafte Speicherung Ihrer persönlichen Daten in einem passwortgeschützten Kundenkonto an.
+Die Anlage des Kundenkontos ist grds. freiwillig. Wenn Sie ein Kundenkonto anlegen, erfolgt die Verarbeitung Ihrer hier erhobenen Daten auf Grundlage von Artikel 6 Abs. 1 Buchstabe b) DSGVO. Nach Einrichtung eines Kundenkontos ist keine erneute Dateneingabe erforderlich. Zudem können Sie in Ihrem Kundenkonto die zu Ihnen gespeicherten Daten jederzeit einsehen und teilweise ändern.Wenn Sie über unsere Website/Applikation Bestellungen tätigen möchten, müssen Sie zur Abwicklung des Vertrages entweder ein Kundenkonto oder Gastkonto eröffnen.Zusätzlich zu den bei einer Bestellung abgefragten Daten müssen Sie für die Einrichtung eines Kundenkontos ein selbstgewähltes Passwort angeben. Dieses dient zusammen mit Ihrer E-Mail-Adresse für den Zugang zu Ihrem Kundenkonto. Ihre persönlichen Zugangsdaten behandeln Sie bitte vertraulich und machen diese insbesondere keinem unbefugten Dritten zugänglich. Bitte beachten Sie, dass auch nach Verlassen unserer Webseite automatisch eingeloggt bleiben, es sei denn, Sie melden sich aktiv ab.
+Sie haben das Recht auf Löschung Ihrer bei uns gespeicherten Daten. Weitere Informationen finden Sie unter Punkt 7.1. Bitte beachten Sie jedoch, dass damit nicht zugleich eine Löschung der in dem Kundenkonto einsehbaren Daten erfolgt, wenn Sie einmal bei uns bestellt haben. Die Löschung der Ihrer Daten erfolgt automatisch nach Ablauf der für uns geltenden handels- und steuerrechtlichen Aufbewahrungspflichten. Rechtsgrundlage für diese weitere Datenverarbeitung ist Art. 6 Absatz 1 Buchstabe c) DSGVO sowie Art. 6 Abs. 1 Buchstabe f) DSGVO.
+3.6. Kontaktaufnahme
+Sie haben die Möglichkeit, auf mehreren Wegen mit uns in Kontakt zu treten. Per E-Mail, per Telefon oder per Post. Wenn Sie mit uns Kontakt aufnehmen, verwenden wir jene personenbezogenen Daten, die Sie uns in diesem Rahmen freiwillig zur Verfügung stellen allein zu dem Zweck, um mit Ihnen in Kontakt zu treten und Ihre Anfrage bearbeiten zu können.
+Rechtsgrundlage für diese Datenverarbeitung ist Art. 6 Absatz 1 Buchstabe a), Art. 6 Absatz 1 Buchstabe b), Art. 6 Absatz 1 Buchstabe c) DSGVO sowie Art. 6 Abs. 1 Buchstabe f) DSGVO.
+3.6.1 SportScheck Club-BonusprogrammWir bieten Ihnen auch die Möglichkeit, sich zum SportScheck Club-Bonusprogramm anzumelden. Mehrere Informationen finden Sie unter: www.sportscheck.com/club/. Die Anmeldung zum SportScheck Club-Bonusprogramm unterliegt selben Regelungen wie die Anlage des Kundenkontos unter Punkt 3.6.
+
+3.6.2. Kontaktformular 
+Sofern Sie das Kontaktformular unserer Webseite ausfüllen, verarbeiten wir die personenbezogenen Daten, die Sie in das jeweilige Formular eingeben (Pflichtfeld E-Mail-Adresse). Ihre personenbezogenen Daten werden dazu verwendet, um Ihr Anliegen zu bearbeiten. Rechtsgrundlage für die Datenerhebung ist Art. 6 Abs. 1 Satz 1 f DSGVO. Unser berechtigtes Interesse zur Datenerhebung im Sinne von Art. 6 Abs. 1 Satz 1 f DSGVO folgt daraus, dass wir Ihr Anliegen (Kontaktaufnahme) ohne Ihre Daten nicht bearbeiten können.
+
+3.7. Nutzerinhalte/ Kundenbewertungen/ Kommentare
+
+Sie haben an verschiedenen Stellen die Möglichkeit, eigene Inhalte zu veröffentlichen (z.B. Produktbewertungen, Kommentare usw.). Wenn Sie einen Kommentar, eine Empfehlung oder eine Bewertungen zu Produkten, Marken und Styles abgeben, verarbeiten wir jene personenbezogenen Daten, die Sie im Rahmen des Kommentars oder einer Bewertung freiwillig eingeben. Sie können Inhalte grds. unter einem Pseudonym und/oder Ihrem Vornamen und gekürztem Nachnamen veröffentlichen. Wenn Nutzer Kommentare oder sonstige Beiträge auf sportscheck.com hinterlassen, werden ihre IP-Adressen auf Grundlage unserer berechtigten Interessen im Sinne des Art. 6 Absatz. 1 Buchstabe f). DSGVO für 7 Tage gespeichert. Das erfolgt zu unserer Sicherheit, falls jemand in Kommentaren und Beiträgen widerrechtliche Inhalte hinterlässt (Beleidigungen, verbotene politische Propaganda, etc.).
+Rechtsgrundlage für diese Datenverarbeitung(en) ist Art. 6 Absatz 1 Buchstabe a), Art. 6 Absatz 1 Buchstabe b) sowie Art. 6 Abs. 1 Buchstabe f) DSGVO.3.7.1. BazaarVoice
+Bei BazaarVoice handelt es sich um einen Produktbewertungs- und Kundenumfrageservice, der uns ermöglicht Kundenfeedback zur Entwicklung und Anpassung unseres Angebots zu verwenden. Die BazaarVoice Inc. mit Sitz in 10901 Stonelake Blvd., Austin, Texas 78759, United States of America agiert als Auftragsverarbeiter für die SportScheck GmbH und ermöglicht uns Produktbewertungen auf unserer Website zum Zwecke der Analyse der Kundenzufriedenheit zu erheben, sowie um sicherzustellen, dass Bewertungen von echten Personen abgegeben werden und nicht durch sogenannte Bots, die das Ergebnis verfälschen könnten. Im Zuge dieser Auftragsverarbeitung werden bestimmte personenbezogene Daten (IP-Adresse, Browser-Informationen, Datum und Uhrzeit des Besuchs, Geräteinformationen und die E-Mail-Adresse) des Verwenders (also des Kunden, der eine Produktbewertung abgibt) erhoben und zur Verarbeitung an BazaarVoice weitergeleitet. Weitere personenbezogene Daten werden für die Verwendung dieses Service weder benötigt noch erhoben. Daher bitten wir dich, zum Schutz deiner Daten, keine weiteren personenbezogenen Daten in das Formular deiner Bewertung einzutragen.Der Ort der Verarbeitung liegt in den Vereinigten Staaten von Amerika. Im Zuge der Nutzung des Bewertungsservices werden deine Daten somit an ein von der EU als unsicherer Drittstaat definiertes Land übermittelt, in dem kein mit EU Standards vergleichbares Datenschutzniveau besteht. Es besteht somit das Risiko, dass durch die Übermittlung staatliche Stellen auf Ihre personenbezogenen Daten zugreifen, ohne dass Ihnen hierzu effektive Rechtsschutzmöglichkeiten zustehen. Die Rechtgrundlage für diese Weitergabe der personenbezogenen Daten ist die freiwillige Einwilligung des Kunden gemäß Art. 6 Abs. 1 lit. a DSGVO, die wir bei jeder Abgabe einer Bewertung per Checkbox einholen. Die erhobenen personenbezogenen Daten werden nur solange gespeichert, wie dies für die angegebenen Verarbeitungszwecke notwendig ist und umgehend gelöscht, sobald diese Daten nicht mehr benötigt werden. Des Weiteren kannst du jederzeit die Löschung deiner bei BazaarVoice gespeicherten personenbezogenen Daten beantragen, indem du uns eine E-Mail an  schickst.Bei weiteren Fragen zur Verarbeitung deiner personenbezogenen Daten durch die BazaarVoice Inc. in den Vereinigten Staaten von Amerika, kannst du den Datenschutzbeauftragten von BazaarVoice unter  kontaktieren. 
+ 
+
+3.8. Zahlungen
+Ihre Zahlungsinformationen verarbeiten wir zum Zwecke der Zahlungsabwicklung, z.B. wenn Sie ein Produkt und/oder eine Dienstleistungen erwerben bzw. in Anspruch nehmen. Je nach Zahlart leiten wir Ihre Zahlungsinformationen an Dritte weiter (z.B. bei Kreditkartenzahlung an Ihren Kreditkartenanbieter).
+Rechtsgrundlage für diese Datenverarbeitung ist Art. 6 Absatz 1 Buchstabe a), Art. 6 Absatz 1 Buchstabe b), DSGVO sowie Art. 6 Abs. 1 Buchstabe f) DSGVO.
+3.8.1. Paypal
+Bei Zahlung via PayPal werden Ihre Zahlungsdaten im Rahmen der Zahlungsabwicklung an die PayPal (Europe) S.à r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg (nachfolgend "PayPal"), weitergeleitet. PayPal behält sich für die Zahlungsmethoden Kreditkarte via PayPal, Lastschrift via PayPal oder – falls angeboten - "Kauf auf Rechnung" via PayPal die Durchführung einer Bonitätsauskunft vor. Das Ergebnis der Bonitätsprüfung in Bezug auf die statistische Zahlungsausfallwahrscheinlichkeit verwendet PayPal zum Zwecke der Entscheidung über die Bereitstellung der jeweiligen Zahlungsmethode. Die Bonitätsauskunft kann Wahrscheinlichkeitswerte enthalten (sog. Score-Werte). Soweit Score-Werte in das Ergebnis der Bonitätsauskunft einfließen, haben diese ihre Grundlage in einem wissenschaftlich anerkannten mathematisch-statistischen Verfahren. In die Berechnung der Score-Werte fließen unter anderem Anschriftendaten ein. Weitere datenschutzrechtliche Informationen, unter anderem zu den verwendeten Auskunfteien, entnehmen Sie bitte der Datenschutzerklärung von PayPal: 
+3.8.2. Paydirekt
+Bei Zahlung via Paydirekt werden Ihre Zahlungsdaten im Rahmen der Zahlungsabwicklung an die Hamburger Allee 26-28, 60486 Frankfurt am Main übermittelt.
+Die Zahlungsdaten (z.B. Zahlungsbetrag, Angaben zum Zahlungsempfänger) sowie die Bestätigung des Teilnehmers dazu, ob die Zahlungsdaten zutreffend sind, werden von der paydirekt GmbH zur Durchführung der paydirekt-Zahlung erhoben, verarbeitet und an die Bank übermittelt. Die paydirekt GmbH authentifiziert die Zahlung über das für den Teilnehmer hinterlegte Authentifizierungsverfahren. Die Bank autorisiert die Zahlung unter Einschaltung der paydirekt GmbH gegenüber dem Händler. Die paydirekt GmbH erhebt und speichert die Transaktionsdaten von paydirekt-Zahlungen. Die Transaktionsdaten umfassen die Transaktionsreferenz und die Transaktions-ID sowie Informationen zum Warenkorb, die die paydirekt GmbH vom Händler erhält, sofern er dies unterstützt. Sie ermöglichen der paydirekt GmbH und der Bank eine spätere Identifizierung und Referenzierung der Transaktion (z.B. bei Rückerstattungen), so dass ein Zuordnen der Transaktion zum jeweiligen Kunden möglich ist. Zur Abwicklung von Rückerstattungen werden Transaktionsdaten von der paydirekt GmbH an die Bank übermittelt.
+Nähere Informationen erhalten Sie in der paydirekt Datenschutzerklärung unter 
+3.8.3. Amazon Pay
+Mit der Funktion bezahlen über Amazon ermöglichen wir Ihnen, Ihre bei Amazon hinterlegten Kundendaten für Ihren Online-Einkauf bei uns im Shop zu nutzen, ohne Ihre Zahlungsdaten offenlegen zu müssen. Wenn Sie bereits ein Amazon.de-Kundenkonto haben, können Sie sofort mit der dort hinterlegten Zahlungsart - entweder per Bankeinzug oder mit Kreditkarte - bezahlen. Klicken Sie dazu auf den Button im Warenkorb "Bezahlen über Amazon" und melden Sie sich bei Ihrem Amazon-Konto an. Wählen Sie anschließend aus Ihren Lieferadressen und Zahlungsarten aus und tätigen Sie die Bestellung. Amazon Pay gibt die in Ihrem Amazon.de-Kundenkonto hinterlegten Zahlungsdaten nicht an uns weiter und auch Sie müssen diese bei Bestellaufgabe nicht angeben. Beim Bezahlen über Amazon entstehen Ihnen keine zusätzlichen. Kosten. Weitere Informationen und Ihre Bestellübersicht zu Bezahlen über Amazon finden Sie unter . Bei der Zahlung über Amazon Pay werden alle personenbezogenen Daten, die Amazon Pay mitgeteilt oder von Amazon Pay erhoben werden, primär von Amazon Pays s.c.a. (die "Veranwortliche") und sekundär von Amazon EU SARL, Amazon Services Europe SARL und Amazon Media EU SARL, alle drei ansässig in 5, Rue Plaetis L 2338, Luxemburg, kontrolliert. Mit der Nutzung von Amazon Pay erkennen Sie die Datenschutzbestimmungen von Amazon Pay an: 
+3.9. Auftragsverarbeiter
+SportScheck setzt im Rahmen der Verarbeitung Ihrer Daten Auftragsverarbeiter ein. Bei einem Auftragsverarbeiter handelt es sich um eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die personenbezogene Daten im Auftrag des für die Datenverarbeitung Verantwortlichen verarbeitet. Auftragsverarbeiter nutzen die Daten nicht für eigene Zwecke, sondern führen die Datenverarbeitung ausschließlich für den Verantwortlichen aus. Wenn Sie beispielweise bei SportScheck einen Artikel kaufen, so übermitteln Sie unter anderem Ihre E-Mail-Adresse an SportScheck zum Zweck der Aussendung einer Bestellbestätigung durch SportScheck. SportScheck ist somit Verantwortlicher für diese Datenverarbeitung. Zum Zwecke der Versendung einer Bestellbestätigung wird Ihre E-Mail-Adresse dann an einen Dienstleister übermittelt. Dieser Dienstleister übernimmt dann die Versendung der Bestellbestätigung an Sie für den gekauften Artikel. Dafür verarbeitet der Dienstleister Ihre E-Mail-Adresse im Auftrag von SportScheck. 
+4. Empfänger außerhalb der EU
+Mit Ausnahme der dargestellten Verarbeitungen geben wir Ihre Daten nicht an Empfänger mit Sitz außerhalb der Europäischen Union oder des Europäischen Wirtschaftsraumes weiter. Soweit Sie der Nutzung von Tracking Technologien mit Hilfe von Cookie Banner zustimmen, willigen Sie damit zugleich ein, dass beim Einsatz Ihre personenbezogenen Daten in die USA übermittelt werden. Die USA sind ein unsicherer Drittstaat, in dem kein mit EU Standards vergleichbares Datenschutzniveau besteht. Im Falle bestimmter Anbieter werden auch keine sonstigen Garantien geboten, die dieses Defizit ausgleichen. Es besteht somit das Risiko, dass durch die Übermittlung staatliche Stellen auf Ihre personenbezogenen Daten zugreifen, ohne dass Ihnen hierzu effektive Rechtsschutzmöglichkeiten zustehen. 
+Dazu beauftragen wir auch Anbieter von Tracking- bzw. Targetingtechnologien, deren Server sich in den USA befinden, mit denen die Datenübermittlung auf Grundlage sogenannter  der EU-Kommission erfolgt.  5. Veranstaltungen von SportScheck 
+Wenn Sie auf der Webseite von fitfox.de ein Ticket für eines unserer Events gekauft haben und damit mit uns einen Vertrag abschließen, verarbeiten wir die für den Abschluss, die Durchführung oder die Beendigung des Vertrages von Ihnen erforderlichen Daten (siehe hierzu Punkt 3.2.1.“ Datenverarbeitung bei Vertragsabschluss“ und anderer relevanter Passagen in unserer Datenschutzerklärung).Auf fitfox.de können Sie entweder mit PayPal, Amazon Pay oder Wirecard bezahlen. Die Informationen zur Verarbeitung Ihrer personenbezogenen Daten zwecks Zahlung finden Sie . 5.1. SportScheck RUNUm den SportScheck RUN durchführen zu können, unter anderem zum Zweck der Darstellung von Ergebnislisten, werden folgende personenbezogenen Daten verarbeitet: Name, Vorname, Nationalität, Ergebnisfotos, Geburtstag, Geschlecht, Ergebnis (Platzierung und Zeiten), ggf. Vereinsname und DAK-Mitgliedschaft. Die Rechtsgrundlage für die Verarbeitung ist Art. 6 Absatz 1 Buchstabe b DSGVO, bzw. Art. 6 Absatz 1 Buchstabe c und f DSGVO.Die Ergebnislisten sind unter  für 5 Jahre nach der ersten Veröffentlichung für jeden zugänglich.
+5.1.1. Umtausch und Rückerstattung von gezahlten TicketsSoweit ein Umtausch oder eine Rückerstattung des RUN Tickets durch SportScheck angeboten wird, verarbeiten wir Ihre personenbezogenen Daten zur Durchführung dieser Möglichkeit. Hierbei werden Sie einen Link erhalten, unter welchem Sie Ihre Optionen auswählen können und dazu benötigte Informationen angeben müssen. Es handelt sich um Ihre E-Mail-Adresse. Bei der Auswahl der Option der Rückerstattung zusätzlich um Ihren Namen und Ihre Adresse, dazu bei Sofortüberweisungen zusätzlich um Ihre Bankdaten. Diese Daten werden innerhalb von zwei Jahren wieder gelöscht. Hierbei verarbeiten wir Ihre personenbezogenen Daten auch, um Sie ausreichend sicher authentifizieren zu können und somit Missbrauch zu verhindern. Die Rückerstattung erfolgt über die von Ihnen im Rahmen der Buchung gewählten Zahlungsart und daher unter Umständen über einen Zahlungsdienstleister (z. B. Paypal) an Ihr angegebenes Konto. Die Rechtsgrundlage für die Verarbeitung ist Art. 6 Absatz 1 Buchstabe b DSGVO bzw. Art. 6 Absatz 1 Buchstabe c DSGVO.5.2. Women PWR Days Um das SportScheck Event Women PWR Days durchführen zu können, werden folgende personenbezogenen Daten verarbeitet: Name, Vorname, E-Mail, Adresse, Mobiltelefonnummer, Konfektionsgröße, Körpergewicht, Sportlevel, sowie freiwillige Angaben zu Ernährungsform und Zimmerpartnern. Die Rechtsgrundlage für die Verarbeitung ist Art. 6 Absatz 1 Buchstabe b DSGVO, bzw. Art. 6 Absatz 1 Buchstabe c und f DSGVO.
+6. Informationen für LieferantenWenn Sie unser Lieferant sind oder wir zusammen in vorvertraglichen Besprechungen sind, verarbeiten wir die für den Abschluss, die Durchführung oder die Beendigung des Vertrages mit Ihnen als unser Lieferant, oder als Mitarbeiter von unserem Lieferanten, erforderliche Daten (siehe hierzu auch anderer relevanter Passagen in unserer Datenschutzerklärung).Um die geschäftliche Beziehung mit Ihnen, oder mit Ihren Arbeitsgeber, entwickeln zu können, werden folgende personenbezogenen Daten verarbeitet: Anrede, Vorname, Nachname, geschäftliche Kontaktdaten (E-Mail-Adresse, Telefonnummer, Fax), ggf. Ihre Position, Vertragsdaten. Soweit wir Ihre personenbezogenen Daten nicht bei Ihnen direkt erheben, erhalten wir diese von Ihrem Arbeitgeber/ dem Unternehmen, bei dem Sie angestellt sind.Die Erhebung der Daten erfolgt zu folgenden Zwecken: um Sie als unseren Lieferanten identifizieren zu können, zur Rechnungsstellung und Rechnungsprüfung, um das Vertragsverhältnis durchführen, zur Korrespondenz mit Ihnen, zur Geltendmachung und Abwicklung von möglichen Ansprüchen gegen Sie oder Dritte.Die Verarbeitung Ihrer Daten ist zu den genannten Zwecken für die angemessene Bearbeitung des Vertrags zwischen Ihnen und uns erforderlich (Art. 6 Abs. 1 S. 1 lit. b und lit. c DSGVO) und wir haben ein berechtigtes Interesse daran (Art. 6 Abs. 1 S. 1 lit. f DSGVO), da wir anders unseren Verpflichtungen nicht zeitnah und sachgerecht nachkommen.Grundsätzlich sind Empfänger Ihrer personenbezogenen Daten innerhalb unserer Organisation lediglich solche Personen, deren Kenntnis für den Zweck, zu dem die Verarbeitung der Daten erfolgt, erforderlich ist. Eine Weitergabe an Dritte erfolgt nur, wenn und soweit es für die Abwicklung Ihres Anliegens erforderlich ist. Die weitergegebenen Daten dürfen von den Empfängern ausschließlich zu den oben genannten Zwecken verarbeitet werden. Eine Verarbeitung zu einem anderen Zweck ist unzulässig.Ihre personenbezogenen Daten werden gelöscht, wenn sie für die Erfüllung des oben genannten Zwecks nicht mehr erforderlich sind. Bei Beendigung der Vertragsanbahnung, bzw. des darauffolgenden Vertragsverhältnisses werden Ihre personenbezogenen Daten für die Dauer gespeichert, für die uns eine gesetzliche Aufbewahrungsfrist trifft. So definiert beispielsweise das Handelsgesetzbuch und die Abgabenordnung die rechtlichen Nachweis- und Aufbewahrungspflichten. Die Dauer der Speicherfristen beraumt sich daher auch bis zu zehn Jahre zusätzlich Festsetzungsverjährung.7. Ihre Rechte
+
+7.1. Überblick
+Neben dem Recht auf Widerruf Ihrer uns gegenüber erteilten Einwilligungen stehen Ihnen bei Vorliegen der jeweiligen gesetzlichen Voraussetzungen die folgenden weiteren Rechte zu:
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Die zuvor genannten, Ihnen uns gegenüber zustehenden Rechte, können Sie unter service@sportscheck.com geltend machen. Das Recht auf Datenübertragbarkeit können Sie in Ihrem Kundenkonto unter "Persönliche Daten" geltend machen.
+7.2. Widerspruchsrecht
+Unter den Voraussetzungen des Art. 21 Abs. 1 DSGVO kann der Datenverarbeitung aus Gründen, die sich aus der besonderen Situation der betroffenen Person ergeben, widersprochen werden.
+Das vorstehende allgemeine Widerspruchsrecht gilt für alle in dieser Datenschutz-Information beschriebenen Verarbeitungszwecke, die auf Grundlage von Artikel 6 Absatz 1 Buchstabe f) DSGVO verarbeitet werden. Anders als bei dem auf die Datenverarbeitung zu werblichen Zwecken gerichteten speziellen Widerspruchsrecht, sind wir nach der DSGVO zur Umsetzung eines solchen allgemeinen Widerspruchs nur verpflichtet, wenn Sie uns hierfür Gründe von übergeordneter Bedeutung nennen (z.B. eine mögliche Gefahr für Leben oder Gesundheit).
+7.3. Widerrufsrecht
+Insofern wir Daten auf Basis einer durch Sie erteilten Einwilligung verarbeiten, haben Sie jederzeit das Recht, die erteilte Einwilligung zu widerrufen. Der Widerruf der Einwilligung hat nicht zur Folge, dass die bis zum Zeitpunkt des Widerrufs auf Basis der Einwilligung erfolgte Datenverarbeitung unwirksam wird.
+8. Datensicherheit
+Alle von Ihnen persönlich übermittelten Daten, einschließlich Ihrer Zahlungsdaten, werden mit dem allgemein üblichen und sicheren Standard SSL (Secure Socket Layer) übertragen. SSL ist ein sicherer und erprobter Standard, der z.B. auch beim Onlinebanking Verwendung findet. Sie erkennen eine sichere SSL-Verbindung unter anderem an dem angehängten s am http (also https://...) in der Adressleiste Ihres Browsers oder am Schloss-Symbol im unteren Bereich Ihres Browsers.
+Wir bedienen uns im Übrigen geeigneter technischer und organisatorischer Sicherheitsmaßnahmen, um Ihre bei uns gespeicherten persönlichen Daten gegen Manipulation, teilweisen oder vollständigen Verlust und gegen unbefugten Zugriff Dritter zu schützen. Unsere Sicherheitsmaßnahmen werden entsprechend der technologischen Entwicklung fortlaufend verbessert.
+8.1. Wichtige Hinweise zum Schutz Ihrer Daten
+In der vernetzten Welt von heute sind unbefugte Zugriffsversuche auf personenbezogene Informationen eine Realität, der sich Privatpersonen und Unternehmen tagtäglich aufs Neue stellen müssen. Das ist ohne Frage eine große Herausforderung.
+Da Datenschutz bei uns allerhöchste Priorität hat, investieren wir in die Sicherheit unserer Systeme und kontrollieren diese stetig. Denn beim Onlinekauf auf sportscheck.com vertrauen Sie uns Informationen zu Ihrer Person an. Die Sicherheit dieser Informationen ist uns wichtig. Da auch Sie einiges tun können, um sich gegen den unbefugten Zugang Dritter zu Ihren Informationen zu schützen, wollen wir Ihnen an dieser Stelle einige Hinweise zum sicheren Umgang mit Ihren Informationen geben.
+Wie kann ich meine personenbezogenen Informationen schützen?
+Grundsätzlich gilt: Schützen Sie Ihr Kundenkonto und auch Ihren Computer, Laptop oder Ihr Mobile-Gerät mit sicheren Passwörtern und PIN-Codes, die nur Sie kennen! Achten Sie außerdem darauf, sich nach jedem Onlinekauf auf sportscheck.com wieder abzumelden.
+Stellen Sie sicher, dass Sie Ihre Passwörter immer nur für einen Account nutzen! Verwenden Sie nie ein Passwort für verschiedene Anbieter oder Portale. Überprüfen Sie, ob Sie das für sportscheck.com gewählte Passwort gegebenenfalls auch auf anderen Websites verwenden. Sollte dies der Fall sein, raten wir dringend, alle Passwörter umgehend zu ändern.
+Notieren Sie sich die Passwörter nicht an einem frei zugängigen Ort. Stellen Sie auch hier sicher, dass nur Sie Zugang zu den Passwörtern haben.
+Wie erstelle ich ein sicheres Passwort?
+Passwörter sollten so gewählt werden, dass sie nicht leicht erraten werden können, also z.B. keine gängigen Wörter aus dem Alltag, den eigenen Namen oder Namen von Verwandten. Um das Passwort noch sicherer zu machen, empfiehlt sich die kombinierte Verwendung von Groß- und Kleinschreibung, Zahlen und Sonderzeichen.
+Gibt es weitere Dinge, die ich beachten sollte?
+Sollten Sie einmal einen öffentlich zugänglichen Rechner benutzen, stellen Sie stets sicher, dass Sie sich nach Ihrem Besuch auf sportscheck.com abmelden.
+Sollten Sie ohne konkreten Kontakt unangeforderte E-Mails bekommen, in denen Sie gebeten werden, SportScheck-Passwörter zu nennen oder Angaben zu Zahlungsdaten abzugeben, ignorieren Sie dies und nehmen Sie bitte unverzüglich Kontakt mit uns auf. Wir werden diese Vorfälle untersuchen.
+
+
+
+
+
+ 
+
+Jetzt zum Newsletter anmelden & 6€ sichern
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ich möchte zukünftig Angebote, Gutscheine, Trends und Bewertungsanfragen von der SportScheck GmbH per E-Mail erhalten. 
+Diese Einwilligung kann jederzeit auf  oder am Ende jeder E-Mail widerrufen werden. 
+Infos zum Datenschutz findest du . 
+Der 6€-Coupon ist einmalig einlösbar ab 6€ Mindestbestellwert, 21 Tage gültig ab Newsletteranmeldung. 
+Weitere Couponbedingungen .
+
+
+
+Mehr anzeigen
+
+
+
+
+
+
+
+
+

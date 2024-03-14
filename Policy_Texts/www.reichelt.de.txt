@@ -1,0 +1,259 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Politique de protection des données en vertu du Règlement général sur la protection des données (RGPD)
+
+1.1 Nous nous réjouissons de votre visite sur notre site internet et de l’intérêt que vous portez à nos services. Nous vous informons ici sur le traitement de vos données personnelles lors de l'utilisation de notre site web. Les données personnelles sont toutes les données avec lesquelles vous pouvez être identifié personnellement.
+1.2 Le responsable du traitement des données sur ce site internet est, au sens du Règlement général sur la protection des données (RGPD) Reichelt Elektronik GmbH & Co. KG, Elektronikring 1, 26452 Sande, Allemagne , Tèl.: +49 (0)4422 955-333, Fax: +49 (0)4422 955-111, E-Mail: info@reichelt.de. Le responsable du traitement des données à caractère personnel est la personne physique ou morale, l'autorité publique, le service ou un autre organisme qui, seul ou conjointement avec d'autres, détermine les finalités et les moyens du traitement des données à caractère personnel.
+1.3 Le responsable du traitement a désigné un délégué à la protection des données pour ce site web. Ce dernier peut être contacté comme suit: "Madame Asbach, Elektronikring 1, 26452 Sande, +49 4422 955-116, datenschutz@reichelt.de"
+1.4 Ce site web utilise le cryptage SSL (Secure Socket Layer) ou TLS (transport Layer Security) pour des raisons de sécurité et pour protéger la transmission de données personnelles ainsi que d'autres contenus confidentiels (comme par exemple les commandes ou les demandes de renseignements). Vous pouvez reconnaître une connexion cryptée par la chaîne de caractères "https://" et/ou au symbole du cadenas dans la barre de navigation.
+
+Lorsque vous utilisez notre site web uniquement à des fins d'information, c'est-à-dire si vous ne vous inscrivez pas ou ne nous fournissez pas d'autres informations, nous ne recueillons que les seules données transmises par votre navigateur à notre serveur (les "Server-Logfiles ou "fichiers journaux"). Ainsi, lors de la visite de notre site web, seules les données suivantes qui nous sont techniquement nécessaires pour vous présenter le site internet seront collectées :
+• Le site web visité
+• La date et l'heure de l'accès au site
+• La quantité (en octets) de données envoyées
+• La source/référence à partir de laquelle vous avez été amené à consulter notre site
+• Le navigateur utilisé
+• Le système d’exploitation utilisé
+• L’adresse IP utilisée (le cas échéant : sous forme anonyme)
+
+Le traitement est effectué conformément à l'article 6 paragraphe 1 point f) RGPD dans notre intérêt légitime à l’amélioration de la stabilité et des fonctionnalités du site web. Les données ne seront en aucun cas transmises ou utilisées à d’autres fins. Nous nous réservons en tout état de cause le droit de vérifier ultérieurement les fichiers journaux du serveur s'il existe des indices concrets d'utilisation illégale.
+
+KeyCDN
+
+Notre site utilise le réseau de diffusion de contenu ("CDN") du fournisseur de services technologiques Myra Security GmbH, Landsberger Str. 187, 80687 München, Allemagne  ("KeyCDN"). Un réseau de diffusion de contenu est un service en ligne utilisé pour diffuser des fichiers multimédias volumineux (tels que des graphiques, du contenu de page ou des scripts) par l'intermédiaire d'un réseau de serveurs répartis dans la région et connectés via Internet. L'utilisation du réseau de diffusion de contenu KeyCDN nous aide à optimiser la vitesse de chargement de notre site Web.
+Le traitement est effectué conformément à l'art. 6 paragraphe 1point f) RGPD dans notre intérêt légitime à une mise à disposition sûre et efficace, ainsi qu’à l'amélioration de la stabilité et de la fonctionnalité de notre site Internet.
+Vous trouverez de plus amples informations dans la déclaration de protection des données de Fastly à l'adresse suivante :  
+
+Afin de rendre la visite sur notre site web attrayante et de permettre l'utilisation de certaines fonctionnalités, nous utilisons des cookies sur différentes pages. Un cookie est un fichier texte de petite taille qui est enregistré par votre navigateur sur le disque dur de votre terminal. Certains cookies sont supprimés après la fin de la session de navigation, c'est-à-dire après la fermeture de celui-ci (“cookies de session”). D'autres cookies subsistent cependant sur votre terminal et permettent à notre société ainsi qu’à nos partenaires (cookies tiers) de reconnaître votre navigateur lors de votre prochaine visite (cookies persistants). Si des cookies sont utilisés, ces derniers collectent et traitent individuellement les informations spécifiques de l'utilisateur telles que les données du navigateur, les données de localisation ou les valeurs d'adresse IP. Les cookies persistants sont toutefois automatiquement et systématiquement supprimés après une période prédéterminée qui peut varier en fonction de la nature du cookie.
+
+Dans certains cas, les cookies sont utilisés pour simplifier le processus de commande en permettant la sauvegarde de certains paramètres (par exemple, en mémorisant le contenu d'un panier d'achat virtuel pour une visite ultérieure). Dans le cas où des données à caractère personnel sont traitées par les cookies que nous utilisons, le traitement est effectué conformément aux dispositions de l'article 6, paragraphe 1, point b) RGPD pour l'exécution du contrat ou, conformément à l'article 6, paragraphe 1, point f) RGPD, pour sauvegarder notre intérêt légitime à doter notre site web des meilleures fonctionnalités possibles et à permettre une configuration conviviale et efficace du site internet.
+
+Nous travaillons avec des partenaires publicitaires qui nous aident à rendre notre site web plus attrayant. Pour ce faire, des cookies d’entreprises partenaires sont également enregistrés sur votre disque dur dès lors que vous visitez notre site web (“cookies tiers”). Vous trouverez dans ce qui suit une information individuelle et séparée sur l'utilisation respective de ce type de cookies ainsi que sur l'étendue des informations collectées.
+
+Veuillez noter que vous pouvez paramétrer votre navigateur de façon à être informé de la présence de cookies et de la possibilité de pouvoir décider individuellement de leur acceptation ou de leur exclusion, et ce au cas par cas ou de manière plus générale. La gestion des paramétrages des cookies est propre à chaque navigateur. Veuillez-vous référer au menu d’aide de votre navigateur pour connaître les modalités de paramétrage existantes.
+
+Les informations sur le paramétrage des cookies sur les divers navigateurs sont disponibles sous les liens suivants :
+
+
+Firefox :  
+Chrome :  
+Safari :  
+Opera :  
+Internet Explorer :  
+
+Veuillez noter que les fonctionnalités de notre site web peuvent être limitées dans le cas où vous refusez l’utilisation de cookies.
+
+Des données à caractère personnel sont collectées lors de la prise de contact avec nos services (par exemple via le formulaire de contact ou par e-mail). Les données collectées par le biais du formulaire de contact peuvent être consultées à partir de ce même formulaire. Ces données sont enregistrées et utilisées dans le seul but de répondre à votre demande et pour permettre la prise de contact ainsi que l'administration technique correspondante. Le traitement des données est effectué, le cas échéant, conformément aux dispositions de l’article 6, paragraphe 1, point f) RGPD sur la base de notre intérêt légitime à répondre à votre demande.
+En outre, si votre prise de contact a pour objet la conclusion d’un contrat, le traitement de vos données sera effectué sur le fondement de l’article 6, paragraphe 1, point b) RGPD.
+A l’issue du traitement final de votre demande, c’est à dire lorsqu’il peut être déduit des circonstances que la situation est définitivement clarifiée et qu’il ne subsiste aucune obligation légale de conservation contraire, vos données sont immédiatement supprimées.
+
+En vertu de l'article 6, paragraphe 1, point b) RGPD, les données personnelles peuvent également être collectées et traitées si vous nous les transmettez pour l'exécution d'un contrat ou pour l'ouverture d'un compte client. Les données collectées peuvent être consultées à partir de ce même formulaire. La suppression de votre compte client est possible à tout moment en contactant le responsable du traitement à l’adresse susmentionnée.
+
+Nous conservons et utilisons les données que vous nous avez fournies pour l’exécution des contrats. Après l’exécution complète du contrat ou après la suppression de votre compte client, vos données seront bloquées en considération des périodes de rétention fiscale et commerciale puis supprimées à l'expiration de ces périodes, à moins que vous ayez expressément consenti à une utilisation ultérieure de vos données ou qu'une utilisation ultérieure autorisée par la loi ait été prévue par notre site et détaillée dans ce qui suit.
+
+Dans le cadre de la fonction de commentaire sur ce site web, en plus de votre commentaire, nous enregistrons et publions également des informations sur la date de rédaction du commentaire ainsi que le pseudonyme utilisé. Votre adresse IP est également identifiée et enregistrée. L’adresse IP est enregistrée pour des raisons de sécurité et pour les cas où la personne concernée violerait les droits de tiers ou afficherait un contenu illégal dans un commentaire. Si un tiers estime que le contenu que vous avez publié est illégal, nous avons besoin de pouvoir vous contacter et collectons, à cet effet, votre adresse email. La base légale pour l’enregistrement de vos données est l'article 6, paragraphe 1, point b) et f) RGPD. Nous nous réservons par ailleurs le droit de supprimer les commentaires considérés comme illégaux par des tiers.
+
+8.1 Si vous vous abonnez à notre Newsletter, des informations sur nos offres vous seront régulièrement communiquées. La seule information nécessaire à l'envoi de la Newsletter est votre adresse e-mail. L'indication éventuelle d'autres données est facultative et ne peut être utilisée que pour vous contacter personnellement. Nous utilisons la procédure dite de « double opt-in » pour l'envoi de notre Newsletter. Cela signifie que vous ne recevrez notre Newsletter par e-mail que dans la mesure où vous avez expressément consenti à son envoi. Après réception de votre consentement, un e-mail de confirmation vous demandant de confirmer une dernière fois votre souhait de recevoir nos futures lettres d'information vous sera envoyé et vous n’aurez qu’à cliquer sur le lien de confirmation transmis pour valider définitivement votre abonnement à notre Newsletter.
+Conformément aux dispositions de l’article 6, paragraphe 1, point a) RGPD, c’est en activant le lien de confirmation, que vous nous donnez votre consentement définitif à l'utilisation de vos données personnelles. Lors de l’inscription à la Newsletter, nous enregistrons l’adresse IP fournie par le fournisseur d'accès Internet (FAI) ainsi que la date et l'heure de l'inscription de sorte à pouvoir retracer toute utilisation abusive éventuelle de votre adresse e-mail à une date ultérieure. Les données que nous collectons lors de l'inscription à notre Newsletter seront utilisées exclusivement à des fins publicitaires et par le biais de notre Newsletter. Vous pouvez vous désabonner de la Newsletter à tout moment via le lien fourni ou en envoyant un message au responsable du traitement susmentionné. Après votre désabonnement, votre adresse e-mail sera immédiatement supprimée de notre liste de diffusion, à moins que vous ayez expressément consenti à une utilisation ultérieure de vos données ou qu'une utilisation ultérieure autorisée par la loi ait été prévue dans cette déclaration.
+8.2 Conformément aux dispositions prévues à l’article 6, paragraphe 1, point f) RGPD et dans notre intérêt légitime à une prospection personnalisée, nous nous réservons le droit de conserver vos coordonnées (nom, prénom, adresse postale et, si nous avons reçu ces informations supplémentaires de votre part dans le cadre de la relation contractuelle, votre titre, diplôme, année de naissance et votre profession, ainsi que votre secteur d’activité et de les utiliser pour vous envoyer par voie postale des offres commerciales et des informations sur nos produits.
+Vous pouvez vous opposer à tout moment à l’enregistrement et à l'utilisation de vos données à cette fin en contactant le responsable du traitement.
+
+9.1 Dans le cadre de l'exécution du contrat, les données personnelles que nous collectons ne sont transmises à l'entreprise de transport chargée la livraison que si elles sont nécessaires à la livraison de la marchandise.
+Dans le cadre du traitement du paiement de la marchandise, les données que nous collectons ne sont transmises à l'établissement de crédit mandaté que si cela est nécessaire au paiement de la commande. En cas de recours à des prestataires de services de paiement, nous vous en informerons explicitement dans cette déclaration. La base juridique pour le transfert de ces données est l'article 6, paragraphe 1, point b) RGPD.
+
+9.2 Transmission des données personnelles aux prestataires de services d'expédition
+• DHL
+
+Si la marchandise est livrée par le prestataire de service d’expédition DHL (Deutsche Post AG, Charles-de-Gaulle-Straße 20, 53113 Bonn, Allemagne), nous transmettrons votre adresse e-mail conformément à l'article 6 paragraphe 1 point a RGPD avant la livraison de la marchandise afin de convenir d'une date de livraison ou d'une notification de livraison à DHL, à condition que vous ayez donné votre consentement exprès dans le processus de commande. Dans le cas contraire, nous ne transmettrons le nom du destinataire et l'adresse de livraison à DHL que pour la livraison conformément à l'article 6 paragraphe 1 point b RGPD. Les données ne seront transmises que si cela est nécessaire pour la livraison de la marchandise. Dans ce cas, il n'est pas possible de convenir à l'avance de la date de livraison avec DHL ou de donner un avis de livraison.
+Le consentement peut être révoqué à tout moment avec effet pour l'avenir vis-à-vis du responsable susmentionné ou du prestataire de services de transport DHL.
+
+• GLS
+
+ Si la marchandise est livrée par le prestataire de service d’expédition GLS (General Logistics Systems Germany GmbH & Co. OHG, GLS Germany-Straße 1 – 7, 36286 Neuenstein, Allemagne), nous transmettrons votre adresse e-mail conformément à l'article 6 paragraphe 1 point a RGPD avant la livraison de la marchandise afin de convenir d'une date de livraison ou d'une notification de livraison à GLS, à condition que vous ayez donné votre consentement exprès dans le processus de commande. Dans le cas contraire, nous ne transmettrons le nom du destinataire et l'adresse de livraison à GLS que pour la livraison conformément à l'article 6 paragraphe 1 point b RGPD. Les données ne seront transmises que si cela est nécessaire pour la livraison de la marchandise. Dans ce cas, il n'est pas possible de convenir à l'avance de la date de livraison avec GLS ou de donner un avis de livraison.
+Le consentement peut être révoqué à tout moment avec effet pour l'avenir vis-à-vis du responsable susmentionné ou du prestataire de services de transport GLS.
+
+• UPS
+
+Si la marchandise est livrée par le prestataire de service d’expédition UPS (United Parcel Service Deutschland Inc. & Co. OHG, Görlitzer Straße 1, 41460 Neuss, Allemagne), nous transmettrons votre adresse e-mail conformément à l'article 6 paragraphe 1 point a RGPD avant la livraison de la marchandise afin de convenir d'une date de livraison ou d'une notification de livraison à UPS, à condition que vous ayez donné votre consentement exprès dans le processus de commande. Dans le cas contraire, nous ne transmettrons le nom du destinataire et l'adresse de livraison à UPS que pour la livraison conformément à l'article 6 paragraphe 1 point b RGPD. Les données ne seront transmises que si cela est nécessaire pour la livraison de la marchandise. Dans ce cas, il n'est pas possible de convenir à l'avance de la date de livraison avec UPS ou de donner un avis de livraison.
+Le consentement peut être révoqué à tout moment avec effet pour l'avenir vis-à-vis du responsable susmentionné ou du prestataire de services de transport UPS.
+
+9.3. Recours à des prestataires de services de paiement
+• Amazon Pay 
+
+Si vous choisissez le mode de paiement "Amazon Pay", le paiement sera traité par le prestataire de services de paiement Amazon Payments Europe s.c.a., 5 Rue Plaetis, L-2338 Luxembourg (ci-après "Amazon Payments"), à qui nous transmettrons les informations que vous avez fournies lors du processus de commande ainsi que les informations sur votre commande conformément à l'article 6 paragraphe 1 point b RGPD. Vos données ne seront transmises que dans le cadre du traitement des paiements avec le prestataire de services de paiement Amazon Payments et uniquement dans la mesure où cela est nécessaire. Pour plus d'informations sur la politique de confidentialité d'Amazon Payments, veuillez consulter le site
+https://www.amazon.fr/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=201909010
+
+• Paypal
+
+En cas de paiement par PayPal, par carte de crédit via PayPal, par prélévement via PayPal ou (si cela est proposé) "par achat sur facture" ou "paiement échelonné" via PayPal, nous transmettons vos données de paiement à PayPal (Europe) S.a.r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg (ci-après "PayPal"). Le transfert a lieu conformément à l'article 6, paragraphe 1, point b) RGPD exclusivement dans la mesure où cela est nécessaire pour le traitement des paiements.
+PayPal se réserve le droit d'effectuer des vérifications de crédit pour les méthodes de paiement par carte de crédit via PayPal, débit direct via PayPal ou - si proposé - "achat sur facture" ou "paiement échelonné" via PayPal. Dans ce but, vos données de paiement peuvent être transmises à des agences de crédit dans l'intérêt légitime de PayPal à déterminer votre solvabilité conformément à l'article 6, paragraphe 1, point f) RGPD. PayPal utilise le résultat de l'évaluation du crédit par rapport à la probabilité statistique de non-paiement pour décider de la mise à disposition de la méthode de paiement respective. Le rapport de crédit peut contenir des valeurs de probabilité (dénommées valeurs de score). Si des valeurs de score sont incluses dans le résultat du rapport de crédit, elles sont basées sur une procédure mathématico-statistique scientifiquement reconnue. Le calcul des valeurs de score comprend, mais sans s'y limiter, des données de correspondance postale. Pour plus d'informations sur la politique de protection des données et sur les agences de crédit utilisées, veuillez-vous référer à la Déclaration sur la protection des données personnelles de PayPal :
+https://www.paypal.com/fr/webapps/mpp/ua/privacy-full?locale.x=fr_FR
+Vous pouvez vous opposer à tout moment au traitement de ces données en envoyant un message à PayPal. Toutefois, PayPal pourra éventuellement continuer à traiter vos données personelles si cela s’avère nécessaire pour le traitement des paiements.
+
+• Sofort – Virement bancaire instantané
+
+Si vous choisissez le mode de paiement "Immédiatement", le paiement est effectué par l'intermédiaire du prestataire de services de paiement SOFORT GmbH, Theresienhöhe 12, 80339 Munich, Allemagne (ci-après "SOFORT"), à qui nous transmettons les informations que vous nous fournissez lors de la commande avec les informations concernant votre commande conformément à l'art. 6 al. 1 let. b RGPD. Sofort GmbH fait partie du groupe Klarna (Klarna Bank AB (publ), Sveavägen 46, 11134 Stockholm, Suède). Vos données ne seront transmises qu'IMMÉDIATEMENT et uniquement dans la mesure nécessaire pour le traitement des paiements avec le prestataire de services de paiement. Vous trouverez de plus amples informations sur les règles de protection des données de la SOFORT à l'adresse Internet suivante :  
+
+• Carte de crédit
+
+Si vous choisissez le mode de paiement "Carte de crédit / VISA Maestro", le paiement sera traité par le prestataire de services de paiement EVO Payments International GmbH, Elsa-Bränstrom-Straße 10-12, 50668 Köln. ). Vos données seront transmises exclusivement dans le but de traiter les paiements avec le prestataire de services de paiement EvoPayments et uniquement dans la mesure nécessaire. Vous trouverez des informations sur la protection des données chez EVO Payments dans la déclaration de protection des données EVO Payments :  
+Reichelt transmet votre paiement par carte de crédit à EVO Payments et vous donne un numéro de commande et le montant brut. Les données requises pour les paiements par carte de crédit et les contrôles de crédit sont conformes à l'art. 6, al. 1, let. 1, let. 1, let. 1, let. f de la RGPD. La transmission de retour au vendeur n'a lieu qu'avec un identifiant de transaction et une confirmation de paiement oui/non.
+
+Rappel d'évaluation par Reevoo
+
+Si vous nous avez donné votre consentement exprès pendant ou après votre commande conformément à l'art. 6 al. 1 lit. a RGPD, nous enverrons votre adresse e-mail à la plate-forme de notation Reevoo de Reevoo Ltd Rriars Bridge Court, 41-45 Blackfriars Road, Londres, SE1BNZ afin que celle-ci puisse vous envoyer un rappel par e-mail.
+Vous pouvez révoquer votre consentement à tout moment en envoyant un message au responsable du traitement ou à la plate-forme de notation.
+
+Ce site web utilise la fonction d’intégration Youtube pour afficher et lire les vidéos du fournisseur « Youtube » qui appartient à Google Ireland Limited, Gordon House, 4 Barrow St, Dublin, D04 ESW5. Irlande (« Google »).
+Le mode de protection étendue des données est ici utilisé. Celui-ci n'initie, selon les déclarations du fournisseur, pas de sauvegarde des informations de l'utilisateur tant que la ou les vidéos ne sont pas lues. Si la lecture des vidéos YouTube intégrées est lancée, des cookies "YouTube" sont utilisés par le fournisseur pour collecter des informations sur le comportement de l'utilisateur. D’après les informations fournies par "Youtube", ces cookies servent, entre autres, à collecter des statistiques vidéo, à améliorer la convivialité et à prévenir les pratiques abusives. Si vous êtes connecté à Google, vos informations seront associées à votre compte dès lors que vous cliquez sur une vidéo. Si vous ne souhaitez pas que Youtube puisse associer ces informations à votre profil, nous vous invitons à vous déconnecter avant d'activer la lecture de la video. Google enregistre vos données (même pour les utilisateurs qui ne sont pas connectés) en tant que profils d'utilisation et les évalue. Cette évaluation se fait dans le respect des dispositions de l'article 6 paragraphe 1 point f) RGPD sur la base des intérêts légitimes de Google à l'insertion de publicités personnalisées, à l’étude de marché et/ou à une conception de son site web orientée vers la demande.
+Vous pouvez cependant vous opposer à la création de ces profils utilisateurs en vous adressant à Youtube. Cela peut également entraîner une transmission vers les serveurs de Google LLC. aus Etats-Unis.
+Indépendamment de la lecture des vidéos intégrées, la simple visite de ce site web a pour conséquence d’établir une connexion avec le réseau "GMP" de Google susceptible de déclencher d'autres opérations de traitement des données sur lesquelles nous n’avons aucune influence.
+En cas de transfert de données personnelles à Google LLC implantée aux Etats-Unis, Google LLC est certifié au Bouclier de protection des données UE - Etats-Unis (Privacy Shield), qui a pour objet de garantir la protection des données personnelles qui sont transférées depuis un Etat membre de l’Union Européenne vers les Etats-Unis. La liste des sociétés certifiées au Bouclier de Protection des Données Personnelles (« Privacy Shield ») est consultable à l’adresse suivante :  
+Vous trouverez de plus amples informations sur la protection des données "YouTube" dans la déclaration de protection des données du fournisseur à l'adresse  
+
+Google Ads Conversion-Tracking
+
+Notre site utilise le programme de publicité en ligne « Google Ads» et, dans ce contexte, le suivi des conversions de Google Ireland Limited, Gordon House, 4 Barrow St, Dublin, D04 ESW5. Irlande (« Google+ »). Nous utilisons l'offre de Google Ads, et notamment ses techniques d’insertion publicitaire (Google Ads) sur des sites web tiers dans le but d’attirer l'attention sur nos offres. Les données collectées nous permettent ainsi de déterminer le succès de nos diverses campagnes publicitaires. Nous sommes attachés à ne vous montrer que les annonces susceptibles de vous intéresser, à rendre notre site web plus attrayant à vos yeux et à obtenir un calcul juste des coûts de publicité.
+
+Le cookie de suivi des conversions est activé dès lors qu'un utilisateur clique sur une annonce Google Ads affichée par Google. Les cookies sont des fichiers texte de petite taille enregistrés sur votre système informatique. Ces cookies expirent généralement au bout de 30 jours et ne sont pas utilisés à des fins d’identification des utilisateurs. Si l'utilisateur se rend sur certaines pages de ce site web et que le cookie n'est pas encore expiré, nous (ainsi que Google) serons en mesure de déterminer qu’il a cliqué sur l'annonce et qu’il a ensuite été redirigé sur le site web correspondant. Les cookies sont différents pour chaque client Google Ads et ne peuvent donc pas être tracés par les sites web d’autres clients Google Ads. Les informations collectées à l'aide du cookie de conversion sont utilisées pour générer des statistiques de conversion pour les clients d'AdWords ayant opté pour le suivi des conversions. Ces clients obtiennent ainsi le nombre total d'utilisateurs ayant cliqué sur leur annonce et ayant ensuite été redirigé vers une page possédant une balise de suivi des conversions. Ils ne reçoivent cependant aucune information permettant l’identification précise des utilisateurs.
+
+Si vous ne souhaitez pas participer au suivi, vous pouvez bloquer cette utilisation en désactivant le cookie de suivi des conversions Google dans les paramètres utilisateurs de votre navigateur Internet. Vous ne serez alors pas intégré dans les statistiques de suivi des conversions.
+
+Nous utilisons Google Ads dans le respect de l'article 6, paragraphe 1, point f) RGPD à savoir dans notre intérêt légitime à une publicité ciblée. Un transfert de vos données personnelles vers des serveurs de Google LLC. Situés aux Etats-Unis n'est cependant pas exclu.
+
+En cas de transfert de données personnelles à Google LLC implantée aux Etats-Unis, Google LLC est certifié au Bouclier de protection des données UE - Etats-Unis (Privacy Shield), qui a pour objet de garantir la protection des données personnelles qui sont transférées depuis un Etat membre de l’Union Européenne vers les Etats-Unis. La liste des sociétés certifiées au Bouclier de Protection des Données Personnelles (« Privacy Shield ») est consultable à l’adresse suivante :  
+
+Pour plus d'informations sur la politique de confidentialité de Google, veuillez consulter le site :  
+
+Vous pouvez désactiver définitivement les cookies publicitaires en paramétrant votre navigateur internet en conséquence ou en téléchargeant le plugin de navigateur disponible sous le lien suivant :  
+
+Veuillez noter qu’en cas de désactivation de ces cookies, certaines fonctionnalités du site web seront susceptibles d’être limitées ou de ne pas pouvoir être utilisées.
+
+• Google Analytics
+
+Ce site web utilise Google Analytics, un service d'analyse de site internet proposé par Google Ireland Limited, Gordon House, 4 Barrow St, Dublin, D04 ESW5. Irlande (« Google »). Google Analytics utilise des fichiers texte de petite taille enregistrés sur votre ordinateur (« Cookies »), qui nous aide à analyser l'utilisation du site par les utilisateurs. Les informations générées par les cookies sur l’utilisation du site web (y compris l'adresse IP abrégée) sont en principe transmises et enregistrées sur un serveur de Google. Cela peut entraîner une transmission vers les serveurs situés aux Etats-Unis.
+
+Ce site utilise Google Analytics exclusivement avec l'extension "_anonymizeIp()". Cette extension assure l'anonymisation de l'adresse IP par raccourcissement et exclut ainsi tout lien personnel et direct avec l’utilisateur.
+
+En raison de l'extension, votre adresse IP sera préalablement abrégée par Google dans les États membres de l'Union européenne ou dans les États signataires de l'Accord sur l'Espace économique européen. Ce n'est qu’exceptionnellement que l'adresse IP complète est susceptible d’être transmise à un serveur Google situé aux Etats-Unis avant d’y être également abrégée. Dans ce cas, le traitement des données est effectué, conformément à l’article 6, paragraphe 1, point f) dans notre intérêt légitime à l’analyse statistique du comportement des utilisateurs et à des fins d’optimisation et de marketing.
+
+Google utilisera ces informations en notre nom afin d’analyser votre utilisation du site web, de compiler des rapports sur son activité et de nous fournir d'autres services liés à l'utilisation du site internet. L'adresse IP anonymisée transmise par votre navigateur dans le cadre du service de Google Analytics n’est pas recoupée avec d'autres données détenues par Google.
+
+Vous pouvez refuser l'utilisation de cookies en sélectionnant les paramètres appropriés dans votre navigateur. Dans ce cas, il se peut que vous ne puissiez pas utiliser toutes les fonctionnalités de ce site web.
+
+Vous pouvez également empêcher Google de collecter et traiter les données relatives à votre utilisation du site web (y compris votre adresse IP) qui sont générées par le cookie susmentionné en installant le plugin de navigateur disponible sous le lien suivant :  
+
+Comme alternative au plugin du navigateur ou pour les navigateurs sur appareils mobiles, nous vous invitons à cliquer sur le lien ci-dessous pour mettre en place un cookie opt-out (ou d’exclusion) qui empêchera toute collecte future de données par Google Analytics (ce cookie opt-out ne fonctionne que pour ce navigateur et uniquement pour ce domaine. Ainsi, si vous supprimez vos cookies dans le navigateur, vous devrez à nouveau cliquer sur ce lien):
+
+Désactiver Google Analytics
+
+En cas de transfert de données personnelles à Google LLC implantée aux Etats-Unis, Google LLC est certifié au Bouclier de protection des données UE - Etats-Unis (Privacy Shield), qui a pour objet de garantir la protection des données personnelles qui sont transférées depuis un Etat membre de l’Union Européenne vers les Etats-Unis. La liste des sociétés certifiées au Bouclier de Protection des Données Personnelles (« Privacy Shield ») est consultable à l’adresse suivante :  
+
+Vous trouverez de plus amples informations sur la manière dont Google Analytics traite les données des utilisateurs dans la déclaration sur la protection des données de Google :  
+
+• Bing Ads (Microsoft Corporation)
+
+Ce site web utilise la technologie de suivi des conversions "Bing Ads" de Microsoft (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, États Unis). Si vous accédez à notre site web par l’intermédiaire d’une annonce Microsoft Bing, un cookie « Bing Ads » est placé sur votre ordinateur.
+
+Les cookies sont des fichiers texte de petite taille qui sont enregistrés sur votre système informatique. Ces cookies expirent en principe après 180 jours et ne sont pas utilisés à des fins d’identification des utilisateurs.
+
+Si l'utilisateur se rend sur certaines pages de ce site web et que le cookie n'est pas encore expiré, nous (ainsi que Microsoft) serons en mesure de déterminer que l'utilisateur a cliqué sur l'annonce et qu’il a ensuite été redirigé sur le site web correspondant (page de conversion). Le traitement éventuel des données est effectué conformément aux dispositions de l’article 6, paragraphe 1, point f) RGPD dans notre intérêt légitime à un marketing efficace.
+
+Les données collectées à l'aide du cookie de conversion sont utilisées pour générer des statistiques de conversion, c'est-à-dire pour connaître le nombre d'utilisateurs accédant à une page de conversion après avoir cliqué sur une annonce publicitaire. Nous pouvons ainsi connaître le nombre total d’utilisateurs ayant été redirigé sur une page disposant d’une balise de suivi de conversion après avoir cliqué sur notre annonce. Nous ne recevons cependant aucune information permettant l’identification personnelle des utilisateurs.
+
+Microsoft Corporation, dont le siège social est situé aux Etats-Unis, participe au Bouclier de protection des données UE - Etats-Unis (Privacy Shield), qui a pour objet de garantir la protection des données personnelles qui sont transférées depuis un Etat membre de l’Union Européenne vers les Etats-Unis.
+
+Si vous ne souhaitez pas participer au suivi, vous pouvez bloquer cette utilisation en désactivant le cookie de suivi des conversions Bing Ads dans les paramètres utilisateurs de votre navigateur internet. Vous ne serez alors pas intégré dans les statistiques de suivi des conversions.
+
+Vous pouvez également utiliser la page de désactivation pour les consommateurs de l'UE (http://www.youronlinechoices.com/uk/your-ad-choices/ )pour vérifier si des cookies publicitaires de Microsoft sont utilisés par votre navigateur et, le cas échéant, les désactiver.
+
+Pour plus d'informations sur la politique de confidentialité de Microsoft Bing Ads, nous vous invitons à consulter le site suivant :  
+
+• Criteo (Criteo SA)
+
+Ce site web utilise la technologie de Criteo SA, 32 Rue Blanche, 75009 Paris, France ("Criteo"), pour collecter, enregistrer et évaluer de manière anonyme et par le biais de cookies (fichiers texte), les informations sur le comportement de navigation des visiteurs du site web. Ces informations sont traitées conformément à l’article 6, paragraphe1 point f) RGPD dans notre intérêt légitime à l'insertion d'une publicité personnalisée.
+
+Criteo utilise un algorithme pour analyser le comportement de navigation des utilisateurs et peut ensuite afficher sur des sites tiers (les éditeurs) des recommandations de produits ciblées sous forme de bannières publicitaires personnalisées. Les données collectées grâce au cookie ne sont en aucun cas utilisées pour identifier personnellement le visiteur de ce site web et aucune utilisation ou transmission à des tiers n'a lieu.
+
+Si vous souhaitez vous opposer à la collecte de ces données ainsi qu’à la création de profils utilisateurs pseudonymisés, nous vous invitons à utiliser le cookie opt-out prévu à cet effet et disponible ici :  
+
+Pour plus d'informations sur la technologie Criteo, veuillez consulter la Politique de confidentialité de Criteo :  
+
+Facebook pixels, audiences personnalisées et conversion Facebook
+
+Notre offre en ligne tient à nos intérêts légitimes dans l'analyse, l'optimisation et le fonctionnement économique de notre offre en ligne et à ces fins, le dénommé "Facebook Pixel" du réseau social Facebook, par Facebook Inc., 1 Hacker Way, Menlo Park, CA 94025 , États-Unis, ou si vous résidez dans l’Union européenne, Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irlande («Facebook»).
+
+Facebook est certifié en vertu de l’Accord sur le bouclier de protection des données, garantissant ainsi le respect de la législation européenne en matière de protection de la vie privée ( 
+
+Avec l'aide du Facebook pixel, il est d'une part possible pour Facebook de déterminer les visiteurs de notre offre en ligne en tant que groupe cible pour la présentation de publicités (appelées "publicités Facebook"). En conséquence, nous utilisons le Facebook pixel pour afficher les annonces Facebook qui nous ont été envoyées uniquement aux utilisateurs de Facebook qui ont également manifesté un intérêt pour notre offre en ligne ou qui possèdent certaines fonctionnalités (par exemple, des intérêts pour certains sujets ou produits visités par eux). Pages Web déterminées), que nous transmettons à Facebook (appelées "audiences personnalisées"). Avec l'aide du Facebook pixel, nous voulons également nous assurer que nos publicités Facebook correspondent aux intérêts potentiels des utilisateurs et ne sont pas gênantes. Avec l'aide du Facebook pixel, nous pouvons également comprendre l'efficacité des publicités Facebook à des fins statistiques et d'études de marché, afin de déterminer si les utilisateurs ont été redirigés vers notre site Web après avoir cliqué sur une publicité Facebook (dite "conversion").
+
+Le traitement des données par Facebook fait partie de la politique d'utilisation des données de Facebook. En conséquence, des remarques générales sur la manière d'afficher les publicités Facebook, dans la politique d'utilisation des données de Facebook: https: //www.facebook.com/policy Pour des informations spécifiques et des détails sur le pixel Facebook et son fonctionnement, visitez la section d'aide de Facebook:  
+
+Vous pouvez vous opposer à la capture par le Facebook pixel et à l'utilisation de vos données pour afficher des publicités Facebook. Pour définir les types d'annonces que vous voyez dans Facebook, vous pouvez aller à la page configurée par Facebook et suivre les instructions relatives aux paramètres de publicité basés sur l’utilisation :   Les paramètres sont indépendants de la plate-forme, i. ils sont adoptés pour tous les appareils, tels que les ordinateurs de bureau ou les appareils mobiles.
+
+Vous pouvez également utiliser les cookies à des fins de mesure de la distance et de promotion à l'aide de la page de désactivation de la Network Advertising Initiative (http://optout.networkadvertising.org/) et du site Web américain (http://www.aboutads.info/). choix) ou le site Web européen (http://www.youronlinechoices.com/uk/your-ad-choices/)
+
+• Google Ads Remarketing
+
+Notre site web utilise les fonctions de Google Ads Remarketing pour diffuser des annonces pour ce site web dans les résultats de recherche Google ou de sites internet tiers. Le fournisseur est Google Ireland Limited, Gordon House, 4 Barrow St, Dublin, D04 ESW5. Irlande (« Google»).
+
+À cette fin, Google utilise un cookie placé dans le navigateur de votre terminal et qui va, grâce à un identifiant de cookie anonyme et sur la base de vos précédentes recherches, pouvoir proposer des publicités ciblées. Le traitement des données se fait, conformément aux dispositions de l’article 6, paragraphe 1, point f) dans notre intérêt légitime à une commercialisation optimale de notre site internet.
+
+Ces données ne pourront faire l’objet d’un traitement supplémentaire plus contexte que dans le cas où vous avez convenu avec Google que votre historique de navigation Internet et dans les applications Google puisse être lié à votre compte Google et que les informations de votre compte Google puissent être utilisées pour personnaliser les annonces que vous consultez sur internet. Dans ce cas, si vous êtes connecté à Google lors de la visite de notre site web, Google utilisera vos données avec celles de Google Analytics pour créer et définir une liste de cibles pour le remarketing croisé. Google recoupera ainsi temporairement vos données personnelles avec les données de Google Analytics dans le but de former des groupes de cibles. L'utilisation de Google Ads Remarketing peut également impliquer la transmission de données personnelles à des serveurs de Google LLC. situés aux Etats-Unis.
+
+Vous pouvez désactiver de façon permanente l’utilisation de cookies publicitaires en  téléchargeant le plugin de navigateur disponible sous le lien suivant :  
+
+Vous pouvez également contacter la Digital Advertising Alliance à l'adresse suivante : www.aboutads.info pour connaître les modalités de configuration et d’utilisation des cookies.
+
+Enfin, veuillez noter que vous pouvez paramétrer votre navigateur de façon à être informé de la présence de cookies et de la possibilité de pouvoir décider individuellement de leur acceptation ou de leur exclusion, et ce au cas par cas ou de manière plus générale. Si les cookies ne sont pas acceptés, les fonctionnalités de notre site web peuvent être limitées.
+
+En cas de transfert de données personnelles à Google LLC implantée aux Etats-Unis, Google LLC est certifié au Bouclier de protection des données UE - Etats-Unis (Privacy Shield), qui a pour objet de garantir la protection des données personnelles qui sont transférées depuis un Etat membre de l’Union Européenne vers les Etats-Unis. La liste des sociétés certifiées au Bouclier de Protection des Données Personnelles (« Privacy Shield ») est consultable à l’adresse suivante :  
+
+Pour plus d'informations sur l'utilisation par Google des données personnelles à des fins publicitaires, veuillez consulter le site suivant :  
+
+15.1 La réglementation applicable en matière de protection des données vous accorde des droits (droits d'information et d'intervention) vis-à-vis du responsable du traitement, dont nous vous informons ci-dessous :
+
+• Droit d’accès à l’information (art. 15 RGPD)
+• Droit de rectification (art. 16 RGPD)
+• Droit à l’effacement ou « Droit à l’oubli » (art. 15 RGPD)
+• Droit à la limitation du traitement (art. 18 RGPD)
+• Droit à l’information (art. 19 RGPD)
+• Droit à la portabilité des données (art. 20 RGPD)
+• Droit au retrait du consentement donné (Art. 7 (3) RGPD)
+• Droit de réclamation
+
+15.2 DROIT D’OPPOSITION
+SI NOUS TRAITONS VOS DONNEES PERSONNELLES EN ESTIMANT QU'IL EXISTE DES MOTIFS LEGITIMES ET IMPERIEUX QUI PREVALENT SUR
+VOS PROPRES INTERETS, VOUS POUVEZ VOUS OPPOSER A TOUT MOMENT A CE TRAITEMENT POUR DES RAISONS TENANT A VOTRE SITUATION PARTICULIERE.
+SI VOUS EXERCEZ CE DROIT D'OPPOSITION, LE TRAITEMENT DES DONNEES CONCERNEES CESSERA IMMEDIATEMENT. NOUS NOUS RESERVONS TOUTEFOIS LE DROIT DE POURSUIVRE LE TRAITEMENT SI NOUS PARVENONS A PROUVER QUE LA POURSUITE DU TRAITEMENT EST JUSTIFIEE PAR DES MOTIFS LEGITIMES ET IMPERIEUX QUI PREVALENT SUR VOS INTERETS, DROITS ET LIBERTES OU SI LA POURSUITE DU TRAITEMENT PERMET LA CONSTATATION, L’EXERCICE OU LA DEFENSE DE DROITS EN JUSTICE.
+LORSQUE NOUS TRAITONS VOS DONNEES PERSONNELLES A DES FINS DE PROSPECTION, VOUS AVEZ LE DROIT DE VOUS OPPOSER A TOUT MOMENT AU TRAITEMENT DE VOS DONNEES A DE TELLES FINS DE PROSPECTION EN SUIVANT LES MODALITES DECRITES CI-DESSUS.
+SI VOUS EXERCEZ VOTRE DROIT D'OPPOSITION AU TRAITEMENT A DES FINS DE PROSPECTION, VOS DONNEES NE SERONT PLUS TRAITEES A CES FINS.
+
+La durée de conservation des données personnelles est déterminée par la durée de conservation légale applicable (par exemple, les périodes de conservation commerciale et fiscale).
+Après l'expiration de ces délais, les données correspondantes seront systématiquement et régulièrement effacées, à condition qu'elles ne soient plus nécessaires à l'exécution ou à l'initiation du contrat et/ou qu'il n'y ait plus d'intérêt légitime à leur conservation.
+
+
+
+
+
+
+
+
+

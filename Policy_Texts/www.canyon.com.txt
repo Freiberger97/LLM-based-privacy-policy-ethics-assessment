@@ -1,0 +1,1112 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die Canyon Bicycles GmbH (nachfolgend CANYON genannt), freut sich, dass du unsere Website besuchst. Datenschutz und Datensicherheit bei der Nutzung unserer Website sind für uns sehr wichtig. Wir möchten dich daher an dieser Stelle darüber informieren, welche deiner personenbezogenen Daten wir bei deinem Besuch auf unserer Website erfassen und für welche Zwecke diese genutzt werden.
+
+
+Da Gesetzesänderungen oder Änderungen unserer unternehmensinternen Prozesse eine Anpassung dieser Datenschutzerklärung erforderlich machen können, bitten wir dich, diese Datenschutzerklärung regelmäßig durchzulesen. Die Datenschutzerklärung kann jederzeit unter dem Navigationspunkt Datenschutz auf unserer Webseite abgerufen, abgespeichert und ausgedruckt werden.
+
+
+§ 1 Verantwortlicher und Geltungsbereich
+
+
+Der Verantwortliche im Sinne der EU-Datenschutzgrundverordnung (im Folgenden: DSGVO) und anderer nationaler Datenschutzgesetze der Mitgliedsstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist:
+
+
+Canyon Bicycles GmbHKarl-Tesche-Straße 1256073 KoblenzTel.: +49 261 9490 3000E-Mail: privacy@canyon.comWebsite: 
+
+
+Diese Datenschutzerklärung gilt für das Internetangebot der Canyon Bicycles GmbH welches unter den Domains www.canyon.com und www.career.canyon.com sowie den verschiedenen Subdomains (im Folgenden „unsere Website“ genannt) abrufbar ist.
+
+
+§ 2 Datenschutzbeauftragter
+
+
+Der externe Datenschutzbeauftragte des Verantwortlichen ist:
+
+
+Herr Rechtsanwalt Dr. Karsten Kinast, LL.M.KINAST Rechtsanwaltsgesellschaft mbHHohenzollernring 54D-50672 KölnTel.: +49 (0)221 – 222 183 – 0E-Mail: mail@kinast.euWebsite: 
+
+
+§ 3 Grundsätze der Datenverarbeitung
+
+
+Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen. Hierzu gehören beispielsweise Informationen wie dein Name, dein Alter, deine Anschrift, deine Telefonnummer, dein Geburtsdatum, deine E-Mail-Adresse, deine IP-Adresse oder das Nutzerverhalten. Informationen, bei denen wir keinen (oder nur mit einem unverhältnismäßigen Aufwand einen) Bezug zu deiner Person herstellen können, z. B. durch Anonymisierung der Informationen, sind keine personenbezogenen Daten. Die Verarbeitung von personenbezogenen Daten (bspw. das Erheben, das Abfragen, die Verwendung, die Speicherung oder die Übermittlung) bedarf immer einer gesetzlichen Grundlage oder deiner Einwilligung. Verarbeitete personenbezogene Daten werden gelöscht, sobald der Zweck der Verarbeitung erreicht wurde und keine gesetzlich vorgeschriebenen Aufbewahrungspflichten mehr zu wahren sind. Sofern wir für die Bereitstellung bestimmter Angebote deine personenbezogenen Daten verarbeiten, informieren wir dich nachfolgend über die konkreten Vorgänge, den Umfang und den Zweck der Datenverarbeitung, die Rechtsgrundlage für die Verarbeitung und die jeweilige Speicherdauer.
+
+
+§ 4 Einzelne Verarbeitungsvorgänge
+
+1. Bereitstellung und Nutzung der Webseite
+
+A. Art und Umfang der Datenverarbeitung
+Beim Aufrufen und der Nutzung unserer Website erheben wir die personenbezogenen Daten, die dein Browser automatisch an unseren Server übermittelt. Diese Informationen werden temporär in einem sog. Logfile gespeichert. Wenn du unsere Website nutzt, erheben wir die folgenden Daten, die für uns technisch erforderlich sind, um dir unsere Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten:
+- IP-Adresse des anfragenden Rechners
+- Datum und Uhrzeit des Zugriffs
+- Name und URL der abgerufenen Datei
+- Website, von der aus der Zugriff erfolgt (Referrer-URL)
+- Verwendeter Browser, verwendetes Endgerät und ggf. das Betriebssystem sowie der Name deines Access-Providers
+
+
+B. Rechtsgrundlage
+Für die genannte Datenverarbeitung dient Art. 6 Abs. 1 lit. f DSGVO als Rechtsgrundlage. Die Verarbeitung der genannten Daten ist für die Bereitstellung einer Website erforderlich und dient damit der Wahrung eines berechtigten Interesses unseres Unternehmens.
+
+
+C. Speicherdauer
+Sobald die genannten Daten zum Anzeigen der Website nicht mehr erforderlich sind, werden sie gelöscht. Die Erfassung der Daten zur Bereitstellung der Website und die Speicherung der Daten in Logfiles ist für den Betrieb der Internetseite zwingend erforderlich. Es besteht folglich seitens des Nutzers keine Widerspruchsmöglichkeit. Eine weitergehende Speicherung kann im Einzelfall dann erfolgen, wenn dies gesetzlich vorgeschrieben ist.
+
+2. Registrierung / Nutzerkonto
+
+A. Art und Umfang der Datenverarbeitung
+Auf unserer Internetseite bieten wir dir die Möglichkeit, sich unter Angabe personenbezogener Daten zu registrieren.
+Mit den verarbeiteten Daten erstellen wir für dich ein individualisiertes Nutzerkonto, mit dem du bestimmte Inhalte und Leistungen wie eine Wunschliste, eine Bestellübersicht, eine Liste bevorzugter Lieferanschriften, Mitteilungseinstellungen usw. teilweise in Eigenverwaltung anlegen und dadurch Inhalte auf unserer Webseite nutzen kannst.
+Deine E-Mail-Adresse verarbeiten wir, damit wir dir neue Zugangsdaten zusenden können, falls du diese einmal vergessen solltest, oder um dir Informationen zuzusenden, die in direktem Bezug mit deiner Kontoregistrierung stehen.
+Mit der Angabe von Präferenzen innerhalb der Mitteilungseinstellungen und Interessengebieten, stimmst du zudem der Nutzung deiner angegebenen Email-Adresse zum Versand von Mitteilungen entsprechend deiner Angaben zu. Diese Zustimmung
+kannst du jederzeit durch eine E-Mail an privacy@canyon.com widerrufen.
+Durch das Hinzufügen von Produkten auf deine Wunschliste, stimmst du zu, dass wir dich per E-Mail an die von dir auf deiner Wunschliste gespeicherten Produkte erinnern oder dir Informationen zu diesen zusenden.
+Durch das Aktivieren der Erinnerungsfunktion für nicht verfügbare Artikel, stimmst du zu, dass wir dich per E-Mail an diese Produkte erinnern, sobald sie in unserem Shop wieder verfügbar sind.
+Nach deiner erstmaligen Registrierung ist bei zukünftigen Bestellungen die Anmeldung in deinem Nutzerkonto zwingend erforderlich, da uns dies ermöglicht deine Bestellung einem bestehenden Konto unmittelbar zuzuordnen. Selbstverständlich steht es dir frei alle deine Bestellungen als Gastbestellungen abzugeben, allerdings verzichtest du damit auf verschiedene Services, die wir nur im Rahmen eines Kundenkontos anbieten können.
+Folgender Übersicht kannst du detailliert entnehmen, welche personenbezogenen Daten wir von dir bei einer Registrierung verarbeiten:
+- Name
+- E-Mail-Adresse
+- Geburtsdatum (freiwillige Angabe)
+- Land und Sprache
+- IP-Adresse
+- Geschlecht
+Folgender Übersicht kannst du die Art der Daten entnehmen, die wir durch deine Angabe innerhalb des Nutzerkontos oder durch mit dem Kundenkonto verknüpfte Bestellungen verarbeiten.
+- Anschrift
+- Ggfls. abweichende Lieferanschriften
+- Eine Übersicht deiner Bestellungen
+- Mitteilungseinstellungen
+- Wunschliste
+- Körpergröße und Schrittlänge
+Wir validieren mithilfe des Dienstleisters Loqate GBG deine Anschrift, deine E-Mail-Adresse sowie deine Telefonnummer, um zu verhindern, dass falsche Daten von dir in unser System gelangen. Weitere Informationen über die Verarbeitung deiner Daten durch einen externen Dienstleister findest du unter § 6 dieser Datenschutzerklärung.
+
+
+B. Rechtsgrundlage
+Die Verarbeitung der dargelegten personenbezogenen Daten (vgl. § 4 2. a.) beruht nach Art. 6 Abs. 1 lit. b DSGVO.
+
+
+C. Speicherdauer
+Sobald die Registrierung auf unserer Internetseite aufgehoben oder abgeändert wird, werden die während des Registrierungsvorgangs verarbeiteten Daten gelöscht. Eine weitergehende Speicherung kann im Einzelfall dann erfolgen, wenn dies gesetzlich vorgeschrieben ist.
+
+
+D. Auflösung der Registrierung
+Als Nutzer hast du jederzeit die Möglichkeit, die Registrierung aufzulösen. Die über dich gespeicherten Daten kannst du jederzeit abändern lassen. Dazu gehst du folgendermaßen vor: Entweder nimmst du die Änderungen selbst nach Login in deinem Kundenkonto vor oder du wendest dich per Email an privacy@canyon.com.
+Falls die verarbeiteten Daten jedoch zur Erfüllung eines Vertrages oder zur Durchführung vorvertraglicher Maßnahmen erforderlich sind, ist eine vorzeitige Löschung der Daten nur möglich, soweit dem nicht vertragliche oder gesetzliche Verpflichtungen entgegenstehen.
+
+3. Abwicklung des Warenkaufs
+3.1 Warenkauf
+
+A. Art und Umfang der Datenverarbeitung
+Auf unserer Internetseite bieten wir Nutzern die Möglichkeit, unter Angabe personenbezogener Daten Waren zu erwerben. Die hierfür erforderlichen Daten werden dabei in eine Eingabemaske eingegeben und an uns übermittelt und gespeichert. Eine Weitergabe der Daten an Dritte findet nicht statt. Folgende Daten werden im Rahmen des Bestellvorgangs erhoben:
+- Anrede
+- Name
+- Anschrift
+- Telefonnummer
+- E-Mail-Adresse
+- Zahlungsinformationen
+- Versandart
+- IP-Adresse
+Eine Weitergabe deiner Daten erfolgt an das mit der Lieferung beauftragte Versandunternehmen, soweit dies zur Lieferung der Waren notwendig ist. Zur Abwicklung von Zahlungen geben wir deine Zahlungsdaten an das mit der Zahlung beauftragte Kreditinstitut weiter. Diese Unternehmen dürfen deine Daten nur zur Auftragsabwicklung und nicht zu weiteren Zwecken nutzen.
+Wenn du auf unserer Internetseite Waren erwirbst und hierbei deine E-Mail-Adresse hinterlegst, kann diese in der Folge durch uns für den Versand von Benachrichtigungen über ähnliche Waren oder Dienstleistungen verwendet werden, da wir daran interessiert sind, die Kundenbeziehung mit dir zu pflegen und wir dir Informationen zukommen lassen möchten, von denen wir ausgehen, dass diese für dich von Interesse sein könnten.
+Wenn du während des Bestellvorgangs diesen Vorgang unterbrechen musst oder den Kauf nicht abschließen kannst, werden wir dich nach einer gewissen Zeit an die von dir in den Warenkorb gelegten Artikel per Email erinnern, so dass du den Vorgang gegebenenfalls zu einem späteren Zeitpunkt abschließen kannst, ohne dir alle Artikel im Webshop wieder zusammenstellen zu müssen. Zu diesem Zweck nutzen wir Cookies. Weitere Informationen über den Einsatz von Cookies erfährst du unter § 7 („Einsatz von Cookies“).
+
+
+B. Rechtsgrundlage
+Bei der Verarbeitung deiner personenbezogenen Daten (vgl. § 4 3. a.), die zur Erfüllung eines mit uns geschlossenen Kaufvertrags erforderlich sind, dient Art. 6 Abs. 1 lit. b DSGVO als Rechtsgrundlage. Dies gilt auch für Verarbeitungsvorgänge, die zur Durchführung vorvertraglicher Maßnahmen erforderlich sind.
+Rechtsgrundlage für den Versand der Benachrichtigungen für ähnliche Waren oder Dienstleistungen infolge des Erwerbs von Waren ist § 7 Abs. 3 UWG. Dem Versand der Benachrichtigungen kannst du jederzeit widersprechen, indem du den dafür vorgesehenen Abmeldelink am Ende des Newsletters betätigst.
+
+
+C. Speicherdauer
+Mit vollständiger Abwicklung des Vertrages und vollständiger Kaufpreiszahlung werden deine Daten für die weitere Verwendung gesperrt und nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen gelöscht, sofern du nicht ausdrücklich in die weitere Nutzung deiner Daten eingewilligt hast. Eine weitergehende Speicherung kann im Einzelfall dann erfolgen, wenn dies gesetzlich vorgeschrieben ist.
+
+3.2 Einsatz des 3D-Secure 2.0-Verfahrens im Rahmen der Kreditkartenzahlung
+
+A. Art und Umfang der Datenverarbeitung
+Sie haben im Rahmen des Warenkaufes die Möglichkeit, mit Ihrer Kreditkarte zu zahlen. Um mehr Sicherheit bei der Zahlungsabwicklung gewährleisten zu können, setzen wir das sogenannte 3D Secure 2.0-Verfahren ein. Bei jeder Transaktion werden damit Datenelemente an Ihr Kreditkarteninstitut gesendet, welches anhand dieser Daten eine Echtzeit Risikobewertung durchführen kann, um Sie als legitimer Inhaber der Kreditkarte identifizieren zu können. Zur Abwicklung der Kreditkartenzahlung setzen wir in diesem Zusammenhang den Dienstleister Computop ein, der von uns durch einen Auftragsverarbeitungsvertrag zu einem angemessenen Datenschutzniveau verpflichtet wurde. Ihre Daten werden lediglich an diesen Dienstleister übermittelt, eine Weitergabe an Dritte findet nicht statt.
+Folgende Daten werden von uns bei einer Kreditkartenzahlung erhoben:
+-	Kreditkartendaten
+-	Transaktionsbezogene Daten, wie die zur Zuordnung von Transaktionen und Händler benötigten Identifikationsnummern sowie die Kaufbetragshöhe und Währung
+-	Browserinformationen, die Aufschluss über das verwendete Endgerät und den Aufenthaltsort des Users geben. Diese umfassen unter anderem IP-Adresse, Bildschirmhöhe und -breite sowie die verwendete Browsersprache.
+-	Die vollständige Rechnungs- und Lieferadresse der Bestellung
+-	Kundenkonto-Daten, die im Rahmen eines bestehenden Kundenkontos erfasst wurden. Hierunter fallen u. a. Angaben zur Dauer des Bestehens des Kundenkontos, die Anzahl an durchgeführten Transaktionen innerhalb bestimmter Zeitintervalle und die Häufigkeit der Änderung von Passwörtern und Lieferadressen.
+-	Daten zu Lieferdetails, wie z. B. die gewählte Versandmethode, Verfügbarkeit der Ware, das Lieferzeitfenster, die E-Mail-Adresse im Fall eines Versands digitaler Güter oder das Datum der Erstverfügbarkeit für noch nicht veröffentlichte Produkte.
+Diese Daten werden von uns ausschließlich dazu erhoben, den Kreditkarteninstituten eine Echtzeit-Risikobewertung zu ermöglichen. Wird eine Transaktion hierbei als risikoarm eingestuft, kann sie direkt und ohne weitere Interaktion von Ihnen autorisiert werden. Besteht hingegen ein Betrugsverdacht, werden Sie durch eine zusätzliche Sicherheitsabfrage zur erneuten Bestätigung der Identität aufgefordert. Zweck dieser Datenverarbeitung ist zum einen, den Anforderungen an die Strong Customer Authentication (SCA) gerecht zu werden und damit einen besseren und gesetzlich geforderten Schutz vor Betrug zu gewährleisten sowie zum anderen den Kaufprozess zu vereinfachen.
+
+
+B. Rechtsgrundlage
+Rechtsgrundlage dieser Datenverarbeitung ist Art. 6 Abs. 1 lit. c) und f) DSGVO. Eine rechtliche Verpflichtung zur Datenverarbeitung ergibt sich hier aus der EU Richtlinie über Zahlungsdienste (Richtlinie (EU) 2015/2366), welche eine starke Kundenauthentifizierung erfordert. Eine Möglichkeit dieser Verpflichtung nachzukommen, ist der Einsatz des 3D Secure 2.0-Verfahrens. Darüber hinaus stützen wir uns auf unser „berechtigtes Interesse“ in Form eines wirtschaftlichen Interesses, welches in einer Absenkung der Kaufabbruchquote und der Vereinfachung des Bestellprozesses zu sehen ist. Durch die individuelle, datenbasierte Risikobewertung können Transaktionen in den meisten Fällen direkt und ohne weitere Käuferinteraktion freigegeben werden, wodurch sich eine Verbesserung des Nutzererlebnisses einstellt.
+
+
+C. Speicherdauer
+Mit vollständiger Abwicklung des Vertrages und vollständiger Kaufpreiszahlung werden deine Daten für die weitere Verwendung gesperrt und nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen gelöscht, sofern du nicht ausdrücklich in die weitere Nutzung deiner Daten eingewilligt hast. Eine weitergehende Speicherung kann im Einzelfall dann erfolgen, wenn dies gesetzlich vorgeschrieben ist.
+
+3.3 Finanzierungsdienstleister
+
+A. Art und Umfang der Datenverarbeitung
+Im Rahmen des Warenkaufes bieten wir dir die Möglichkeit, den Warenkauf über einen Zahlungsdienstleister abzuwickeln. Der von uns eingesetzte Zahlungsdienstleister ist die BNP Paribas (für Deutschland BNP Paribas S. A Niederlassung Deutschland, Schwanthalerstraße 31, 80336 München und für Österreich BNP Paribas Personal Finance / Consors Finanz, Ringstraßen-Galerien, Kärntner Ring 5-7, 4. Stock, 1010 Wien)
+Es werden unter anderem folgende Daten von dir erhoben:
+-	Vor- und Nachname
+-	Geburtsland, -ort, -datum
+-	Nationalität
+-	Anschrift
+-	Telefonnummer
+-	E-Mail-Adresse
+-	Haushaltsdaten wie z.B. Einkommen
+Diese Daten werden von uns ausschließlich zur Abwicklung des Vertragsverhältnisses erhoben und zur Abwicklung von Zahlungen an den Zahlungsdienstleister weitergegeben. Der Zahlungsdienstleister darf deine Daten nur zur Auftragsabwicklung und nicht zu weiteren Zwecken nutzen.
+
+
+B. Rechtsgrundlage
+Die Verarbeitung der dargelegten personenbezogenen Daten (vgl. § 4 3.3. a.) wird auf die Rechtsgrundlage des Art. 6 Abs. 1 lit. b DSGVO gestützt, da diese Verarbeitung zur Abwicklung des Vertrages erforderlich ist.
+
+
+C. Speicherdauer
+Mit vollständiger Abwicklung des Vertrages und vollständiger Kaufpreiszahlung werden deine Daten für die weitere Verwendung gesperrt und nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen gelöscht, sofern du nicht ausdrücklich in die weitere Nutzung deiner Daten eingewilligt hast. Eine weitergehende Speicherung kann im Einzelfall dann erfolgen, wenn dies gesetzlich vorgeschrieben ist.
+
+4. Newsletter
+
+A. Art und Umfang der Datenverarbeitung
+Auf unserer Webseite besteht die Möglichkeit, einen kostenfreien Newsletter zu abonnieren. Um dir regelmäßig den Newsletter zusenden zu können, benötigen wir von dir die folgenden Angaben:
+- Name
+- E-Mail-Adresse
+Folgender Übersicht kannst du entnehmen, welche zusätzlichen Angaben wir verarbeiten, bezüglich derer du freiwillig entscheiden kannst, ob du diese während der Newsletteranmeldung mit uns teilen möchtest. Diese Angaben helfen uns unser Newsletterangebot zu optimieren und spezifische Informationen mit unseren Newsletterabonennten zu teilen.
+- Anrede
+- Name
+- Geburtsdatum
+- Fahrradkategorie von Interesse
+- Newskategorie von Interesse
+Im Zusammenhang mit dem Newsletterversand erfolgt keine Weitergabe deiner Daten an Dritte.
+Für den Newsletterversand verwenden wir das sog. Double Opt-In-Verfahren, d.h. wir werden dir erst dann den Newsletter zusenden, wenn du zuvor deine Anmeldung über eine dir zu diesem Zweck zugesandte Bestätigungs-E-Mail per darin enthaltenem Link bestätigst. Damit möchten wir sicherstellen, dass nur du selbst dich als Inhaber der angegebenen E-Mail-Adresse zum Newsletter anmelden kannst. Deine diesbezügliche Bestätigung muss zeitnah nach Erhalt der Bestätigungs-E-Mail erfolgen, da andernfalls deine Newsletter-Anmeldung automatisch aus unserer Datenbank gelöscht wird.
+
+
+B. Rechtsgrundlage
+Die Verarbeitung deiner E-Mail-Adresse, Anrede, deines Geburtsdatums, der für dich interessanten Fahrrad- und Newskategorie für den Newsletterversand beruht nach Art. 6 Abs. 1 lit. a DSGVO auf der von dir im Rahmen eines Double-Opt-Ins abgegebenen Einwilligungserklärung.
+
+
+C. Speicherdauer
+Deine E-Mail-Adresse wird solange gespeichert, wie du den Newsletter abonniert hast. Nach deiner Abmeldung vom Newsletterversand wird deine E-Mail-Adresse gelöscht. Eine weitergehende Speicherung kann im Einzelfall dann erfolgen, wenn dies gesetzlich vorgeschrieben ist.
+
+5. Kontaktformular, auch für Garantie-, Crash-Replacement-, Rückgabe- und Reparaturanfragen, Chat und im Rahmen unseres Karrierebereichs
+
+A. Art und Umfang der Datenverarbeitung
+Auf unserer Webseite bieten wir dir an, über bereitgestellte Formulare und Chatmodule mit uns in Kontakt zu treten. Im Rahmen des Absendevorgangs deiner Anfrage über das Kontakt- oder Pre-Chat-Formular wird zur Einholung deiner Einwilligung auf diese Datenschutzerklärung verwiesen. Wenn du von den Kontaktformularen oder dem Chatmodul Gebrauch machst, werden darüber die folgenden personenbezogenen Daten von dir verarbeitet:
+- Anrede
+- Name
+- E-Mail-Adresse
+- Telefonnummer
+- das Aufenthaltsland
+- deine Kundennummer (bei Rückgabe, Reparatur- oder CRP-Anfragen)
+- deine Auftragsnummer (bei Rückgabe, Reparatur- oder CRP-Anfragen)
+- Modellbezeichnung deines Rades (bei Rückgabe, Reparatur- oder CRP-Anfragen)
+- deine Anschrift (bei Reparatur- oder CRP-Anfragen)
+- Bilder und Details zur Problembeschreibung (bei Reparatur- oder CRP-Anfragen)
+Die Angabe deiner E-Mail-Adresse und des Aufenthaltslandes dient dabei dem Zweck, deine Anfrage zuzuordnen und dir antworten zu können. Die Angabe der weiteren oben genannten Daten dient dem Zweck der Vorbereitung der Abwicklung deiner Anfrage und entsprechender Serviceleistungen. Bei der Nutzung des Kontaktformulars erfolgt keine Weitergabe deiner personenbezogenen Daten an Dritte.
+
+
+B. Rechtsgrundlage
+Die vorgehend (vgl. § 4 5. a.) beschriebene Datenverarbeitung zum Zweck der Kontaktaufnahme erfolgt nach Art. 6 Abs. 1 lit. b, lit. f DSGVO.
+
+
+C. Speicherdauer
+Sobald die von dir gestellte Anfrage erledigt ist und der betreffende Sachverhalt abschließend geklärt ist, werden die über das Kontaktformular verarbeiteten personenbezogenen Daten von dir gelöscht. Eine weitergehende Speicherung kann im Einzelfall dann erfolgen, wenn dies gesetzlich vorgeschrieben ist.
+
+6. Canyon Karriere-Bereich
+
+A. Art und Umfang der Datenverarbeitung
+Auf unserer Website bieten wir dir die Möglichkeit dich online auf von uns ausgeschriebene Stellen zu bewerben und dadurch Teil der Canyon-Familie zu werden. Wenn du dich online bewirbst, dann werden folgende Daten von dir erhoben und im Rahmen des Bewerbungsprozesses verarbeitet:
+- deine Karrierestufe
+- dein Name
+- deine E-Mail-Adresse
+- deine Telefonnummer
+- deine Anschrift
+- deine zeitliche Erreichbarkeit
+- deine Bewerbungsunterlagen (bestehend aus Bewerbungsschreiben, Lebenslauf, Zeugnisse, Zertifikate u.ä.)
+- gegebenenfalls Links zu deinen Onlineprofilen bei XING und LinkedIn
+- dein mögliches Eintrittsdatum
+- deine Gehaltsvorstellung
+- und gegebenenfalls weitere Anmerkungen von dir im Rahmen des Bewerbungsprozesses
+Die online eingegebenen Daten werden ausschließlich zweckgebunden für die Besetzung von Stellen der Canyon Bicycles GmbH erhoben und verarbeitet. Ausschließlich die innerbetrieblich für das Bewerbungsverfahren zuständigen Fachabteilungen und Positionen erhalten Zugriff auf deine Daten. Eine darüberhinausgehende Nutzung oder Weitergabe deiner Bewerbungsdaten an Dritte erfolgt nicht.
+
+
+B. Rechtsgrundlage
+Die Rechtsgrundlage für die Verarbeitung deiner personenbezogenen Daten im Kontext der Bewerbung ist Art. 6 Abs. 1 lit. a DSGVO.
+
+
+C. Speicherdauer
+Deine Bewerbungsdaten werden grundsätzlich 6 Monate nach Abschluss des Bewerbungsverfahrens automatisch gelöscht. Dies gilt nicht, sofern gesetzliche Bestimmungen einer Löschung entgegenstehen oder die weitere Speicherung zum Zwecke der Beweisführung erforderlich ist. Dies kann beispielsweise auch dann sinnvoll sein, wenn wir aktuell keine zu besetzende Stelle anbieten können, dein Profil aber eventuell für zukünftige Stellenangebote interessant sein könnte. Insbesondere bei Initiativbewerbungen kommt dieses Vorgehen zum Einsatz, sofern du einer solchen Speicherung und Nutzung ausdrücklich zugestimmt hast. Diese Zustimmung kannst du jederzeit durch eine Nachricht über das Kontaktformular des Karrierebereichs widerrufen.
+Aus technischer und organisatorischer Sicht haben wir diverse Vorkehrungen getroffen, um deine Daten zu schützen. Die Übertragung deiner Online-Bewerbung erfolgt verschlüsselt. Die Speicherung deiner Daten erfolgt auf einer von allen übrigen Systemen getrennten Datenbank, zu der nur die dafür zuständigen Personen im Personalteam Zugriff haben.
+
+7. Sendungsverfolgung
+
+A. Art und Umfang der Datenverarbeitung
+Auf unserer Webseite besteht die Möglichkeit, eine Bestellung per Tracking zu verfolgen. Zur Datenbankabfrage benötigen wir von dir die folgenden Angaben:
+- E-Mail-Adresse
+- Auftragsnummer
+Bei der Durchführung der Sendungsverfolgung erfolgt keine Weitergabe deiner Daten an Dritte.
+
+
+B. Rechtsgrundlage
+Die vorgehend (vgl. § 4 6. a.) beschriebene Datenverarbeitung zum Zweck des Trackings deiner Bestellung erfolgt nach Art. 6 Abs. 1 lit. b DSGVO.
+
+
+C. Speicherdauer
+Mit vollständiger Abwicklung des Vertrages und vollständiger Kaufpreiszahlung werden deine Daten für die weitere Verwendung gesperrt und nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen gelöscht, sofern du nicht ausdrücklich in die weitere Nutzung deiner Daten eingewilligt hast. Eine weitergehende Speicherung kann im Einzelfall dann erfolgen, wenn dies gesetzlich vorgeschrieben ist.
+
+
+§ 5 Weitergabe von Daten an Dritte
+
+
+Wir geben deine persönlichen Daten nur an Dritte weiter, wenn:
+- du hierzu deine ausdrückliche Einwilligung nach Art. 6 Abs. 1 S. 1 lit. a DSGVO erteilt hast
+- dies gesetzlich zulässig und nach Art. 6 Abs. 1 S. 1 lit. b DSGVO zur Erfüllung eines Vertragsverhältnisses mit dir erforderlich ist
+- wenn nach Art. 6 Abs. 1 S. 1 lit. c DSGVO für die Weitergabe eine gesetzliche Verpflichtung besteht
+- Die Weitergabe nach Art. 6 Abs. 1 S. 1 lit. f DSGVO zur Wahrung berechtigter Unternehmensinteressen sowie zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist und kein Grund zur Annahme besteht, dass du ein überwiegendes schutzwürdiges Interesse an der Nichtweitergabe deiner Daten hast.
+
+
+§ 6 Weitergabe der Daten an externe Dienstleister
+
+
+Wir setzen zur Erbringung von Leistungen und zur Verarbeitung deiner Daten rund um unsere Dienstleistungen und Produkte Dienstleister ein. Die Dienstleister verarbeiten die Daten ausschließlich im Rahmen unserer Weisung und sind zur Einhaltung der geltenden Datenschutzbestimmungen verpflichtet worden. Sämtliche Auftragsverarbeiter wurden sorgfältig ausgewählt und erhalten nur in dem Umfang und für den benötigten Zeitraum Zugang zu deinen Daten, der für die Erbringung der Leistungen erforderlich ist bzw. in dem Umfang, indem du in die Datenverarbeitung und -nutzung eingewilligt hast. Dienstleister in Ländern wie der USA oder in den Ländern außerhalb des Europäischen Wirtschaftsraums unterliegen einem Datenschutz, der allgemein personenbezogene Daten nicht in demselben Maße schützt, wie es in den Mitgliedsstaaten der Europäischen Union der Fall ist. Soweit deine Daten in einem Land verarbeitet werden, welches nicht über ein anerkannt hohes Datenschutzniveau wie die Europäische Union verfügt, stellen wir über vertragliche Regelungen oder andere anerkannte Instrumente sicher, dass deine personenbezogenen Daten angemessen geschützt werden. Zu den Empfängern dieser Daten können z.B. Zahlungsinstitute im Rahmen von Zahlungsvorgängen, mit IT-Aufgaben beauftragte Dienstleister oder Anbieter von Diensten und Inhalten, die in eine Webseite eingebunden werden, gehören.
+
+
+§ 7 Einsatz von Cookies
+
+
+A. Art und Umfang der Datenverarbeitung
+Wir setzten auf unserer Webseite Cookies ein. Cookies sind kleine Dateien, die im Rahmen deines Besuchs unserer Internetseiten von uns an den Browser deines Endgeräts gesendet und dort gespeichert werden. Einige Funktionen unserer Internetseite können ohne den Einsatz von technisch notwendigen Cookies nicht angeboten werden. Andere Cookies ermöglichen uns hingegen verschiedene Analysen. Cookies sind beispielsweise in der Lage, den von dir verwendeten Browser bei einem erneuten Besuch unserer Webseite wiederzuerkennen und verschiedene Informationen an uns zu übermitteln. Mithilfe von Cookies können wir unter anderem unser Internetangebot für dich nutzerfreundlicher und effektiver gestalten, indem wir etwa deine Nutzung unserer Webseite nachvollziehen und deine bevorzugten Einstellungen (bspw. Länder- und Spracheneinstellungen) feststellen. Sofern Dritte über Cookies Informationen verarbeiten, erheben diese die Informationen direkt über deinen Browser. Cookies richten auf deinem Endgerät keinen Schaden an. Sie können keine Programme ausführen und keine Viren enthalten.
+Auf unserer Webseite werden zum einen Transient-Cookies verwendet, die automatisch gelöscht werden, sobald du deinen Browser schließt. Diese Art von Cookies ermöglicht es, deine Session-ID zu erfassen. Dadurch lassen sich verschiedene Anfragen deines Browsers einer gemeinsamen Sitzung zuordnen und es ist uns möglich, dein Endgerät bei späteren Webseitenbesuchen wiederzuerkennen. Die Session-Cookies werden gelöscht, wenn du dich ausloggst oder den
+Browser schließt.
+Zudem werden auf unserer Website Persistent-Cookies eingesetzt. Persistent-Cookies sind Cookies, die über einen längeren Zeitraum in deinem Browser gespeichert werden und Informationen an uns übermitteln. Die jeweilige Speicherdauer unterscheidet sich je nach Cookie. Du kannst Persistent-Cookies eigenständig über deine Browsereinstellungen löschen.
+
+
+B. Rechtsgrundlage
+Die Rechtsgrundlage für die Verarbeitung von sogenannten technisch notwendigen Cookies ist unser berechtigtes Interesse an der Verarbeitung personenbezogener Daten nach Art. 6 Abs. 1 lit. f DSGVO. Die personenbezogenen Daten werden gelöscht, wenn Sie für diesen Zweck nicht mehr notwendig sind, insbesondere bei Deaktivierung der Cookies. Für technisch nicht notwendige Cookies bzw. sogenannte Drittanbieter-Cookies benötigen wir Ihre Einwilligung. Falls Sie uns auf Grundlage eines von uns auf der Webseite erteilten Hinweises („Cookie-Banner“) Ihre Einwilligung zur Verwendung von Cookies erteilt haben, richtet sich die Rechtmäßigkeit der Verwendung zusätzlich nach Art. 6 Abs. 1 S. 1 lit. a DSGVO. Sobald die über die Cookies an uns übermittelten Daten für die Erreichung der oben beschriebenen Zwecke nicht mehr erforderlich sind, werden diese Informationen gelöscht. Eine weitergehende Speicherung kann im Einzelfall dann erfolgen, wenn dies gesetzlich vorgeschrieben ist.
+
+
+C. Konfiguration der Browsereinstellungen
+Die meisten Browser sind so voreingestellt, dass sie Cookies standardmäßig akzeptieren. Du kannst deinen jeweiligen Browser jedoch so konfigurieren, dass er nur noch bestimmte oder auch gar keine Cookies mehr akzeptiert. Wir weisen dich jedoch darauf hin, dass du möglicherweise nicht mehr alle Funktionen unserer Webseite nutzen kannst, wenn Cookies durch deine Browsereinstellungen auf unserer Webseite deaktiviert werden. Über deine Browsereinstellungen kannst du bereits in deinem Browser gespeicherte Cookies auch löschen. Weiterhin ist es auch möglich, deinen Browser so einzustellen, dass er dich benachrichtigt, bevor Cookies gespeichert werden. Da sich die verschiedenen Browser in ihren jeweiligen Funktionsweisen unterscheiden können, bitten wir dich, dass jeweilige Hilfe-Menü deines Browsers für die Konfigurationsmöglichkeiten in Anspruch zu nehmen. Falls du eine umfassende Übersicht aller Zugriffe Dritter auf deinen Internetbrowser wünschst, empfehlen wir dir die Installation hierzu speziell entwickelter Plug-Ins.
+
+
+§ 8 Tracking- und Analysetools (Performance-Cookies)
+
+
+Wir nutzen Tracking- und Analysetools um eine fortlaufende Optimierung und bedarfsgerechte Gestaltung unserer Webseite sicherzustellen. Mit Hilfe von Tracking-Maßnahmen ist es uns auch möglich, die Nutzung unserer Webseite durch Besucher statistisch zu erfassen und unser Onlineangebot mit Hilfe der dadurch gewonnenen Erkenntnisse für dich weiterzuentwickeln. Falls Sie uns auf Grundlage eines von uns auf der Webseite erteilten Hinweises („Cookie-Banner“) Ihre Einwilligung zur Verwendung von Performance-Cookies erteilt haben, richtet sich die Rechtmäßigkeit der Verwendung zusätzlich nach Art. 6 Abs. 1 S. 1 lit. a DSGVO. Sobald die über die Cookies an uns übermittelten Daten für die Erreichung der oben beschriebenen Zwecke nicht mehr erforderlich sind, werden diese Informationen gelöscht. Eine weitergehende Speicherung kann im Einzelfall dann erfolgen, wenn dies gesetzlich vorgeschrieben ist.
+
+1. Google Analytics 360
+
+Auf dieser Webseite wird Google Analytics, ein Webanalysedienst der Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA („Google“), genutzt. Google Analytics verwendet sogenannte „Cookies“, Textdateien, die auf deinem Computer gespeichert werden und die eine Analyse der Benutzung der Webseite durch dich ermöglichen.
+Die durch diese Cookies erzeugten Informationen, beispielsweise über Zeit, Ort und Häufigkeit deiner Benutzung dieser Webseite, werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Bei der Verwendung von Google Analytics ist es nicht ausgeschlossen, dass die von Google Analytics gesetzten Cookies neben der IP-Adresse auch weitere personenbezogene Daten erfassen können. Wir weisen dich darauf hin, dass Google diese Informationen gegebenenfalls an Dritte übertragen wird, sofern dies gesetzlich vorgeschrieben ist oder soweit Dritte diese Daten im Auftrag von Google verarbeiten.
+Die durch Cookies erzeugten Informationen wird Google im Auftrag des Betreibers dieser Webseite benutzen, um deine Nutzung der Webseite auszuwerten, um Reports über die Webseitenaktivitäten zusammenzustellen und weitere mit der Webseitenbenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Webseitenbetreiber zu erbringen. Die im Rahmen von Google Analytics von deinem Browser übermittelte IP-Adresse wird von Google, nach eigenen
+Angaben, nicht mit anderen Daten von Google zusammengeführt.
+Du kannst eine Speicherung von Cookies generell durch eine entsprechende Einstellung deiner Browser-Software verhindern; wir weisen dich jedoch darauf hin, dass du in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Webseite vollumfänglich nutzen kannst.
+Es nicht ausgeschlossen, dass die von Google Analytics gesetzten Cookies neben der IP-Adresse weitere personenbezogene Daten erfassen können. Um zu verhindern, dass Informationen zu deiner Nutzung der Webseite durch Google Analytics erfasst und an Google Analytics übertragen werden, kannst du unter folgendem Link ein Plug-In für deinen Browser herunterladen und installieren: http://tools.google.com/dlpage/gaoptout?hl=de.
+Dieses Plug-In verhindert, dass Informationen zu deinem Besuch der Webseite an Google Analytics übermittelt werden. Eine anderweitige Analyse wird durch dieses Plug-In nicht unterbunden.
+Wir weisen dich darauf hin, dass du das oben beschriebene Browser-Plug-In bei einem Besuch unserer Webseite über den Browser eines mobilen Endgeräts (Smartphone oder Tablet) nicht benutzen kannst. Bei der Nutzung eines mobilen Endgeräts kannst du die Erfassung deiner Nutzungsdaten durch Google Analytics durch das Anklicken des folgenden Links verhindern: Google Analytics deaktivieren
+Durch das Anklicken dieses Links wird ein sogenanntes Opt-out Cookie in deinem Browser gesetzt. Dieses verhindert, dass Informationen zu deinem Besuch der Webseite an Google Analytics übermittelt werden. Bitte beachte, dass das Opt-out Cookie nur für diesen Browser und nur für diese Domain gültig ist. Wenn du die Cookies in diesem Browser löschst, wird auch das Opt-out Cookie gelöscht. Um die Erfassung durch Google Analytics weiterhin zu verhindern, musst du den Link erneut anklicken. Die Nutzung des Opt-out Cookies ist auch als Alternative zu obigem Plug-In bei der Nutzung des Browsers auf deinem Computer möglich.
+Um einen bestmöglichen Schutz deiner personenbezogenen Daten zu gewährleisten, wurde Google Analytics auf dieser Webseite um den Code „anonymizeIP“ erweitert. Dieser Code bewirkt, dass die letzten 8 Bit der IP-Adressen gelöscht werden und deine IP-Adresse somit anonymisiert erfasst wird (sog. IP-Masking). Deine IP-Adresse wird dabei von Google grundsätzlich schon vor der Übertragung innerhalb von Mitgliedsstaaten der europäischen Union oder in anderen Vertragsstaaten des Abkommens über den europäischen Wirtschaftsraum gekürzt und dadurch anonymisiert. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt.
+
+2. Google Ads
+
+Wir nutzen die Technologie „Google Ads“ und dabei speziell das Conversion-Tracking. Google Conversion Tracking ist ein Analysedienst der Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA („Google“). Klickst du auf eine von Google geschaltete Anzeige, wird auf deinem PC ein Cookie für das Conversion-Tracking abgelegt. Die Cookies haben eine Gültigkeit von 30 Tagen und dienen nicht der persönlichen Identifizierung. Besuchst du bestimmte Seiten unserer Website, wenn das Cookie noch nicht abgelaufen ist, können Google und wir erkennen, dass du auf eine bestimmte Anzeige geklickt hast und zu dieser Seite weitergeleitet wurdest. Google Ads-Kunden erhalten jeweils ein anderes Cookie. So besteht nicht die Möglichkeit, Cookies über die Websites von Google Ads-Kunden nachzuverfolgen.
+Die mit Hilfe des Conversion-Cookies eingeholten Daten dienen dazu, Conversion-Statistiken für Google Ads-Kunden zu erstellen, die das Conversion-Tracking nutzen. Die Kunden erfahren dabei die Anzahl der Nutzer, die auf ihre Anzeige geklickt haben und daraufhin zu einer mit einem Conversion-Tracking-Tag versehenen Seite weitergeleitet wurden. Allerdings erhalten sie keine Informationen, mit denen sich die Nutzer persönlich identifizieren lassen.
+Wenn du am Conversion-Tracking nicht teilnehmen möchtest, kannst du dies durch eine entsprechende Einstellung in deinem Browser verhindern, z.B. in der Form, dass eine Installation der Cookies generell verhindert wird. Du kannst Cookies für das Conversion-Tracking auch deaktivieren, indem du deinen Browser so einstellst, dass nur Cookies von der Webadresse „googleadservices.com“ blockiert werden.
+
+3. Google Remarketing und „Ähnliche Zielgruppen“
+
+Wir nutzen die Technologie „Google Remarketing“ und „Ähnliche Zielgruppen“-Funktion der Firma Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA („Google“). Mit Google Remarketing und der „Ähnliche Zielgruppen“-Funktion werden Anzeigen für Nutzer geschaltet, die unsere Webseiten und Onlinedienste bereits besucht und sich für ein bestimmtes Angebot interessiert haben. Innerhalb des Google-Werbenetzwerks können hierdurch zielgerichtete und interessenbasierte Werbeanzeigen auf unserer Seite geschaltet werden. Google-Remarketing bzw. „Ähnliche Zielgruppen“ verwendet für diese Analyse Cookies. Hierdurch können unsere Besucher wiedererkannt werden, sobald sie Webseiten innerhalb des Werbenetzwerks von Google aufrufen. Innerhalb des Werbenetzwerks von Google können so zielgerichtet und interessenbasiert Werbeanzeigen geschaltet werden, die auf den vom Besucher zuvor besuchten Webseiten des Werbenetzwerks von Google (die ebenfalls die Remarketing Funktion von Google verwenden) basieren.
+Wenn du keine zielgerichtete, interessenbasierte Werbung angezeigt bekommen möchtest, kannst du die Verwendung von Cookies durch Google für diese Zwecke über den Link https://www.google.de/settings/ads deaktivieren.
+
+4. Hotjar
+
+Wir nutzen Hotjar um die Bedürfnisse unserer Nutzer besser zu verstehen und das Angebot auf dieser Webseite zu optimieren. Mithilfe der Technologie von Hotjar bekommen wir ein besseres Verständnis von den Erfahrungen unserer Nutzer (z. B. wieviel Zeit Nutzer auf welchen Seiten verbringen, welche Links sie anklicken, was sie mögen und was nicht etc.) und das hilft uns, unser Angebot am Feedback unserer Nutzer auszurichten. Hotjar arbeitet mit Cookies und anderen Technologien, um Informationen über das Verhalten unserer Nutzer und über ihre Endgeräte zu sammeln (insbesondere IP Adresse des Geräts (wird nur in anonymisierter Form erfasst und gespeichert), Bildschirmgröße, Gerätetyp (Unique Device Identifiers), Informationen über den verwendeten Browser, Standort (nur Land), zum Anzeigen unserer Webseite bevorzugte Sprache). Hotjar speichert diese Informationen in einem pseudonymisierten Nutzerprofil. Die Informationen werden weder von Hotjar noch von uns zur Identifizierung einzelner Nutzer verwendet oder mit weiteren Daten über einzelne Nutzer zusammengeführt. Weitere Informationen findest du in Hotjars Datenschutzerklärung .
+
+5. Facebook Custom Audiences
+
+Innerhalb unseres Internetauftritts setzen wir den „Facebook-Pixel“ der, Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Irland („Facebook“) ein. So kann das Verhalten von Nutzern nachverfolgt werden, nachdem diese eine Facebook-Werbeanzeige gesehen oder angeklickt haben. Dieses Verfahren dient dazu, die Wirksamkeit der Facebook-Werbeanzeigen für statistische und Marktforschungszwecke auszuwerten und kann dazu beitragen, Werbemaßnahmen zu optimieren.
+Die erhobenen Daten sind für uns anonym, bieten uns also keine Rückschlüsse auf die Identität der Nutzer. Allerdings werden die Daten von Facebook gespeichert und verarbeitet, sodass eine Verbindung zum jeweiligen Nutzerprofil möglich ist und Facebook die Daten für eigene Werbezwecke, entsprechend der Facebook-Datenverwendungsrichtlinie verwenden kann. Sie können Facebook sowie dessen Partnern das Schalten von Werbeanzeigen auf und außerhalb von Facebook ermöglichen. Es kann ferner zu diesen Zwecken ein Cookie auf deinem Rechner gespeichert werden. Um der Verwendung von Cookies auf deinem Computer generell zu widersprechen, kannst du deinen Internetbrowser so einstellen, dass zukünftig keine Cookies mehr auf deinem Computer abgelegt werden können bzw. bereits abgelegte Cookies gelöscht werden. Das Abschalten sämtlicher Cookies kann jedoch dazu führen, dass einige Funktionen auf unseren Internetseiten nicht mehr ausgeführt werden können.
+In der vorgenannten Datenverarbeitung und dem damit von uns verfolgten Zweck liegt unser berechtigtes Interesse. Hierfür bildet Art. 6 Abs. 1 lit. f DSGVO die Rechtsgrundlage.
+In den Datenschutzhinweisen von Facebook findest du weitere Hinweise zum Schutz deiner Privatsphäre: https://www.facebook.com/about/privacy/
+Du kannst außerdem die Remarketing-Funktion “Custom Audiences” im Bereich Einstellungen für Werbeanzeigen unter https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen deaktivieren. Dazu musst du bei Facebook angemeldet sein.
+Wenn du kein Facebook Konto besitzt, kannst du nutzungsbasierte Werbung von Facebook auf der Website der European Interactive Digital Advertising Alliance deaktivieren: http://www.youronlinechoices.com/de/praferenzmanagement/
+
+
+§ 9 Buttons und Plug-Ins
+
+1. Facebook, Google+, Twitter, Instagram, Xing, LinkedIn, Kununu und Watchado
+
+Auf unserer Website sind Buttons von sozialen Netzwerken integriert. Diese Buttons erkennst du an dem jeweiligen Logo auf dieser Website. Wenn du unsere Website besuchst, werden über die Buttons eine direkte Verbindung (Verlinkung) zwischen deinem Browser und dem jeweiligen Server des Anbieters hergestellt. Das soziale Netzwerk erhält dadurch die Information, dass du mit deiner IP-Adresse diese Website besucht hast. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch das soziale Netzwerk erhalten. Sofern du währen des Besuchs auf einer solchen Website mit deinem persönlichen Benutzerkonto des jeweiligen Netzwerkes eingeloggt bist, so kann dieses Netzwerk den Besuch diesem Konto zuordnen. Details zur Datenerhebung (Zweck, Umfang, weitere Verarbeitung, Nutzung) sowie zu deinen Rechten und Einstellungsmöglichkeiten kannst du den Datenschutzhinweisen der sozialen Netzwerke entnehmen.
+a) Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Irland 
+
+
+b) Google Ireland Limited, Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Irland 
+
+c) Twitter Inc., 1355 Market St, Suite 900, San Francisco, California 94103, USA
+
+d) Instagram LLC, 1601 Willow Road, Menlo Park, California 94025, USA
+
+e) LinkedIn Corporation, 2029 Stierlin Court, Mountain View, CA 94043, USA
+
+f) XING SE, Dammtorstraße 30, 20354 Hamburg Germany
+
+
+g) Kununu GmbH Neutorgasse 4-8, Top 3.02, 1010 Wien, AT
+
+h) Watchado GmbH, Möllwaldplatz 4/39, 1040 Wien, AT
+
+
+2. YouTube
+
+Auf unserer Website nutzen wir für die Einbindung von Videos u.a. den Anbieter YouTube, Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland („YouTube“).
+Auf einigen unserer Internetseiten verwenden wir Plug-Ins des Anbieters YouTube. Wenn du die mit einem solchen Plug-In versehenen Internetseiten unserer Internetpräsenz aufrufst, wird eine Verbindung zu den YouTube-Servern hergestellt und dabei das Plug-In dargestellt. Hierdurch wird an den YouTube-Server übermittelt, welche unserer Internetseiten du besucht hast. Bist du dabei als Mitglied bei YouTube eingeloggt, ordnet YouTube diese Information deinem persönlichen Benutzerkonto zu. Bei Nutzung des Plug-Ins wie z.B. Anklicken des Start-Buttons eines Videos wird diese Information ebenfalls deinem Benutzerkonto zugeordnet. Du kannst diese Zuordnung verhindern, indem du dich vor der Nutzung unserer Internetseite aus deinem YouTube-Benutzerkonto sowie anderen Benutzerkonten der Firmen YouTube LLC und Google Inc. abmeldest und die entsprechenden Cookies der Firmen löschst.
+Weitere Informationen zur Datenverarbeitung und Hinweise zum Datenschutz durch YouTube (Google) findest du unter 
+
+3. Vimeo
+
+Auf unserer Website nutzen wir für die Einbindung von Videos u.a. den Anbieter Vimeo. Vimeo wird betrieben von Vimeo Inc. mit Hauptgeschäftssitz in 555 West 18th Street New York, New York 10011, USA.
+Wenn du Internetseiten unserer Internetpräsenz aufrufst die eine solche Einbindung enthalten, wird eine Verbindung zu den Vimeo Servern hergestellt und dabei das Video dargestellt. Hierdurch wird an den Vimeo Server übermittelt, welche unserer Internetseiten du besucht hast. Bist du dabei als Mitglied bei Vimeo eingeloggt, kann Vimeo diese Information deinem persönlichen Benutzerkonto zuordnen. Weitere Interaktionen, wie z.B. das Anklicken des Start-Buttons eines Videos, werden ebenfalls deinem Benutzerkonto zugeordnet. Du kannst diese Zuordnung verhindern, indem du dich vor der Nutzung unserer Internetseite aus deinem Vimeo Benutzerkonto abmeldest und die entsprechenden Cookies der Firmen löschst.
+Weitere Informationen zur Datenverarbeitung und Hinweise zum Datenschutz durch Vimeo findest du unter .
+
+
+§ 10 Hyperlinks
+
+
+Auf unserer Webseite befinden sich sog. Hyperlinks zu Webseiten anderer Anbieter. Bei Aktivierung dieser Hyperlinks wirst du von unserer Webseite direkt auf die Webseite der anderen Anbieter weitergeleitet. Du erkennst dies u. a. am Wechsel der URL. Wir können keine Verantwortung für den vertraulichen Umgang deiner Daten auf diesen Webseiten Dritter übernehmen, da wir keinen Einfluss darauf haben, dass diese Unternehmen die Datenschutzbestimmungen einhalten. Über den Umgang mit deinen personenbezogenen Daten durch diese Unternehmen informiere dich bitte direkt auf diesen Webseiten.
+
+
+§ 11 Betroffenenrechte
+
+
+Aus der DSGVO ergeben sich für dich als Betroffener einer Verarbeitung personenbezogener Daten die folgenden Rechte:
+- Gemäß Art. 15 DSGVO kannst du Auskunft über deine von uns verarbeiteten personenbezogenen Daten verlangen. Du kannst insbesondere Auskunft über die Verarbeitungszwecke, die Kategorien der personenbezogenen Daten, die Kategorien von Empfängern, gegenüber denen deine Daten offengelegt wurden oder werden, die geplante Speicherdauer, das Bestehen eines Rechts auf Berichtigung, Löschung, Einschränkung der Verarbeitung oder Widerspruch, das Bestehen eines Beschwerderechts, die Herkunft deiner Daten, sofern diese nicht bei uns erhoben wurden, über eine Übermittlung in Drittländer oder an internationale Organisationen sowie über das Bestehen einer automatisierten Entscheidungsfindung einschließlich Profiling und ggf. aussagekräftigen Informationen zu deren Einzelheiten verlangen.
+- Gemäß Art. 16 DSGVO kannst du unverzüglich die Berichtigung unrichtiger oder die Vervollständigung deiner bei uns gespeicherten personenbezogenen Daten verlangen.
+- Gemäß Art. 17 DSGVO kannst du die Löschung deiner bei uns gespeicherten personenbezogenen Daten verlangen, soweit die Verarbeitung nicht zur Ausübung des Rechts auf freie Meinungsäußerung und Information, zur Erfüllung einer rechtlichen Verpflichtung, aus Gründen des öffentlichen Interesses oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist.
+- Gemäß Art. 18 DSGVO kannst du die Einschränkung der Verarbeitung deiner personenbezogenen Daten verlangen, soweit die Richtigkeit der Daten von dir bestritten wird, die Verarbeitung unrechtmäßig ist, wir die Daten nicht mehr benötigen und du deren Löschung ablehnst, weil du diese zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigst. Das Recht aus Art. 18 DSGVO steht dir auch zu, wenn du gemäß Art. 21 DSGVO Widerspruch gegen die Verarbeitung eingelegt hast.
+- Gemäß Art. 20 DSGVO kannst du verlangen, deine personenbezogenen Daten, die du uns bereitgestellt hast, in einem strukturierten, gängigen und maschinenlesebaren Format zu erhalten oder du kannst die Übermittlung an einen anderen Verantwortlichen verlangen.
+- Gemäß Art. 7 Abs. 3 DSGVO kannst du deine einmal erteilte Einwilligung jederzeit gegenüber uns widerrufen. Dies hat zur Folge, dass wir die auf dieser Einwilligung beruhende Datenverarbeitung für die Zukunft nicht mehr fortführen dürfen.
+- Gemäß Art. 77 DSGVO steht dir das Recht zu, sich bei einer Aufsichtsbehörde zu beschweren. In der Regel kannst du dich hierfür an die Aufsichtsbehörde deines üblichen Aufenthaltsortes, deines Arbeitsplatzes oder unseres Unternehmenssitzes wenden.
+
+
+§ 12 Widerspruchsrecht
+
+
+Bei der Verarbeitung deiner personenbezogenen Daten auf Grundlage von berechtigten Interessen gemäß Art. 6 Abs. 1 S. 1 lit. f DSGVO, hast du das Recht, gemäß Art. 21 DSGVO Widerspruch gegen die Verarbeitung deiner personenbezogenen Daten einzulegen, soweit dafür Gründe vorliegen, die sich aus deiner besonderen Situation ergeben oder sich der Widerspruch gegen Direktwerbung richtet. Im Fall der Direktwerbung besteht für dich ein generelles Widerspruchsrecht, das von uns ohne Angabe einer besonderen Situation umgesetzt wird.
+
+
+§ 13 Datensicherheit und Sicherungsmaßnahmen
+
+
+Wir verpflichten uns, deine Privatsphäre zu schützen und deine personenbezogenen Daten vertraulich zu behandeln. Um eine Manipulation oder einen Verlust oder Missbrauch deiner bei uns gespeicherten Daten zu vermeiden, treffen wir umfangreiche technische und organisatorische Sicherheitsvorkehrungen, die regelmäßig überprüft und dem technologischen Fortschritt angepasst werden. Hierzu gehört unter anderem die Verwendung von anerkannten Verschlüsselungsverfahren (SSL oder TLS). Wir weisen dich jedoch darauf hin, dass es aufgrund der Struktur des Internets möglich ist, dass die Regeln des Datenschutzes und die o. g. Sicherungsmaßnahmen von anderen, nicht im Verantwortungsbereich von uns liegenden Personen oder Institutionen nicht beachtet werden. Insbesondere können unverschlüsselt preisgegebene Daten – z. B. wenn dies per E-Mail erfolgt – von Dritten mitgelesen werden. Wir haben technisch hierauf keinen Einfluss. Es liegt im Verantwortungsbereich des Nutzers, die von ihm zur Verfügung gestellten Daten durch Verschlüsselung oder in sonstiger Weise gegen Missbrauch zu schützen.
+
+
+
+
+
+
+
+
+
+
+Inhalte werden geladen
+
+
+
+
+
+
+
+Viewport: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unsere Experten stehen dir jetzt im Chat zur Verfügung.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mithilfe von Cookies funktioniert diese Website optimal
+
+
+
+
+Durch die Auswahl von "Cookies akzeptieren" erlaubst du Canyon, Geräte- und Browserinformationen zu sammeln. Einige dieser Cookies sind für das einwandfreie Funktionieren der Website notwendig (z.B. Sicherheit, Warenkorbfunktionen und Anmeldung). Andere Cookies ermöglichen es uns, deine Marketingangebote zu personalisieren und die Leistung der Website zu überwachen. Wähle "Cookies verwalten", um die Art von Cookies auszuwählen, die Canyon verwenden kann. Wir geben einige dieser Daten für Marketingzwecke an Dritte wie Google, Facebook und Instagram weiter. Gehe für weitere Informationen zur 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

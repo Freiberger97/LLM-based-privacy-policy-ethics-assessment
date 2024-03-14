@@ -1,0 +1,441 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Datenschutzerklärung
+
+
+
+
+
+
+
+
+            1. Information, Verantwortlicher, Datenschutzbeauftragter
+          
+
+(1) Im Folgenden informieren wir über die Verarbeitung personenbezogener Daten bei Nutzung unserer Website. Personenbezogene Daten sind alle Daten, die auf Sie persönlich beziehbar sind, z. B. Name, Adresse, E-Mail-Adressen, Nutzerverhalten.
+(2) Verantwortlicher gem. Art. 4 Abs. 7 EU-Datenschutz-Grundverordnung (DS-GVO) ist die Apotheke im Paunsdorf Center Inh. Kirsten Fritsch e. K., Magdeborner Straße 14, 04416 Markkleeberg, apotheker@apo-discounter.de.
+(3) Wenden Sie sich bei datenschutzrechtlichen Anfragen (insbesondere bei Fragen zur Verarbeitung Ihrer personenbezogenen Daten, bei Auskünften, Berichtigung, Einschränkung oder Löschung von Daten sowie Widersprüchen und Widerrufen erteilter Einwilligungen) bitte an: 
+            Apotheke im Paunsdorf Center Inh. Kirsten Fritsch e. K.,
+            Datenschutzbeauftragter
+            Magdeborner Str. 14
+            04416 Markkleeberg
+            datenschutz@apo-discounter.de
+
+
+
+
+            2. Ihre Rechte
+          
+
+(1) Sie haben gegenüber uns folgende Rechte hinsichtlich der Sie
+            betreffenden personenbezogenen Daten:
+
+
+
+
+
+
+
+(2) Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren.
+
+
+
+
+            3. Erhebung personenbezogener Daten bei Besuch unserer Website
+          
+
+(1) Bei der bloß informatorischen Nutzung der Website, also wenn Sie sich nicht registrieren oder uns anderweitig Informationen übermitteln, erheben wir nur die personenbezogenen Daten, die Ihr Browser an unseren Server übermittelt. Wenn Sie unsere Website betrachten möchten, erheben wir die folgenden Daten, die für uns technisch erforderlich sind, um Ihnen unsere Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten (Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Zusätzlich zu den zuvor genannten Daten werden bei Ihrer Nutzung unserer Website Cookies auf Ihrem Rechner gespeichert. Bei Cookies handelt es sich um kleine Textdateien, die auf Ihrer Festplatte dem von Ihnen verwendeten Browser zugeordnet gespeichert werden und durch welche der Stelle, die den Cookie setzt (hier durch uns), bestimmte Informationen zufließen. Cookies können keine Programme ausführen oder Viren auf Ihren Computer übertragen. Sie dienen dazu, das Internetangebot insgesamt nutzerfreundlicher und effektiver zu machen und ermöglichen uns, das Nutzerverhalten auf unserer Website statistisch auszuwerten (Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DSGVO).
+(3) Einsatz von Cookies:
+(a) Diese Website nutzt folgende Arten von Cookies, deren Umfang und Funktionsweise im Folgenden erläutert werden:
+
+
+
+
+(b) Transiente Cookies werden automatisiert gelöscht, wenn Sie den Browser schließen. Dazu zählen insbesondere die Session-Cookies. Diese speichern eine sogenannte Session-ID, mit welcher sich verschiedene Anfragen Ihres Browsers der gemeinsamen Sitzung zuordnen lassen. Dadurch kann Ihr Rechner wiedererkannt werden, wenn Sie auf unsere Website zurückkehren. Die Session-Cookies werden gelöscht, wenn Sie sich ausloggen oder den Browser schließen.
+(c) Persistente Cookies werden automatisiert nach einer vorgegebenen Dauer gelöscht, die sich je nach Cookie unterscheiden kann. Sie können die Cookies in den Sicherheitseinstellungen Ihres Browsers jederzeit löschen.
+(d) Sie können Ihre Browser-Einstellung entsprechend Ihren Wünschen konfigurieren und z. B. die Annahme von Third-Party-Cookies oder allen Cookies ablehnen. Wir weisen Sie darauf hin, dass Sie dann eventuell nicht alle Funktionen dieser Website nutzen können.
+(e) Wir setzen Cookies ein, um Sie für Folgebesuche identifizieren zu können, falls Sie über einen Account bei uns verfügen. Andernfalls müssten Sie sich für jeden Besuch erneut einloggen.
+(f) Die genutzten Flash-Cookies werden nicht durch Ihren Browser erfasst, sondern durch Ihr Flash-Plug-in. Weiterhin nutzen wir HTML5 Web Storage, die auf Ihrem Endgerät abgelegt werden. Diese Objekte speichern die erforderlichen Daten unabhängig von Ihrem verwendeten Browser und haben kein automatisches Ablaufdatum. Wenn Sie keine Verarbeitung der Flash-Cookies wünschen, müssen Sie ein entsprechendes Add-On installieren, z. B. „Better Privacy“ für Mozilla Firefox () oder das Adobe-Flash-Killer-Cookie für Google Chrome. Die Nutzung von HTML5 Web Storage können Sie verhindern, indem Sie in Ihrem Browser den privaten Modus einsetzen. Zudem empfehlen wir, regelmäßig Ihre Cookies und den Browser-Verlauf manuell zu löschen.
+
+
+
+
+            4. Weitere Funktionen und Angebote unserer Website
+          
+
+(1) Neben der rein informatorischen Nutzung unserer Website bieten wir verschiedene Leistungen an, die Sie bei Interesse nutzen können. Dazu müssen Sie in der Regel weitere personenbezogene Daten angeben, die wir zur Erbringung der jeweiligen Leistung nutzen und für die die zuvor genannten Grundsätze zur Datenverarbeitung gelten.
+(2) Teilweise bedienen wir uns zur Verarbeitung Ihrer Daten externer Dienstleister. Diese wurden von uns sorgfältig ausgewählt und beauftragt, sind an unsere Weisungen gebunden und werden regelmäßig kontrolliert.
+(3) Soweit unsere Dienstleister oder Partner ihren Sitz in einem Staat außerhalb des Europäischen Wirtschaftsraums (EWR) haben, informieren wir Sie über die Folgen dieses Umstands in der Beschreibung des Angebotes.
+
+
+
+
+            5. Widerruf oder Widerspruch gegen die Verarbeitung Ihrer Daten
+          
+
+(1) Falls Sie eine Einwilligung zur Verarbeitung Ihrer Daten erteilt haben, können Sie diese jederzeit widerrufen. Ein solcher Widerruf wirkt für die Zukunft und berührt nicht die Rechtmäßigkeit der bis zum Widerruf verarbeiteten Daten.
+(2) Soweit wir die Verarbeitung Ihrer personenbezogenen Daten auf die Interessenabwägung stützen, können Sie Widerspruch gegen die Verarbeitung einlegen. Dies ist der Fall, wenn die Verarbeitung insbesondere nicht zur Erfüllung eines Vertrags mit Ihnen erforderlich ist, was von uns jeweils bei der nachfolgenden Beschreibung der Funktionen dargestellt wird. Bei Ausübung eines solchen Widerspruchs bitten wir um Darlegung der Gründe, weshalb wir Ihre personenbezogenen Daten nicht wie von uns durchgeführt verarbeiten sollten. Im Falle Ihres begründeten Widerspruchs prüfen wir die Sachlage und werden entweder die Datenverarbeitung einstellen bzw. anpassen oder Ihnen unsere zwingenden schutzwürdigen Gründe aufzeigen, aufgrund derer wir die Verarbeitung fortführen.
+(3) Selbstverständlich können Sie der Verarbeitung Ihrer personenbezogenen Daten für Zwecke der Werbung und Datenanalyse jederzeit widersprechen. Über Ihren Werbewiderspruch können Sie uns durch Mitteilung in Textform an die unter Punkt 1 genannten Kontaktdaten informieren.
+
+
+
+
+            6. Statusbenachrichtigungen, Kontaktaufnahme per E-Mail, Kontaktformular und Chat; Zusendung von Freiumschlägen und Katalogen; Rezepteinsendungen 
+          
+
+
+              (1) Wenn Sie in unserem Shop eine Bestellung abgeschlossen haben, werden wir Sie über Ihre E-Mailadresse, welche Sie in der Bestellabgabe hinterlegt haben, über den Verlauf Ihrer jeweiligen Bestellung informieren. Sie erhalten daher von uns i.d.R. Statusbenachrichtigungen über den Bestelleingang, die Bestellfertigstellung, den Versand Ihrer Ware sowie ggf. zu Zahlungshinweisen und Benachrichtigungen über Bestellrückabwicklungen. Ebenfalls werden wir Sie über relevante Änderungen unserer Allgemeinen Geschäftsbedingungen (AGB) und Datenschutzinformationen informieren. Rechtsgrundlage hierfür ist Art. 6 Abs. 1 S. 1 lit. b. Sollten Sie ein Kundenkonto bei uns eingerichtet haben, erhalten Sie zusätzlich per E-Mail Informationen zu Ihrem Kundenkonto. Dies sind i.d.R. Statusnachrichten Ihnen Informationen zur Einrichtung, Änderungen und /oder Löschung Ihres Kundenkontos übersenden. Rechtsgrundlage hierfür ist Art. 6 Abs. 1 S. 1 lit. b.
+            
+
+              Im Rahmen unseres Bonuspunkteprogramms, an dem Sie automatisch mit Einrichtung eines Kundenkontos teilnehmen, informieren wir Sie zusätzlich per E-Mail über Ihren aktuellen Stand an gesammelten Bonuspunkten und deren Einlösung sowie über ggf. Änderungen der Teilnahmebedingungen am Bonusprogramm. Rechtsgrundlage hierfür ist Art. 6 Abs. 1 S. 1 lit. b.
+            
+
+              Sollten Sie unser Spar-Abo-Programm in Anspruch nehmen, dann werden wir Sie über den Abschluss jedes einzelnen Spar-Abos sowie über die Beendigung eines jeden einzelnen Spar-Abos informieren. Ebenfalls erhalten Sie immer 7 Tage vor dem nächsten Versand Ihrer per Spar-Abo bestellten Ware eine Versandvorankündigung per E-Mail von uns. Selbstverständlich senden wir Ihnen auch für die Spar-Abo Lieferungen die Statusbenachrichtigungen zu, die Sie für reguläre Bestellungen bei uns erhalten. Rechtsgrundlage hierfür ist Art. 6 Abs. 1 S. 1 lit. b.
+            
+
+              Im Rahmen unserer Beratungspflicht werden wir Sie auch direkt per E-Mail oder Telefon kontaktieren, wenn im Rahmen der von Ihnen bestellten Artikel ein Arzneimittelrisiko bestehen sollte. Rechtsgrundlage hierfür sind Art. 6 Abs. 1 S. 1 litt. c und d DS-GVO sowie Art. 9 Abs. 2 lit. h DS-GVO.
+            
+
+              (2) Bei Ihrer Kontaktaufnahme mit uns per E-Mail oder über ein Kontaktformular werden die von Ihnen mitgeteilten Daten (Ihre E-Mail-Adresse, ggf. Ihr Name und ggf. Ihre Telefonnummer) von uns gespeichert, um Ihr Anliegen zu bearbeiten und Ihre Fragen zu beantworten. Die in diesem Zusammenhang anfallenden Daten löschen wir, nachdem die Speicherung nicht mehr erforderlich ist, oder schränken die Verarbeitung ein, falls gesetzliche Aufbewahrungspflichten bestehen. Rechtsgrundlage hierfür ist Art. 6 Abs. 1 S. 1 lit. b DS-GVO.
+            
+
+              (3) Über die Live-Chat-Software der Userlike UG, Probsteigasse 44-46, 50670 Köln (nachfolgend: Userlike) können Sie mit uns auch per Chat Kontakt aufnehmen. Um den Chat zu ermöglichen, verwendet Userlike Cookies. Neben dem Chatverlauf und Ihrer IP-Adresse zum Zeitpunkt des Chats wird auch das Herkunftsland erfasst. Diese Daten dienen nicht Ihrer Identifizierung und werden nach dem Chat gelöscht. Rechtsgrundlage hierfür ist Art. 6 Abs. 1 S. 1 lit. b DS-GVO. Weitere Informationen und Einstellungsmöglichkeiten finden sie unter: 
+
+
+              (4) Sofern Sie die postalische Übersendung von Freiumschlägen oder auch Katalogen bei uns anfordern, erheben wir zur Adressierung und zur Durchführung des Versands Ihre Adressdaten. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. a DS-GVO.
+            
+
+              (5) Im Falle der Einsendung von Rezepten erfolgt die Verarbeitung Ihrer personenbezogenen Daten zur Erfüllung des zugrundeliegenden Kaufvertrages und auf Basis der Rechtsgrundlage des Art. 6 Abs. 1 S. 1 lit. b DS-GVO. Im Rahmen der Rezeptbearbeitung verarbeiten wir eine besondere Kategorie personenbezogener Daten: Ihre Gesundheitsdaten. Rechtsgrundlage hierfür ist Art. 9 Abs. 2 lit. f, h DS-GVO. Eine Verarbeitung erfolgt nur, soweit dies zur Vertragsabwicklung, zu Zwecken der Gesundheitsvorsorge, der medizinischen Versorgung, der Versorgung oder Behandlung im Gesundheitsbereich oder zur Geltendmachung möglicher Ansprüche unsererseits erforderlich ist. Darüber hinaus erfolgt eine Verarbeitung zur Wahrung der pharmazeutischen Vorgaben nach §§ 17 Abs. 2a, 20 ApBetrO – insbesondere zum Zweck der pharmazeutischen Beratung (Rechtsgrundlage: Art. 6 Abs. 1 S. 1 lit. c DS-GVO, Art. 9 Abs. 2 lit. h DS-GVO).
+            
+
+
+
+
+            7. Nutzung unseres Webshops
+          
+
+(1) Wenn Sie in unserem Webshop bestellen möchten, ist es für den Vertragsabschluss erforderlich, dass Sie Ihre persönlichen Daten angeben, die wir für die Abwicklung Ihrer Bestellung benötigen und verarbeiten. Im Rahmen der Bearbeitung Ihrer Bestellung verarbeiten wir ggf. auch Gesundheitsdaten, also besondere Kategorien personenbezogener Daten, soweit dies zur Vertragsabwicklung, zu Zwecken der Gesundheitsvorsorge, der medizinischen Versorgung, der Versorgung oder Behandlung im Gesundheitsbereich oder zur Geltendmachung möglicher Ansprüche erforderlich ist (Rechtsgrundlage Art. 9 Abs. 2 lit. f, h DS-GVO).
+(2) In bestimmten Fällen sind wir verpflichtet, Sie über mögliche Risiken oder Wechselwirkungen bei der Verwendung von Arzneimitteln bzw. über Arzneimittelrückrufe aktiv zu informieren. Daher sind wir nach § 17 Apothekenbetriebsverordnung gesetzlich verpflichtet, auch Ihre Telefonnummer mit zu erfassen. In keinem Fall werden wir diese ohne Ihre ausdrückliche Zustimmung für Werbezwecke nutzen oder an Dritte weitergeben.
+(3) Sie können freiwillig ein Kundenkonto anlegen. Wir werden Ihre in diesem Konto durch Sie freiwillig hinterlegten Daten widerruflich speichern, solange Sie Ihr Kundenkonto bei uns registriert haben und die Daten von Ihnen nicht gelöscht werden. Wir werden auch die Anzahl Ihrer gesammelten "apoPunkte" speichern, die Sie unter Zustimmung zu unseren Teilnahmebedingungen gegen Gutschriften einlösen können. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b, f DS-GVO. Die in diesem Rahmen verarbeiteten Daten können auch Gesundheitsdaten und damit besondere Arten von personenbezogenen Daten sein (Rechtsgrundlage ist Art. 9 Abs. 2 a, h DS-GVO).
+(3) Sie können freiwillig ein Kundenkonto anlegen. Wir werden Ihre in diesem Konto durch Sie freiwillig hinterlegten Daten widerruflich speichern, solange Sie Ihr Kundenkonto bei uns registriert haben und die Daten von Ihnen nicht gelöscht werden. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b, f DS-GVO. Die in diesem Rahmen verarbeiteten Daten können auch Gesundheitsdaten und damit besondere Arten von personenbezogenen Daten sein (Rechtsgrundlage ist Art. 9 Abs. 2 a, h DS-GVO).
+(4) Zum Zweck der Vertragsdurchführung können wir Ihre Zahlungsdaten abhängig von der von Ihnen ausgewählten Zahlart an die unter den Punkten (5) und (6) aufgeführten Zahlungsdienstleistern weitergeben. Rechtsgrundlage hierfür ist Art. 6 Abs. 1 S. 1 lit. b DS-GVO.
+(5) Verwendung der personenbezogenen Daten bei Auswahl von Klarna als Zahlungsart
+(a) Unsere Checkout-Lösung wird von Klarna (Klarna AB, Sveavägen 46, 111 34 Stockholm, Schweden) zur Verfügung gestellt und nutzt Cookies, um Ihnen bei der Nutzung des Checkouts von Klarna einen benutzerfreundlichen Bezahlvorgang zu ermöglichen. Eine detaillierte Auflistung der Cookies und eine Erläuterung ihres jeweiligen Zwecks finden Sie unter 
+(b) Wenn Sie sich für Klarnas Zahlungsdienstleistungen Klarna Rechnung und Klarna Ratenkauf als Zahlungsoption entschieden haben, haben Sie eingewilligt, dass wir die für die Abwicklung des Rechnungskaufes und einer Identitäts- und Bonitätsprüfung notwendigen, folgenden personenbezogenen Daten wie Vor- und Nachname, Adresse, Geburtsdatum, Geschlecht, E-Mail-Adresse, Telefonnummer sowie die für die Abwicklung des Rechnungskaufs notwendigen Daten, die im Zusammenhang mit der Bestellung stehen, wie die Anzahl der Artikel, Artikelnummer, Rechnungsbetrag und Steuern in Prozent, erhoben und an Klarna übermittelt haben. Die Übermittlung dieser Daten erfolgt, damit Klarna zur Abwicklung Ihres Einkaufs mit der von Ihnen gewünschten Rechnungsabwicklung eine Rechnung erstellen und eine Identitäts- und Bonitätsprüfung durchführen kann. Dabei hat Klarna ein berechtigtes Interesse an der Übermittlung der personenbezogenen Daten des Käufers, da es diese benötigt, um bei Wirtschaftsauskunfteien zum Zwecke der Identitäts- und Bonitätsprüfung Auskunft einzuholen. In Deutschland können dies die folgenden Wirtschaftsauskunfteien sein:
+Schufa Holding AG, Kormoranweg 5, 65203 Wiesbaden
+            Bürgel Wirtschaftsinformationen GmbH & Co. KG, Postfach 5001 66, 22701 Hamburg
+            Creditreform Bremen Seddig KG, Contrescarpe 17, 28203 Bremen
+            infoscore Consumer Data GmbH, Rheinstraße 99, 76532 Baden-Baden
+(c) Im Rahmen der Entscheidung über die Begründung, Durchführung oder Beendigung des vertraglichen Verhältnisses erhebt und nutzt Klarna abgesehen von einer Adressprüfung auch Informationen zu dem bisherigen Zahlungsverhalten des Käufers sowie Wahrscheinlichkeitswerte zu diesem Verhalten in der Zukunft. Die Berechnung dieser Score-Werte durch Klarna wird auf Basis eines wissenschaftlich anerkannten mathematisch statistischen Verfahrens durchgeführt. Dazu wird Klarna unter anderem auch Ihre Adressdaten benutzen. Sollte sich nach dieser Berechnung zeigen, dass Ihre Kreditwürdigkeit nicht gegeben ist, wird Klarna Sie hierüber umgehend informieren.
+(d) Sie können Ihre Einwilligung zur Verwendung der personenbezogenen Daten jederzeit gegenüber Klarna widerrufen. Jedoch bleibt Klarna gegebenenfalls weiterhin dazu berechtigt, die personenbezogenen Daten zu verarbeiten, zu nutzen und zu übermitteln, insofern dies zur vertragsmäßigen Zahlungsabwicklung durch Klarnas Dienste notwendig ist, rechtlich vorgeschrieben ist oder von einem Gericht oder einer Behörde gefordert wird.
+            
+            Selbstverständlich können Sie jederzeit Auskunft über die von Klarna gespeicherten personenbezogenen Daten erhalten. Sollten Sie als Käufer dies wünschen oder Klarna Änderungen bezüglich der gespeicherten Daten mitteilen wollen, so können Sie sich an datenschutz@klarna.de wenden.
+(6) Sofern die Bezahlung nicht über Klarna erfolgt, werden wir Ihren Namen sowie Ihre Bankverbindung und ggf. Ihre Adressdaten zur Zahlungsabwicklung an andere Kreditinstitute und Kreditkartenfirmen sowie im Falle von Zahlungsstörungen ggf. an ein Inkassounternehmen weitergegeben. Dabei handelt es sich um die Zahlungsdienstleister InterCard AG, Mehlbeerenstraße 4, 82024 Taufkirchen bei München (Zahlung per Elektronischer Lastschrifteinzug), Ingenico e-Commerce Solutions GmbH, Ginnheimer Str. 4, 65760 Eschborn (Zahlung per Kreditkarte), Amazon Payments Europe S.C.A. 5, Rue Plaetis - 2338 Luxemburg (Zahlart Amazon Payments) und PayPal (Europe) S.à r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg (PayPal).
+(7) Wir sind aufgrund handels- und steuerrechtlicher Vorgaben verpflichtet, Ihre Adress-, Zahlungs- und Bestelldaten für die Dauer von zehn Jahren zu speichern.
+(8) Zur Verhinderung unberechtigter Zugriffe Dritter auf Ihre persönlichen Daten, insbesondere Finanzdaten, wird der Bestellvorgang per TLS verschlüsselt.
+
+
+
+
+            8. Verarbeitung zu Werbezwecken
+          
+
+(1) Newsletter
+(a) Mit Ihrer Einwilligung können Sie unseren Newsletter abonnieren, mit dem wir Sie über unsere aktuellen interessanten Angebote informieren.
+(b) Für die Anmeldung zu unserem Newsletter verwenden wir das sog. Double-opt-in-Verfahren. Das heißt, dass wir Ihnen nach Ihrer Anmeldung eine E-Mail an die angegebene E-Mail-Adresse senden, in welcher wir Sie um Bestätigung bitten, dass Sie den Versand des Newsletters wünschen. Darüber hinaus speichern wir jeweils Ihre eingesetzten IP-Adressen und Zeitpunkte der Anmeldung und Bestätigung. Zweck des Verfahrens ist, Ihre Anmeldung nachweisen und ggf. einen möglichen Missbrauch Ihrer persönlichen Daten aufklären zu können.
+(c) Pflichtangabe für die Übersendung des Newsletters ist allein Ihre E-Mail-Adresse. Nach Ihrer Bestätigung speichern wir Ihre E-Mail-Adresse zum Zweck der Zusendung des Newsletters. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. a DS-GVO.
+(d) Ihre Einwilligung in die Übersendung des Newsletters können Sie jederzeit widerrufen und den Newsletter abbestellen. Den Widerruf können Sie durch Klick auf den in jeder Newsletter-E-Mail bereitgestellten Link, per E-Mail an newsletter@apo-discounter.de oder durch eine Nachricht an die unter Punkt 1 angegebenen Kontaktdaten erklären.
+(e) Um Sie hierfür als Kunde zu gewinnen, können wir die von Ihnen angegebenen Daten zudem verarbeiten, um Ihnen per E-Mail weitere zu Ihren vorangegangenen Bestellungen ähnliche Produkte aus unserem Portfolio zu empfehlen, die Sie interessieren könnten (Direktwerbung). Der Verwendung Ihrer personenbezogenen Daten für Werbezwecke können Sie jederzeit insgesamt oder für einzelne Maßnahmen widersprechen. Eine Mitteilung in Textform an die unter Punkt 1 genannten Kontaktdaten (z.B. E-Mail, Fax, Brief) reicht hierfür aus. Den Widerruf können Sie auch durch Klick auf den in jeder Produktempfehlungs-E-Mail bereitgestellten Link erklären. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
+(2) Personalisierte Produktempfehlungen
+Um Sie hierfür als Kunde zu gewinnen, können wir die von Ihnen angegebenen Daten zudem verarbeiten, um Ihnen per E-Mail weitere zu Ihren vorangegangenen Bestellungen ähnliche Produkte aus unserem Portfolio zu empfehlen, die Sie interessieren könnten (Direktwerbung). Der Verwendung Ihrer personenbezogenen Daten für Werbezwecke können Sie jederzeit insgesamt oder für einzelne Maßnahmen widersprechen, ohne dass hierfür andere als die Übermittlungskosten nach den Basistarifen entstehen. Eine Mitteilung in Textform an die unter Punkt 1 genannten Kontaktdaten (z.B. E-Mail, Fax, Brief) reicht hierfür aus. Den Widerspruch können Sie auch durch Klick auf den in jeder Produktempfehlungs-E-Mail bereitgestellten Link erklären. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
+Zum Zweck des E-Mail-Versand geben wir Ihre E-Mailadresse an unseren jeweiligen E-Mail-Dienstleister Episerver GmbH, Wallstr. 16, 10179 Berlin weiter. Weitere personenbezogene Daten, insbesondere personenbezogene Gesundheitsdaten, werden nicht weitergegeben
+
+
+
+
+            9. Nutzung unserer App
+          
+
+(1) Zum Zweck der Nutzung unserer App, die wir für die Betriebssysteme iOS (z.B. für iPhone, iPad usw.) über den Apple AppStore sowie Android (z.B. für Samsung Tablets und Smartphones) über Google Play Store zur Verfügung stellen, erfassen wir Ihre Gerätekennung (Device-ID). Im Rahmen der Nutzung unserer Push-Benachrichtigungen (nach vorheriger Einwilligung) erfassen wir zudem Betriebssystem und Version, Gerätebezeichnung, Standortdaten bzw. Herkunft (Land). Im Fall von Sprachsuchen und Sprachbefehlen erfassen wir außerdem Ihre Audiodaten. Fotos werden ausschließlich im Rahmen der Suche nach Barcodes erfasst. Sofern Sie die Funktion „Touch ID“ nutzen, werden Ihre E-Mail-Adresse sowie Ihr Passwort verschlüsselt erhoben. Rechtsgrundlage der Datenverarbeitungen ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
+(2) Über unsere App können Sie zudem Push-Benachrichtigungen anfordern, um Mitteilungen über aktuelle News, Angebote und Werbe-Aktionen sowie zu Ihrer Bestellung zu erhalten. Sie werden vor der ersten Nutzung der App von uns gefragt, ob wir Ihnen über Ihre Geräte-ID derartige Push-Nachrichten senden dürfen. Zudem haben Sie im Bereich der „Einstellungen“ --> „Benachrichtigungen“ die Möglichkeit, die Funktion „Status Benachrichtigung“ über den Schieberegler zu aktivieren (Schieberegler auf grün) und dadurch Informationen zum aktuellen Status Ihrer zuletzt abgegebenen Bestellungen als Push-Nachricht auf Ihr Endgerät zu erhalten. Haben Sie im Bereich der „Einstellungen“ --> „Benachrichtigungen“ die Funktion „Persönliche Benachrichtigungen“ über den Schieberegler aktiviert (Schieberegler auf grün), erhalten Sie Informationen über aktuelle News, Angebote und Werbe-Aktionen unserer Apotheke als Push-Nachricht auf Ihr Endgerät. Diese beiden Benachrichtigungsfunktionen sind in der Grundeinstellung immer deaktiviert. Sie können beide Funktionen unabhängig voneinander jederzeit deaktivieren bzw. aktivieren. Um einen Kauf über unsere App durchzuführen, müssen Sie diese Benachrichtigungsfunktionen nicht aktivieren. Sie können Ihre Zustimmung zum Erhalt von Push-Nachrichten jederzeit mit Wirkung für die Zukunft widerrufen, in dem Sie den Schieberegler von grün (aktiv) auf weiß (inaktiv) setzten. Wir speichern Ihre Daten, solange Sie diese App nutzen. Rechtsgrundlage für die Verarbeitung Ihrer Daten ist Art. 6 Abs. 1 S. 1 lit. a DS-GVO.
+
+
+
+
+
+
+
+
+Die nachfolgend aufgelisteten Tracking-Tools werden von uns auf der Rechtsgrundlage des Art. 6 Abs. 1 S. 1 lit. f DS-GVO eingesetzt. Hiermit wollen wir die Benutzerfreundlichkeit unserer Website sicherstellen und weiter optimieren. Außerdem wird uns hierdurch ermöglicht, die statistische Nutzung unserer Website zu erfassen und auszuwerten. 
+(1) Google Analytics
+(a) Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Website, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Website-Aktivitäten zusammenzustellen und um weitere mit der Website-Nutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Website-Betreiber zu erbringen.
+(b) Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
+(c) Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plug-in herunterladen und installieren: .
+(d) Diese Website verwendet Google Analytics mit der Erweiterung „_anonymizeIp()“. Dadurch werden IP-Adressen gekürzt weiterverarbeitet, eine Personenbeziehbarkeit kann damit ausgeschlossen werden. Soweit den über Sie erhobenen Daten ein Personenbezug zukommt, wird dieser also sofort ausgeschlossen und die personenbezogenen Daten damit umgehend gelöscht.
+(e) Wir nutzen Google Analytics, um die Nutzung unserer Website analysieren und regelmäßig verbessern zu können. Über die gewonnenen Statistiken können wir unser Angebot verbessern und für Sie als Nutzer interessanter ausgestalten. Für die Ausnahmefälle, in denen personenbezogene Daten in die USA übertragen werden, hat sich Google dem EU-US Privacy Shield unterworfen, . Rechtsgrundlage für die Nutzung von Google Analytics ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
+(f) Informationen des Drittanbieters: Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland, Fax: +353 (1) 436 1001. Nutzerbedingungen: , Übersicht zum Datenschutz: , sowie die Datenschutzerklärung: .
+(g) Diese Website verwendet Google Analytics zudem für eine geräteübergreifende Analyse von Besucherströmen, die über eine User-ID durchgeführt wird.
+(2) Einsatz von Google AdSense
+(a) Diese Website verwendet den Online-Werbedienst Google AdSense, durch den Ihnen auf Ihre Interessen ausgelegte Werbung präsentiert werden kann. Damit wollen wir Ihnen Werbung anzeigen, die für Sie von Interesse sein könnte, um unsere Website für Sie interessanter zu gestalten. Hierzu werden statistische Informationen über Sie erfasst, die durch unsere Werbepartner verarbeitet werden. Diese Werbeanzeigen sind über den Hinweis „Google-Anzeigen“ in der jeweiligen Anzeige erkennbar.
+(b) Durch den Besuch unserer Website erhält Google die Information, dass Sie unsere Website aufgerufen haben. Dazu nutzt Google einen Web Beacon, um einen Cookie auf Ihrem Rechner zu setzen. Es werden die unter Punkt 3 dieser Erklärung genannten Daten übermittelt. Wir haben weder Einfluss auf die erhobenen Daten, noch ist uns der volle Umfang der Datenerhebung und die Speicherdauer bekannt. Ihre Daten werden in die USA übertragen und dort ausgewertet. Wenn Sie mit Ihrem Google-Account eingeloggt sind, können Ihre Daten diesem direkt zugeordnet werden. Wenn Sie die Zuordnung mit Ihrem Google-Profil nicht wünschen, müssen Sie sich ausloggen. Es ist möglich, dass diese Daten an Vertragspartner von Google an Dritte und Behörden weitergegeben werden. Rechtsgrundlage für die Verarbeitung Ihrer Daten ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO. Diese Website hat auch Google AdSense-Anzeigen von Drittanbietern aktiviert. Die vorgenannten Daten können an diese Drittanbieter (benannt unter ) übertragen werden.
+(c) Sie können die Installation der Cookies von Google AdSense auf verschiedene Weise verhindern: a) durch eine entsprechende Einstellung Ihrer Browser-Software, insbesondere führt die Unterdrückung von Drittcookies dazu, dass Sie keine Anzeigen von Drittanbietern erhalten; b) durch Deaktivierung der interessenbezogenen Anzeigen bei Google über den Link , wobei diese Einstellung gelöscht wird, wenn Sie Ihre Cookies löschen; c) durch Deaktivierung der interessenbezogenen Anzeigen der Anbieter, die Teil der Selbstregulierungs-Kampagne „About Ads“ sind, über den Link , wobei diese Einstellung gelöscht wird, wenn Sie Ihre Cookies löschen; d) durch dauerhafte Deaktivierung in Ihren Browsern Firefox, Internetexplorer oder Google Chrome unter dem Link . Wir weisen Sie darauf hin, dass Sie in diesem Fall gegebenenfalls nicht alle Funktionen dieses Angebots vollumfänglich nutzen können. 
+(d) Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung sowie weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre erhalten Sie bei: Google Inc., 1600 Amphitheater Parkway, Mountainview, California 94043, USA; Datenschutzbedingungen für Werbung: . Google hat sich dem EU-US Privacy Shield unterworfen, .
+(3) Einsatz von Google AdwordsConversion
+(a) Wir nutzen das Angebot von Google Adwords, um mit Hilfe von Werbemitteln (sogenannten Google Adwords) auf externen Webseiten auf unsere attraktiven Angebote aufmerksam zu machen. Wir können in Relation zu den Daten der Werbekampagnen ermitteln, wie erfolgreich die einzelnen Werbemaßnahmen sind. Wir verfolgen damit das Interesse, Ihnen Werbung anzuzeigen, die für Sie von Interesse ist, unsere Website für Sie interessanter zu gestalten und eine faire Berechnung von Werbe-Kosten zu erreichen.
+(b) Diese Werbemittel werden durch Google über sogenannte „Ad Server“ ausgeliefert. Dazu nutzen wir Ad Server Cookies, durch die bestimmte Parameter zur Erfolgsmessung, wie Einblendung der Anzeigen oder Klicks durch die Nutzer, gemessen werden können. Sofern Sie über eine Google-Anzeige auf unsere Website gelangen, wird von Google Adwords ein Cookie in ihrem PC gespeichert. Diese Cookies verlieren in der Regel nach 30 Tagen ihre Gültigkeit und sollen nicht dazu dienen, Sie persönlich zu identifizieren. Zu diesem Cookie werden in der Regel als Analyse-Werte die Unique Cookie-ID, Anzahl Ad Impressions pro Platzierung (Frequency), letzte Impression (relevant für Post-View-Conversions) sowie Opt-out-Informationen (Markierung, dass der Nutzer nicht mehr angesprochen werden möchte) gespeichert.
+(c) Diese Cookies ermöglichen Google, Ihren Internetbrowser wiederzuerkennen. Sofern ein Nutzer bestimmte Seiten der Webseite eines Adwords-Kunden besucht und das auf seinem Computer gespeicherte Cookie noch nicht abgelaufen ist, können Google und der Kunde erkennen, dass der Nutzer auf die Anzeige geklickt hat und zu dieser Seite weitergeleitet wurde. Jedem Adwords-Kunden wird ein anderes Cookie zugeordnet. Cookies können somit nicht über die Webseiten von Adwords-Kunden nachverfolgt werden. Wir selbst erheben und verarbeiten in den genannten Werbemaßnahmen keine personenbezogenen Daten. Wir erhalten von Google lediglich statistische Auswertungen zur Verfügung gestellt. Anhand dieser Auswertungen können wir erkennen, welche der eingesetzten Werbemaßnahmen besonders effektiv sind. Weitergehende Daten aus dem Einsatz der Werbemittel erhalten wir nicht, insbesondere können wir die Nutzer nicht anhand dieser Informationen identifizieren.
+(d) Aufgrund der eingesetzten Marketing-Tools baut Ihr Browser automatisch eine direkte Verbindung mit dem Server von Google auf. Wir haben keinen Einfluss auf den Umfang und die weitere Verwendung der Daten, die durch den Einsatz dieses Tools durch Google erhoben werden und informieren Sie daher entsprechend unserem Kenntnisstand: Durch die Einbindung von AdWords Conversion erhält Google die Information, dass Sie den entsprechenden Teil unseres Internetauftritts aufgerufen oder eine Anzeige von uns angeklickt haben. Sofern Sie bei einem Dienst von Google registriert sind, kann Google den Besuch Ihrem Account zuordnen. Selbst wenn Sie nicht bei Google registriert sind bzw. sich nicht eingeloggt haben, besteht die Möglichkeit, dass der Anbieter Ihre IP-Adresse in Erfahrung bringt und speichert.
+(e) Sie können die Teilnahme an diesem Tracking-Verfahren auf verschiedene Weise
+            verhindern:
+
+
+
+
+
+
+Wir weisen Sie darauf hin, dass Sie in diesem Fall gegebenenfalls nicht alle Funktionen dieses Angebots vollumfänglich nutzen können.
+(f) Weitere Informationen zum Datenschutz bei Google finden Sie hier:  und https://services.google.com/sitestats/de.html. Alternativ können Sie die Webseite der Network Advertising Initiative (NAI) unter  besuchen. Google hat sich dem EU-US Privacy Shield unterworfen, .
+(4) Remarketing
+Neben AdwordsConversion nutzen wir die Anwendung Google Remarketing. Hierbei handelt es sich um ein Verfahren, mit dem wir Sie erneut ansprechen möchten. Durch diese Anwendung können Ihnen nach Besuch unserer Website bei Ihrer weiteren Internetnutzung unsere Werbeanzeigen eingeblendet werden. Dies erfolgt mittels in Ihrem Browser gespeicherter Cookies, über die Ihr Nutzungsverhalten bei Besuch verschiedener Websites durch Google erfasst und ausgewertet wird. So kann von Google Ihr vorheriger Besuch unserer Website festgestellt werden. Eine Zusammenführung der im Rahmen des Remarketings erhobenen Daten mit Ihren personenbezogenen Daten, die ggf. von Google gespeichert werden, findet durch Google laut eigenen Aussagen nicht statt. Insbesondere wird laut Google beim Remarketing eine Pseudonymisierung eingesetzt.
+(5) Facebook Custom Audiences
+(a) Weiterhin verwendet die Website die Remarketing-Funktion „Custom Audiences“ der Facebook Inc. („Facebook“). Dadurch können Nutzern der Website im Rahmen des Besuchs des sozialen Netzwerkes Facebook oder anderer das Verfahren ebenfalls nutzende Websites interessenbezogene Werbeanzeigen („Facebook-Ads“) dargestellt werden. Wir verfolgen damit das Interesse, Ihnen Werbung anzuzeigen, die für Sie von Interesse ist, um unsere Website für Sie interessanter zu gestalten.
+(b) Aufgrund der eingesetzten Marketing-Tools baut Ihr Browser automatisch eine direkte Verbindung mit dem Server von Facebook auf. Wir haben keinen Einfluss auf den Umfang und die weitere Verwendung der Daten, die durch den Einsatz dieses Tools durch Facebook erhoben werden und informieren Sie daher entsprechend unserem Kenntnisstand: Durch die Einbindung von Facebook Custom Audiences erhält Facebook die Information, dass Sie die entsprechende Webseite unseres Internetauftritts aufgerufen haben, oder eine Anzeige von uns angeklickt haben. Sofern Sie bei einem Dienst von Facebook registriert sind, kann Facebook den Besuch Ihrem Account zuordnen. Selbst wenn Sie nicht bei Facebook registriert sind bzw. sich nicht eingeloggt haben, besteht die Möglichkeit, dass der Anbieter Ihre IP-Adresse und weitere Identifizierungsmerkmale in Erfahrung bringt und speichert.
+(c) Die Deaktivierung der Funktion „Facebook Custom Audiences“ ist unter  möglich.
+(d) Weitere Informationen zur Datenverarbeitung durch Facebook erhalten Sie unter .
+(6) Bing Universal Event Tracking (UET)
+(a) Diese Website verwendet Bing Universal Event Tracking (UET). Hierbei handelt es sich um einen Dienst der Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA mit dessen Hilfe nach entsprechender Pseudonymisierung Informationen zu Ihrer Nutzung dieser Website erhoben und gespeichert werden.
+(b) Zu diesem Zweck wird auf Ihrem Rechner ein Cookie gesetzt, sofern Sie über eine Bing-Anzeige auf diese Website gelangt sind. Die erfassten Informationen werden an Server von Microsoft in den USA übertragen und dort für grundsätzlich maximal 180 Tage gespeichert und anschließend gelöscht. Die Remarketing-Funktion ermöglicht es uns, bei einer späteren Suche auf der Bing- oder Yahoo-Suchmaschine speziell auf Sie zugeschnittene Angebote zu unterbreiten.
+(c) Microsoft kann unter Verwendung von Cross-Device-Tracking Ihr Nutzungsverhalten auch über mehrere Ihrer elektronischen Endgeräte hinweg verfolgen. Dieses Verhalten können Sie unter  deaktivieren.
+(d) Wenn Sie nicht an dem Tracking-Verfahren teilnehmen möchten, können Sie das hierfür erforderliche Setzen eines Cookies ablehnen, etwa per Browser-Einstellung, die das automatische Setzen von Cookies generell deaktiviert.
+(e) Rechtsgrundlage für die Verarbeitung Ihrer Daten ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO. 
+(f) Nähere Informationen zu den Analysediensten von Bing finden Sie unter:  . Nähere Informationen zum Datenschutz bei Microsoft und Bing finden Sie unter:  .
+(7) Vermarktung Werbeplätze durch Kairion
+(a) Online-Werbung im Webshop 
+In diesem Online-Shop schalten wir Werbung. Die Werbeplätze werden dabei durch den Online-Shop und von der Kairion GmbH, Gutleutstraße 30, D-60329 Frankfurt (nachfolgend: Kairion) vermarktet. Dabei werden anonymisierte Informationen und Daten über Ihr Surfverhalten durch die Verwendung von Cookies verarbeitet. Die Daten dieser Cookies werden beim Beenden der Session spätestens nach 24 Stunden wieder gelöscht. Hierdurch werden Sie von einer Werbung im Webshop nicht dauerhaft verfolgt (sog. Frequency Cap). Die Aussteuerung von Werbung durch Kairion auf dieser Seite erfolgt rein kontextuell. Auf Ihr Recht zum Widerspruch wird ausdrücklich hingewiesen. 
+Erfasst werden Informationen über Ihre Aktivitäten (z.B. Surfverhalten, besuchte Unterseiten der Internet-Angebote, geklickte Werbebanner, etc.). Sämtliche Nutzungsdaten werden unter Verwendung eines Pseudonyms gespeichert, sodass eine persönliche Identifikation ausgeschlossen ist. Die aus technischen Gründen übermittelte IP Adresse Ihres Rechners wird dabei vollständig anonymisiert und nicht für die gesteuerte Einblendung von Werbung verwendet. Wenn Sie diese Datenerhebung deaktivieren möchten, können Sie dieser Datenerhebung unter dem folgenden Link widersprechen:
+
+Bitte beachten Sie, dass Sie für den Fall einer Cookie-Löschung auch den Opt Out Link erneut aktivieren müssen.
+(b) Datenerhebung anderer Dienstleister im Bereich nutzungsbasierter Online-Werbung
+Um Werbung für Sie anhand Ihrer Nutzungsinteressen zu optimieren, ist es den nachfolgend genannten Werbe-Dienstleistern gestattet, Nutzungsdaten zu erheben. Sie finden eine aktuelle Liste der von Kairion freigegebenen Dienstleister unter:
+
+Aufgrund des pseudonymen bzw. anonymen Charakters der erhobenen Daten ist hierfür keine gesonderte Einwilligung erforderlich. Sollten diese Dienstleister jedoch Profile bilden, kann eine Einwilligung durch Sie nötig sein und wird gesondert abgefragt. In jedem Fall können Sie der Erhebung von Nutzungsdaten und einer Profilerhebung gegenüber den unten verlinkten Unternehmen widersprechen. Durch die jeweiligen Unternehmen werden Ihnen zudem weitere ergänzende Widerspruchsmöglichkeiten angeboten.
+Wird Ihnen als Nutzer der Website eines Partners von Kairion eine individualisierte Werbung angezeigt, ist diese Werbung mit einem Link (z.B. als Datenschutzinfo) versehen, der Sie auf diese Hinweise zum Datenschutz weiterleitet und Ihnen ebenfalls die Möglichkeit bietet, der Nutzung zu widersprechen.
+(8) Auswertung des Nutzerverhaltens beim Newsletterversand
+Wir weisen Sie darauf hin, dass wir bei Versand des Newsletters Ihr Nutzerverhalten auswerten. Für diese Auswertung beinhalten die versendeten E-Mails Tracking-Pixel, die Ein-Pixel-Bilddateien darstellen, die auf unserer Website gespeichert sind. Für die Auswertungen verknüpfen wir die in Punkt 3 genannten Daten und die Tracking-Pixel mit Ihrer E-Mail-Adresse und einer individuellen ID. Auch im Newsletter erhaltene Links enthalten diese ID. Die Daten werden ausschließlich pseudonymisiert erhoben, die IDs werden also nicht mit Ihren weiteren persönlichen Daten verknüpft, eine direkte Personenbeziehbarkeit wird ausgeschlossen. 
+Sie können diesem Tracking jederzeit widersprechen, indem Sie uns an die in § 1 genannten Kontaktdaten eine entsprechende Mitteilung zukommen lassen. Die Informationen werden solange gespeichert, wie Sie den Newsletter abonniert haben. Nach einer Abmeldung speichern wir die Daten rein statistisch und anonym. Ein solches Tracking ist zudem nicht möglich, wenn Sie in Ihrem E-Mail-Programm die Anzeige von Bildern standardmäßig deaktiviert haben. In diesem Fall wird Ihnen der Newsletter nicht vollständig angezeigt und Sie können eventuell nicht alle Funktionen nutzen. Wenn Sie die Bilder manuell anzeigen lassen, erfolgt das oben genannte Tracking.
+(9) Google-Tag-Manager
+Diese Website benutzt den Google Tag Manager. Google Tag Manager ist eine Lösung, mit der Vermarkter Website-Tags über eine Oberfläche verwalten können. Das Tool Tag Manager selbst (das die Tags implementiert) ist eine cookielose Domain und erfasst keine personenbezogenen Daten. Das Tool sorgt für die Auslösung anderer Tags, die ihrerseits unter Umständen Daten erfassen. Google Tag Manager greift nicht auf diese Daten zu. Wenn auf Domain- oder Cookie-Ebene eine Deaktivierung vorgenommen wurde, bleibt diese für alle Tracking-Tags bestehen, die mit Google Tag Manager implementiert werden. .
+(10) Exactag
+Die Exactag GmbH sammelt und speichert auf dieser Webseite und deren Unterseiten Daten zu Marketing- und Optimierungszwecken. Aus diesen Daten können anonym Nutzungsprofile erstellt werden. Hierzu können Cookies und eine Technik eingesetzt werden, die sich Fingerprint nennt. Bei Cookies handelt es sich um kleine Textdateien, die lokal im Zwischenspeicher des Internetbrowsers des Seitenbesuchers gespeichert werden. Die Fingerprint-Technologie speichert Umgebungsvariable des Internetbrowsers in einer Datenbank, ohne eindeutige userbezogene Daten wie eine IP-Adresse zu speichern. Die Cookies und/oder der Fingerprint ermöglichen die Wiedererkennung des Internetbrowsers. Die mit den Exactag-Technologien erhobenen Daten werden ohne die gesondert erteilte Zustimmung des Betroffenen nicht dazu benutzt, den Besucher dieser Website persönlich zu identifizieren, personenbezogene Daten werden grundsätzlich nicht erfasst. Um den Ausschluss von der Datenspeicherung zu gewährleisten, wird in Ihrem Browser ein Cookie gesetzt. Dieses Cookie trägt den Namen „exactag_new_ccoptout" und wird von  gesetzt. Es darf nicht gelöscht werden, solange der Speicherung der Daten widersprochen wird. Wenn Sie der Speicherung Ihrer anonym erfassten Besucherdaten für die Zukunft widersprechen möchten, klicken Sie bitte diesen .
+(11) Criteo
+
+              Unsere Webseite verwendet Cookies/Werbungs-IDs zu Werbezwecken. Dadurch können wir unsere Werbung Besuchern, die sich für unsere Produkte interessieren, auf Partner-Webseiten, Apps und E-Mails zeigen. Re-targeting-Technologien verwenden Cookies oder Werbe-IDs und zeigen Werbung ausgehend von Ihrem bisherigen Browsing-Verhalten an. Um diese interessenbasierte Werbung durch Criteo abzulehnen, besuchen Sie bitte die folgenden Webseiten:
+              
+
+
+
+
+              Wir können Informationen wie technische Kennungen aus Ihrer Anmeldungsinformation auf unserer Webseite oder unserem CRM-System mit zuverlässigen Werbepartnern austauschen. Dadurch können Ihre Geräte und/oder Umgebungen verknüpft und Ihnen eine nahtlose Nutzungserfahrung mit den von Ihnen verwendeten Geräten und Umgebungen angeboten werden. Nähere Einzelheiten zu diesen Verknüpfungsfähigkeiten entnehmen Sie bitte der Datenschutzrichtlinie, die Sie in den vorgenannten
+              Plattformen finden oder den nachstehenden Erläuterungen. Datenschutzpolitik von Criteo: 
+
+(12) Amazon Web Services
+
+              „Wir verwenden zwecks Hostings, Personalisierung von Produkt- und Inhaltsempfehlungen sowie Erkennens von Zusammenhängen in Texten durch Maschinelles Lernen die Produkte „S3" (), „Personalize" () und „Comprehend" () von Amazon Web Services, Inc., 410 Terry Avenue North, Seattle WA 98109, USA, („AWS"). AWS verarbeitet die Daten in unserem Auftrag. Die Datenverarbeitung erfolgt innerhalb Europas. Darüber hinaus ist AWS aber auch im Privacy-Shield-zertifiziert und garantiert damit, auch außerhalb des europäischen Wirtschaftsraums die personenbezogenen Daten entsprechend europäischer Datenschutzgesetze zu verarbeiten (). Auch gelten im Verhältnis zu AWS entsprechende Standardvertragsklauseln ().
+              Die Einbeziehung von AWS erfolgt auf Grundlage unserer berechtigten Interessen nach Art. 6 Abs. 1 lit. f. DS-GVO.
+              Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von AWS ()."
+            
+(13) Angebote von Sovendus
+Wir bieten Ihnen nach Ihrem Online-Einkauf in unserem Webshop Gutschein- und Vorteilsangebote der Sovendus GmbH, Moltkestr. 11, 76133 Karlsruhe (nachfolgend: Sovendus) an. Weitere Informationen zur Verarbeitung Ihrer Daten durch Sovendus erhalten unter .
+
+Gutscheinangebote
+              Für die Auswahl eines für Sie aktuell interessanten Gutscheinangebots werden von uns pseudonymisiert und verschlüsselt der Hashwert Ihrer E-Mail-Adresse und Ihre IP-Adresse an Sovendus übermittelt (Art. 6 Abs. 1 S. 1 f DS-GVO). Der pseudonymisierte Hashwert der E-Mail-Adresse wird zur Berücksichtigung eines möglicherweise vorliegenden Widerspruchs gegen Werbung von Sovendus verwendet (Art. 21 Abs. 3, Art. 6 Abs. 1 S. 1 lit. c DS-GVO). Die IP-Adresse wird von Sovendus ausschließlich zu Zwecken der Datensicherheit verwendet und im Regelfall nach sieben Tagen anonymisiert. Außerdem übermitteln wir an Sovendus zu Abrechnungszwecken pseudonymisiert Bestellnummer, Bestellwert mit Währung, Session-ID, Couponcode und Zeitstempel (Art. 6 Abs. 1 S. 1 lit. f DS-GVO). Wenn Sie sich für ein Gutscheinangebot von uns interessieren, zu Ihrer E-Mail-Adresse kein Werbewiderspruch vorliegt und auf das nur in diesem Fall angezeigte Gutschein-Banner klicken, werden von uns verschlüsselt Anrede, Name und Ihre E-Mail-Adresse an Sovendus zur Vorbereitung des Gutscheins übermittelt (Art. 6 Abs. 1 S. 1 lit. b, f DS-GVO).
+            
+
+Vorteilsangebote
+              Für die Auswahl eines für Sie regional aktuell interessanten Vorteilsangebots werden von uns pseudonymisiert und verschlüsselt Anrede, Geburtsjahr, Land, Postleitzahl, Hashwert der E-Mail-Adresse und Ihre IP-Adresse an uns übermittelt (Art. 6 Abs. 1 S. 1 lit. f DS-GVO). Der pseudonymisierte Hashwert der E-Mail-Adresse wird außerdem zur Berücksichtigung eines möglicherweise vorliegenden Widerspruchs gegen Werbung von Sovendus verwendet (Art. 21 Abs. 3, Art. 6 Abs. 1 S. 1 lit. c DS-GVO). Die IP-Adresse wird von uns ausschließlich zu Zwecken der Datensicherheit verwendet und im Regelfall nach sieben Tagen anonymisiert (Art. 6 Abs. 1 S. 1 lit. f DS-GVO). Beim Klick auf ein Vorteilsangebot werden an Sovendus von uns außerdem Ihr Name, Ihre Adressdaten und Ihre E-Mail-Adresse zur Vorbereitung der personalisierten Anforderung des Vorteilsangebots beim Produktanbieter verschlüsselt übermittelt (Art. 6 Abs. 1 b, f DSGVO).
+            
+
+
+
+
+
+
+
+
+
+
+              Mit dieser Datenschutzerklärung informieren wir Sie über die Verarbeitung Ihrer personenbezogenen Daten im Rahmen der Nutzung unserer Facebook-Fanpage.
+            
+
+              1. Verantwortliche Stellen
+            
+
+              Die Apotheke im Paunsdorf Center Leipzig, Kirsten Fritsch e.K., Magdeborner Str. 14, 04416 Markkleeberg (im Folgenden: Apotheke) ist mit der Facebook Ireland Ltd., 4 Grand Canal Square, Dublin 2, Irland (im Folgenden: Facebook) für den Betrieb dieser apo-discounter.de – Facebook-Seite im Sinne des Art. 26 der EU-Datenschutzgrundverordnung (im Folgenden: DSGVO) gemeinsam verantwortlich. 
+            
+
+              Facebook hat unter  abrufbare Erläuterung zur Ausgestaltung der gemeinsamen Verantwortung veröffentlicht („Insights-Ergänzung bezüglich des Verantwortlichen“). 
+            
+
+              2. Verarbeitung personenbezogener Daten durch Facebook
+            
+
+              Unabhängig davon, ob Sie einen Facebook-Account unterhalten oder nicht, werden bei Ihrer Nutzung unserer Fanpage durch Facebook Daten und Informationen verarbeitet. Diese werden der Apotheke als Betreiberin dieser Seite über die Funktion „Insights“ in anonymisierter Form zum Zweck der statistischen Analyse und Auswertung zur Verfügung gestellt.
+            
+
+              Dabei handelt es sich im Einzelnen um:
+            
+
+
+
+
+
+
+
+              Im Rahmen von Anzeigenschaltung werden der Apotheke ergänzend dazu noch folgende zusätzliche Informationen über die Zielgruppen-Insights in aggregierter und anonymisierter Form zur Verfügung gestellt, sofern diese durch den Nutzer freigegeben bzw. angegeben wurden:
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Facebook nutzt sogenannte Cookies (Textdateien, die auf Endgeräten der Nutzer gespeichert werden) zur Speicherung und weiteren Verarbeitung dieser Informationen. Ist der Nutzer mit seinem Facebook-Profil eingeloggt, können diese Cookies auch geräteübergreifend gespeichert und analysiert werden. Nähere Informationen zum Einsatz von Cookies durch Facebook und zur Deaktivierung finden Sie in der Cookie-Richtlinie von Facebook, hier abrufbar: .
+            
+
+              Facebook verarbeitet diese Daten seiner Nutzer nach unserem Informationsstand weiterhin auch zur Bereitstellung seiner Dienste, für Werbe- und Marktforschungszwecke, zur Nutzungsanalyse, zur personalisierten Werbung und Verbesserung seiner Dienstleistungen und Angebote. Nähere Informationen zur Datenverarbeitung bei Facebook sind in der Datenschutzerklärung von Facebook, unter:  einsehbar.
+            
+
+              Facebook übermittelt Nutzerdaten an Facebook Inc., seiner US-amerikanischen Muttergesellschaft. Diese ist zur Wahrung des europäischen Datenschutzniveaus für den EU-US-Privacy-Shield zertifiziert. Weitere Informationen hierzu können unter:  aufgerufen werden.
+            
+
+              Weitere Informationen zu den Seitenstatistiken und den Insights-Daten sind abrufbar unter: .
+            
+
+              Möchten Sie eine Datenerfassung durch Facebook zur Ausspielung verhaltensgesteuerter Werbung verhindern, sollten Sie Ihre persönlichen Datenschutz-Einstellungen in Ihrem Facebook-Account sowie Ihre Cookie-Einstellungen in Ihrem Browser überprüfen und ggf. anpassen. 
+            
+
+              3. Sonstige Verarbeitung personenbezogener Daten
+            
+
+              Wenn Sie über Ihr Facebook-Profil Beiträge auf unserer apo-discounter.de – Fanpage platzieren oder von uns veröffentlichte Beiträge und Inhalte über die „Gefällt mir“ - Funktion bewerten, können wir Sie abhängig von Ihren persönlichen Facebook-Account-Einstellungen ggf. identifizieren und weitere Informationen von Ihnen einsehen. Sollten Sie dies nicht wünschen, müssen Sie Ihre persönlichen Facebook-Account-Einstellungen anpassen und die Funktion „Diese Seite gefällt mir nicht mehr“ nutzen. Sollten Sie uns direkt über unsere apo-discounter.de – Facebookseite anschreiben, dann verwenden wir die von Ihnen angegebenen Daten, um Ihnen auf Ihre Frage oder Ihren Beitrag zu antworten. Rechtsgrundlage für diese Datenverarbeitung ist unser berechtigtes Interesse nach Art. 6 Abs. 1 f) DSGVO, Ihnen auf Ihre veröffentlichten Beiträge und Fragen sach- und nutzerbezogen zu antworten.
+            
+
+              4. Löschung
+            
+
+              Wir löschen personenbezogene Daten, sofern der Zweck für diese Datenverarbeitung nicht mehr gegeben ist und gesetzlich festgelegte Aufbewahrungsfristen abgelaufen sind. Wir weisen an dieser Stelle darauf hin, dass wir keinen Einfluss auf die Löschfristen bei Facebook haben und verweisen auf die Datenschutzhinweise von Facebook, die Sie unter  einsehen können.
+            
+
+              5. Rechte der betroffenen Person
+            
+
+              Sie haben die folgenden Rechte:
+            
+
+
+
+
+
+
+
+
+              Da Facebook die personenbezogenen Nutzerdaten verarbeitet, empfehlen wir Ihnen, zur Durchsetzung Ihrer Rechte direkt Facebook zu kontaktieren. Gern unterstützen wir Sie bei Ihrer diesbezüglichen Anfrage an Facebook.
+            
+
+              6. Datenschutzbeauftragter
+            
+
+              Den Datenschutzbeauftragten der Apotheke können Sie wie folgt erreichen:
+              
+
+
+
+
+              oder per Post:
+              
+
+              apo-discounter.de
+              Apotheke im PC
+              -Datenschutzbeauftragter-
+              Postfach 90 11 02
+              04358 Leipzig
+            
+
+
+
+
+
+
+
+
+Wir behalten uns das Recht vor, vorliegende Datenschutzerklärung unter Beachtung der rechtlichen Vorgaben jederzeit zu ändern (insbesondere zum Zweck der Anpassung aufgrund von Gesetzesänderungen oder der Aufnahme neuer Dienstleister). Sämtliche Änderungen werden wir auf unserer Website veröffentlichen, so dass Sie sich stets über unsere aktuellen Datenschutzhinweise informieren können.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+0
+
+
+
+
+   
+
+
+
+
+
+

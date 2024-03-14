@@ -1,0 +1,876 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bitte geben Sie Ihre Postleitzahl ein.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Datenschutzerklärung flaschenpost SE
+
+
+
+
+                    Webseiten-Datenschutzerklärung und zugleich Information der Betroffenen gemäß Artikel 13 und Artikel 14 EU Datenschutzgrundverordnung (DSGVO)
+                
+Präambel
+
+                    Der Datenschutz nimmt bei flaschenpost einen hohen Stellenwert ein. Wir halten uns bei der Erhebung, Verarbeitung und Nutzung
+                    der Kunden- und Bestelldaten streng an die gesetzlichen Bestimmungen der Europäischen Datenschutz-Grundverordnung (DSGVO),
+                    des Bundesdatenschutzgesetzes-neu (BDSG-Neu) und Telemediengesetzes (TMG), letzteres sofern noch anwendbar.
+                
+
+                    Da Gesetzesänderungen oder Änderungen unserer unternehmensinternen Prozesse eine Anpassung dieser Datenschutzerklärung erforderlich
+                    machen können, bitten wir Sie, diese Datenschutzerklärung regelmäßig durchzulesen. Die Datenschutzerklärung kann jederzeit unter
+                    „Datenschutzerklärung“ auf unserer Internetseite abgerufen, abgespeichert und ausgedruckt werden.
+                
+A. Allgemeine Angaben:
+Angaben der Verantwortlichen Stelle und Dienstanbieter:
+
+
+Unternehmen:
+flaschenpost SE (nachfolgend auch „flaschenpost“ genannt“)
+
+
+Gesetzliche Vertreter:
+
+                            Dr. Stephen Weich (Vorstandsvorsitzender), 
+                            Christopher Huesmann, 
+                            Niklas Plath
+
+
+
+Adresse:
+Sentmaringer Weg 21, 48151 Münster
+
+
+Registergericht u.-Nr.:
+Amtsgericht Münster HRB 17773
+
+
+Kontaktdaten Datenschutzbeauftragter:
+
+                            Sentmaringer Weg 21, 48151 Münster,
+                            Mail: 
+
+
+
+Allgemeine Datenverarbeitungs-Informationen
+Betroffenen Daten:
+
+                    Personenbezogene Daten
+                    
+                        (gemäß Art 4 Ziffer 1 DSGVO sind dieses alle Informationen, die sich auf eine identifizierte oder identifizierbare
+                        natürliche Person (im Folgenden „betroffene Person“) beziehen; als identifizierbar wird eine natürliche Person angesehen,
+                        die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten,
+                        zu einer Onlinekennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physisch, physiologischen, genetischen,
+                        psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind, identifiziert werden kann)
+                    
+                    werden nur erhoben, wenn Sie uns diese von sich aus mitteilen. Darüber hinaus werden keine personenbezogenen Daten erhoben.
+                    Eine über die Reichweite der gesetzlichen Erlaubnistatbestände hinausgehende Verarbeitung Ihrer personenbezogenen Daten erfolgt
+                    nur auf Grundlage Ihrer ausdrücklichen Einwilligung.
+                
+
+
+Verarbeitungszweck:
+Vertragsvorbereitung und Vertragsdurchführung, Bewerbungsmanagement, Sicherung unserer überwiegenden berechtigten Interessen.
+
+
+Kategorien von Empfängern:
+
+                            Öffentliche Stellen bei Vorliegen vorrangiger Rechtsvorschriften.  
+                            Externe Dienstleister oder sonstige Auftragnehmer.  
+                            Weitere externe Stellen soweit der Betroffene seine Einwilligung erteilt hat oder eine Übermittlung aus überwiegendem Interesse zulässig ist. 
+
+
+
+Drittlandtransfers:
+Im Rahmen der Vertragsdurchführung können auch Auftragsverarbeiter außerhalb der Europäischen Union zum Einsatz kommen. 
+
+
+Dauer Datenspeicherung:
+Die Dauer der Datenspeicherung richtet sich nach den gesetzlichen Aufbewahrungspflichten und beträgt in der Regel 10 Jahre.
+
+
+Allgemeine Rechte der Betroffenen
+Sie haben als betroffene Person das Recht
+
+
+
+
+
+
+
+
+
+
+                    Zur Ausübung dieser Rechte können Sie sich jederzeit – z.B. über einen der am Anfang dieser Datenschutzinformation angegebenen
+                    Kontaktwege – an uns wenden.
+                
+Bei Fragen zur Verarbeitung Ihrer Daten können Sie sich auch an unseren Datenschutzbeauftragten wenden.
+
+                    Sie sind zudem berechtigt, eine Beschwerde bei einer zuständigen Aufsichtsbehörde für den Datenschutz einzulegen, Art. 77 DSGVO.
+                    Zuständige Aufsichtsbehörde für die flaschenpost ist die „Landesbeauftragte für Datenschutz und Informationsfreiheit
+                    Nordrhein-Westfalen“ (LDI-NRW), Düsseldorf.
+                
+B. Spezifische Angaben zur Webseite:
+
+                    Die nachfolgenden Angaben zum Datenschutz gelten für die Nutzung der Webseite der flaschenpost SE, Sentmaringer Weg 21,
+                    48151 Münster unter der Top-Level- Domain  einschließlich des
+                    registrierungs- und anmeldungspflichtigen geschützten Online-Shop-Bereiche sowie für alle zur Top-Level-Domain zugehörigen Sub-Domains
+                
+
+                    In diesen spezifischen Angaben zum Datenschutz für die Nutzung unserer Webseite erläutern wir Ihnen, welche Informationen
+                    (einschließlich personenbezogener Daten) während Ihres Besuchs und Ihrer Nutzung unseres vorgenannten Internetangebots
+                    ("Webseite") von uns verarbeitet werden.
+                
+Welche Grundsätze beachten wir?
+
+                    Unter Beachtung der datenschutzrechtlichen Vorschriften verarbeiten wir Ihre personenbezogenen Daten nur, wenn uns eine
+                    gesetzliche Vorschrift dies erlaubt, wenn Sie Ihre Einwilligung erklärt haben oder wir ein berechtigtes überwiegendes Interesse
+                    an einer solchen Verarbeitung haben. Dies gilt auch bei der Verarbeitung personenbezogener Daten zu Werbe- und Marketingzwecken.
+                
+
+                    Auf dieser Webseite können wir auch Informationen erfassen, die uns für sich genommen keine direkten Rückschlüsse auf
+                    Ihre Person erlauben. In bestimmten Fällen - insbesondere bei Kombination mit anderen Daten - können diese Informationen
+                    gleichwohl als "personenbezogene Daten" im datenschutzrechtlichen Sinne gelten. Ferner können wir auf dieser Website auch
+                    solche Informationen erfassen, aufgrund derer wir Sie weder unmittelbar noch mittelbar identifizieren können; dies ist z.B.
+                    bei zusammengefassten Informationen (z.B. zu statistischen Zwecken) über alle Nutzer dieser Website der Fall.
+                
+Welche Daten verarbeiten wir?
+
+                    Sie können auf unsere Webseite zugreifen, ohne direkt personenbezogene Daten (wie etwa Ihren Namen, Ihre Postanschrift oder
+                    Ihre E-Mail-Adresse) anzugeben. Auch in diesem Fall müssen wir bestimmte Informationen erheben und speichern, um Ihnen den
+                    Zugriff auf unsere Website zu ermöglichen und Ihnen diese rechtssicher zur Nutzung zur Verfügung stellen zu können.
+                    Darüber hinaus setzen wir auf dieser Webseite bestimmte Analyseverfahren ein.
+                
+1. Logfiles:
+
+                    Wenn Sie diese Webseite besuchen, speichert der von uns genutzte Webserver automatisch den Domain-Namen bzw. die IP-Adresse des
+                    anfragenden Rechners (in der Regel Ihres Internet-Zugangsanbieters) einschließlich des Datums, der Uhrzeit und der Dauer Ihres
+                    Besuches, die Unterseiten/URLs, die Sie besuchen sowie Informationen über die/den von Ihnen zur Ansicht unserer
+                    Seiten eingesetzte/-n Anwendungen und Endgeräte.
+                
+2. Bestellprozess
+
+                    Sie können den Bestellprozess durchführen, indem Sie sich bei uns im Online-Shop im Rahmen Ihres ersten Bestellprozesses ein
+                    Kundenkonto anlegen. Dafür erheben und verarbeiten wir von Ihnen folgende personenbezogenen Daten:
+                
+
+
+
+
+
+
+
+
+
+
+
+                    Die für die Geschäftsabwicklung notwendigen Kunden- und Bestelldaten werden ausschließlich zur Abwicklung des Bestellvorgangs
+                    verarbeitet und gespeichert. Ihre E-Mail-Adresse benötigen wir, um Sie z.B. über den Eingang und den Versand Ihrer Bestellungen
+                    zu informieren und schnell mit Ihnen kommunizieren zu können. Darüber hinaus werden Ihre E-Mail-Adresse und Ihre Telefonnummer
+                    ausschließlich für eigene Werbezwecke genutzt. Sie können dieser Nutzung durch Aktivierung des entsprechenden Widerspruch-Links
+                    in der Ihnen für eigene Werbezwecke zugegangenen Mail widersprechen.
+                
+
+                    Damit Sie bei einem erneuten Einkauf diese Daten nicht erneut eingeben müssen, erstellen wir für Sie ein individuelles
+                    Nutzerkonto mit Ihrer E-Mail-Adresse und einem von Ihnen individuell vergebenes Passwort. Dieses Passwort können Sie
+                    selbstverständlich jederzeit in Ihrem Kundenkonto abändern. Wir speichern Ihr Passwort nur kryptografisch geschützt.
+                    Ihre Daten werden solange bei uns gespeichert, bis Sie die Löschung dieser Daten bei uns veranlasst haben. Eine weitergehende
+                    Speicherung kann im Einzelfall zweckgebunden dann erfolgen, wenn dies gesetzlich vorgeschrieben ist.
+                
+3. Newsletter
+
+                    Sie haben auf unserer Website die Möglichkeit, in einem Newsletter über Angebote und Aktionen von flaschenpost informiert
+                    zu werden. Wenn Sie den von uns angebotenen Newsletter erhalten möchten, benötigen wir von Ihnen eine gültige E-Mail-Adresse.
+                    Um prüfen zu können, ob Sie der Inhaber der angegebenen E-Mail-Adresse sind bzw. deren Inhaber mit dem Empfang des Newsletters
+                    einverstanden ist, versenden wir nach dem ersten Registrierungsschritt eine automatisierte E-Mail an die angegebene E-Mail-Adresse.
+                    Erst nach Bestätigung der Newsletter-Registrierung über einen Link in der Bestätigungs-E-Mail nehmen wir die angegebene
+                    E-Mail-Adresse in unseren Verteiler auf. Über die E-Mail-Adresse und die Angaben zur Bestätigung der Registrierung hinaus
+                    erheben wir keine weiteren Daten. Ihre Einwilligung zur Speicherung der Daten, der E-Mail-Adresse sowie deren Nutzung zum
+                    Versand des Newsletters können Sie jederzeit mit Wirkung für die Zukunft widerrufen.
+                    
+                    Mit Ihrer Einwilligung werden, die von uns im Rahmen des Bestellprozesses erhobenen Daten dazu verwendet, Ihnen per E-Mail diesen
+                    Newsletter zuzustellen. Bei der Bestellung des Newsletters wird Ihre E-Mail-Adresse für eigene Werbezwecke genutzt, bis Sie sich
+                    vom Newsletter über den Link am Ende der Newsletter-Mail abmelden.
+                
+4. Cookies:
+
+                    Wir verwenden Cookies, um Ihnen den Besuch auf unserer Website so angenehm wie möglich zu gestalten. Cookies sind kleine Textdateien,
+                    die von einem Webserver auf Ihrer Festplatte abgelegt werden. Cookies enthalten Informationen, die später von einem Webserver in
+                    der Domäne gelesen werden können, in der das Cookie an Sie vergeben wurde. Cookies können keine Programme ausführen oder Viren
+                    auf Ihren Computer platzieren. Die von uns verwendeten Cookies enthalten keine personenbezogenen Angaben, können jedoch in
+                    pseudonymisierter Form mit solchen zusammengeführt werden. Cookies unterstützen die Nutzung von Funktionen wie etwa den Warenkorb
+                    und erleichtern Ihnen die Nutzung, beispielsweise müssen bestimmte Eingaben nicht erneut wiederholt werden. Zwar ist das Akzeptieren
+                    von Cookies keine Voraussetzung zum Besuch unserer Website. Das Abschalten sämtlicher Cookies kann indes dazu führen, dass einige
+                    Funktionen wie etwa der Warenkorb auf unserer Website nicht mehr ausgeführt werden können. Die meisten der von uns verwendeten
+                    Cookies werden nach Ende der Browser-Sitzung wieder gelöscht (sog. Session-Cookies). Andere Cookies verbleiben länger auf Ihrem
+                    Rechner (sog. temporäre Cookies), sie werden ebenfalls nach Ablauf, maximal nach 5 Jahren automatisch gelöscht. In den Cookies
+                    werden keine sicherheitsrelevanten Daten gespeichert. Zudem werden keine personenbezogenen Daten in den von flaschenpost
+                    verwendeten Cookies gespeichert. Mit der Aktivierung eines Cookies erhält dieser lediglich eine Identifikationsnummer.
+                    Mithilfe der Cookie-Technologie erhalten wir ausschließlich anonymisierte Informationen, beispielsweise darüber, welche
+                    Seiten unserer Website besucht wurde, usw.
+                    
+                    Um der Verwendung von Cookies auf Ihrem Computer generell zu widersprechen, können Sie Ihren Internetbrowser so einstellen,
+                    dass zukünftig keine Cookies mehr auf Ihrem Computer abgelegt werden können bzw.
+                    bereits abgelegte Cookies gelöscht werden. Sie können die Verwendung von Cookies durch Drittanbieter wie z.B. Google auch auf
+                    der Website der Digital Advertising Alliance  deaktivieren.
+                
+5. Re-Marketing/Targeting
+
+                    Wir nutzen Re-Marketing/-Targeting, um Angebote im Internet für Internetnutzer sinnvoller zu gestalten.
+                    Mit Re-Marketing/-Targeting ist es uns möglich, Internetnutzer, die bereits unsere Website besucht und sich für unsere Angebote
+                    interessiert haben, auf den Websites unserer Partner mit unserer Werbung anzusprechen. Hierzu verwenden wir Cookies. Diese kleinen
+                    Textdateien werden von Google und Facebook auf Ihrem Computer gespeichert. Mit Hilfe der Textdateien kann Ihr Nutzerverhalten
+                    beim Besuch der Website analysiert und daran anknüpfend für gezielte Produktempfehlungen und interessante Werbung genutzt werden.
+                    Die Einblendung der Werbung erfolgt vollständig anonym und es werden zu keiner Zeit personenbezogene Daten gespeichert und
+                    Nutzungsprofile mit personenbezogenen Daten zusammengeführt. Sie haben die Möglichkeit bei Google unter
+                    
+                    der Nutzung Ihrer Daten für zielgerichtete Werbung zu widersprechen.
+                    Für alle anderen von uns genutzten Anbieter finden Sie einen entsprechenden Opt-Out-Link in den nachfolgenden Absätzen.
+                
+6. Facebook Custom Audience
+
+                    Innerhalb unseres Internetauftritts setzen wir dabei auch den „Facebook-Pixel“ der Facebook Inc. 1601 S. California Ave,
+                    Palo Alto, CA 94304, USA („Facebook“) ein. So kann das Verhalten von Nutzern nachverfolgt werden, nachdem diese eine
+                    Facebook-Werbeanzeige gesehen oder angeklickt haben. Dieses Verfahren dient dazu, die Wirksamkeit der Facebook-Werbeanzeigen
+                    für statistische und Marktforschungszwecke auszuwerten und kann dazu beitragen, Werbemaßnahmen zu optimieren.
+                    Die erhobenen Daten sind für uns anonym, bieten uns also keine Rückschlüsse auf die Identität der Nutzer. Allerdings werden die
+                    Daten von Facebook gespeichert und verarbeitet, sodass eine Verbindung zum jeweiligen Nutzerprofil möglich ist und Facebook die
+                    Daten für eigene Werbezwecke, entsprechend der Facebook-Datenverwendungsrichtlinie verwenden kann. Sie können Facebook sowie
+                    dessen Partnern das Schalten von Werbeanzeigen auf und außerhalb von Facebook ermöglichen. Es kann ferner zu diesen Zwecken ein
+                    Cookie auf Ihrem Rechner gespeichert werden. Nähere Informationen hierzu, sowie die Möglichkeit ein Opt-Out-Cookie zu setzen,
+                    finden Sie unter .
+                    
+                    Sie können die Verwendung von Cookies durch Facebook durch ein von uns speziell für diesen Fall entwickeltes Programm
+                    (webbasiertes Opt-Out-Verfahren) vollständig deaktivieren. Hierfür reicht es aus, wenn Sie den folgenden Link bestätigen.
+                    Mit der Bestätigung des Opt-Out-Links wird ein Opt-Out-Cookie gesetzt, der die zukünftige Erfassung Ihrer Daten beim Besuch
+                    dieser Website mit dem aktuell verwendeten Browser auf diesem Gerät unterbindet. Wenn sie Ihre Cookies löschen, müssen Sie das
+                    Opt-Out-Cookie erneut setzen:
+                    .
+                
+7. Google Universal Analytics
+
+                    Diese Website benutzt Google Universal Analytics, einen Webanalysedienst der Google Inc. (Google). Google Universal Analytics
+                    verwendet dazu Cookies. Die durch den in dem Cookie gespeicherten Informationen über Ihre Benutzung dieser Website werden in der
+                    Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung
+                    (sog. IP-Masking) auf dieser Webseite wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen
+                    Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen
+                    wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Die IP-Anonymisierung ist auf dieser
+                    Website aktiv. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website
+                    auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung
+                    verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser
+                    übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Nähere Informationen hierzu finden Sie unter
+                    
+                    (allgemeine Informationen zu Google Analytics und Datenschutz).
+                    Des Weiteren haben sie hier 
+                    die Möglichkeit Google Universal Analytics zu deaktivieren.
+                    Diese Deaktivierung unterbindet die zukünftige Erfassung Ihrer Daten beim Besuch dieser Website mit dem aktuell verwendeten
+                    Browser auf diesem Gerät. Dieses Opt-Out müssen Sie auf allen Systemen durchführen, die Sie nutzen, beispielsweise in einem
+                    anderen Browser oder auf Ihrem mobilen Endgerät.
+                    
+                    Die Nutzung von Google Universal Analytics erfolgt in Übereinstimmung mit den Voraussetzungen, auf die sich die deutschen
+                    Datenschutzbehörden mit Google verständigten.
+                    Informationen des Drittanbieters: Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland, Fax: +353 (1) 436 1001.
+                    
+                    Nutzerbedingungen: , 
+                    Übersicht zum Datenschutz: , sowie die 
+                    Datenschutzerklärung: 
+
+8. Google Tag-Manager
+
+                    Diese Website nutz darüber hinaus Google Tag-Manager von Google Inc. (Google). Mit dem Google Tag Manager können wir Website-Tags
+                    über eine Oberfläche verwalten. Der Tag Manager sorgt lediglich für die Auslösung anderer Tags, die ihrerseits unter Umständen
+                    Daten erfassen. Zu diesen jeweiligen Drittanbietern finden sich entsprechende Erklärungen in dieser Datenschutzerklärung.
+                    Der Google Tag Manager nutzt diese Daten lediglich zur Weiterleitung.
+                
+9. CrossEngage
+
+                    Wir möchten unser Angebot und unsere Marketingmaßnahmen für Sie auf allen genutzten Kanälen im Internet, den Social-Media Kanälen
+                    sowie mittels elektronischen (Mail) und physikalischen (Post) Angeboten mit relevanten Inhalten ausgestalten, die zu Ihren
+                    persönlichen Präferenzen passen. Um Ihnen individualisierte Inhalte und Angebote entsprechend zu Ihrem Nutzerverhalten zu zeigen,
+                    setzt unser Dienstleister CrossEngage GmbH, Bertha-Benz-Straße 5, 10557 Berlin, (CrossEngage) in unserem Auftrag Cookies ein.
+                    Über diese Cookies können wir Ihr Verhalten registrieren und das Verhalten auf unserer Website nachvollziehen, sodass anschließend
+                    gezielte Inhalte, wie Produktempfehlungen als personalisierte Werbemittel auf flaschenpost.de, anderen Webseiten oder anderen
+                    (Werbe-)Kanälen angezeigt werden können.
+                
+
+                    Wenn Sie sich in Ihr Nutzerkonto in unserem Online-Shop einloggen, übergeben wir Ihr Profil zur Auswertung an CrossEngage.
+                    Wenn Sie nicht in Ihr Nutzerkonto eingeloggt sind, so nutzt CrossEngage eine zufällig vergebene ID, um Sie beim wiederholten
+                    Besuch der Seite wieder zu identifizieren.
+                
+
+                    Wenn Sie hiermit nicht einverstanden sind, können Sie dieses verhindern, indem Sie sich über diesen
+                     abmelden.
+                
+10. SalesViewer®-Technologie
+
+                    Auf dieser Webseite werden mit der SalesViewer®-Technologie der SalesViewer® GmbH auf Grundlage berechtigter Interessen des
+                    Webseitenbetreibers (Art. 6 Abs.1 lit.f DSGVO) Daten zu Marketing-, Marktforschungs- und Optimierungszwecken gesammelt und gespeichert.
+                    
+                    Hierzu wird ein javascript-basierter Code eingesetzt, der zur Erhebung unternehmensbezogener Daten und der entsprechenden Nutzung
+                    dient. Die mit dieser Technologie erhobenen Daten werden über eine nicht rückrechenbare Einwegfunktion (sog. Hashing) verschlüsselt.
+                    Die Daten werden unmittelbar pseudonymisiert und nicht dazu benutzt, den Besucher dieser Webseite persönlich zu identifizieren.
+                
+
+                    Der Datenerhebung und -speicherung kann jederzeit mit Wirkung für die Zukunft widersprochen werden, indem Sie bitte
+                    
+                    hier auf jedem Ihrer genutzten Geräte, in jedem von Ihnen genutzten Brouser, anklicken, um die Erfassung durch SalesViewer®
+                    innerhalb dieser Webseite zukünftig zu verhindern. Dabei wird ein Opt-out-Cookie für diese Webseite auf Ihrem Gerät abgelegt.
+                    Löschen Sie Ihre Cookies in diesem Browser, müssen Sie diesen Link erneut klicken.
+                
+11. LinkedIn Analytics und LinkedIn Ads
+
+                    Wir verwenden darüber hinaus auf unserer Webseite die Retargeting-Funktion der LinkedIn Corporation. Durch die Nutzung dieser
+                    Technologie können den Besuchern dieser Webseite personalisierte Werbeanzeigen auf LinkedIn angezeigt werden. Darüber hinaus
+                    besteht die Möglichkeit, anonyme Berichte zur Performance der Werbeanzeigen sowie Informationen zur Webseiteninteraktion zu
+                    erstellen. Hierzu ist das LinkedIn Insight-Tag auf dieser Webseite eingebunden. Dadurch wird eine Verbindung zum LinkedIn-Server
+                    hergestellt, wenn Sie diese Webseite besuchen und zusätzlich parallel in Ihrem LinkedIn-Account eingeloggt sind.
+                    Darüber hinaus verwendet LinkedIn zwei Arten von Cookies: dauerhafte Cookies und Sitzungs-Cookies. Ein dauerhaftes Cookie
+                    ermöglicht LinkedIn, Sie als Mitglied zu erkennen. So können Sie leichter zu LinkedIn zurückkehren und mit Diensten von LinkedIn
+                    interagieren, ohne sich wieder bei LinkedIn einloggen zu müssen. Nach dem Einloggen bei LinkedIn bleibt ein dauerhaftes Cookie in
+                    Ihrem Browser und wird von LinkedIn gelesen, wenn Sie zu einer LinkedIn Webseiten oder einer Partner-Webseite zurückkehren, die
+                    Dienste von LinkedIn nutzt, z.B. unserer Webseite. Sitzungs-Cookies sind nur für die jeweilige Sitzung gültig (in der Regel der
+                    aktuelle Besuch einer Webseite oder eine Browser-Sitzung).
+                    
+                    In der Datenschutzrichtlinie von LinkedIn unter 
+                    finden Sie weitere Informationen zur Cookienutzung, Datenerhebung und Datennutzung sowie die Möglichkeiten und Rechte zum Schutz Ihrer Privatsphäre.
+                    Sind Sie bei LinkedIn eingeloggt, können Sie die Datenerhebung jederzeit unter folgendem Link deaktivieren:
+                    .
+                
+12. CRM-System Zendesk
+
+                    Wir setzen das CRM-System „Zendesk“, des Anbieters Zendesk, Inc., 989 Market Street #300, San Francisco, CA 94102, USA ein,
+                    um Anfragen der Nutzer schneller und effizienter bearbeiten zu können (berechtigtes Interesse gem. Art. 6 Abs. 1 lit. f. DS-GVO ).
+                    Zendesk ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine zusätzliche Garantie, das europäische
+                    Datenschutzrecht einzuhalten
+                    ().
+                    Zudem haben wir mit Zendesk die Einhaltung der EU-Standarddatenschutzklauseln (SCC) vereinbart. Darüber hinaus haben wir die
+                    Zusatzleistung „Standort des verwendeten Rechenzentrums“ bei Zendesk gebucht, um so sicherstellen zu können, dass Ihre Daten
+                    ausschließlich auf Servern in Ländern der EU gespeichert und verarbeitet werden.
+                    
+                    Zendesk verwendet Cookies, die uns eine Nachverfolgung Ihrer Nutzung unserer Seiten zu statistischen und Auswertungszwecken ermöglicht.
+                    Die durch Cookies erzeugten Informationen über die Benutzung dieser Webseite werden an einen Server von Zendesk übertragen und
+                    dort gespeichert. Durchgeführte Kommunikation unter Nutzung der Zendesk-Software wird ausschließlich auf Servern innerhalb der
+                    EU protokolliert und gespeichert. Sie können die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser
+                    Software verhindern; wir weisen jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen unserer
+                    Website vollumfänglich nutzen können. Weitere Informationen erhalten Sie in der Datenschutzerklärung von Zendesk:
+                    .
+                
+13. Onsite-Optimierungstool trbo
+
+                    Um unsere Online-Angebot besser zu steuern und zu nutzen sowie zum Zwecke der Verbesserung unserer Online-Werbung,
+                    bedienen wir uns der Tracking-Technologien der trbo GmbH, Leopoldstraße 21, 80801 München ().
+                    Die Nutzung dieser Technologie hilft uns zu verstehen, welche Seiten für die Nutzer unsere Dienste besonders attraktiv sind,
+                    welche Produkte unsere Kunden am meisten interessieren und welche individuellen Angebote wir unseren Website-Nutzern jeweils machen sollten.
+                    Die in diesem Rahmen erhobenen und verwendeten Daten werden stets nur unter einer einem Pseudonym (z.B. einer zufälligen Identifikationsnummer)
+                    gespeichert und werden nicht mit personenbezogenen Daten über Sie (z.B. Namen, Adresse etc.) zusammengeführt.
+                    Soweit die externen Dienstleister Zugriff auf die Daten erhalten, erfolgt dies ausschließlich in unserem Auftrag und unter unserer Kontrolle.
+                    Technisch verwenden die eingesetzten Tracking Tools insbesondere sogenannte „Cookies“ und „Web-Beacons“, um nachfolgende Information zu sammeln.
+                    (i) welche Seiten werden wann, wie oft und in welcher Reihenfolge aufgesucht,
+                    (ii) nach welchen Produkten wird gesucht,
+                    (iii) auf welche Links bzw. Angebote wird geklickt und welche Bestellungen werden aufgegeben. 
+                    Wenn Sie nicht möchten, dass wir auf diese Weise Informationen über Ihre Benutzung der Website erheben oder verwenden,
+                    können Sie dem über den folgenden Link widersprechen (sog. Opt-Out“) unter
+                    .
+                    Dazu wird ein entsprechendes Opt-Out-Cookie bei Ihnen gesetzt, dass keine für Tracking geeignete Daten enthält, 
+                    sondern es lediglich ermöglicht, Ihren Widerspruch gegen die Datenerhebung zu erkennen, so dass diese nicht mehr durchgeführt wird. 
+                    Bitte beachten Sie auch hier, dass dem Löschen aller Cookies auch der Opt-Out-Cookie gelöscht würde. 
+                    Rechtsgrundlage für die Verarbeitung Ihrer Daten ist Art. 6 Abs. 1 S. 1 lit. f DSGVO.
+                
+Rechtsgrundlage zu den Datenverarbeitungsvorgängen
+
+                    Die Erhebung und Verwendung personenbezogener Daten unserer Nutzer erfolgt regelmäßig nur nach Einwilligung des Nutzers. Soweit
+                    wir für Verarbeitungsvorgänge personenbezogener Daten eine Einwilligung der betroffenen Person einholen, dient Art. 6 Abs. 1 lit. a
+                    DSGVO als Rechtsgrundlage für die Verarbeitung personenbezogener Daten.
+                
+
+                    Eine Ausnahme gilt in solchen Fällen, in denen eine vorherige Einholung einer Einwilligung aus tatsächlichen Gründen nicht möglich
+                    ist und die Verarbeitung der Daten durch gesetzliche Vorschriften gestattet ist.
+                
+
+                    Bei der Verarbeitung von personenbezogenen Daten, die zur Erfüllung eines Vertrages, dessen Vertragspartei die betroffene Person
+                    ist, erforderlich ist, dient Art. 6 Abs. 1 lit. b DSGVO als Rechtsgrundlage. Dies gilt auch für Verarbeitungsvorgänge, die zur
+                    Durchführung vorvertraglicher Maßnahmen erforderlich sind.
+                
+
+                    Soweit eine Verarbeitung personenbezogener Daten zur Erfüllung einer rechtlichen Verpflichtung erforderlich ist, der wir unterliegen,
+                    dient Art. 6 Abs. 1 lit. c DSGVO als Rechtsgrundlage. Ist die Verarbeitung zur Wahrung eines berechtigten Interesses unseres
+                    nternehmens oder eine Dritten erforderlich und überwiegen die Interessen, Grundrechte und Grundfreiheiten des Betroffenen das
+                    erstgenannte Interesse nicht, so dient Art. 6 Abs. 1 lit. f DSGVO als Rechtsgrundlage für die Verarbeitung.
+                
+
+                    Soweit erforderlich verarbeiten wir Ihre Daten über vorgenannte Zwecke hinaus auch zur Wahrung unserer berechtigten Interessen
+                    oder der Interessen von Dritten; dies erfolgt auf Grundlage von Artikel 6 Absatz 1 f DSGVO. Zu unseren berechtigten Interessen
+                    gehören insbesondere
+                
+
+
+
+
+
+
+
+Sicherungsmaßnahmen zum Schutz der bei uns gespeicherten Daten
+
+                    Die Sicherheit Ihrer Daten steht für uns an erster Stelle. Deshalb arbeiten wir grundsätzlich nur mit verschlüsselten Websites.
+                    D.h. alle Daten (persönlich und unpersönlich) verschlüsseln wir mit dem SSL (Secure Socket Layer)-Verfahren. Die Verschlüsselung
+                    erkennen Sie am Schloss-Symbol im Browser sowie am "https://" in der Adressleiste Ihres Browsers.
+                
+Hyperlinks zu fremden Websites
+
+                    Auf unserer Website befinden sich sog. Hyperlinks zu Websites anderer Anbieter. Bei Aktivierung dieser Hyperlinks werden Sie von
+                    unserer Website direkt auf die Website der anderen Anbieter weitergeleitet. Sie erkennen dies u.a. am Wechsel der URL. Wir können
+                    keine Verantwortung für den vertraulichen Umgang Ihrer Daten auf diesen Websites Dritter übernehmen, da wir keinen Einfluss darauf
+                    haben, dass diese Unternehmen die Datenschutzbestimmungen einhalten. Über den Umgang mit Ihren personenbezogenen Daten durch
+                    diese Unternehmen informieren Sie sich bitte auf diesen Websites direkt.
+                
+Kontaktformular
+
+                    Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Anfrageformular inklusive der von Ihnen
+                    dort angegebenen Kontaktdaten zum Zweck der Bearbeitung Ihrer Anfrage und für den Fall von Anschlussfragen bei uns gespeichert.
+                    Dazu nutzen wir das . Diesbezüglich verweisen wir an dieser Stelle auf unsere vorstehenden Informationen
+                    zu dem von uns genutzten CRM-System.
+                
+Verwendung von Social Plugins
+
+                    Auf unseren Websites sind zudem Plug-Ins der sozialen Netzwerke „Facebook“ (Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA)
+                    und Instagram (bereitgestellt durch Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland) enthalten.
+                    
+                    Diese werden ausschließlich von dem jeweiligen Anbieter betrieben. Die Plug-Ins sind im Rahmen unseres Onlineauftritts durch den jeweiligen,
+                    zum Dienst gehörenden Button kenntlich gemacht. Beim Besuch einer Unterseite unserer Websites, die ein derartiges Plug-In enthält,
+                    stellt ihr Browser eine Verbindung mit den Servern des jeweiligen Dienstes her, wodurch wiederum der Inhalt des Plug-Ins an Ihren
+                    Browser übermittelt und von diesem in die dargestellte Seite eingebunden wird. Somit wird die Information über den Besuch unserer
+                    Website an den jeweiligen Dienst weitergeleitet. Sofern Sie während des Besuchs auf unserer Website auch zeitgleich über Ihr
+                    persönliches Benutzerkonto bei dem jeweiligen Dienst angemeldet sind (z.B. über eine weitere Browser-Session), kann dieser den
+                    Besuch auf unserer Webseite Ihrem Konto zuordnen. Mithilfe der Plugins können Nutzer Links zu entsprechenden Webseiten in sozialen
+                    Netzwerken teilen oder posten bzw. die dortigen Inhalte empfehlen. Durch Ihre aktive Interaktion mit diesen Plug-Ins, z.B. durch
+                    Anklicken des jeweiligen Buttons oder Hinterlassen eines Kommentars werden diese entsprechenden Informationen direkt an den
+                    jeweiligen Dienst übermittelt und dort gespeichert.
+                    
+                    Sollten Sie eine derartige Datenübermittlung unterbinden möchten, müssen Sie sich vor dem Besuch unserer Webseiten von Ihrem
+                    Benutzerkonto des jeweiligen Dienstes abmelden. Umfang und Zweck der Datenerhebung durch den jeweiligen Dienst sowie die dortige
+                    weitere Verarbeitung und Nutzung Ihrer Daten entnehmen Sie bitte den Datenschutzhinweisen direkt von der Webseite des Dienstes
+                    (; und
+                    ).
+                    Dort erhalten Sie auch weitere Informationen über Ihre entsprechenden Datenschutzrechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre.
+                
+Einsatz von Dienstleistern zur Verarbeitung personenbezogener Daten/ Verarbeitung von Daten in Ländern außerhalb des Europäischen Wirtschaftsraums
+
+                    Sollten wir zur Erbringung von Leistungen und zur Verarbeitung Ihrer Daten rund um unsere Dienstleistungen und Produkte
+                    Dienstleister einsetzen, verarbeiten diese Dienstleister die Daten ausschließlich im Rahmen unserer Weisung und sind zur
+                    Einhaltung der geltenden Datenschutzbestimmungen verpflichtet worden. Sämtliche Auftragsverarbeiter wurden sorgfältig ausgewählt
+                    und erhalten nur in dem Umfang und für den benötigten Zeitraum Zugang zu Ihren Daten, der für die Erbringung der Leistungen
+                    erforderlich ist bzw. in dem Umfang, in dem Sie in die Datenverarbeitung und -nutzung eingewilligt haben.
+                    
+                    Sofern die übermittelten Informationen auch personenbezogene Daten umfassen, stellen wir vor einer solchen Übermittlung sicher,
+                    dass in dem jeweiligen Drittland oder bei dem Empfänger in dem Drittland das erforderliche angemessene Datenschutzniveau
+                    gewährleistet ist. Dies kann sich insbesondere aus einem sog. "Angemessenheitsbeschluss" der Europäischen Kommission ergeben,
+                    mit der ein angemessenes Datenschutzniveau für ein bestimmtes Drittland insgesamt festgestellt wird. Alternativ können wir die
+                    Datenübermittlung auch auf die mit einem Empfänger vereinbarten sog. "EU Standardvertragsklauseln" oder – im Falle von Empfängern
+                    in den USA – auf die Einhaltung der Prinzipien des sog. "EU-US Privacy Shield" stützen. Weitere Informationen zu den geeigneten
+                    und angemessenen Garantien zur Einhaltung eines angemessenen Datenschutzniveaus stellen wir Ihnen auf Anfrage gerne zur Verfügung;
+                    die Kontaktdaten finden Sie am Anfang dieser Datenschutzinformation. Informationen zu den Teilnehmern des EU-US Privacy
+                    Shield finden Sie zudem .
+                    
+                    Wir können Ihre personenbezogenen Daten im rechtlich zulässigen Umfang auch an Dritte außerhalb unseres Unternehmens übermitteln.
+                    Zu diesen externen Empfängern können insbesondere zählen
+                
+
+
+
+
+
+
+
+
+
+
+
+Speicherdauer
+
+                    Ihre personenbezogenen Daten speichern wir nur solange, wie dies nach dem Gesetz zulässig ist. Die Löschung der gespeicherten
+                    personenbezogenen Daten erfolgt, wenn der Nutzer seine Einwilligung zur Speicherung widerruft oder wenn die Kenntnis dieser
+                    Daten zur Erfüllung des mit der Speicherung verfolgten Zwecks nicht mehr erforderlich ist, insbesondere wenn das Nutzerkonto
+                    gelöscht wird oder wenn ihre Speicherung aus sonstigen gesetzlichen Gründen unzulässig ist. Hiervon unberührt bleiben einschlägige
+                    gesetzliche Aufbewahrungsfristen aus dem Handelsgesetzbuch oder der Abgabenordnung. In der Zeit der gesetzlichen Aufbewahrungsfrist
+                    werden Ihre personenbezogenen Daten gesperrt und keiner anderen Datenverarbeitung zugeführt.
+                    
+                    In der Regel werden
+                
+
+
+
+
+
+
+
+Automatisierte Entscheidungsfindung
+
+                    Die einzige automatisierte Entscheidungsfindung betrifft die Frage, ob eine Bestellung per Lastschrift bezahlt werden darf oder
+                    ob ausschließlich PayPal oder Kreditkarte als Zahlungsart angeboten werden kann. Für die Beantwortung wird schlichtweg nur die
+                    Bestellhistorie des Kunden nach offenen Rechnungen durchsucht. Die offene Rechnung muss dabei einen fixen Schwellenwert erreichen,
+                    um überhaupt eine solche Entscheidung zu treffen.
+                
+
+                    Im Zusammenhang mit dem Betrieb unserer Webseite nutzen wir ansonsten grundsätzlich keine automatisierte weitere Entscheidungsfindung
+                    (einschließlich Profiling) im Sinne von Art. 22 DSGVO. Sofern wir derartige Verfahren in Einzelfällen einsetzen, werden wir Sie
+                    hierüber im rechtlich vorgesehenen Umfang gesondert informieren.
+                
+C. Angaben zu weiteren Datenverarbeitungsverfahren
+I. Spezifische Angaben zum Bewerbungsverfahren
+
+
+Betroffene Daten:
+Bewerberdaten
+
+
+Verarbeitungszweck:
+Durchführung Bewerbungsverfahren
+
+
+Kategorien von Empfängern:
+
+
+                                Öffentliche Stellen bei Vorliegen vorrangiger Rechtsvorschriften.
+                            
+
+                                Externe Dienstleister oder sonstige Auftragnehmer, u.a. zur Datenverarbeitung und Hosting.
+                            
+
+                                Weitere externe Stellen soweit der Betroffene seine Einwilligung erteilt hat oder eine Übermittlung aus
+                                überwiegendem Interesse zulässig ist.
+                            
+
+
+
+Drittlandtransfers::
+
+                            Im Rahmen des Bewerbungsverfahrens können auch Auftragsverarbeiter außerhalb der Europäischen Union zum Einsatz kommen.
+                            Aktuell nutzen wir Software der Firma Greenhouse Software, Inc. („Greenhouse“), 18 West 18th Street, 9. Stock New York,
+                            NY 10011 USA. Greenhouse ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine zusätzliche Garantie,
+                            das europäische Datenschutzrecht einzuhalten. Ein aktuelles Zertifikat der EU-US-Privacy Shield List kann
+                             eingesehen
+                            werden. Sofern Sie im Rahmen Ihres Bewerbungsverfahrens unser Kontaktformular nutzen, kommt die von uns eingesetzte
+                            CRM-Software zu Einsatz. Diesbezügliche Informationen zu dieser Software finden Sie 
+
+
+
+Dauer Datenspeicherung:
+
+                            Bewerbungsdaten werden nach Mitteilung der Entscheidung in der Regel binnen 7 Monaten gelöscht, soweit nicht eine
+                            Einwilligung in eine längere Datenspeicherung im Rahme der Aufnahme in den Bewerberpool vorliegt.
+                        
+
+
+
+
+                    Weitere ausführliche Hinweise bezüglich des Bewerbermanagements können Sie folgendem Link entnehmen:
+                    .
+                
+
+                    Rechtsgrundlage für die Verarbeitung Ihrer personenbezogenen Daten aus Ihren Bewerbungsunterlagen ist die von Ihnen abgegebene
+                    Einwilligungserklärung, Art. 6 Abs. 1 lit. a, Art 88 DSGVO i.V.m. § 26 BDSG. Darüber hinaus verarbeiten wir Ihre Daten zum Zwecke
+                    der Durchführung von vorvertraglichen Maßnahmen gemäß Art. 6 Abs. 1 lit. b, Art 88 DSGVO i.V.m § 26 BDSG.
+                
+Bewerbung über Facebook
+
+                    Wir geben Ihnen ebenfalls die Möglichkeit, sich auf unserer Facebook-Fanpage  über freie Stellenangebote
+                    zu informieren und uns unmittelbar über Facebook Ihre Bewerbung zukommen zu lassen.
+                
+
+                    Wenn Sie Interesse an einer von uns dort angebotenen Stelle haben, bestätigen Sie den Button „Jetzt bewerben“ und geben Sie dort
+                    die erforderlichen Daten in die dafür vorgesehene Maske ein. Im Rahmen dieses Bewerbungsverfahrens erheben wir folgende
+                    personenbezogene Daten von Ihnen:
+                
+
+
+
+
+
+
+
+                    Darüber hinaus werden keine weiteren personenbezogenen Daten von Ihnen erhoben. Sämtliche weiteren Angaben sind freiwillig.
+                    Facebook leitet Ihre Bewerbung an uns weiter und schickt Ihnen anschließend eine bestätigungs-E-Mail an Ihr Facebook-Postfach.
+                
+
+                    Die Verarbeitung im Rahmen des Bewerbungsprozesses über die Plattform Facebook Irland Ltd. Liegt die Rechtsgrundlage des Art.
+                    6 Abs. 1 lit. b, Art. 88 DSGVO in Verbindung mit § 26 BDSG zu Grunde. Wir verarbeiten Ihre Daten zum Zwecke der Durchführung von vorvertraglichen Maßnahmen.
+                
+
+                    Wir weisen ausdrücklich darauf hin, dass Facebook Ltd., Irland, Ihre Daten als gemeinsamer Verantwortlicher gemäß Art 26 DSGVO
+                    ebenfalls verarbeitet. Informationen zum Datenschutz bei Facebook können Sie unter
+                     finden.
+                
+II. Spezifische Angaben zur Verarbeitung von Beschäftigtendaten
+
+
+Betroffene Daten:
+Zur Vertragsdurchführung mitgeteilte Daten; ggfs. darüber hinaus gehende Daten zur Verarbeitung auf Basis Ihrer ausdrücklichen Einwilligung.
+
+
+Verarbeitungszweck:
+Vertragsdurchführung im Rahmen des Beschäftigungsverhältnisses, des Praktikumsverhältnisses, des Werkstudentenarbeitsverhältnisses, der Hospitation 
+
+
+Kategorien von Empfängern:
+
+
+                                Öffentliche Stellen bei Vorliegen vorrangiger Rechtsvorschriften, u.a. Finanzamt, Sozialversicherungsträger, Berufsgenossenschaft
+                            
+
+                                Externe Dienstleister oder sonstige Auftragnehmer, u.a. zur Datenverarbeitung und Hosting, zur Entgeltabrechnung,
+                                zur Reisekostenabrechnung, zu Versicherungsleistungen, zur Fahrzeugnutzung, zur Nutzung der betrieblichen
+                                Sozialleistungsangebote wie z.B. des Sportangebotes
+                            
+
+
+
+Drittlandtransfers:
+keine
+
+
+Dauer Datenspeicherung:
+
+                            Die Dauer der Datenspeicherung richtet sich nach den gesetzlichen Aufbewahrungspflichten und beträgt in der Regel 10 Jahre.
+                        
+
+
+Rechtsgrundlage:
+
+                            Art. 6 Abs. 1 lit. b, Art. 88 DSGVO i.V.m. § 26 BDSG
+                        
+
+
+
+III. Spezifische Angaben zur Verarbeitung von Lieferantendaten
+
+
+Betroffene Daten:
+Zur Vertragsdurchführung mitgeteilte Daten; ggfs. darüber hinaus gehende Daten zur Verarbeitung auf Basis Ihrer ausdrücklichen Einwilligung.
+
+
+Verarbeitungszweck:
+Vertragsdurchführung, u.a. Anfragen, Einkauf, Qualitätssicherun
+
+
+Kategorien von Empfängern:
+
+
+                                Öffentliche Stellen bei Vorliegen vorrangiger Rechtsvorschriften, u.a. Finanzamt, Zoll
+                            
+
+                                Externe Dienstleister oder sonstige Auftragnehmer, u.a. zur Datenverarbeitung und Hosting, Zahlungsabwicklung
+                            
+
+                                Weitere externe Stellen soweit der Betroffene seine Einwilligung erteilt hat oder eine Übermittlung aus überwiegendem Interesse zulässig ist, u.a. zur Vertragsakquise, zur Abwicklung von Versicherungsleistungen, zur Betreuung von Vertragsverhältnissen usw..
+                            
+
+
+
+Drittlandtransfers::
+keine
+
+
+Dauer Datenspeicherung:
+
+                            Die Dauer der Datenspeicherung richtet sich nach den gesetzlichen Aufbewahrungspflichten und beträgt in der Regel 10 Jahre.
+                        
+
+
+Rechtsgrundlage:
+Art. 6 Abs. 1 lit. b DSGVO
+
+
+
+IV. Spezifische Angaben zu unseren Social-Media-Kanälen facebook und instagram
+
+                    Innerhalb sozialer Netzwerke und Plattformen sind wir ebenfalls online vertreten (facebook.com/flaschenpost.de und instagram.com/flaschenpost.de),
+                    um mit Ihnen, als aktiver Kunde, Interessent und Nutzer kommunizieren und sie dort über unsere Leistungen informieren zu können.
+                
+
+                    Der  entschieden, dass der Betreiber einer Facebook-Seite
+                    gemeinsam mit Facebook für die Verarbeitung personenbezogener Daten verantwortlich ist.
+                
+
+                    Beim Besuch unserer Facebook-Seite und/oder unserer Instagram-Seite erfasst Facebook/Instagram weitere Informationen und verwendet
+                    hierzu auch Cookies, die auf Ihrem PC vorhanden sind. Diese Informationen werden verwendet, um uns als Betreiber der
+                    Facebook/Instagram-Seiten statistische Informationen über die Inanspruchnahme der Facebook/Instagram-Seite zur Verfügung zu stellen.
+                    Uns ist bekannt, dass Daten der Nutzer zu folgenden Zwecken verarbeitet werden:
+                
+
+
+
+
+
+
+
+                    Die in diesem Zusammenhang über Sie erhobenen Daten werden von der Facebook Ltd./ Instagram Inc. verarbeitet und dabei
+                    gegebenenfalls in Länder außerhalb der Europäischen Union übertragen. Welche Informationen Facebook/Instagram erhält und wie
+                    diese verwendet werden, beschreibt Facebook/Instagram in allgemeiner Form in seinen Datenverwendungsrichtlinien. Dort finden
+                    Sie auch Informationen über Kontaktmöglichkeiten zu Facebook/Instagram sowie zu den Einstellmöglichkeiten für Werbeanzeigen.
+                    Die Datenverwendungsrichtlinien für Facebook sind unter folgendem Link verfügbar: .
+                    Die vollständigen Datenschutzrichtlinien von Facebook finden Sie hier: .
+                    Die Datenschutzrichtlinie von Instagram finden Sie unter folgenden Link: .
+                
+
+                    Der Betrieb unserer Facebook-Seite und unserer Instagram-Seite unter Einbezug der Verarbeitung der personenbezogenen Daten der
+                    Nutzer erfolgt auf Grundlage unserer berechtigten Interessen an einer zeitgemäßen und unterstützenden Informations- und
+                    Interaktionsmöglichkeit für und mit unseren Nutzern und Besuchern gem. Art. 6 Abs. 1 lit. f. DSGVO. Falls die Nutzer von
+                    den jeweiligen Anbietern der Plattformen um eine Einwilligung in die vorbeschriebene Datenverarbeitung gebeten werden,
+                    ist die Rechtsgrundlage der Verarbeitung Art. 6 Abs. 1 lit. a., Art. 7 DSGVO.
+                
+
+                    Auch im Fall von Auskunftsanfragen und der Geltendmachung von Nutzerrechten, weisen wir darauf hin, dass diese bei den Anbietern
+                    geltend gemacht werden sollten. Nur die Anbieter haben jeweils Zugriff auf die Daten der Nutzer und können direkt entsprechende
+                    Maßnahmen ergreifen und Auskünfte geben.
+                
+
+
+
+
+
+
+                    Facebook Inc., der US-amerikanische Mutterkonzern der Facebook Ireland Ltd. ist unter dem EU-U.S. Privacy-Shield zertifiziert
+                    und gibt damit die Zusage, sich an europäische Datenschutzrichtlinien zu halten. Weitere Informationen zum Privacy-Shield-Status
+                    von Facebook gibt es hier: .
+                
+
+                    Die Übermittlung und weitere Verarbeitung personenbezogener Daten der Benutzer in Drittländer, wie z.B. die USA, sowie die damit
+                    verbundenen eventuellen Risiken für die Benutzer können von uns als Betreiber der Seite nicht ausgeschlossen werden.
+                
+
+V. Spezifische Angaben zu unserer flaschenpost-App
+
+                    Diese Datenschutzerklärung (unsere allgemeinen Angaben zusammen mit diesen spezifischen Angaben) wird Ihnen beim ersten Start der
+                    App angezeigt. Sie können dann entscheiden, ob Sie in die nachfolgend beschriebene Verarbeitung Ihrer personenbezogenen Daten durch
+                    unsere App einwilligen, in dem Sie den Button „Einwilligung“ anklicken. Danach können Sie die jeweils gültige Datenschutzerklärung
+                    jederzeit in der App unter dem Menüpunkt „Datenschutz“ einsehen.
+                
+Erhebung personenbezogener Daten bei Nutzung unserer mobilen flaschenpost-App
+App-Download
+
+                    Wenn Sie unsere mobile App herunterladen, werden die dafür erforderlichen Informationen an den jeweiligen App Store
+                    (Apple Store oder Google Play Store) übertragen. Dieses können zum Beispiel Ihr Nutzername, E-Mail-Adresse und Kundennummer
+                    Ihres Accounts bei Ihrem Anbieter, Zeitpunkt des Downloads, Zahlungsinformationen und die individuelle Gerätekennziffer sein.
+                    Auf diese Datenerhebung durch den App Store haben wir keinen Einfluss und sind nicht dafür verantwortlich. Wir verarbeiten die
+                    Daten nur, soweit es für das Herunterladen der mobilen App auf Ihr mobiles Endgerät notwendig ist. Weitere Informationen finden
+                    Sie in den Datenschutzhinweisen der App-Store-Betreiber:
+                
+
+
+
+
+
+App-Nutzung
+
+                    Sie müssen sich für die Nutzung der App und der von uns darüber angebotenen Dienste grundsätzlich nicht registrieren.
+                    Eine Registrierung wird erst erforderlich, wenn Sie über unsere App auf Ihr Kundenkonto in unserem flaschenpost-App-Shop zugreifen
+                    oder wenn Sie in unserem flaschenpost-App-Shop von uns angebotene Produkte verbindlich bestellen wollen. Sie können Ihr individuelles
+                    Nutzerkonto mit Ihrer E-Mail-Adresse und einem von Ihnen individuell vergebenes Passwort nutzen. Dieses Passwort können Sie
+                    selbstverständlich jederzeit in Ihrem Kundenkonto abändern. Wir speichern Ihr Passwort nur kryptografisch geschützt. Wir erheben
+                    bei der Nutzung der mobilen App auf Ihrem Endgerät die bereits vorstehend unter B Ziffern 1. – 12. beschriebenen personenbezogenen
+                    Daten. Sofern wir aktuell noch nicht alle unter B Ziffern 1. – 12. beschriebenen Funktionalitäten nutzen, behalten wir uns dies
+                    Nutzung zu einem späteren Zeitpunkt ausdrücklich hiermit vor. Diese Datenerhebung ist technisch erforderlich, um Ihnen die
+                    Funktionen unserer mobilen App anzubieten zu können und Ihnen die Stabilität und Sicherheit zu gewährleisten.
+                    Rechtsgrundlage der Verarbeitung ist Art. 6 Abs. 1 S. 1 lit. f. DS-GVO. Unser überwiegendes berechtigtes Interesse zu dieser
+                    Datenverarbeitung folgt aus oben aufgelisteten Zwecken zur Datenerhebung. Im Falle Ihrer Kundenregistrierung erfolgt die Verarbeitung
+                    zum Zwecke der Vertragsanbahnung und/oder Vertragsabwicklung gemäß Art 6 Abs. 1 lit. b DS-GVO.
+                
+Weitergabe personenbezogener Daten
+
+                    Wir geben grundsätzlich keine personenbezogenen Daten an Dritte weiter, es sei denn,
+                
+
+
+
+
+
+
+
+Firebase
+
+                    Wir verwenden für unsere App den Trackingdienst „Firebase“ des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View,
+                    CA 94043 („Google“). Google Firebase verwendet Tracking-Technologien, die eine Analyse der Nutzung unserer APP durch Sie
+                    ermöglichen, z.B. zur Leistungsüberwachung (Performance Monitoring), für Fehlerprotokolle und zur Analyse des Nutzerverhaltens
+                    bspw., welche Screens betrachtet und welche Publikationen wie oft geöffnet wurden. Der Zweck warum wir Firebase verwenden ist,
+                    die Nutzung unserer App zu analysieren, regelmäßig zu verbessern und damit nutzerfreundlicher betreiben zu können. Über die
+                    gewonnenen Statistiken können wir unser Angebot für Sie verbessern und für Sie als Nutzer interessanter ausgestalten.
+                    Rechtsgrundlage dieser Datenverarbeitung ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO, da wir ein berechtigtes Interesse an der Analyse,
+                    Optimierung und dem wirtschaftlichen Betrieb unserer APP haben und die Datenverarbeitung zur Wahrung dieses Interesses erforderlich ist.
+                
+
+                    Mit Firebase werden Informationen über die Benutzung unserer App erfasst und an Google in Irland oder in den USA übertragen und
+                    dort gespeichert. Die Daten werden lediglich anonymisiert erhoben und an Firebase übermittelt.
+                
+
+                    Für die personenbezogene Daten, die in die USA übertragen werden, hat sich Google dem EU-US Privacy Shield unterworfen:
+                    .
+                
+
+                    Nähere Informationen zu Google Firebase und Datenschutz finden Sie unter
+                     sowie
+                    .
+                
+Push-Nachrichten
+
+                    Diese App bietet Ihnen die Möglichkeit, mittels sogenannter Push-Nachrichten aktuelle Informationen zum Lieferstatus Ihrer
+                    Bestellung und/oder über unser Angebot, Nachrichten und relevante Werbung zu erhalten. Push-Nachrichten sind Meldungen, die ohne
+                    das Öffnen der jeweiligen App auf Ihrem Endgerät erscheinen.
+                
+
+                    Für die Versendung unserer Push-Nachrichten werden bei der App-Installation für iOS-Geräte und Android-Geräte individuelle
+                    Kennziffern für jedes Endgerät vergeben (sog. „Device token“ bzw. „Instance ID“). Falls Sie dies nicht wünschen, können Sie den
+                    Push-Service über Ihre Geräteeinstellungen und in den Einstellungen innerhalb der App jederzeit deaktivieren. Dies können Sie im Menüpunkt „Mehr“ im Bereich „App Einstellungen“. Klicken Sie dazu auf den jeweiligen Toggle Switch (Schalter).
+                    Rechtsgrundlage dieser Datenverarbeitung ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO, da wir als Unternehmer ein berechtigtes Interesse
+                    an der Versendung von Lieferstatusinformationen und Werbung für unser Produkt haben und Sie den Erhalt jederzeit abstellen können.
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Datenschutzerklrung
+1. Allgemeine Informationen ber die Erhebung personenbezogener Daten
+(1) In der folgenden Datenschutzerklrung mchten wir erlutern, wie wir mit den personenbezogenen Daten, welche an uns bei der Nutzung unserer Internetprsenz bzw. unserer Angebote bermittelt werden, umgehen. Personenbezogene Daten sind alle Daten, die auf Sie persnlich beziehbar sind, z.B. Name, Adresse, E-Mail-Adressen oder Nutzerverhalten.
+(2) Veranwortlicher gem. Art. 4 Ziff. 7 DS-GVO:
+Mindfactory AG
+
+Preuenstrae 14 a - c
+26388 Wilhelmshaven
+Telefon: 04421 / 91 31 010
+Telefax: 04421 / 91 31 019
+E-Mail: 
+(3) Unseren betrieblichen Datenschutzbeauftragten erreichen Sie unter  oder unter o.g. Anschrift mit dem Zusatz "Der Datenschutzbeauftragte"
+
+2. Betroffenenrechte
+(1) Sie haben gegenber uns folgende Rechte hinsichtlich der Sie betreffenden personenbezogenen Daten:
+
+
+
+
+
+
+
+
+
+(2) Im brigen haben Sie das Recht eine Beschwerde bei einer datenschutzrechtlichen Aufsichtsbehrde einzureichen, sofern Sie der Ansicht sind, dass die Verarbeitung Ihrer personenbezogenen Daten durch uns unrechtmig ist. Dies sind die Landesbeauftragten fr Datenschutz, den fr Sie zustndigen Ansprechpartner finden Sie z.B. unter folgender URL: .
+
+(3) Widerspruch gegen die Verarbeitung Ihrer Daten
+Soweit wir die Verarbeitung Ihrer personenbezogenen Daten auf die Interessenabwgung sttzen, knnen Sie Widerspruch gegen die Verarbeitung einlegen. Dies ist der Fall, wenn die Verarbeitung insbesondere nicht zur Erfllung eines Vertrags mit Ihnen erforderlich ist, was von uns jeweils bei der entsprechenden Beschreibung der Funktionen dargestellt wird. Bei Ausbung eines solchen Widerspruchs bitten wir um Darlegung der Grnde, weshalb wir Ihre personenbezogenen Daten nicht wie von uns durchgefhrt verarbeiten sollten. Im Falle Ihres begrndeten Widerspruchs prfen wir die Sachlage und werden entweder die Datenverarbeitung einstellen bzw. anpassen oder Ihnen unsere zwingenden schutzwrdigen Grnde aufzeigen, aufgrund derer wir die Verarbeitung fortfhren. Selbstverstndlich knnen Sie der Verarbeitung Ihrer personenbezogenen Daten fr Zwecke der Werbung und Datenanalyse jederzeit widersprechen. ber Ihren Widerspruch knnen Sie uns unter folgenden Kontaktdaten informieren:
+Mindfactory AG
+
+Preuenstrae 14 a - c
+26388 Wilhelmshaven
+Telefon: 04421 / 91 31 010
+Telefax: 04421 / 91 31 019
+E-Mail: 
+
+3. Datensicherheit
+Da uns die Sicherheit Ihrer Daten wichtig ist, werden Ihre persnlichen Daten mit einer sicheren SSL- bzw. TLS-Verschlsselung/Verbindung bermittelt. TLS (Transport Layer Security) bzw. die Vorgngerversion SSL (Secure Socket Layer) ist ein Protokoll zur Verschlsselung von Datenbertragungen im Internet. Hiermit schtzen wir Ihre persnlichen Daten vor fremdem Zugriff.  Die Verschlsselung der Verbindung knnen Sie in der Browserzeile durch das Zeichen "https//:" bzw. das Schloss-Symbol erkennen.
+Zudem sichern wir unsere Internetprsenz und sonstigen Systeme durch technische und organisatorische Manahmen gegen Verlust, Zerstrung, Zugriff, Vernderung oder Verbreitung Ihrer Daten durch unbefugte Personen. Trotz regelmiger Kontrollen ist ein vollstndiger Schutz gegen alle Gefahren jedoch nicht mglich.
+
+4. Besuch unserer Internetprsenz
+Bei der blo informatorischen Nutzung unserer Internetprsenz, also wenn Sie sich nicht registrieren oder uns anderweitig Informationen bermitteln, erheben wir nur die personenbezogenen Daten, die Ihr Browser an unseren Server bermittelt. Sobald Sie eine Datei von unserer Internetprsenz anfordern, werden standardmig Zugriffsdaten erhoben und gespeichert. 
+Dieser Datensatz besteht aus:
+
+
+
+
+
+
+
+
+
+
+Diese Daten sind fr uns erforderlich, um Ihnen unsere Internetprsenz anzuzeigen sowie die Stabilitt und Sicherheit zu gewhrleisten. Ferner werden diese zu internen statistischen Zwecken sowie zur technischen Administration der Internetprsenz ausgewertet. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO. Unser berechtigtes Interesse folgt aus den genannten Zwecken der Datenerhebung.
+
+5. Nutzung unseres Onlineshops
+(1) Wenn Sie in unserem Onlineshop eine Bestellung aufgeben mchten, haben Sie im Rahmen des Bestellvorgangs personenbezogene Daten anzugeben. Welche Daten hierfr erhoben werden, ist aus den jeweiligen Eingabemasken ersichtlich, wobei die notwendigen Pflichtangaben jeweils besonders gekennzeichnet sind. Alle weiteren Angaben sind freiwillig.
+Die Angabe Ihrer persnlichen Daten dient dem Zweck und ist insoweit erforderlich, als diese fr den Abschluss des Vertrages und die Abwicklung Ihrer Bestellung bentigt werden. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DS-GVO.
+(2) Sie haben die Mglichkeit ein Kundenkonto anzulegen. Zum Zwecke der Verwendung Ihrer personenbezogenen Daten fr weitere, nachfolgende Bestellungen, werden die von Ihnen angegebenen Daten widerruflich gespeichert und verarbeitet. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DS-GVO.
+(3) Aufgrund von Vorgaben des Handels- und Steuerrechts sind wir verpflichtet, Ihre Adress-, Zahlungs- und Bestelldaten fr die Dauer von zehn Jahren zu speichern. Ihre Daten werden daher auch wenn die Speicherung fr den geschlossenen Vertrag nicht mehr erforderlich ist, nicht vollstndig gelscht. Die Verarbeitung wird jedoch auf das Ma eingeschrnkt als eine Verarbeitung zur Einhaltung der gesetzlichen Verpflichtungen erforderlich ist. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. c DS-GVO.
+(4) Die Daten, die Sie im Zuge Ihrer Bestellung an uns bermittelt haben, werden wir ausschlielich zur Abwicklung Ihrer Bestellung verwenden.  Zur Abwicklung der Bestellung bedienen wir uns der nachstehend benannten externen Dienstleister: 
+(a) Fr die Lieferung der Ware ist eine Weitergabe Ihrer Adressdaten an unsere Paketdienstleister erforderlich. Diese sind verpflichtet, Ihre Daten vertraulich zu behandeln und ausschlielich zum Zwecke der Lieferung zu speichern und zu verwenden, sowie nach erfolgreicher Lieferung wieder zu lschen. Rechtsgrundlage fr die Weitergabe der Daten ist Art. 6 Abs. 1 lit. b DS-GVO.
+(b) Fr die Zahlungsabwicklung werden Ihre Zahlungsdaten an das beauftragte Kreditinstitut bzw. den jeweils ausgewhlten Zahlungsdienstleister weitergegeben. Rechtsgrundlage fr die Weitergabe der Daten ist hierbei Art. 6 Abs. 1 S. 1 lit. b DS-GVO.
+Ihre Zahlungsdaten werden je nach dem von Ihnen ausgewhlten Zahlungsmittel an den entsprechenden Zahlungsdienstleister bermittelt. Die Verantwortung fr Ihre Zahlungsdaten trgt der Zahlungsdienstleister. Informationen insbesondere ber die verantwortliche Stelle der Zahlungsdienstleister und die Kategorien der personenbezogenen Daten, die von den Zahlungsdienstleistern verarbeitet werden, erhalten Sie unter den nachfolgend benannten Internetadressen:
+
+
+
+
+
+
+
+
+6. Nutzung der Garantiezeitverlngerungsoption
+Im Rahmen des  Bestellprozesses  haben Sie die Mglichkeit fr die von Ihnen bestellten Produkte die Garantiezeit zu verlngern. Diese Garantieverlngerung wird von unserem  Ko-operationspartner, der Firma simplesurance GmbH, Hallesches Ufer 60, D-10963 Berlin ("Schutz-klick")  angeboten.  Im Falle der Inanspruchnahme der optionalen Garantiezeitverlngerung werden die fr den Vertragsabschlusses mit "Schutzklick" erforderlichen personenbezogenen Daten aus dem Bestellprozess an Schutzklicke weitergegeben. Es handelt sich hierbei um Ih-re E-Mail-Adresse sowie weitere produktbezogene Informationen (wie Seriennummer des Pro-duktes).  Unter der nachstehenden Internetadresse erhalten Sie weitere Informationen ber die Datenschutzbestimmungen Nutzungsbedingungen von Schutzklick:   bzw. unter 
+
+7. Bei Kontaktaufnahme per E-Mail oder Kontaktformular
+(1) Im Zuge Ihrer Kontaktaufnahme per E-Mail oder ber das Kontaktformular auf unserer Internetprsenz werden personenbezogene Daten erhoben und von uns gespeichert. Welche personenbezogenen Daten im Fall der Kontaktaufnahme per Kontaktformular erhoben werden ergibt sich aus dem Kontaktformular. Im Zuge einer Kontaktaufnahme per E-Mail werden folgende personenbezogene Daten erhoben und von uns gespeichert: E-Mail-Adresse und E-Mailtext sowie weitere freiwillig angegebene Daten.
+(2) Die von Ihnen angegebenen Daten verarbeiten wir ausschlielich zur Bearbeitung Ihrer Kontaktanfrage. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DS-GVO bzw. unser berechtigtes Interesse an der Beantwortung Ihres Anliegens gem Art. 6 Abs. S. 1 lit. f DS-GVO.
+(3) Ist eine Speicherung nicht mehr erforderlich, werden wir smtliche in diesem Zusammen-hang erhobenen personenbezogenen Daten lschen. Sofern eine gesetzliche Aufbewahrungspflicht besteht wird die Verarbeitung auf diesen Zweck beschrnkt. Rechtsgrundlage ist Art. 6 Abs. 1 lit. c DS-GVO.
+
+8.  Bei Nutzung unsers "Callback-Service"
+(1) Bei Bestellung unseres Rckrufservices erklren Sie sich damit einverstanden, dass wir Ihre Telefonnummer fr eine Kontaktaufnahme verwendet wird.
+Erlaubnis zur Kontaktaufnahme
+Ich erklre mich damit einverstanden, dass meine Telefonnummer von uns zur Kontaktaufnahme verwendet werden darf. Diese Einwilligung zur Nutzung meiner Telefonnummer kann ich jederzeit fr die Zukunft widerrufen, indem ich z.B. eine E-Mail an  sende.
+Rechtsgrundlage fr die Nutzung Ihrer Telefonnummer fr den Rckrufservice ist Art. 6 Abs. 1 S. 1 lit. a DS-GVO.
+(2) Ist eine Speicherung nicht mehr erforderlich, werden wir smtliche in diesem Zusammenhang erhobenen personenbezogenen Daten lschen. Sofern eine gesetzliche Aufbewahrungspflicht besteht wird die Verarbeitung auf diesen Zweck beschrnkt. Rechtsgrundlage ist Art. 6 Abs. 1 lit. c DS-GVO.
+
+9.  Bei Nutzung unserer Kommentar-Funktion
+Im Rahmen unserer Kommentar-Funktion, knnen Sie ffentliche Kommentare abgeben. Ihr Kommentar wird mit Ihrem angegebenen Nutzernamen bei dem Beitrag verffentlicht. Wir empfehlen, ein Pseudonym statt Ihres Klarnamens zu verwenden. Die Angabe von Nutzernamen und E-Mail-Adresse ist erforderlich, alle weiteren Informationen sind freiwillig. Die Speicherung ist fr uns erforderlich, um uns in Fllen einer mglichen Verffentlichung widerrechtlicher Inhalte gegen Haftungsansprche verteidigen zu knnen. Ihre E-Mail-Adresse be-ntigen wir, um mit Ihnen in Kontakt zu treten, falls ein Dritter Ihren Kommentar als rechtswidrig beanstanden sollte. Rechtsgrundlagen sind Art. 6 Abs. 1 S. 1 lit. b und f DS-GVO. Die Kommentare werden vor Verffentlichung nicht geprft. Wir behalten uns vor, Kommentare zu lschen, wenn sie von Dritten als rechtswidrig beanstandet werden.
+
+10. Nutzung unseres Forums
+(1)Unser Forum kann gelesen werden, ohne dass eine Anmeldung erforderlich ist. Wenn Sie an dem Forum aktiv mitwirken mchten, mssen Sie sich mittels Angabe Ihrer E-Mail-Adresse, eines selbst gewhlten Passworts sowie Ihres frei whlbaren Benutzernamens registrieren. Es besteht kein Klarnamenszwang, eine pseudonyme Nutzung ist mglich. Wir verwenden fr die Registrierung das sog. Double-opt-in-Verfahren, d. h. Ihre Registrierung ist erst abgeschlossen, wenn Sie zuvor Ihre Anmeldung ber eine Ihnen zu diesem Zweck zugesandte Besttigungs-E-Mail durch Klick auf den darin enthaltenen Link besttigt haben. Falls Ihre diesbezgliche Besttigung nicht binnen 7 Tage erfolgt, wird Ihre Anmeldung automatisch aus unserer Datenbank gelscht.
+(2) Wenn Sie einen Foren-Account anmelden, speichern wir bis zu Ihrer Abmeldung neben Ihren Anmeldedaten alle Angaben, die Sie in dem Forum ttigen, also ffentliche Beitrge, Pinnwandeintrge, Freundschaften, private Nachrichten usw., um das Forum zu betreiben. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
+(3)Wenn Sie Ihren Account lschen, bleiben Ihre ffentlichen uerungen, insbesondere Beitrge zum Forum, weiterhin fr alle Leser sichtbar, Ihr Account ist jedoch nicht mehr abrufbar und im Forum mit "[Gast]" gekennzeichnet.
+
+11. Bewerbungsmanagement: Datenerhebung und Zwecke der Datenerfassung
+(1) Die Einreichung Ihrer Bewerbungsunterlagen kann durch Verwendung unseres Online-Formulars oder per Post, durch persnliche bergabe und E-Mail erfolgen.
+(2) Im Zuge der bermittlung der Bewerbungsunterlagen werden personenbezogene Daten von uns verarbeitet.
+Welche personenbezogenen Daten im Falle der Nutzung unseres Online-Formulars verarbeitet werden, ist aus den jeweiligen Eingabemasken ersichtlich, wobei die notwendigen Pflichtangaben jeweils besonders gekennzeichnet sind. Alle weiteren Angaben sind freiwillig.
+Im Zuge bersendung Ihrer Unterlagen per E-Mail werden folgende personenbezogene Daten von uns verarbeitet: E-Mail-Adresse bzw. und E-Mailtext sowie weitere freiwillig angegebene Daten.
+Im Zuge der bersendung Ihrer Unterlagen per Post oder im Falle der persnlichen bergabe werden die personenbezogenen Daten erhoben, die Sie uns freiwillig bermitteln.
+(3) Die Angabe Ihrer persnlichen Daten dient dem Zweck und ist insoweit erforderlich, als diese fr die Durchfhrung des Bewerbungsverfahren sowie einen etwaigen Abschluss eines Beschftigungsvertrages bentigt werden. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DS-GVO.
+Fr den Fall, dass wir mit Ihnen nach Abschluss des Bewerbungsverfahrens einen Beschftigungsvertrag abschlieen, werden die im Bewerbungsverfahren erhobenen personenbezogenen Daten Bestandteil Ihrer Personalakte und werden zur Durchfhrung und Beendigung des Beschftigungsverhltnisses verwendet. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DS-GVO.
+(4) Auf Ihre personenbezogenen Daten hat grundstzlich allein die Geschftsleitung sowie unsere Personalabteilung Zugriff.
+(5) Im Rahmen des Bewerbungsverfahrens bedienen wir uns zudem der nachstehend benannten externen Dienstleister:
+Erfolgt eine Kommunikation auf dem Postwege ist eine Weitergabe Ihrer Adressdaten an unsere Postdienstleister erforderlich. Diese sind verpflichtet, Ihre Daten vertraulich zu behandeln und ausschlielich zum Zwecke der Lieferung zu speichern und zu verwenden, sowie nach erfolgreicher Lieferung wieder zu lschen. Rechtsgrundlage fr die Weitergabe der Daten ist Art. 6 Abs. 1 lit. b DS-GVO.
+(6) Wir nutzen keine automatisierten Verarbeitungsprozesse zur Herbeifhrung einer Entscheidung  einschlielich Profiling.
+
+
+12.  Weitere Funktionen und Angebote unserer Website
+Weiterhin knnen wir Ihre personenbezogenen Daten erheben, wenn Aktionsteilnahmen, Gewinnspiele, oder hnliche Leistungen von uns angeboten werden. Nhere Informationen hierzu erhalten Sie bei Angabe Ihrer personenbezogenen Daten.
+
+13.  Cookies
+(1) Diese Internetprsenz verwendet Cookies. Cookies sind kleine Textdateien, die Ihr Internet-Browser auf Ihrem Endgert (PC, Laptop, Tablet, Smartphone, etc.) speichert.Insoweit Cookies eingesetzt werden, welche zum Betrieb der Website notwendig sind, ist Rechtsgrundlage entweder unser berechtigtes Interesse an dem Betrieb der Website gem Art. 6 Abs. 1 S. 1 lit. f DS-GVO oder, sofern die Cookies eingesetzt werden, um den Abschluss oder die Durchfhrungen des Vertrages zu bezwecken, ist Rechtsgrundlage Art. 6 Abs. 1 S.1 lit. b DS-GVO.Werden die Cookies eingesetzt um unsere berechtigten Interessen an der angenehmen und komfortablen Funktionalitt sowie Analyse und Verbesserung unserer Internetprsenz zu gewhrleiten und nicht fr den Betrieb der Webseite oder der Durchfhrung des Vertrages notwendig sind, ist Rechtsgrundlage Art. 6 Abs. 1 S. 1 lit. f DS-GVO.Soweit Cookies Tracking-Mechanismen enthalten, ist Rechtsgrundlage Ihre Einwilligung gem Art. 6 Abs. 1 S. 1 lit. a DS-GVO. Diese knnen Sie jederzeit unter  fr die Zukunft erteilen und widerrufen.
+(2) Welche Cookies zum Einsatz kommen, knnen Sie unter  finden. Die grundlegendste Stufe von Cookies ist erforderlich, um eine funktionierende Website zu haben, so dass diese Cookies nicht deaktiviert werden knnen.
+
+
+
+
+
+
+
+Mit dem Setzen eines Hckchens erklren Sie Ihr Einverstndnis zum Einsatz des entsprechenden Cookies. Weitere Einzellheiten zu den jeweiligen Tools finden Sie unten!Ihre Einwilligung knnen Sie jederzeit durch entsprechendes Entfernen Ihres Hkchens fr die Zukunft widerrufen.
+(3) Sie knnen das Speichern von Cookies auch in Ihren Browsereinstellungen jederzeit ndern, z.B. die Annahme von Cookies insgesamt, von Third-Party-Cookies (Cookies, die durch einen Dritten gesetzt werden, also nicht durch die eigentliche Internetprsenz, auf der man sich gerade befindet) oder von einzelnen Cookies verweigern oder diese lschen.Wir weisen Sie jedoch darauf hin, dass in diesem Fall unsere Internetprsenz mglicherweise nicht mehr in vollem Umfang genutzt werden kann. Wir empfehlen Ihnen zur Sicherung Ihrer Privatsphre, die Cookies auf Ihrem Endgert und den Browserverlauf in regelmigen Abstnden zu lschen.
+(4) Gesetze Cookies werden unterschiedlich lange gespeichert. Die Speicherdauer eines jeden Cookies knnen Sie jederzeit unter  abrufen. 
+Es ist dabei grundstzlich zwischen zwei Arten von Cookies zu unterscheiden:
+
+
+
+
+
+14. Einbindung von YouTube Videos
+Wir haben YouTube-Videos in unser Online-Angebot eingebunden, die auf http://www.YouTube.com gespeichert sind und von unserer Internetprsenz aus direkt abspielbar sind. Anbieter ist "Youtube", ein Dienst, der zur Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland gehrt ("Google").
+Umfang
+Diese sind alle im "erweiterten Datenschutz-Modus" eingebunden, d. h., dass keine Daten ber Sie als Nutzer an YouTube bertragen werden, wenn Sie die Videos nicht abspielen. Erst wenn Sie die Videos abspielen, werden die im Folgenden Absatz genannten Daten bertragen. Auf diese Datenbertragung haben wir keinen Einfluss.
+Durch den Besuch auf der Internetprsenz erhlt Google die Information, dass Sie die entsprechende Unterseite unserer Internetprsenz aufgerufen haben. Zudem werden die oben unter dem Punkt "Beim Besuch unserer Internetprsenz" Ziff. 4 dieser Erklrung genannten Daten bermittelt. Dies erfolgt unabhngig davon, ob Google ein Nutzerkonto bereitstellt, ber das Sie eingeloggt sind, oder ob kein Nutzerkonto besteht.
+Wenn Sie mit Ihrem Google-Account eingeloggt sind, knnen Ihre Daten diesem direkt zugeordnet werden. Wenn Sie die Zuordnung mit Ihrem Google-Profil nicht wnschen, mssen Sie sich ausloggen. Es ist mglich, dass diese Daten an Vertragspartner von Google, an Dritte und Behrden weitergegeben werden.
+Weitere Informationen zum Umfang der Datenerhebung und ihrer Verarbeitung durch Google erhalten Sie unter .
+Zweck
+Der Einsatz dieses Dienstes dient dem Zwecke Ihnen Videos zu unseren Produkten und unserem Unternehmen anzeigen zu knnen.
+Darber hinaus wertet YouTube die durch den Einsatz des Dienstes erhaltenen Daten zum Zwecke der Werbung, Marktforschung und/oder bedarfsgerechten Gestaltung seiner Internetprsenz aus.
+Weitere Informationen zum Zweck der Datenerhebung und ihrer Verarbeitung durch Youtube erhalten Sie unter .
+Rechtsgrundlage
+Rechtsgrundlage fr die Verarbeitung Ihrer Daten ist Ihre Einwilligung gem Art. 6 Abs. 1 S. 1 lit. a DS-GVO. Dies bedeutet, dass dieses Tool erst nach entsprechender Einwilligung durch Sie zum Einsatz kommt. 
+Einwilligung / Widerruf
+Sie knnen Ihre Einwilligung gegenber Google erteilen, indem Sie das jeweilige Video abspielen.
+Sie haben das Recht, ihre Einwilligung jederzeit zu widerrufen. Durch den Widerruf der Einwilligung wird die Rechtmigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht berhrt.
+Ihre gegenber Youtube erteilte Einwilligung knnen Sie  widerrufen.
+
+15. Matomo (ehemals Piwik)
+Diese Internetprsenz verwendet das Open Source Analyse-Tool Matomo. 
+Umfang
+Diese Webseite verwendet Matomo. Dieses Tool bewirkt, dass die durch den Cookie erzeugten Nutzungsinformationen (einschlielich Ihrer gekrzten IP-Adresse) an unseren Server bertragen und zu Nutzungsanalysezwecken gespeichert werden. Ihre IP-Adresse wird bei diesem Vorgang umgehend anonymisiert, so dass Sie als Nutzer fr uns anonym bleiben. Die Informationen ber Ihre Benutzung dieser Internetprsenz werden nicht an Dritte weitergegeben.
+Weitere Informationen zum Umfang der Datenerhebung und ihrer Verarbeitung erhalten Sie unter .
+Zweck
+Der Einsatz dieses Tools dient dem Zweck, die Nutzung unserer Internetprsenz zu analysieren und regelmig zu verbessern. ber die gewonnenen Statistiken knnen wir unser Angebot verbessern und fr Sie als Nutzer interessanter ausgestalten sowie den Erfolg unserer Werbemanahmen messen und unsere Werbemanahmen optimieren.
+
+Rechtsgrundlage
+Rechtsgrundlage fr die Verarbeitung Ihrer Daten ist Ihre Einwilligung gem Art. 6 Abs. 1 S. 1 lit. a DS-GVO. Dies bedeutet, dass dieses Tool erst nach entsprechender Einwilligung durch Sie zum Einsatz kommt.
+
+Einwilligung / Widerruf
+Sie knnen Ihre Einwilligung unter  erteilen.
+Sie haben das Recht, ihre Einwilligung jederzeit zu widerrufen. Durch den Widerruf der Einwilligung wird die Rechtmigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht berhrt. 
+Ihre erteilte Einwilligung knnen Sie unter  widerrufen.
+
+16. Loadbee
+Diese Internetprsenz verwendet Loadbee um Informationen zu einzelnen Produkten anzubieten. Loadbee ist ein Dienst der loadbee GmbH, Nikolaus -Otto-Str, 13, 70771 Leinfelden-Echterdingen ("loadbee").
+Umfang
+Diese Webseite verwendet auf einigen Unterseiten Loadbee um Ihnen die Produktinformationen zu einzelnen Produkten anzuzeigen. Dabei wird eine Verbindung zu den Servern von loadbee hergestellt und Ihre IP-Adresse bermittelt. Weitere personenbezogene Daten werden von uns nicht an loadbee bermittelt.
+Ihre IP-Adresse wird bei diesem Vorgang umgehend nach Ausspielen der Information wieder gelscht, so dass Sie als Nutzer fr uns anonym bleiben. Die Informationen ber Ihre Benutzung dieser Internetprsenz werden nicht an Dritte weitergegeben.
+Zweck
+Der Einsatz dieses Tools dient dem Zweck Ihnen Informationen zu den einzelnen Produkten anzuzeigen.
+Rechtsgrundlage
+Rechtsgrundlage fr die Verarbeitung Ihrer Daten ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO, wobei sich die berechtigten Interessen aus dem oben benannten Zweck ergeben.
+
+17. Einsatz von Affiliate-Netzwerken
+(1) Wir nehmen an dem Affiliate-Netzwerk "AWIN Performance Advertising" teil, einem Dienst der AWIN AG, Eichhornstrae 3, 10785 Berlin (nachfolgend "AWIN"). Durch den Einsatz von AWIN werden unsere Angebote auf Webseiten Dritter angezeigt, die fr Sie von Interesse sein knnten. Klicken Sie eine dieser Angebote an und kommt es zu einem Vertrag zwischen Ihnen und uns, erhlt der Dritte hierfr eine Provision. 
+(2) Wir erheben und verarbeiten hierfr keine personenbezogenen Daten von Ihnen. 
+(3) AWIN setzt hierfr jedoch Cookies ein, mittels derer Ihnen einen eindeutige ID zuordnet wird. Diese Daten werden bei AWIN gespeichert. Kommt es sodann zu einem Vertragsschluss zwischen Ihnen und uns, wird ein Tracking-Code erstellt. Mit diesem ist es AWIN mglich, Ihre Bestellung der erstellen ID zuzuordnen.
+(4) Sie knnen die Speicherung der Cookies durch AWIN durch eine Anpassung Ihrer Browsereinstellungen, z.B. knnen Sie die Annahme von Cookies insgesamt, von Third-Party-Cookies (Cookies, die durch einen Dritten gesetzt werden, also nicht durch die eigentliche Internetprsenz, auf der man sich gerade befindet) oder von einzelnen Cookies verweigern oder diese lschen.
+(5) Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung sowie weitere Informationen zu Ihren diesbezglichen Rechten und Einstellungsmglichkeiten zum Schutze Ihrer Privatsphre erhalten Sie bei AWIN unter: .
+
+18. Speicherdauer von personenbezogenen Daten
+(1) Die Speicherdauer von personenbezogenen Daten richtet sich nach der jeweiligen gesetzlichen Aufbewahrungsfrist (z.B. handels- und steuerrechtliche Aufbewahrungsfristen). Wenn die gesetzlichen Aufbewahrungsfristen abgelaufen sind, lschen wir die jeweiligen personenbezogenen Daten, solange und soweit die personenbezogenen Daten nicht zur Vertragserfllung oder Vertragsanbahnung erforderlich sind oder wir kein berechtigtes Interesse mehr an der Speicherung besitzen.
+(2) Die personenbezogenen Bewerbungsunterlagen werden grundstzlich bis zu sechs Monate nach dem Versand der Absage gespeichert. Die Speicherung dient dem Zwecke der einer etwaigen Verteidigung von Rechtsansprchen, insbesondere wegen einer angeblichen Benachteiligung im Bewerbungsverfahren. Rechtsgrundlage ist Art. 6 Abs. 1 S.1 lit f DSGVO.
+Fr den Fall, dass wir mit Ihnen nach Abschluss des Bewerbungsverfahrens einen Beschftigungsvertrag abschlieen, richtet sich die Speicherdauer nach den fr die Personalakten geltenden Regelungen.
+
+19. Weitergabe von Daten im brigen
+Wir geben Ihre personenbezogenen Daten nur in den nachfolgend benannten Fllen an Dritte weiter: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

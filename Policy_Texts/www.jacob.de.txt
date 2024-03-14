@@ -1,0 +1,310 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Datenschutzerklärung
+
+                    Wir freuen uns über Ihren Besuch unserer Website und über Ihr Interesse an unserem Unternehmen und unseren Produkten. Hierbei achten wir Ihre Privatsphäre und gewährleisten den Schutz Ihrer personenbezogenen Daten, indem wir Ihre personenbezogenen Daten in Übereinstimmung mit dem Inhalt dieser Datenschutzbestimmungen sowie den anwendbaren Datenschutzgesetzen, verarbeiten.
+                
+
+                    Wir speichern und verarbeiten die im Zusammenhang mit der Geschäftsbeziehung anfallenden Kundendaten nach Maßgabe der DSGVO elektronisch, soweit dies für die Geschäftsbeziehung erforderlich ist. Hierzu gehört im Einzelfall auch eine Weitergabe an einen Rechtsanwalt oder entsprechenden Dienstleister zum Zweck des Inkasso.
+                
+I. Logfiles/ Browserinformationen
+
+                    Bei jedem Zugriff auf unsere Seite erheben wir folgende Informationen über Ihren Computer:
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Die IP-Adresse Ihres Computers wird dabei nur für die Zeit Ihrer Nutzung der Website gespeichert und im Anschluss daran unverzüglich gelöscht oder durch Kürzung anonymisiert. Die übrigen Daten werden für eine begrenzte Zeitdauer gespeichert. Wir verwenden diese Daten für den Betrieb unserer Website, insbesondere um Fehler der Website festzustellen und zu beseitigen, um die Auslastung der Website festzustellen und um Anpassungen oder Verbesserungen vorzunehmen (Rechtsgrundlage: Art. 6 Abs. 1 S. 1 lit. f DSGVO).
+                
+II. Cookies
+
+                    Cookies sind sehr kleine, von Internetseiten verwendete Textdateien, die Ihr Browser auf Ihrem Computer speichert und an uns oder gegebenenfalls auch einen Dritten bestimmte Informationen zufließen lassen kann.
+                
+
+                    Transiente Cookies werden automatisiert gelöscht, wenn Sie den Browser schließen. Dazu zählen insbesondere die Session-Cookies. Diese speichern eine sogenannte Session-ID, mit welcher sich verschiedene Anfragen Ihres Browsers der gemeinsamen Sitzung zuordnen lassen. Dadurch kann Ihr Rechner wiedererkannt werden, wenn Sie auf unsere Website zurückkehren. Die Session-Cookies werden gelöscht, wenn Sie sich ausloggen oder den Browser schließen.
+                
+
+                    Persistente Cookies werden automatisiert nach einer vorgegebenen Dauer gelöscht, die sich je nach Cookie unterscheiden kann. Eine Löschung geschieht im Gegensatz zu transienten Cookies nicht automatisch mit der Schließung des Browsers. Sie können die Cookies aber auch jederzeit in den Sicherheitseinstellungen Ihres Browsers löschen.
+                
+
+                    Cookies, welche unbedingt erforderlich sind, um einen vom Nutzer ausdrücklich gewünschten Dienst zur Verfügung zu stellen („notwendige Cookies“), verarbeiten wir im Rahmen unseres berechtigten Interesses zur Bereitstellung und dem Betrieb der Website auf Grundlage von Art. 6 Abs. 1 S. 1 lit. f DSGVO. Für Informationen zu den notwendigen Cookies klicken Sie auf den Cookie-Icon und unter der Kategorie „Erforderliche Cookies“ können Sie diese einsehen.
+                
+
+                    Daneben erfolgt eine Speicherung von bzw. ein Zugriff auf weitere Informationen auf Ihrem Endgerät, die nicht unbedingt erforderlich sind, um einen vom Nutzer ausdrücklich gewünschten Dienst zur Verfügung zu stellen. Die Speicherung bzw. der Zugriff erfolgen dabei nur, sofern Sie hierfür Ihre Einwilligung erteilen. Einzelheiten zu Art der Information, Zweck der Verarbeitung, Speicherdauer der Information sowie zu möglichen Empfängern der Daten erhalten Sie im weiteren Verlauf dieser Datenschutzerklärung.
+                
+
+                    Sie können Ihren Browser so einzustellen, dass dieser Cookies generell nicht akzeptiert oder nur bestimmte Cookies gespeichert oder nicht gespeichert werden. Sie können eine ggf. erteilte Einwilligung in die Verarbeitung von Daten mittels Cookies jederzeit widerrufen, indem Sie entsprechende Cookies unmittelbar über die Einstellungen Ihres Browsers löschen. Näheres hierzu erfahren Sie im Hilfesystem Ihres Browsers. Sofern Ihr Browser alle Cookies ablehnt besteht die Möglichkeit, dass nicht alle Funktionen dieser Website genutzt werden können. Daneben können Sie Ihre Cookie-Einstellungen jederzeit mit einem Klick auf den Cookie-Icon ändern.
+                
+III. SSL
+
+                    Die Abkürzung "SSL" bedeutet "Secure Socket Layer" und ist ein Verschlüsselungsverfahren, das im gesamten World Wide Web erfolgreich eingesetzt wird. Alle persönlichen Daten wie Kreditkartennummer, Bankleitzahl, Bankkontonummer, Name und Adresse werden während des Bestellvorgangs verschlüsselt übertragen und sind damit bei der Übertragung via Internet sicher. Diese Informationen können bei der Übertragung im Internet nicht von Unbefugten gelesen werden. Bitte achten Sie darauf, einen möglichst aktuellen Browser zu verwenden sowie die neusten Sicherheitsupdates bei Ihrem Betriebssystem einzuspielen, um die größtmögliche Sicherheit zu gewährleisten.
+                
+IV. Bestellungen, Kundenkonto
+
+                    Zur Durchführung einer Bestellung müssen Sie die mit einem Sternchen versehenen Daten eingeben. Diese Daten verarbeiten wir zum Zweck der Durchführung Ihrer Bestellung und zur hierfür erforderlichen Kommunikation mit Ihnen (Art. 6 Abs. 1 S. 1 lit. b DSGVO). Die Angabe weiterer Daten kann für die Bearbeitung Ihrer Bestellung hilfreich sein, ist aber nicht zwingend (freiwillige Angabe). Ferner haben Sie die Möglichkeit sich mit Ihrem Amazon-Konto anzumelden.
+                    Zur einfacheren Durchführung weiterer Bestellungen bieten wir Ihnen zudem die Möglichkeit der Anlage eines Benutzerkontos. In diesem Fall speichern wir diese Daten für Sie zum Zweck der einfacheren Durchführung zukünftiger weiterer Bestellungen. Hierfür ist ebenso die Angabe der mit einem Sternchen gekennzeichneten Felder erforderlich, während die Angabe weiterer Daten keine Voraussetzung zur Registrierung ist. Sie können Ihr Benutzerkonto jederzeit durch Zusendung eines E-Mails an uns unter den unter „Verantwortlicher“ genannten Kontaktdaten löschen lassen. Die Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 S. 1 lit. f DSGVO.
+                    Eine Weitergabe dieser Daten an Dritte oder andere Unternehmen findet grundsätzlich nur an Unternehmen statt, die an der Vertragsanbahnung, -durchführung oder -abwicklung beteiligt sind (Art. 6 Abs. 1 S. 1 lit. b DSGVO). Dies betrifft insbesondere Logistikunternehmen und Distributoren, welche die jeweilige Leistung erbringen bzw. an dieser beteiligt sind.
+                
+
+                    Daneben werden Daten je nach gewählter Zahlungsart Ihre Daten an Zahlungsdienstleister, z. B.
+                    
+
+
+
+
+
+                    übermittelt.
+                    Sofern Sie zusätzliche Versicherungen oder Garantien abschließen, werden Ihre Daten zudem an die Anbieter der jeweiligen Garantien (z. B. Trusted Shops GmbH, Colonius Carré, Subbelrather Straße 15c, 50823 Köln) übermittelt.
+                    Personenbezogene Daten, welche wir im Zusammenhang mit dem Kauf einer Ware oder Dienstleistung erheben, verarbeiten wir unter Berücksichtigung der Rechtslage auch für eigene Marketingzwecke, um Sie im Rahmen einer fortlaufenden Kundenbetreuung über unseren Service sowie interessante Angebote und Dienstleistungen informieren zu können.
+                
+
+                
+a. Produktbewertungen
+                    Sie können als registrierter Kunde mit einem Benutzerkonto Ihre Meinung zu einem Produkt abgeben, welche dann auf unserer Website angezeigt wird. Zur Abgabe der Bewertung müssen Sie sich mit Ihrem Benutzerkonto anmelden. Wir nutzen diese Daten ausschließlich zur Prüfung und Verifizierung Ihrer Bewertung. Bei der Darstellung der Produktbewertung werden an personenbezogenen Daten neben Ihrer Bewertung nur Ihre Initialen angezeigt. Andere personenbezogene Daten werden bei der Darstellung der Produktbewertung nicht veröffentlicht. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. a DSGVO.
+                
+
+b. Online-Reklamation
+                    Wir bieten Ihnen auf unserer Website die Möglichkeit Reklamationen komfortabel online zu melden. Hierfür ist entweder die Anmeldung an Ihrem Kundenkonto oder die Angabe Ihrer E-Mail-Adresse sowie die Angabe Ihrer Bestellnummer und Postleitzahl der Lieferadresse erforderlich. Die Verarbeitung Ihrer Daten ist hierbei zur Bearbeitung Ihrer Reklamation, d.h. zur Erfüllung unserer vertraglichen Pflichten, erforderlich (Art. 6 Abs. 1 S. 1 lit. b DSGVO). Eine Offenlegung Ihrer Daten an Dritte erfolgt grundsätzlich nicht, es sei denn dies ist zur Erfüllung vertraglicher oder gesetzlicher Pflichten im Rahmen der Reklamation erforderlich.
+                
+
+c. Bonitätsprüfung
+                    Zur Absicherung unserer Forderungen arbeiten wir in Fällen, in denen wir in Vorleistung treten, z. B. bei einem Kauf auf Rechnung, mit Dienstleistern zusammen, um das betriebswirtschaftliche Risiko zu senken. Dies umfasst unter Umständen die Anforderung von statistischen Werten zum Ausfallrisiko oder die Abtretung von Forderungen an Dritte. Hierzu übermitteln wir die entsprechend notwendigen personenbezogenen Daten an die entsprechenden Unternehmen und verwenden die erhaltenen Informationen für eine abgewogene Entscheidung über die Begründung, Durchführung oder Beendigung des Vertragsverhältnisses. Die Bonitätsauskunft kann Wahrscheinlichkeitswerte (Score-Werte) beinhalten, die auf Basis wissenschaftlich anerkannter mathematisch-statistischer Verfahren berechnet werden und in deren Berechnung unter anderem Anschriftendaten einfließen. Ihre schutzwürdigen Belange werden gemäß den gesetzlichen Bestimmungen berücksichtigt. Mögliche Datenempfänger sind unter anderem die Creditsafe Deutschland GmbH, Schreiberhauer Straße 30, 10317 Berlin, die Bürgel Wirtschaftsinformationen GmbH & Co. KG, Gasstraße 18, D-22761 Hamburg, die SCHUFA Holding AG, Kormoranweg 5, 65201 Wiesbaden, Coface, Isaac-Fulda-Allee 1, 55124 Mainz, Atradius Kreditversicherung, Niederlassung der Atradius Crédito y Caución S.A. de Seguros y Reaseguros, Spanien Opladener Straße 14, D-50679 Köln oder die JHC Service GmbH, Konrad-Adenauer-Ufer 39, 50668 Köln. Die Rechtsgrundlage der Datenverarbeitung ist Art. 6 Abs. 1 lit. f DSGVO
+                
+
+d. Rezensionen auf Bewertungsportalen
+                    Um unsere Leistungen zu verbessern und um auf Kritik reagieren zu können, setzen wir Dienste zum Zwecke des sogenannten Online Reputation Managements ein. Hierbei werden mittels Anwendung Rezensionen (Username, Bewertung in Sternen oder Punkten, Bewertung in Schriftform, etc.) zu unserem Unternehmen auf verschiedenen Plattformen (z. B. Geizahls.de, idealo.de, google.de, billiger.de, Trustpilot.de, Trustedshops.de und günstiger.de) automatisiert zusammengeführt. Hierdurch erhalten wir die Möglichkeit das Außenbild unseres Unternehmens leichter analysieren und bewerten zu können. Dies geschieht in unserem berechtigten Interesse geäußerter Kritik nachzugehen und entsprechende Angelegenheiten zu beheben. Rechtsgrundlage der Datenverarbeitung ist Art. 6 Abs. 1 S. 1 lit. f DSGVO.
+                
+V. Kontakt
+
+                    Sie können in Kontaktformularen oder in unserem Onlinechat Ihre personenbezogenen Daten auf unserer Website eingeben, um mit uns in Kontakt zu treten. In Kontaktformularen sind lediglich die Angabe unter der mit einem Sternchen versehenen Daten Pflichtangaben. Im Live-Chat ist die Angabe Ihres Namens und Ihrer E-Mail-Adresse erforderlich.
+                    Die Angabe weiterer Daten kann für die Bearbeitung Ihrer Anfrage hilfreich sein, ist aber nicht zwingend (freiwillige Angaben). Diese Daten werden mit Ihrer Einwilligung ausschließlich zum Zwecke der Bearbeitung Ihrer Nachricht genutzt und gespeichert (Art. 6 Abs. 1 S. 1 lit. a DSGVO). Eine Nutzung für andere Zwecke oder eine Weitergabe an Dritte erfolgt nicht, es sei denn, Sie stimmen dem ausdrücklich zu (Einwilligung).
+                
+VI. Newsletter
+
+a. Anmeldung zu unserem E-Mail-Newsletter
+                    Wenn Sie sich zu unserem kostenlosen E-Mail-Newsletter anmelden, übersenden wir Ihnen regelmäßig Informationen zu unseren Produkten und Angeboten.  Pflichtangabe für die Übersendung des Newsletters ist Ihre E-Mail-Adresse. Die Angabe weiterer evtl. Daten ist freiwillig und wird verwendet, um Sie persönlich ansprechen zu können. Die Anmeldung erfolgt mittels des Double-Opt-In-Verfahrens. Sie erhalten nach der Anmeldung eine E-Mail, in der Sie um die Bestätigung Ihrer Anmeldung gebeten werden. Wir haben die Evalanche (SC-Networks GmbH), Würmstraße 4, 82319 Starnberg im Rahmen eines Vertrags zur Auftragsverarbeitung gem. Art. 28 DSGVO mit dem Versand unseres Newsletters beauftragt. Hierbei werden Ihre Daten an Evalanche übermittelt, JACOB bleibt jedoch Verantwortlicher im Sinne der DSGVO. Die Rechtsgrundlage der Datenverarbeitung ist Art. 6 Abs. 1 S. lit. a DSGVO. Diese Daten dienen ausschließlich der Analyse von Newsletterkampagnen. Die Ergebnisse können genutzt werden, um künftige Newsletter besser an die Interessen der Newsletter-Abonnenten anzupassen. Ein Widerruf Ihrer Newsletter-Einwilligung für die Zukunft und damit die Beendigung des Newsletterabos ist Ihnen jederzeit möglich (Hinweis im Newsletter).
+                
+
+b. Versand des E-Mail-Newsletters an Bestandskunden
+                    Wenn Sie uns Ihre E-Mail-Adresse beim Kauf von Waren bzw. Dienstleistungen zur Verfügung gestellt haben, behalten wir uns vor, Ihnen regelmäßig Angebote zu ähnlichen Waren bzw. Dienstleistungen, wie den bereits gekauften, aus unserem Sortiment per E-Mail zuzusenden.  Hierfür müssen wir gemäß § 7 Abs. 3 UWG keine gesonderte Einwilligung von Ihnen einholen. Die Datenverarbeitung erfolgt insoweit allein auf Basis unseres berechtigten Interesses an personalisierter Direktwerbung gemäß Art. 6 Abs. 1 lit. f DSGVO. Sie können der Verarbeitung Ihrer personenbezogenen Daten zum Zwecke der Direktwerbung jederzeit widersprechen. Wir werden dann von einer weiteren Verarbeitung zu solchen Zwecken absehen.
+                
+VII. Kameleoon
+
+                    Zu Zwecken der Optimierung unserer Website sowie der Personalisierung der Inhalte unserer Website setzen wir die Dienste der Kameleoon GmbH, Beim Alten Ausbesserungswerk 4, 77654 Offenburg, ein. Kameleoon wird als Auftragsverarbeiter im Sinne des Art. 28 DSGVO tätig, sodass eine Verarbeitung der Daten durch den Dienstleister nur auf unsere Weisungen erfolgt. Im Rahmen des Einsatzes werden eine pseudonymisierte ID sowie Logfiles verarbeitet, die in auf Ihrem Endgerät gesetzten Cookies bzw. im Local Storage gespeichert werden, um zu analysieren, wie Besucher mit unserer Website interagieren, welche Landing-Pages aufgesucht werden, wie Bestell- und Anmeldeformulare genutzt werden, wie hoch die Conversion-Rate ist und wie hoch die Absprungrate ist. Ferner ist auf Grundlage von Nutzerverhalten, Kaufverhalten etc. eines Besuchers mit Hilfe der Wiedererkennung von Besuchern über die Cookies bzw. über den Local Storage eine Personalisierung von Inhalten anhand vorab definierter Zielgruppen möglich. Informationen zu den im Rahmen der Nutzung der Dienste von Kameleoon eingesetzten Cookies finden Sie in unserem Cookie-Banner (aufrufbar mit einem Klick auf den Cookie-Icon) unter der Kategorie „Statistik“. Die Verarbeitung erfolgt auf Grundlage Ihrer Einwilligung gem. Art. 6 Abs. 1 S. 1 lit. a DSGVO. Eine Erteilung der Einwilligung ist freiwillig und jederzeit mit Wirkung für die Zukunft widerrufbar, indem Sie Ihre Cookie-Einstellungen ändern. Weitere Informationen finden Sie unter: .
+                
+VIII. Google Analytics
+
+                    Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland („Google“). Google Analytics verwendet sog. „Cookies", Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Informationen zu den im Rahmen von Google Analytics eingesetzten Cookies finden Sie mit einem Klick auf den Cookie-Icon unter der Kategorie „Statistik“.
+                    Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
+                    Diese Website verwendet Google Analytics mit der Erweiterung „_anonymizeIp()“. Dadurch werden IP-Adressen gekürzt weiterverarbeitet, um eine direkte Personenbeziehbarkeit auszuschließen.
+                    Wir nutzen Google Analytics, um die Nutzung unserer Website analysieren und regelmäßig verbessern zu können. Über die gewonnenen Statistiken können wir unser Angebot verbessern und für Sie als Nutzer interessanter ausgestalten. Rechtsgrundlage für die Nutzung von Google Analytics ist Ihre Einwilligung nach Art. 6 Abs. 1 S. 1 lit. a DSGVO. Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen  und installieren.
+                    Weitere Informationen zur Datennutzung durch Google, Einstellungs- und Widerspruchsmöglichkeiten erfahren Sie auf den Webseiten von Google: https://support.google.com/analytics/answer/6004245?hl=de&ref_topic=2919631
+                
+IX. Online-Werbung und Profildatenerhebung durch die Kairion GmbH
+
+                    Zur Anzeige von Werbung auf Grundlage Ihrer Interessen nutzen wir die Dienste der Kairion GmbH, Mainzer Landstraße 61, 60329 Frankfurt am Main. Dabei werden mit Ihrer Einwilligung (Art. 6 Abs. 1 S. 1 lit. a DSGVO) durch die Analyse Ihres Surfverhaltens und angesehener Produkte mittels Cookies Informationen und Daten über das Surfverhalten der User verarbeitet. Hierdurch werden Ihnen unterschiedliche auf Ihre Interessen abgestimmte Anzeigen ausgespielt (sog. Frequency Cap). Kairion erhebt von Nutzern, die den Online-Shop nutzen, Bewegungsdaten, wie Produkt- oder Kategorieinteressen, jedoch keine Daten wie Namen, Adressen oder ähnliches. Rückschlüsse auf Ihre Identität sind für Kairion nicht möglich.
+                    Erfasst werden Informationen über Ihre Aktivitäten (z.B. Surfverhalten, besuchte Unterseiten der Internet-Angebote, geklickte Werbebanner, etc.). Da nicht völlig ausgeschlossen werden kann, dass die erhobenen Daten einen mittelbaren Personenbezug zulassen, werden sämtliche Nutzungsdaten unter Verwendung eines Pseudonyms gespeichert, sodass eine persönliche Identifikation ausgeschlossen ist. Die aus technischen Gründen übermittelte IP Adresse Ihres Rechners wird dabei gekürzt und nicht für die gesteuerte Einblendung von Werbung verwendet. Wenn Sie diese Datenerhebung deaktivieren möchten, können Sie unter den unten angegebenen Links dieser Datenerhebung widersprechen bzw. widerrufen: https://optout.kairion.de
+                    Informationen zu weiteren von Kairion eingesetzten Dienstleistern sowie zu Möglichkeiten des Widerspruchs finden Sie unter https://kairion.de/ad-partners/instore/
+                    Informationen zu den durch Kairion eingesetzten Cookies finden Sie mit einem Klick auf den Cookie-Icon unter der Kategorie „Marketing“.
+                
+X. Affiliate-Netzwerke/ Sales-Tracking
+
+                    Wir sind Teil mehrerer Affiliate-Netzwerke und nutzen die Technologien des Sales-Tracking. Hierbei ist das Ziel, das Verhalten von Nutzern in Bezug auf unsere Produkte zu analysieren, unseren Service zu verbessern und die Reichweite unserer Angebote zu erhöhen. Wenn von der Website eines Partners, z. B. über eine Werbeeinblendung, auf unseren Shop zugriffen wird, wird die referral-id übergeben und im Cookie „ref“ gespeichert. Dies geschieht, um Ihnen die Preise anbieten zu können, welche gelten, wenn Sie von einer Partner-Website auf unseren Shop zugreifen. Nach dem Kauf erfolgt das Tracking an den Partner. Eine Identifizierung der einzelnen Besucher der Website ist dabei nicht möglich. Hierbei erfahren die Partner des Netzwerks die Gesamtanzahl der Nutzer, die auf ihre Anzeige geklickt haben und zu einer mit einem Conversion-Tracking-Tag versehenen Seite weitergeleitet wurden. Rechtsgrundlage der Datenverarbeitung ist Art. 6 Abs. 1 S. 1 lit. f DSGVO. Nähere Informationen zum genannten Cookie finden Sie mit einem Klick auf den Cookie-Icon links im Bild.
+                    Folgende Partner erhalten dabei ggf. Zugriff auf die pseudonymisierten Daten:
+                    
+
+
+
+
+
+
+
+
+
+
+XI. Fanpages
+
+                    Um Kunden, Partner oder anderweitig Interessierten aktuelle Informationen bereitzustellen und mit ihnen in Kontakt zu treten, betreiben wir neben unserer eigenen Website sog. „Fanpages“ auf folgenden sozialen Netzwerken: Facebook, Twitter, LinkedIn, Instagram, XING
+                    Die Datenverarbeitung findet hierbei durch den Anbieter der Social-Media-Plattform statt. Eine Datenverarbeitung außerhalb der Europäischen Union ist dabei nicht auszuschließen. Der Anbieter der Plattform stellt uns ggf. aggregierte Nutzungsdaten zur Verfügung, Zugriff auf personenbezogene Daten haben wir allerdings nicht, sofern Sie die Fanpage lediglich besuchen.
+                    Rechtsgrundlage der Datenverarbeitung ist Art. 6 Abs. 1 lit. f DSGVO. Im Fall einer Einwilligung in Form eines Opt-Ins („Häkchen setzen“, „Button aktivieren“) oder einer sonstigen Form der Einholung der Einwilligung ist die Rechtsgrundlage Art. 6 Abs. 1 lit. a DSGVO. Eine Einwilligung kann jederzeit ohne Angabe von Gründen gegenüber demjenigen, gegenüber dem sie abgegeben wurde, mit Wirkung für die Zukunft widerrufen werden.
+                
+
+                    Da die Datenverarbeitung durch den Anbieter der Plattform geschieht, empfehlen wir Ihnen, für Ihre im Rahmen des Besuchs unserer Fanpage betreffenden Rechte auf Auskunft, Berichtigung, Löschung, Datenübertragbarkeit und Widerspruch, sich an den jeweiligen Anbieter der Plattform zu wenden. Selbstverständlich unterstützen wir Sie im Bedarfsfall bei der Ausübung Ihrer Rechte.
+                    Daneben werden unter Umständen Cookies auf Ihrem Endgerät gesetzt. Zwecke und Rechtsgrundlage für den Einsatz von Cookies finden Sie unter „Cookies“ in dieser Datenschutzerklärung bzw. auf den Datenschutzerklärungen des Anbieters der Plattform.
+                    Weitere Informationen finden Sie unter folgenden Links:
+                    
+
+
+
+
+
+
+XII. Widerruf von Einwilligungen und Widerspruch gegen eine Datenverarbeitung
+
+                    Sofern Sie uns gegenüber Einwilligungen abgegeben haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen. Ihre Einwilligung in das Setzen von Cookies können Sie jederzeit ändern, indem Sie Ihre Einstellungen mit einem Klick auf den Cookie-Icon ändern können.
+                    Soweit wir die Verarbeitung Ihrer personenbezogenen Daten auf die Interessenabwägung stützen, können Sie Widerspruch gegen die Verarbeitung einlegen. Dies ist der Fall, wenn die Verarbeitung insbesondere nicht zur Erfüllung eines Vertrags mit Ihnen erforderlich ist, was von uns jeweils bei der nachfolgenden Beschreibung der Funktionen dargestellt wird. Bei Ausübung eines solchen Widerspruchs bitten wir um Darlegung der Gründe, weshalb wir Ihre personenbezogenen Daten nicht wie von uns durchgeführt verarbeiten sollten. Im Falle Ihres begründeten Widerspruchs prüfen wir die Sachlage und werden entweder die Datenverarbeitung einstellen bzw. anpassen oder Ihnen unsere zwingenden schutzwürdigen Gründe aufzeigen, aufgrund derer wir die Verarbeitung fortführen.
+                    Sie können der Verarbeitung Ihrer personenbezogenen Daten für Zwecke der Werbung und Datenanalyse jederzeit widersprechen.
+                    Ihren Widerruf oder Widerspruch können Sie uns unter den Kontaktdaten unter „Verantwortlicher“ zusenden.
+                
+XIII. Ihre Rechte
+
+                    Sie haben gegenüber uns folgende Rechte hinsichtlich der Sie betreffenden personenbezogenen Daten:
+                    
+
+
+
+
+
+
+                    Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren.
+                
+
+                XIV. Verantwortlicher
+
+                    JACOB Elektronik GmbH, An der Rossweid 5, DE-76229 Karlsruhe, Tel: +49 (0)721 94176-0, Fax: +49 (0)721 94176-191, E-Mail: datenschutz@jacob.de
+                    Datenschutzbeauftragter: datenschutzanfragen@xdsb.de oder unter unserer Postadresse mit dem Zusatz „der Datenschutzbeauftragte“
+                
+
+
+
+
+
+
+
+            Haben Sie Fragen?
+            Wir helfen Ihnen gern weiter.
+
+
+
+
+Bestellfax
+0721 / 94176 - 191
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+idealo Bewertung
+
+
+
+
+
+
+
+4.20
+/ 5.00
+
+
+                        Stand: 01.03.2023
+                    
+
+
+
+
+Geizhals Bewertung
+
+
+
+
+
+
+
+4.50
+/ 5.00
+
+Stand: 01.03.2023
+
+
+
+
+Trusted Shops
+
+
+
+
+
+
+
+
+4.30
+/ 5.00
+
+Stand: 01.03.2023
+
+
+
+
+
+
+
+
+
+
