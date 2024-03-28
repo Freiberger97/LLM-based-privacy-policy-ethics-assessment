@@ -74,7 +74,3 @@ All outputs are contained in the file named "Ethics_Assessment_outputs.zip".
 The original policy texts of the 55 privacy policies we assessed are in the folder named "Policy_Texts"
 
 **The respective paper is currently under review.**
-
-**Contact:**
-
-If you have questions or remarks feel free to reach out: vincent.freiberger@uni-leipzig.de
