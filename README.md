@@ -1,5 +1,14 @@
 # LLM-based-privacy-policy-ethics-assessment
-We systematically prompt GPT 3.5 turbo to investigate the ethics of privacy policies. This repository contains the prompts we utilized to conduct 9240 experiments over 55 policies. 
+
+At this moment, we observe a strong increase in use cases and organizations using machine learning and artificial intelligence (AI), particularly large language models (LLMs) like OpenAI's GPT series. This has many advantages for organizations. However, it becomes increasingly important to evaluate ethical and fairness-related aspects of using personal information as data for model training or as input for automated processes. Therefore, privacy policies are an important resource. Privacy policies aim to make data collection, sharing, and usage transparent to users. However, privacy policies are also known to be long and complex. This has raised issues like failing to understand such policies or even consent fatigue, i.e., users just accepting all tracking of their data. Potentially abusive or unfair privacy practices may remain unnoticed. An independent, automated assessment of ethics in privacy policies could help in fairly balancing out existing information asymmetries.
+
+We explore using an LLM for an ethics assessment of data management practices documented in privacy policies.
+In particular, we develop and systematically evaluate a prompting template for ethics evaluation. By means of qualitative experiments with privacy policies from the Top-100 German web shops, we quantitatively investigate the robustness and quality of the LLM-based ethics assessment, and how varying roles, user interests, ethical frameworks, etc. in the LLM prompts affect the assessment. 
+To the best of our knowledge, we are the first to investigate how LLMs can be used for ethics assessments of data management practices. Our results show that LLM-based ethics assessment, yet still limited in its specificity and consistency, shows promise for the future. The identified criteria are consistent with those from related work. We find that varying the role assigned to the LLM has the largest effect on the LLM's ethics assessment.
+An ethics assessment could allow end users to make more informed decisions.
+The moral judgment of LLMs regarding online privacy is not just relevant to policy assessment, but could be used to investigate specifications, regulations, norms, or legal documents.
+
+This repository contains the prompts, outputs and privacy policies we utilized to conduct 9240 experiments over 55 policies. 
 
 **Prompts:**
 
