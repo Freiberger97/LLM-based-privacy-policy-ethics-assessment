@@ -17,7 +17,7 @@ All folders regarding prompts are structured in the following way:
     0.txt assigns Consequentialism as a baseline to argue. Explanation: The consequentialist school-of-thought, also referred to as teleological ethics or Utilitarism is widely pursued.
     1.txt assigns Deontology as a baseline to argue. Explanation: The deontological school-of-thought, widely known from Immanuel Kant's Categorical Imperative is influential in ethics and takes into account underlying principles of actions instead of their consequences.
     2.txt assigns Virtue ethics as a baseline to argue. Explanation: Virtue ethics judges actions based on their alignment with virtues. Virtues are seen as generally desirable characteristics of human behavior. It is seen as a major approach to ethics. This offers a distinct perspective for assessing ethics.
-    2.txt assigns no such established framework to argue with. Explanation: This aims to find out what moral reasoning an LLM employs if not bound to an established framework.
+    3.txt assigns no such established framework to argue with. Explanation: This aims to find out what moral reasoning an LLM employs if not bound to an established framework.
 
 "1" contains all prompt variations assigning roles to the LLM from which it should pursue the assessment:
 
