@@ -6,11 +6,8 @@ We systematically prompt GPT 3.5 turbo to investigate the ethics of privacy poli
 The folder "prompts" structures our prompt variations as follows:
 
 "prompts" contains the original German prompts.
-
 "prompts_en" contains the English translations of the prompts.
-
 "prompts_para" contains the paraphrased German prompts
-
 It also contains the user prompt template in English and German.
 
 All folders regarding prompts are structured in the following way: 
