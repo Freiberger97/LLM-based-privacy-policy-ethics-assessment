@@ -44,15 +44,15 @@ All folders regarding prompts are structured in the following way:
 
 "4" contains all prompt variations regarding the user interests the model should consider:
 
-    0.txt assumes users to be mainly interested in . Explanation: 
-    1.txt assumes users to be mainly interested in . Explanation: 
-    2.txt assumes users to be mainly interested in . Explanation: 
-    3.txt assumes users to be mainly interested in . Explanation: 
-    4.txt assumes users to be mainly interested in . Explanation: 
-    5.txt assumes users to be mainly interested in . Explanation: 
-    6.txt assumes users to be mainly interested in . Explanation: 
-    7.txt assumes users to be mainly interested in . Explanation: 
-    8.txt assumes users to be mainly interested in . Explanation: 
+    0.txt assumes users to be mainly interested in the trustworthiness of the privacy standards established in the privacy policy. Explanation: Different users may have quite different interests. Trustworthiness provides an umbrella term that captures a few different aspects that are perceived as relevant and it is deeply embedded in ethics.
+    1.txt assumes users to be mainly interested in the fairness of the privacy standards established in the privacy policy. Explanation: Fairness is a concept which is deeply related to ethics and should be considered in an assessment as it is relevant, particularly to marginalized user groups.
+    2.txt assumes users to be mainly interested in the morality of the privacy standards established in the privacy policy. Explanation: We wanted to include a broader framing of user interests with morality to gain insight into what an LLM focuses on given such a broad concept.
+    3.txt assumes users to be mainly interested in minimizing risks exposure from the privacy standards established in the privacy policy. Explanation: Risk and vulnerabilities are a focus of the fair balancing aimed at by the GDPR. It captures a baseline to argue on when assessing ethics and is certainly relevant to users.
+    4.txt assumes users to be mainly interested in the general societal good and how that is captured in the privacy standards established in the privacy policy. Explanation: This variation tries to represent an altruistic perspective some users may have. It is more holistic and optimizes for society instead of the individual.
+    5.txt assumes users to be mainly interested in accountability mechanisms established in the privacy policy. Explanation: Accountability mechanisms are important to users as they ensure the integrity and compliance with privacy standards established in a policy. It offers a relevant perspective when assessing ethics.
+    6.txt assumes users to be mainly interested in ethical data use. Explanation: We include a broader framing of user interests with data ethics to gain insight into what an LLM focuses on given such a broad concept.
+    7.txt assumes unknown user interests. Explanation: We want to find out what the LLM bases its assessment on if no user interests are known. This gives insight into the representations present in the model.
+    8.txt assumes the interests of an average user. Explanation: We want to find out what the LLM identifies as average user interests and what it deems relevant for ethics assessment based on that. This gives insight into the representations present in the model.
 
 "baseline.txt" contains the baseline prompt without variations.
 
