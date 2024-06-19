@@ -73,4 +73,4 @@ All outputs are contained in the file named "Ethics_Assessment_outputs.zip".
 
 The original policy texts of the 55 privacy policies we assessed are in the folder named "Policy_Texts"
 
-**The respective paper is currently under review.**
+**The respective paper is accepted for the Third European Workshop on Algorithmic Fairness (EWAF'24)**
